@@ -22,7 +22,7 @@ def extract(i, career_href, letter):
     wb = xlwt.workbook()
     ws = wb.add_sheet(i)
     '''
-    wb = open('cv-'+str(letter)+'.csv', 'a', newline="\n")
+    wb = open('cv-'+str(letter)+'.csv', mode='a', encoding='utf-8', newline="\n")
     headers = {
         'User-Agent': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"}
 
@@ -44,6 +44,7 @@ def extract(i, career_href, letter):
     
             all_td = td.find_all('td') # all <td>s in <tr>
             year = all_td[0].get_text().split(',')[0] # Year
+            year = year.replace('—', '-')
             #print(all_td)
             title = all_td[1].get_text().split(',')[0] # Title
             
@@ -62,12 +63,17 @@ def extract(i, career_href, letter):
                     #print(info)
                     #print(index)
                     result = cur_name + ',' + year + ',' + info + '\n'
+                    #print(result.encode('utf-8'))
                     # wb.write(r+index, 0, cur_name)
                     # ws.write(r+index, 1, year)
                     # ws.write(r+index, 2, info)
                     #doc = csv.writer(wb)
                     #doc.writerow(result)
+                    # result = result.encode('utf-8')
+                    # print(result)
+                    # wb.write(result.encode('utf-8'))
                     wb.write(result)
+                    # wb.flush()
                     index += 1
     except:
         pass
