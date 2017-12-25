@@ -22,7 +22,7 @@ def extract(i, career_href, letter):
     wb = xlwt.workbook()
     ws = wb.add_sheet(i)
     '''
-    wb = open('cv-'+str(letter)+'.csv', mode='a', encoding='utf-8', newline="\n")
+    wb = open('cv-'+str(letter)+'.txt', mode='a', encoding='utf-8', newline="\n")
     headers = {
         'User-Agent': "Mozilla/5.0  (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"}
 
@@ -39,6 +39,7 @@ def extract(i, career_href, letter):
     cur_name = all_tr[num_tr-1].get_text() # name without url
     cur_name = cur_name.replace('\n','')
     index = 0
+    delimiter = ' --- '
     try:
         for td in all_tr[0:num_tr-5]:
             # print(td)
@@ -56,30 +57,38 @@ def extract(i, career_href, letter):
             # print(all_td[1].get_text() + '\n')
             a_list = all_td[1].find_all('a')
 
-            experience = {}
-            location = {}
+            experience = []
+            locations = []
             for a in a_list:
-                if a['class'] == 'link11b':
-                    location[a['href'].split('/')[-1]] = a.text
+                if a['class'][0] == 'link11b':
+                    tmp_location = [a['href'].split('/')[-1], a.text]
+                    if tmp_location:
+                        locations.append(tmp_location)
+                    # location[a['href'].split('/')[-1]] = a.text
                 else:
-                    experience[a['href'].split('/')[-1]] = a.text
+                    tmp_experience = [a['href'].split('/')[-1], a.text]
+                    if tmp_experience:
+                        experience.append(tmp_experience)
+                    # experience[a['href'].split('/')[-1]] = a.text
 
-            result = cur_name + ',' + year + ','
+            result = cur_name + delimiter + year + delimiter
 
             prev_key = '$'
             prev_val = ''
-            for key, val in experience.items():
-                if str(key).find(prev_key) >= 0:
-                    result += str(key) + ':' + prev_val + '-' + val + ','
+            for item in experience:
+                if item[0].find(prev_key) >= 0:
+                    result += item[0] + ':' + prev_val + '-' + item[1] + delimiter
                 else:
-                    result += str(key) + ':' + val + ','
-                prev_key = str(key)
-                prev_val = val
-            if location:
-                for key, val in location.items():
-                    result += str(key) + ':' + val
+                    result += item[0] + ':' + item[1] + delimiter
+                prev_key = item[0]
+                prev_val = item[1] 
+            if locations:
+                for location in locations:
+                    result += location[0] + ':' + location[1] 
             else:
-                result = result[:-1]
+                result = result[:-len(delimiter)]
+                # pass
+                
             result += '\n'
 
             wb.write(result)
