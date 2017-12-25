@@ -1,0 +1,2585 @@
+location, 9560.018063000000, Jiangsu Province, Jinhu
+location, 9350.103000000000, France, Nice
+location, 9560.005034000000, Gansu Province, Kangle
+location, 9430., Finland
+location, 9560.036006000000, Yunnan Province, Chuxiong City
+location, 9560.013024000000, Henan Province, Guangshan
+location, 9210.718000000000, USA, Rhode Island
+location, 9560.013085000000, Henan Province, Lushan County
+location, 9670.101000000000, New Zealand, Wellington
+location, 9210.651001000000, USA, New York, New York
+location, 9169.101000000000, Equatorial Guinea, Malabo
+location, 9560.011006009000, Hebei Province, Qinhuangdao City, Shanhaiguan District
+location, 9560.028061000000, Shandong Province, Gaotang County
+location, 9560.001061000000, Anhui Province, Bengbu City
+location, 9560.016004000000, Hunan Province, Hengyang City
+location, 9760.115000000000, Russia, Yaroslavl
+location, 9560.022032000000, Jilin Province, Tonghua City
+location, 9760.107000000000, Russia, Novosibirsk
+location, 9560.027027000000, Shaanxi Province, Danfeng
+location, 9560.036017000000, Yunnan Province, Xiangyun
+location, 9021.101000000000, Antarctica, King George Island
+location, 9560.036007000000, Yunnan Province, Yongsheng County
+location, 9560.017025000000, Inner Mongolia Autonomous Region, Urad Front Banner
+location, 9210.201000000000, USA, California
+location, 9560.028134000000, Shandong Province, Jiaxiang County
+location, 9620.103000000000, Morocco, Casablanca
+location, 9410.114000000000, Japan, Yokohama
+location, 9060.103000000000, Colombia, Bogota
+location, 9164.102000000000, Chad, N'Djamena
+location, 9560.005006000000, Gansu Province, Pingliang City
+location, 9560.033014000000, Tianjin, Beichen District
+location, 9560.001004000000, Anhui Province, Bangbu
+location, 9660.105000000000, Malaysia, Putrajaya
+location, 9560.031056000000, Sichuan Province, Youyang
+location, 9370.122000000000, Germany, Aachen
+location, 9560.036025000000, Yunnan Province, Jinghong County
+location, 9560.037041000000, Zhejiang Province, Zhenhai County
+location, 9210.611000000000, USA, New Jersey
+location, 9560.003018000000, Chongqing Municipality, Shizhu County
+location, 9580., Portugal
+location, 9560.023012000000, Liaoning Province, Kangping County
+location, 9560.008017000000, Guizhou Province, Yanhe County
+location, 9560.007037000000, Guangxi Zhuang Autonomous Region, Fangcheng Harbor Region
+location, 9560.016009000000, Hunan Province, Anhua County
+location, 9647., Nicaragua
+location, 9860.116000000000, Republic of Korea (South Korea), Yeosu
+location, 9560.026015000000, Shanxi Province, Pinglu County
+location, 9410.101000000000, Japan, Tokyo
+location, 9560.028043000000, Shandong Province, Anqiu City
+location, 9560.015071000000, Hubei Province, Songzi
+location, 9590., Norway
+location, 9560.017029000000, Inner Mongolia Autonomous Region, Ke Right Front Banner
+location, 9560.034018000000, Tibet Autonomous Region, Nyemo County
+location, 9560.025018000000, Qinghai Province, Yushu
+location, 9560.016046000000, Hunan Province, Ruanling
+location, 9290.103000000000, Cambodia, Siemreab
+location, 9560.018082000000, Jiangsu Province, Xinghua City
+location, 9560.007056000000, Guangxi Zhuang Autonomous Region, Hezhou Prefecture
+location, 9210.662001000000, USA, North Carolina, Chapel Hill
+location, 9042., Cameroon
+location, 9560.016052000000, Hunan Province, Shaoyang City
+location, 9560.001062000000, Anhui Province, Huoqiu County
+location, 9560.033013000000, Tianjin, Jixian County
+location, 9440.103000000000, Ireland, Belfast
+location, 9560.021009000000, Jiangxi Province, Xingguo County
+location, 9560.033012000000, Tianjin, Jinnan District
+location, 9560.005025000000, Gansu Province, Yongchang County
+location, 9560.026056000000, Shanxi Province, Penglu County
+location, 9560.028057000000, Shandong Province, Yunchen
+location, 9119.101000000000, Burundi, Bujumbura
+location, 9560.037067000000, Zhejiang Province, Wenling County
+location, 9560.017024000000, Inner Mongolia Autonomous Region, Linhe City
+location, 9560.005028000000, Gansu Province, Jiayuguan City
+location, 9560.031026000000, Sichuan Province, Ya'an Prefecture
+location, 9560.011028000000, Hebei Province, Gu'an County
+location, 9750., Spain
+location, 9560.016032000000, Hunan Province, Taoyuan
+location, 9210.504002000000, USA, Minnesota, St. Paul
+location, 9560.022013000000, Jilin Province, Shulan County
+location, 9560.012065000000, Heilongjiang Province, Suihua City
+location, 9560.033003000000, Tianjin, Hebei District
+location, 9560.013086000000, Henan Province, Lingying County
+location, 9860.006000000000, Republic of Korea, Gwangju
+location, 9560.037035000000, Zhejiang Province, Sanmen
+location, 9210.495001000000, USA, Ohio, Columbus
+location, 9560.031064009000, Sichuan Province, Liangshan Autonomous Prefecture, Xide County
+location, 9560.037007000000, Zhejiang Province, Taizhou Prefecture
+location, 9560.013036000000, Henan Province, Jiyuan City
+location, 9560.029012000000, Shanghai, Pudong New District
+location, 9560.007036000000, Guangxi Zhuang Autonomous Region, Nanning Prefecture
+location, 9560.013057000000, Henan Province, Yu County
+location, 9560.018049000000, Jiangsu Province, Taicang County
+location, 9560.031071000000, Sichuan Province, Ganzi Tibetan Prefecture
+location, 9560.012022000000, Heilongjiang Province, Hejiang Prefecture
+location, 9560.037015000000, Zhejiang Province, Haiyan
+location, 9960.102000000000, South Africa, Cape Town
+location, 9710.102000000000, Philippines, Cebu
+location, 9560.015087000000, Hubei Province, Jianli County
+location, 9760.105000000000, Russia, Irkutsk
+location, 9210.501001000000, USA, Massachusetts, Boston
+location, 9621., Monaco
+location, 9560.022101000000, Jilin Province, Jiaohe County
+location, 9560.013071000000, Henan Province, Pingyu
+location, 9560.015079000000, Hubei Province, Dayi County
+location, 9680.101000000000, Myanmar, Nay Pyi Taw
+location, 9390.104000000000, Indonesia, Bogor
+location, 9560.027061000000, Shaanxi Province, Dali County
+location, 9560.013058000000, Henan Province, Xinyang District
+location, 9560.021066000000, Jiangxi Province, Anfu County
+location, 9210.151000000000, USA, Alabama
+location, 9560.017068000000, Inner Mongolia Autonomous Region, Alxa Right Banner
+location, 9370.132000000000, Germany, Potsdam
+location, 9560.006046000000, Guangdong Province, Tanshan
+location, 9560.028075000000, Shandong Province, Mengyin County
+location, 9560.018046000000, Jiangsu Province, Huaiyin City
+location, 9560.028014000000, Shandong Province, Rongcheng City
+location, 9560.007011000000, Guangxi Zhuang Autonomous Region, Gongcheng
+location, 9560.008012000000, Guizhou Province, Yingjiang
+location, 9180., Ethiopia
+location, 9199.101000000000, Georgia, Tbilisi
+location, 9560.017006000000, Inner Mongolia Autonomous Region, Tongliao City
+location, 9560.001032000000, Anhui Province, Xiaoxian County
+location, 9610., Iceland
+location, 9560.009001000000, Hainan Province, Haikou City
+location, 9600.103000000000, Vietnam, Hue
+location, 9560.006072000000, Guangdong Province, Raoping County
+location, 9560.007001000000, Guangxi Zhuang Autonomous Region, Nanning City
+location, 9560.013072000000, Henan Province, Luohe City
+location, 9560.011021000000, Hebei Province, Zhangjiakou City
+location, 9560.031101000000, Sichuan Province, Guang'an City
+location, 9560.016031000000, Hunan Province, Shaodong
+location, 9580.101000000000, Portugal, Lisbon
+location, 9210.503001000000, USA, Michigan, Dearborn
+location, 9370.127000000000, Germany, Stuttgart
+location, 9220., Bangladesh
+location, 9560.002021000000, Beijing, Tongzhou District
+location, 9560.012059000000, Heilongjiang Province, Muling City
+location, 9560.018006000000, Jiangsu Province, Yangzhou City
+location, 9560.005012000000, Gansu Province, Longnan
+location, 9270.101000000000, Australia, Sydney
+location, 9984.101000000000, Samoa, Apia
+location, 9560.012019000000, Heilongjiang Province, Wuchang City
+location, 9560.035008000000, Xinjiang Uygur Autonomous Region, Qira
+location, 9560.027024000000, Shaanxi Province, Yijun County
+location, 9364.101000000000, Guinea-Bissau, Bissau
+location, 9560.013052000000, Henan Province, Nanhe
+location, 9560.005031000000, Gansu Province, Qinan County
+location, 9560.015078000000, Hubei Province, Wufeng County
+location, 9210.221000000000, USA, Delaware
+location, 9560.002013000000, Beijing, Shunyi District
+location, 9560.003021000000, Chongqing Municipality, Dadukou County
+location, 9210.725001000000, USA, Tennessee, Nashville
+location, 9560.034002000000, Tibet Autonomous Region, Xigaze Prefecture
+location, 9211., Fiji
+location, 9560.001076000000, Anhui Province, Suxian Prefecture
+location, 9970.101000000000, Poland, Warsaw
+location, 9560.029028000000, Shanghai Municipality, Changning District
+location, 9560.013059000000, Henan Province, Xinyang Prefecture
+location, 9210.485006000000, USA, Indiana, Indianapolis
+location, 9560.011064000000, Hebei Province, Kuancheng County
+location, 9560.022095000000, Jilin Province, Huadian County
+location, 9560.006017000000, Guangdong Province, Qingyuan City
+location, 9560.011102000000, Hebei Province, Ren County
+location, 9380.109000000000, Italy, L'Aquila
+location, 9560.028023000000, Shandong Province, Longkou City
+location, 9560.029019000000, Shanghai, Zhabei Prefecture
+location, 9560.002008000000, Beijing Municipality, Fengtai District
+location, 9560.021035000000, Jiangxi Province, Shangrao County
+location, 9560.029025000000, Shanghai Municipality, Jing'an District
+location, 9560.022098000000, Jilin Province, Daan City
+location, 9560.031044000000, Sichuan Province, Renshou County
+location, 9760.109000000000, Russia, Volgograd
+location, 9370.123000000000, Germany, Leipzig
+location, 9560.008006000000, Guizhou Province, Anshun
+location, 9127.101000000000, Croatia, Zagreb
+location, 9500., Maldives
+location, 9560.005033000000, Gansu Province, Huining County
+location, 9560.029016000000, Shanghai, Jinshan District
+location, 9101., Bolivia
+location, 9560.035022000000, Xinjiang Uygur Autonomous Region, Atushi
+location, 9770.103000000000, Turkey, Antalya
+location, 9560.007048000000, Guangxi Zhuang Autonomous Region, Rong County
+location, 9560.016047000000, Hunan Province, Yiyang City
+location, 9560.021047000000, Jiangxi Province, Nancheng County
+location, 9560.031094000000, Sichuan Province, Yongchuan County
+location, 9560.015035000000, Hubei Province, Gong'an
+location, 9210.201013000000, USA, California, Monterey
+location, 9560.015054000000, Hubei Province, Zigui
+location, 9560.028017000000, Shandong Province, Penglai City
+location, 9560.011098000000, Hebei Province, Wangdu
+location, 9560.031116000000, Sichuan Province, Xindu County
+location, 9120.101000000000, Cook Islands, Rarotonga
+location, 9210.651031000000, USA, New York, Ithaca
+location, 9560.027012000000, Shaanxi Province, Wuqi County
+location, 9560.011092000000, Hebei Province, Luan County
+location, 9560.028049000000, Shandong Province, Chanchu
+location, 9560.037069000000, Zhejiang Province, Wuxing District
+location, 9560.017002000000, Inner Mongolia Autonomous Region, Baotou City
+location, 9210.721002000000, USA, South Carolina, Columbia
+location, 9560.011117000000, Hebei Province, Cixian County
+location, 9560.018025000000, Jiangsu Province, Danyang City
+location, 9560.034003000000, Tibet Autonomous Region, Qamdo Prefecture
+location, 9560.015041000000, Hubei Province, Xiangyang
+location, 9900., Tanzania
+location, 9560.015042000000, Hubei Province, Daye City
+location, 9560.028088000000, Shandong Province, Laiyang City
+location, 9560.035056000000, Xinjiang Uygur Autonomous Region, Tulufan Prefecture
+location, 9560.005007000000, Gansu Province, Jone County
+location, 9560.007034000000, Guangxi Zhuang Autonomous Region, Luzhai County
+location, 9560.028059000000, Shandong Province, Changle County
+location, 9420., India
+location, 9706.102000000000, Mauritius, Flic-en-Flac
+location, 9560.004003001000, Fujian Province, Xiamen City, Xinglin District
+location, 9560.028022000000, Shandong Province, Muping County
+location, 9560.001024000000, Anhui Province, Lujiang County
+location, 9560.024002000000, Ningxia Hui Autonomous Region, Shizuishan City
+location, 9560.026075000000, Shanxi Province, Qin County
+location, 9652., Mauritania
+location, 9560.026055000000, Shanxi Province, Xiaowen City
+location, 9560.031072000000, Sichuan Province, Kangding County
+location, 9560.011132000000, Hebei Province, Pingquan County
+location, 9883.102000000000, Tonga, Nukualofa
+location, 9560.037053000000, Zhejiang Province, Zhoushan City
+location, 9560.035047000000, Xinjiang Uygur Autonomous Region, Gongliu County
+location, 9560.011015000000, Hebei Province, Daming County
+location, 9560.027051000000, Shaanxi Province, Yangling District
+location, 9560.035044000000, Xinjiang Uygur Autonomous Region, Hami Prefecture
+location, 9560.008032000000, Guizhou Province, Qiannan Buyei and Miao Autonomous Prefecture
+location, 9560.028042000000, Shandong Province, Zhaoyuan City
+location, 9462.002000000000, Nigeria, Abuja
+location, 9560.027062000000, Shaanxi Province, Xunyang County
+location, 9560.006029000000, Guangdong Province, Wuchuan
+location, 9050., Chile
+location, 9560.011137000000, Hebei Province, Guantao County
+location, 9560.031035000000, Sichuan Province, Xinjin
+location, 9210.201012000000, USA, California, Davis
+location, 9560.018014000000, Jiangsu Province, Siyang County
+location, 9210.801000000000, USA, Wisconsin
+location, 9560.016055000000, Hunan Province, Hanshou County
+location, 9560.028083000000, Shandong Province, Ningyang
+location, 9790.106000000000, Switzerland, Lausanne
+location, 9560.022091000000, Jilin Province, Yanbian Korean Autonomous Prefecture
+location, 9560.015014000000, Hubei Province, Xianning City
+location, 9560.017056000000, Inner Mongolia Autonomous Region, Wuyuan County
+location, 9820., Scotland
+location, 9560.001054000000, Anhui Province, Liuan County
+location, 9560.027007000000, Shaanxi Province, Tongchuan City
+location, 9560.011041000000, Hebei Province, Luancheng
+location, 9470.202000000000, United Kingdom, Horsham
+location, 9210.672000000000, United States of America, Oklahoma
+location, 9560.013073000000, Henan Province, Suiping City
+location, 9370.129000000000, Germany, Karlsruhe
+location, 9560.011020000000, Hebei Province, Xincheng County
+location, 9560.023067000000, Liaoning Province, Zhuanghe City
+location, 9560.001009000000, Anhui Province, Feidong County
+location, 9560.031008000000, Sichuan Province, Zhongxian County
+location, 9889.101000000000, Venezuela, Caracas
+location, 9560.004017000000, Fujian Province, Changle City
+location, 9027.101000000000, Albania, Tirana
+location, 9560.037032000000, Zhejiang Province, Jiande
+location, 9560.008018000000, Guizhou Province, Kaili City
+location, 9560.031076000000, Sichuan Province, Pengxi County
+location, 9560.023013000000, Liaoning Province, Gaizhou City
+location, 9560.001025000000, Anhui Province, Chaohu City
+location, 9560.037013000000, Zhejiang Province, Dongyang City
+location, 9560.007004000000, Guangxi Zhuang Autonomous Region, Wuzhou City
+location, 9560.012018000000, Heilongjiang Province, Muling County
+location, 9560.028093000000, Shandong Province, Rizhuang
+location, 9560.035005000000, Xinjiang Uygur Autonomous Region, Karamai
+location, 9560.031058000000, Sichuan Province, Zhongjiang County
+location, 9370.133000000000, Germany, Ingolstadt
+location, 9760.108000000000, Russia, Sochi
+location, 9794.101000000000, Suriname, Paramaribo
+location, 9560.004001000000, Fujian Province, Fuzhou City
+location, 9560.011131000000, Hebei Province, Jinzhou City
+location, 9560.031079000000, Sichuan Province, Deyang County
+location, 9560.029022000000, Shanghai, Yangpu District
+location, 9860.111000000000, Republic of Korea, Jeju City
+location, 9560.025006000000, Qinghai Province, Haiyan
+location, 9859.009000000000, Qatar, Doha
+location, 9560.011016000000, Hebei Province, Dachang
+location, 9560.015013000000, Hubei Province, Wuchang District
+location, 9560.028034000000, Shandong Province, Licheng
+location, 9560.008033000000, Guizhou Province, Ceheng County
+location, 9560.016077000000, Hunan Province, Liuyang City
+location, 9560.015012000000, Hubei Province, Huangpi
+location, 9560.008026000000, Guizhou Province, Anlong County
+location, 9210.485007000000, USA, Indiana, Bloomington
+location, 9560.011067000000, Hebei Province, Qingxian County
+location, 9211.101000000000, Fiji, Suva
+location, 9560.023036000000, Liaoning Province, Haicheng City
+location, 9560.018021000000, Jiangsu Province, Changzhou City
+location, 9560.012045000000, Heilongjiang Province, Daxinganling County
+location, 9560.011103000000, Hebei Province, Lingshou County
+location, 9560.008013000000, Guizhou Province, Zhenfeng
+location, 9560.022099000000, Jilin Province, Jiaohe City
+location, 9560.015003000000, Hubei Province, Jingzhou City
+location, 9560.011035000000, Hebei Province, Dingxian County
+location, 9560.023079000000, Liaoning Province, Beining City
+location, 9560.023033000000, Liaoning Province, Jinxi City
+location, 9210.201004000000, USA, California, San Francisco
+location, 9560.001068000000, Anhui Province, Huangshan City
+location, 9560.027058000000, Shaanxi Province, Fengxiang County
+location, 9560.036011000000, Yunnan Province, Xiaguan City
+location, 9560.005014001000, Gansu Province, Linxia, Hui Autonomous Prefecture
+location, 9560.003012000000, Chongqing Municipality, Wanzhou District
+location, 9560.035021000000, Xinjiang Uygur Autonomous Region, Toksun
+location, 9560.005039000000, Gansu Province, Minqin County
+location, 9560.017071000000, Inner Mongolia Autonomous Region, Qa Right Front Banner
+location, 9970.103000000000, Poland, Gdansk
+location, 9560.031052000000, Sichuan Province, Nanchong County
+location, 9896., Trinidad and Tobago
+location, 9560.015039000000, Hubei Province, Zhijiang
+location, 9560.026012000000, Shanxi Province, Shuoxian County
+location, 9560.037045000000, Zhejiang Province, Yin County
+location, 9560.036033000000, Yunnan Province, Zhaotong Prefecture
+location, 9560.016056000000, Hunan Province, Jiangyong County
+location, 9560.023056000000, Liaoning Province, Jinxi County
+location, 9560.004022000000, Fujian Province, Longyan Prefecture
+location, 9560.016079000000, Hunan Province, Yizhang County
+location, 9760.104000000000, Russia, Khabarovsk
+location, 9210.171001000000, USA, Arizona, Phoenix
+location, 9560.004028000000, Fujian Province, Yongchun
+location, 9560.005026000000, Gansu Province, Wudu County
+location, 9560.015084000000, Hubei Province, Ning County
+location, 9560.002014000000, Beijing, Chongwen District
+location, 9190., Gabon
+location, 9350.106000000000, France, Annecy
+location, 9560.011025000000, Hebei Province, Chengde District
+location, 9600., Vietnam
+location, 9560.016076000000, Hunan Province, Chenzhou City
+location, 9560.015089000000, Hubei Province, Yicheng City
+location, 9670.102000000000, New Zealand, Auckland
+location, 9490.101000000000, Mali, Bamako City
+location, 9560.023035000000, Liaoning Province, Linghai City
+location, 9560.018029000000, Jiangsu Province, Jingjiang County
+location, 9560.002023000000, Beijing Municipality, Xuanwu District
+location, 9470.001000000000, United Kingdom, England
+location, 9560.016018000000, Hunan Province, Laiyang
+location, 9560.037031000000, Zhejiang Province, Huangyan
+location, 9560.026072000000, Shanxi Province, Jindongnan Prefecture
+location, 9560.016088000000, Hunan Province, Chen County
+location, 9398., Iraq
+location, 9560.001066000000, Anhui Province, Chaohu Prefecture
+location, 9560.016001000000, Hunan Province, Changsha City
+location, 9210., United States of America
+location, 9560.011119000000, Hebei Province, Shen County
+location, 9560.037063000000, Zhejiang Province, Changxing County
+location, 9210.151002000000, USA, Alabama, Tuscaloosa
+location, 9560.031018000000, Sichuan Province, Zhongxing District
+location, 9560.026007000000, Shanxi Province, Xinzhou Prefecture
+location, 9560.001069000000, Anhui Province, Shouxian County
+location, 9020.102000000000, Armenia, Yerevan
+location, 9560.035049000000, Xinjiang Uygur Autonomous Region, Bole County
+location, 9560.017013000000, Inner Mongolia Autonomous Region, Tumd Left Banner
+location, 9210.241009000000, USA, Florida, Palm Beach
+location, 9101.101000000000, Bolivia, La Paz
+location, 9788.101000000000, Slovenia, Ljubljana
+location, 9560.037077000000, Zhejiang Province, Shaoxing County
+location, 9560.017078000000, Inner Mongolia Autonomous Region, Ningcheng County
+location, 9560.017069000000, Inner Mongolia Autonomous Region, Alxa League
+location, 9560.037044000000, Zhejiang Province, Jin County
+location, 9560.012002000000, Heilongjiang Province, Daqing City
+location, 9560.011002000000, Hebei Province, Tangshan City
+location, 9560.033005000000, Tianjin, Tianjin City
+location, 9100., Benin
+location, 9560.006006000000, Guangdong Province, Shunde County
+location, 9560.016015001000, Hunan Province, Xiangxi, Tujia-Miao Autonomous Prefecture
+location, 9560.026022000000, Shanxi Province, Yuanping
+location, 9560.012026000000, Heilongjiang Province, Fuyu County
+location, 9560.027035000000, Shaanxi Province, Shangluo Prefecture
+location, 9560.015083000000, Hubei Province, Hanchuan City
+location, 9560.016084000000, Hunan Province, Lingling Prefecture
+location, 9560.012052000000, Heilongjiang Province, Lanxi County
+location, 9210.499003000000, USA, Maryland, Annapolis
+location, 9560.016003000000, Hunan Province, Changde City
+location, 9410.102000000000, Japan, Osaka
+location, 9894.101000000000, Turkmenistan, Ashgabat
+location, 9560.012057000000, Heilongjiang Province, Dorbod Mongolian Autonomous County
+location, 9560.005029000000, Gansu Province, Jiuquan Prefecture
+location, 9560.037068000000, Zhejiang Province, Jiaxing County
+location, 9560.037008000000, Zhejiang Province, Jiashan
+location, 9560.016082000000, Hunan Province, Suining County
+location, 9560.003019000000, Chongqing Municipality, Qianjiang County
+location, 9560.018048000000, Jiangsu Province, Rugao City
+location, 9560.017044000000, Inner Mongolia Autonomous Region, Central Aymak
+location, 9560.017004009000, Inner Mongolia Autonomous Region, Hohhot City, Huis District
+location, 9760.116101000000, Russia, Khabarovsk Krai, Khabarovsk
+location, 9210.727012000000, USA, Texas, College Station
+location, 9510., Mozambique
+location, 9560.027005000000, Shaanxi Province, Hanzhong City
+location, 9560.023043000000, Liaoning Province, Benxi City
+location, 9117., Brunei
+location, 9560.003016000000, Chongqing Municipality, Shapingba District
+location, 9560.021056000000, Jiangxi Province, Jishui County
+location, 9560.016089000000, Hunan Province, Xinhua County
+location, 9210.731002000000, USA, Washington, Redmond
+location, 9560.037038000000, Zhejiang Province, Sheng County
+location, 9560.013022000000, Henan Province, Wenxian County
+location, 9370.142000000000, Germany, Düsseldorf
+location, 9560.017094000000, Inner Mongolia Autonomous Region, Ulaanchab City
+location, 9844.001000000000, Timor-Leste, Dili
+location, 9623., Mongolia
+location, 9560.033009000000, Tianjin, Tanggu District
+location, 9560.031037000000, Sichuan Province, Xiaogan
+location, 9560.037016000000, Zhejiang Province, Jinhua County
+location, 9690.105000000000, Netherlands, The Hague
+location, 9560.037087000000, Zhejiang Province, Longyou County
+location, 9560.002017000000, Beijing, Xicheng District
+location, 9560.022009000000, Jilin Province, Longjing County
+location, 9560.016035000000, Hunan Province, Wanhui
+location, 9560.031064000000, Sichuan Province, Liangshan Autonomous Prefecture
+location, 9560.027028000000, Shaanxi Province, Mizhi
+location, 9410.107000000000, Japan, Sapporo
+location, 9560.011069000000, Hebei Province, Renqiu City
+location, 9560.012003000000, Heilongjiang Province, Suihua Prefecture
+location, 9910., Soviet Union
+location, 9560.007046000000, Guangxi Zhuang Autonomous Region, Qinxi
+location, 9560.018065000000, Jiangsu Province, Suqian City
+location, 9560.028141000000, Shandong Province, Zouping County
+location, 9560.018004000000, Jiangsu Province, Xuzhou City
+location, 9560.026021000000, Shanxi Province, Xingxian County
+location, 9470.122000000000, United Kingdom, Manchester
+location, 9450., Kazakhstan
+location, 9218., Bahamas
+location, 9210.609000000000, USA, New Mexico
+location, 9210.491009000000, USA, Kansas, Manhattan
+location, 9159., Ecuador
+location, 9560.002022000000, Beijing, Yingtaoyuan
+location, 9560.027049000000, Shaanxi Province, Longxian County
+location, 9560.016049000000, Hunan Province, Yiyang Prefecture
+location, 9560.006063000000, Guangdong Province, Meixian Prefecture
+location, 9560.022028000000, Jilin Province, Jiutai City
+location, 9560.001001000000, Anhui Province, Hefei City
+location, 9560.017072000000, Inner Mongolia Autonomous Region, Ulanqab League
+location, 9560.013063000000, Henan Province, Xinye County
+location, 9560.011053000000, Hebei Province, Wenan
+location, 9560.026013000000, Shanxi Province, Youyu County
+location, 9560.018011000000, Jiangsu Province, Haimen
+location, 9560.022025000000, Jilin Province, Gongzhuling City
+location, 9560.018012000000, Jiangsu Province, Rudong County
+location, 9040., Bulgaria
+location, 9560.008034000000, Guizhou Province, Wangmo County
+location, 9560.021039000000, Jiangxi Province, Pengze
+location, 9660.106000000000, Malaysia, Sepang
+location, 9560.017034000000, Inner Mongolia Autonomous Region, Duolun County
+location, 9560.021033000000, Jiangxi Province, Jing'an
+location, 9690., Netherlands
+location, 9560.006002000000, Guangdong Province, Shenzhen City
+location, 9980., Yemen
+location, 9350.107000000000, France, Lyon
+location, 9658., Malawi
+location, 9655.101000000000, Madagascar, Tananarive
+location, 9560.011016011000, Hebei Province, Dachang, Hui Autonomous County
+location, 9560.017008000000, Inner Mongolia Autonomous Region, Tumd Right Banner
+location, 9560.031064008000, Sichuan Province, Liangshan Autonomous Prefecture, Puge County
+location, 9560.007023000000, Guangxi Zhuang Autonomous Region, Wuming County
+location, 9560.015093000000, Hubei Province, Jingmeng City
+location, 9560.007022000000, Guangxi Zhuang Autonomous Region, Hechi Prefecture
+location, 9560.006069000000, Guangdong Province, Puning City
+location, 9560.017055000000, Inner Mongolia Autonomous Region, Ulan Bator
+location, 9560.011032000000, Hebei Province, Raoyang
+location, 9560.021052000000, Jiangxi Province, Zhangshu County
+location, 9560.028082000000, Shandong Province, Shanghe County
+location, 9560.022003000000, Jilin Province, Siping City
+location, 9560.022104000000, Jilin Province, Changling County
+location, 9560.011113000000, Hebei Province, Nanpi County
+location, 9560.018044000000, Jiangsu Province, Fuming
+location, 9560.009013000000, Hainan Province, Boao
+location, 9210.481002000000, USA, Illinois, Urbana-Champaign
+location, 9560.013005000000, Henan Province, Jiaozuo City
+location, 9560.017058000000, Inner Mongolia Autonomous Region, Linhe County
+location, 9560.006035000000, Guangdong Province, Meizhou
+location, 9560.018076000000, Jiangsu Province, Changzhou Prefecture
+location, 9210.481004000000, USA, Illinois, Evanston
+location, 9560.017079000000, Inner Mongolia Autonomous Region, Keerqinyouzhong Banner
+location, 9560.031111000000, Sichuan Province, Lushan County
+location, 9640.102000000000, Sudan, Juba
+location, 9524.101000000000, Panama, Panama City
+location, 9560.006054000000, Guangdong Province, Yangjiang City
+location, 9560.035011000000, Xinjiang Uygur Autonomous Region, Habahe (Kaba) County
+location, 9560.017075009000, Inner Mongolia Autonomous Region, Zhalantun City, Guan Men Mountain
+location, 9560.007007000000, Guangxi Zhuang Autonomous Region, Fangchenggang
+location, 9560.023051000000, Liaoning Province, Liaoning City
+location, 9560.006081000000, Guangdong Province, Taishan City
+location, 9560.012027000000, Heilongjiang Province, Keshan County
+location, 9560.001028000000, Anhui Province, Chuxian County
+location, 9560.006013000000, Guangdong Province, Chaozhou
+location, 9560.011046009000, Hebei Province, Gaoyang County, Daquanshan Village
+location, 9560.028073000000, Shandong Province, Boxing County
+location, 9560.037072000000, Zhejiang Province, Shengzhou City
+location, 9560.011024000000, Hebei Province, Chengde City
+location, 9560.026, Shanxi Province
+location, 9560.031088000000, Sichuan Province, Wenchuan County
+location, 9560.002026000000, Beijing, Dongcheng District
+location, 9560.035003000000, Xinjiang Uygur Autonomous Region, Changji
+location, 9560.028109000000, Shandong Province, Huang County
+location, 9560.011133000000, Hebei Province, Chengde County
+location, 9560.013098000000, Henan Province,  Xuchang City
+location, 9560.018043000000, Jiangsu Province, Tongzhou City
+location, 9560.006025000000, Guangdong Province, Haifeng
+location, 9560.031091000000, Sichuan Province, Yunyang County
+location, 9960.101000000000, South Africa, Johannesburg
+location, 9560.018042000000, Jiangsu Province, Taixing City
+location, 9560.015064000000, Hubei Province, Yingshan County
+location, 9560.037039000000, Zhejiang Province, Xinchang County
+location, 9560.028036000000, Shandong Province, Pingyuan County
+location, 9560.013021000000, Henan Province, Shaanxian County
+location, 9560.012001000000, Heilongjiang Province, Harbin City
+location, 9560.006036000000, Guangdong Province, Xinhui County
+location, 9560.013089000000, Henan Province, Xi County
+location, 9560.011045000000, Hebei Province, Ci Xian
+location, 9560.011127000000, Hebei Province, Cangxian County
+location, 9560.022008000000, Jilin Province, Yushu City
+location, 9560.028116000000, Shandong Province, Chengwu County
+location, 9560.018053000000, Jiangsu Province, Kunshan
+location, 9560.031032000000, Sichuan Province, Mianning
+location, 9560.005015000000, Gansu Province, Huating County
+location, 9560.022014000000, Jilin Province, Panshi City
+location, 9510.101000000000, Mozambique, Maputo
+location, 9420.102000000000, India, Mumbai
+location, 9560.013066000000, Henan Province, Huaxian
+location, 9560.023073000000, Liaoning Province, Changhai County
+location, 9560.013067000000, Henan Province, Hui County
+location, 9560.023017000000, Liaoning Province, Zhangwu
+location, 9350.001000000000, France, Paris
+location, 9560.017017009000, Inner Mongolia Autonomous Region, Ih Ju League, Uxin Banner
+location, 9560.031014000000, Sichuan Province, Anyue County
+location, 9560.035019000000, Xinjiang Uygur Autonomous Region, Huocheng
+location, 9560.018069000000, Jiangsu Province, Hsuchou City
+location, 9210.485000000000, USA, Indiana
+location, 9560.027021000000, Shaanxi Province, Yanchuan County
+location, 9380.111000000000, Italy, Sardinia
+location, 9560.006023000000, Guangdong Province, Heping County
+location, 9560.035009000000, Xinjiang Uygur Autonomous Region, Luntai
+location, 9560.028089000000, Shandong Province, Yanggu County
+location, 9710.101000000000, Philippines, Manila
+location, 9210.503002000000, USA, Michigan, Ann Arbor
+location, 9169.102000000000, Equatorial Guinea, Bata
+location, 9200., Barbados
+location, 9463.101000000000, Kuwait, Kuwait City
+location, 9560.011012000000, Hebei Province, Qianxi County
+location, 9560.028086000000, Shandong Province, Pingdu City
+location, 9560.011063000000, Hebei Province, Jiangxian County
+location, 9397.101000000000, Iran, Tehran
+location, 9760.106000000000, Russia, Vladivostok
+location, 9560.035002000000, Xinjiang Uygur Autonomous Region, Yili
+location, 9370.139000000000, Germany, Bonn
+location, 9560.011090000000, Hebei Province, Xingtai Prefecture
+location, 9475.102000000000, Libya, Surt
+location, 9560.013049000000, Henan Province, Shan County
+location, 9560.034014000000, Tibet Autonomous Region, Changdu District
+location, 9090.002000000000, Argentina, Buenos Aires
+location, 9790.105000000000, Switzerland, Montreux
+location, 9560.027013000000, Shaanxi Province, Liquan County
+location, 9560.006007001000, Guangdong Province, Shantou City, Chaoyang District
+location, 9560.011142000000, Hebei Province, Yongnian County
+location, 9560.011077000000, Hebei Province, Weixian County
+location, 9560.023052000000, Liaoning Province, Fengcheng County
+location, 9210.411000000000, USA, Hawaii
+location, 9560.004036000000, Fujian Province, Fu'an City
+location, 9560.023037000000, Liaoning Province, Changtu County
+location, 9370.101000000000, Germany, Munich
+location, 9280.102000000000, Belgium, Mons
+location, 9560.028124000000, Shandong Province, Pingyin County
+location, 9560.025016000000, Qinghai Province, Hainan Tibetan Autonomous Prefecture
+location, 9560.011044000000, Hebei Province, Qinghuangdao City
+location, 9110., Brazil
+location, 9560.023009000000, Liaoning Province, Panjin City
+location, 9560.015005000000, Hubei Province, Huangshi City
+location, 9560.035025000000, Xinjiang Uygur Autonomous Region, Yingjisha County
+location, 9560.001064000000, Anhui Province, Chaohu County
+location, 9560.027044000000, Shaanxi Province, Jiaxian
+location, 9560.034031000000, Tibet Autonomous Region, Changdu Prefecture
+location, 9560.031012000000, Sichuan Province, Cangxi
+location, 9398.101000000000, Iraq, Baghad
+location, 9560.028052000000, Shandong Province, Jiaoxian County
+location, 9560.023023000000, Liaoning Province, Dawa County
+location, 9410.106000000000, Japan, Nagoya
+location, 9560.011068000000, Hebei Province, Qiuxian
+location, 9560.015027000000, Hubei Province, Shiyan City
+location, 9488., Lithuania
+location, 9560.035035000000, Xinjiang Uygur Autonomous Region, Jianshi
+location, 9560.026054000000, Shanxi Province, Lu Ping County
+location, 9560.011097000000, Hebei Province, Zhuolu County
+location, 9210.489000000000, USA, Iowa
+location, 9560.011096000000, Hebei Province, Yangyuan
+location, 9560.011031000000, Hebei Province, Qingyuan County
+location, 9040.101000000000, Bulgaria, Sofia
+location, 9074., Costa Rica
+location, 9560.015028000000, Hubei Province, Xiaogan Prefecture
+location, 9560.011112000000, Hebei Province, Wuqiao City
+location, 9560.011038000000, Hebei Province, Wuyi
+location, 9560.006044000000, Guangdong Province, Gaoming
+location, 9050.102000000000, Chile, Valparaiso
+location, 9219.101000000000, Bahrain, Manama
+location, 9560.015045000000, Hubei Province, Jinmen
+location, 9370.124000000000, Germany, Heidelberg
+location, 9560.002027000000, Beijing, Changping County
+location, 9560.036036000000, Yunnan Province, Lijiang City
+location, 9560.015009000000, Hubei Province, Honghu City
+location, 9560.015043000000, Hubei Province, Enshi Prefecture
+location, 9410.109000000000, Japan, Aichi
+location, 9560.011087000000, Hebei Province, Luannan County
+location, 9560.035061000000, Xinjiang Uygur Autonomous Region, Kashgar
+location, 9560.008009000000, Guizhou Province, Kaiyang County
+location, 9560.018038000000, Jiangsu Province, Zhangjiagang City
+location, 9560.034017000000, Tibet Autonomous Region, Zhongba
+location, 9560.021004000000, Jiangxi Province, Pingxiang City
+location, 9210.485009000000, USA, Indiana, West Lafayette
+location, 9560.004037000000, Fujian Province, Nanping City
+location, 9154.001000000000, Central African Republic, Bangui
+location, 9560.026003000000, Shanxi Province, Changzhi
+location, 9560.021014000000, Jiangxi Province, Jinxian County
+location, 9960., South Africa
+location, 9560.024004000000, Ningxia Hui Autonomous Region, Jingyuan
+location, 9560.028058000000, Shandong Province, Changqing
+location, 9560.035043000000, Xinjiang Uygur Autonomous Region, Tacheng City
+location, 9560.005021000000, Gansu Province, Dunhuang City
+location, 9440., Ireland
+location, 9970.104000000000, Poland, Auschwitz
+location, 9560.035045000000, Xinjiang Uygur Autonomous Region, Miquan County
+location, 9560.001023000000, Anhui Province, Huoqiucheng
+location, 9467.102000000000, United Arab Emirates, Sharjah
+location, 9560.026009000000, Shanxi Province, Pingyao
+location, 9560.011138000000, Hebei Province, Jing County
+location, 9560.015062009000, Hubei Province, Enshi County, Tujia-Miao Autonomous Prefecture
+location, 9042.101000000000, Cameroon, Yaounde
+location, 9560.001049000000, Anhui Province, Chaoxian County
+location, 9560.016037000000, Hunan Province, Yueyang City
+location, 9560.018026000000, Jiangsu Province, Guanyun County
+location, 9471., Liberia
+location, 9101.102000000000, Bolivia, Santa Cruz
+location, 9560.005044000000, Gansu Province, Weiyuan County
+location, 9210.489001000000, USA, Iowa, Ames
+location, 9820.101000000000, Scotland, Edinburgh
+location, 9560.013088000000, Henan Province, Xincai County
+location, 9210.161000000000, USA, Alaska
+location, 9560.001044000000, Anhui Province, Quanjiao County
+location, 9350.105000000000, France, Cannes
+location, 9560.016086000000, Hunan Province, Nanyue
+location, 9560.022105000000, Jilin Province, Dehui City
+location, 9060.102000000000, Colombia, Cartagena
+location, 9560.005014000000, Gansu Province, Linxia
+location, 9560.028121000000, Shandong Province, Heze City
+location, 9560.026023000000, Shanxi Province, Pingding
+location, 9680., Myanmar
+location, 9788.102000000000, Slovenia, Bled
+location, 9470.117000000000, United Kingdom, Cambridge
+location, 9560.032002000000, Taiwan, Tainan
+location, 9560.018083000000, Jiangsu Province, Dafeng City
+location, 9560.028111000000, Shandong Province, Binzhou
+location, 9990., Saudi Arabia
+location, 9560.036013000000, Yunnan Province, Dali Bai Autonomous Prefecture
+location, 9560.028009000000, Shandong Province, Liaocheng Prefecture
+location, 9560.004011000000, Fujian Province, Hui'an County
+location, 9560.012053000000, Heilongjiang Province, Kedong County
+location, 9560.034021000000, Tibet Autonomous Region, Gongga
+location, 9690.102000000000, Netherlands, Amsterdam
+location, 9080.101000000000, Djibouti, Djibouti
+location, 9560.031034000000, Sichuan Province, Xichang County
+location, 9560.016094000000, Xiangxiang City
+location, 9560.026037000000, Shanxi Province, Qingxu County
+location, 9100.102000000000, Benin, Cotonou
+location, 9927.101000000000, Zimbabwe, Harare
+location, 9560.012042000000, Heilongjiang Province, Qitaihe City
+location, 9540.101000000000, Mexico, Mexico City
+location, 9560.005022000000, Gansu Province, Qingshui County
+location, 9560.037081000000, Zhejiang Province, Yiting District
+location, 9350., France
+location, 9560.008003000000, Guizhou Province, Bijie Prefecture
+location, 9560.006033000000, Guangdong Province, Zhongshan City
+location, 9560.035055000000, Xinjiang Uygur Autonomous Region, Khotan Prefecture
+location, 9560.031047000000, Sichuan Province, Leshan Prefecture
+location, 9560.027041000000, Shaanxi Province, Kang County
+location, 9560.001006000000, Anhui Province, Ma'anshan City
+location, 9560.007042000000, Guangxi Zhuang Autonomous Region, Youjiang
+location, 9540., Mexico
+location, 9450.109000000000, Kazakhstan, Matybulak Range
+location, 9370.121000000000, Germany, Dresden
+location, 9560.018074000000, Jiangsu Province, Qinghe District
+location, 9560.001012000000, Anhui Province, Tongcheng
+location, 9430.102000000000, Finland, Tampere
+location, 9560.036014000000, Yunnan Province, Jiangcheng
+location, 9560.008044000000, Guizhou Province, Bijie City
+location, 9560.036015000000, Yunnan Province, Malipo
+location, 9560.013011000000, Henan Province, Taiqian County
+location, 9560.028011000000, Shandong Province, Shouguang
+location, 9560.017076000000, Inner Mongolia Autonomous Region, Tuquan
+location, 9710.104000000000, Philippines, Davao City
+location, 9560.012037000000, Heilongjiang Province, Mishan
+location, 9560.016062000000, Hunan Province, Changde Prefecture
+location, 9560.011072000000, Hebei Province, Wan County
+location, 9560.001072000000, Anhui Province, Fuyang Prefecture
+location, 9560.016013000000, Hunan Province, Linxiang
+location, 9560.022021000000, Jilin Province, Tao'an County
+location, 9560.034005000000, Tibet Autonomous Region, Shannan District
+location, 9560.036022000000, Yunnan Province, Yiliang County
+location, 9560.017088000000, Inner Mongolia Autonomous Region, Arxan City
+location, 9560.013003000000, Henan Province, Luoyang City
+location, 9320.101000000000, Ghana, Accra
+location, 9560.025008000000, Qinghai Province, Haidong Prefecture
+location, 9880.102000000000, Cuba, Santiago de Cuba
+location, 9290., Cambodia
+location, 9370.103000000000, Germany, Hamburg
+location, 9560.017091000000, Inner Mongolia Autonomous Region, Horqin Right Front Banner
+location, 9210.201021000000, USA, California, Indian Wells
+location, 9082.101000000000, Cote d'Ivoire, Abidjan
+location, 9560.037071000000, Zhejiang Province, Cangnan
+location, 9560.008023000000, Guizhou Province, Yangjie District
+location, 9560.011039000000, Hebei Province, Huai'an
+location, 9560.022088000000, Jilin Province, Yanji City
+location, 9560.005011000000, Gansu Province, Yuzhong County
+location, 9560.033007000000, Tianjin Municipality, Hexi District
+location, 9560.015049000000, Hubei Province, Xuan'en
+location, 9560.012061000000, Heilongjiang Province, Shangzhi County
+location, 9560.027042000000, Shaanxi Province, Binxian County
+location, 9311.101000000000, Uruguay, Montevideo
+location, 9560.008008000000, Guizhou Province, Huangping
+location, 9560.017032000000, Inner Mongolia Autonomous Region, Ke Left Rear Banner
+location, 9500.101000000000, Maldives, Male
+location, 9560.011125000000, Hebei Province, Lulong County
+location, 9560.013, Henan Province
+location, 9560.012, Heilongjiang Province
+location, 9290.102000000000, Cambodia, Siem Reap
+location, 9560.012002001000, Heilongjiang Province, Daqing City, Datong District
+location, 9560.017, Inner Mongolia Autonomous Region
+location, 9560.016, Hunan Province
+location, 9560.015, Hubei Province
+location, 9560.014, Hong Kong SAR
+location, 9560.013092000000, Henan Province, Xinxian County
+location, 9560.026051000000, Shanxi Province, Jingle County
+location, 9560.018034000000, Jiangsu Province, Hanjiang
+location, 9560.022007000000, Jilin Province, Baicheng Prefecture
+location, 9560.026002000000, Shanxi Province, Datong City
+location, 9560.012048000000, Heilongjiang Province, Nehe City
+location, 9560.026001000000, Shanxi Province, Taiyuan City
+location, 9560.009017000000, Hainan Province, Tibetan Autonomous Prefecture
+location, 9560.004015000000, Fujian Province, Minhou
+location, 9870.101000000000, Uzbekistan, Tashkent
+location, 9560.016019000000, Hunan Province, Yiyang County
+location, 9560.017014000000, Inner Mongolia Autonomous Region, Harqin Banner
+location, 9560.013019000000, Henan Province, Qingfeng County
+location, 9560.028019000000, Shandong Province, Wendeng City
+location, 9250.102000000000, Denmark, Lyngby
+location, 9560.021058000000, Jiangxi Province, Zhangshu City
+location, 9560.016059000000, Hunan Province, Xiang City
+location, 9560.006051000000, Guangdong Province, Huidong
+location, 9560.018091000000, Jiangsu Province, Wujiang City
+location, 9210.481000000000, USA, Illinois
+location, 9560.024008000000, Ningxia Hui Autonomous Region, Xiji County
+location, 9560.013009000000, Henan Province, Zhenping County
+location, 9560.007024000000, Guangxi Zhuang Autonomous Region, Du'an
+location, 9270., Australia
+location, 9560.012038000000, Heilongjiang Province, Bei'an City
+location, 9560.001071000000, Anhui Province, Fuyang City
+location, 9560.012013000000, Heilongjiang Province, Dongning County
+location, 9560.005036000000, Gansu Province, Zhenyuan City
+location, 9560.013002000000, Henan Province, Nanyang City
+location, 9560.037076000000, Zhejiang Province, Xianju
+location, 9560.028026000000, Shandong Province, Tai'an City
+location, 9560.021002000000, Jiangxi Province, Jiujiang City
+location, 9560.012014000000, Heilongjiang Province, Taiping District
+location, 9560.021001000000, Jiangxi Province, Nanchang City
+location, 9790.101000000000, Switzerland, Geneva
+location, 9560.037087001000, Zhejiang Province, Longyou County, Tashi District
+location, 9210.499001000000, USA, Maryland, Baltimore
+location, 9560.012008000000, Heilongjiang Province, Bayan County
+location, 9560.012005000000, Heilongjiang Province, Maudanjiang
+location, 9560.003004000000, Chongqing Municipality, Yubei District
+location, 9850., Democratic People's Republic of Korea (North Korea)
+location, 9360.101000000000, Guinea, Conakry
+location, 9560.006021000000, Guangdong Province, Sihui County
+location, 9560.026028000000, Shanxi Province, Huguan County
+location, 9160., Egypt
+location, 9489., Luxembourg
+location, 9560.017016000000, Inner Mongolia Autonomous Region, Otog Front Banner
+location, 9560.026029000000, Shanxi Province, Anking
+location, 9560.013025000000, Henan Province, Xingyang City
+location, 9560.011010000000, Hebei Province, Shijiazhuang Prefecture
+location, 9560.026058000000, Shanxi Province, Xiaoxi City
+location, 9470.115000000000, United Kingdom, Bristol
+location, 9560.006061000000, Guangdong Province, Yunfu
+location, 9560.031062000000, Sichuan Province, An County
+location, 9560.012031000000, Heilongjiang Province, Heihe City
+location, 9560.013093000000, Henan Province, Shangcai County
+location, 9210.201016000000, USA, California, San Diego
+location, 9706.101000000000, Mauritius, Port Louis
+location, 9630.102000000000, Uganda, Entebbe
+location, 9560.009023000000, Hainan Province, Baisha Li Ethic Autonomous County
+location, 9560.012043000000, Heilongjiang Province, Bin County
+location, 9470., United Kingdom
+location, 9560.013035000000, Henan Province, Fanxian County
+location, 9560.036009000000, Yunnan Province, Eryuan
+location, 9560.018019000000, Jiangsu Province, Shanghuang
+location, 9210.711000000000, USA, Pennsylvania
+location, 9560.006073000000, Guangdong Province, Hainan Autonomous Prefecture
+location, 9560.028062000000, Shandong Province, Juye County
+location, 9560.018055000000, Jiangsu Province, Feng County
+location, 9560.028007000000, Shandong Province, Jiaonan County
+location, 9560.027002000000, Shaanxi Province, Xi
+location, 9560.021063000000, Jiangxi Province, Jingjiang City
+location, 9560.028104000000, Shandong Province, Ling County
+location, 9560.021031000000, Jiangxi Province, Yichun City
+location, 9560.001007000000, Anhui Province, Huaibei City
+location, 9560.021061000000, Jiangxi Province, Yongxin County
+location, 9560.031016000000, Sichuan Province, Yanting County
+location, 9560.018077000000, Jiangsu Province, Shuyang County
+location, 9560.007012000000, Guangxi Zhuang Autonomous Region, Debao County
+location, 9900.102000000000, Tanzania, Zanzibar
+location, 9560.011054000000, Hebei Province, Wuqiang County
+location, 9560.031112000000, Sichuan Province, Rongchang County
+location, 9560.012017000000, Heilongjiang Province, Hailun
+location, 9560.006066000000, Guangdong Province, Dongshan District
+location, 9560.006067000000, Guangdong Province, Tianhe District
+location, 9560.012029000000, Heilongjiang Province, Suileng County
+location, 9560.018078000000, Jiangsu Province, Jinxi
+location, 9560.027048000000, Shaanxi Province, Lantian County
+location, 9560.013043000000, Henan Province, Yanshi County
+location, 9520.103000000000, Pakistan, Rawalpindi
+location, 9210.505001000000, USA, Missouri, St. Louis
+location, 9560.026071000000, Shanxi Province, Lucheng County
+location, 9560.002018000000, Beijing Municipality, Tongxian County
+location, 9560.031004000000, Sichuan Province, Deyang City
+location, 9560.018059000000, Jiangsu Province, Sihong
+location, 9560.018013000000, Jiangsu Province, Wuxian County
+location, 9560.013054000000, Henan Province, Ji County
+location, 9560.006010000000, Guangdong Province, Zhuhai City
+location, 9560.021036000000, Jiangxi Province, Xiushui County
+location, 9560.029008000000, Shanghai, Min Hang District
+location, 9560.021037000000, Jiangxi Province, Yushan
+location, 9560.037037000000, Zhejiang Province, Rui'an City
+location, 9560.036001000000, Yunnan Province, Kunming City
+location, 9070.101000000000, Comoros, Moroni
+location, 9560.027017000000, Shaanxi Province, Lintong
+location, 9560.024016000000, Ningxia Hui Autonomous Region, Zhongwei City
+location, 9560.006004000000, Guangdong Province, Zhangjiang
+location, 9520.201000000000, Pakistan, Lahore
+location, 9350.108000000000, France, Strasbourg
+location, 9560.011115000000, Hebei Province, Li County
+location, 9560.024015000000, Ningxia Hui Autonomous Region, Shizuishan County
+location, 9560.028056000000, Shandong Province, Dingtao County
+location, 9670., New Zealand
+location, 9560.017033000000, Inner Mongolia Autonomous Region, Xianghuang Banner
+location, 9560.011126000000, Hebei Province, Sanhe City
+location, 9560.031013000000, Sichuan Province, Litang County
+location, 9560.025013000000, Qinghai Province, Qilian County
+location, 9560.029014000000, Shanghai, Chuansha County
+location, 9560.031031000000, Sichuan Province, Jiangan
+location, 9470.114000000000, United Kingdom, Sheffield
+location, 9200.101000000000, Barbados, Bridgetown
+location, 9560.015055000000, Hubei Province, Huangzhou
+location, 9560.037048000000, Zhejiang Province, Xin'anjiang
+location, 9560.001015000000, Anhui Province, Funan
+location, 9560.011129000000, Hebei Province, Xinle City
+location, 9560.009016000000, Hainan Province, Lingshui County
+location, 9480.101000000000, Lesotho, Maseru
+location, 9560.006009009000, Guangdong Province, Huizhou City, Dayawan Development Zone
+location, 9560.012046000000, Heilongjiang Province, Anda
+location, 9410.105000000000, Japan, Kyoga Prefecture
+location, 9560.035017000000, Xinjiang Uygur Autonomous Region, Fuhai County
+location, 9560.002009000000, Beijing, Yanqing County
+location, 9560.012021000000, Heilongjiang Province, Huanan County
+location, 9560.021054000000, Jiangxi Province, Ji'an County
+location, 9560.031045000000, Sichuan Province, Xiehe
+location, 9560.031083000000, Sichuan Province, Jiangbei County
+location, 9397.102000000000, Iran, Isfahan
+location, 9560.004038000000, Fujian Province, Ningde City
+location, 9560.007025000000, Guangxi Zhuang Autonomous Region, Bose City
+location, 9560.006065000000, Guangdong Province, Zhanjiang City
+location, 9560.028004000000, Shandong Province, Weifang City
+location, 9560.026035000000, Shanxi Province, Xishan
+location, 9560.034013000000, Tibet Autonomous Region, Nagqu Prefecture
+location, 9560.027025000000, Shaanxi Province, Suide
+location, 9560.035057000000, Xinjiang Uygur Autonomous Region, Shizuishan City
+location, 9340.001000000000, Hungary, Budapest
+location, 9560.011081000000, Hebei Province, Leitou Town
+location, 9360., Guinea
+location, 9560.031078000000, Sichuan Province, Yibin Prefecture
+location, 9560.028074000000, Shandong Province, Qihe County
+location, 9560.027047000000, Shaanxi Province, Yulin Prefecture
+location, 9210.725000000000, USA, Tennessee
+location, 9560.012028000000, Heilongjiang Province, Lindian
+location, 9560.016005000000, Hunan Province, Zhuzhou City
+location, 9888., Vanuatu
+location, 9560.028133000000, Shandong Province, Cangshan County
+location, 9560.015074000000, Hubei Province, Huancheng Prefecture
+location, 9560.023063000000, Liaoning Province, Jianchang City
+location, 9560.015077000000, Hubei Province, Tongshan County
+location, 9560.035041000000, Xinjiang Uygur Autonomous Region, Turpan Prefecture
+location, 9560.013078000000, Henan Province, Yongcheng City
+location, 9560.026078000000, Shanxi Province, Wuxiang County
+location, 9950.102000000000, Democratic Republic of the Congo, Brazzaville
+location, 9560.001037000000, Anhui Province, She County
+location, 9560.002011000000, Beijing, Daxing County
+location, 9630.101000000000, Uganda, Kampala
+location, 9220.101000000000, Bangladesh, Dhaka
+location, 9560.033015000000, Tianjin, Jinghai County
+location, 9560.031061000000, Sichuan Province, Quxian County
+location, 9560.031089000000, Sichuan Province, Tongjiang County
+location, 9560.015062000000, Hubei Province, Enshi County
+location, 9560.011006000000, Hebei Province, Qinhuangdao City
+location, 9560.023011000000, Liaoning Province, Lingyuan
+location, 9560.008021000000, Guizhou Province, Qiandongnan
+location, 9560.023022000000, Liaoning Province, Yixian County
+location, 9560.037002000000, Zhejiang Province, Ningbo City
+location, 9560.008, Guizhou Province
+location, 9560.009, Hainan Province
+location, 9280., Belgium
+location, 9560.001, Anhui Province
+location, 9560.002, Beijing Municipality
+location, 9560.003, Chongqing Municipality
+location, 9560.004, Fujian Province
+location, 9560.005, Gansu Province
+location, 9560.006, Guangdong Province
+location, 9560.007, Guangxi Zhuang Autonomous Region
+location, 9210.672001000000, United States of America, Oklahoma, Norman
+location, 9560.026064000000, Shanxi Province, Xinjiang County
+location, 9560.031027000000, Sichuan Province, Batang
+location, 9560.011071000000, Hebei Province, Suning County
+location, 9560.036005000000, Yunnan Province, Dali City
+location, 9560.028105000000, Shandong Province, Rizhao City
+location, 9560.007002009000, Guangxi Zhuang Autonomous Region, Liuzhou City, Sanjiang Dong Autonomous County
+location, 9560.015007000000, Hubei Province, Huanggang City
+location, 9560.028006000000, Shandong Province, Weihai
+location, 9560.027015000000, Shaanxi Province, Fugu
+location, 9560.023047000000, Liaoning Province, Ximing
+location, 9560.026046000000, Shanxi Province, Qindu District
+location, 9560.011083000000, Hebei Province, Dingzhou City
+location, 9560.011055000000, Hebei Province, Zaoqiang County
+location, 9560.023074000000, Liaoning Province, Gaikou County
+location, 9560.028094000000, Shandong Province, Guangyao County
+location, 9560.001016000000, Anhui Province, Suixi
+location, 9560.034026000000, Tibet Autonomous Region, Zhag'yab County
+location, 9560.001039000000, Anhui Province, Huaiyuan
+location, 9560.017028000000, Inner Mongolia Autonomous Region, Dongsu Banner
+location, 9560.016026000000, Hunan Province, Linli County
+location, 9560.035033000000, Xinjiang Uygur Autonomous Region, Shule
+location, 9560.025017000000, Qinghai Province, Haibei Tibetan Autonomous Prefecture
+location, 9560.008007000000, Guizhou Province, Bouyei-Miao Autonomous Prefecture
+location, 9560.028122000000, Shandong Province, Huimin County
+location, 9400.101000000000, Guyana, Georgetown
+location, 9560.032016000000, Taiwan, New Taipei City
+location, 9560.023066000000, Liaoning Province, Donggang City
+location, 9560.001036000000, Anhui Province, Ningguo
+location, 9560.018003000000, Jiangsu Province, Wuxi City
+location, 9560.007017000000, Guangxi Zhuang Autonomous Region, Hepu
+location, 9560.002019000000, Beijing Municipality, Huairou County
+location, 9780.001000000000, Singapore, Singapore City
+location, 9560.031009000000, Sichuan Province, Leshan City
+location, 9560.031077000000, Sichuan Province, Neijiang County
+location, 9560.001058000000, Anhui Province, Shucheng City
+location, 9560.011005000000, Hebei Province, Cangzhou Prefecture
+location, 9560.001041000000, Anhui Province, Susong County
+location, 9560.016042000000, Hunan Province, Ningyuan
+location, 9560.015001000000, Hubei Province, Wuhan City
+location, 9560.037054000000, Zhejiang Province, Jiangshan
+location, 9560.023003000000, Liaoning Province, Anshan City
+location, 9560.016066000000, Hunan Province, Xiangyin
+location, 9560.011076000000, Hebei Province, Zanhuang County
+location, 9210.501000000000, USA, Massachusetts
+location, 9560.011114000000, Hebei Province, Ningjin County
+location, 9560.026045000000, Shanxi Province, Hunyuan County
+location, 9560.006074000000, Guangdong Province, Huiyang City
+location, 9560.016017000000, Hunan Province, Huarong County
+location, 9840., Ukraine
+location, 9560.037051000000, Zhejiang Province, Tiantai
+location, 9580.108000000000, Portugal, Terceira Island
+location, 9560.008043000000, Guizhou Province, Anshui City
+location, 9170., Moldova
+location, 9790.102000000000, Switzerland, Zurich
+location, 9560.023044000000, Liaoning Province, Fushan
+location, 9760., Russia
+location, 9560.023006000000, Liaoning Province, Dandong City
+location, 9560.015059000000, Hubei Province, Huanggang Prefecture
+location, 9560.015058000000, Hubei Province, Guangji County
+location, 9560.023018000000, Liaoning Province, Beizhen
+location, 9560.036024000000, Yunnan Province, Longling County
+location, 9560.033011000000, Tianjin, Binhai New District
+location, 9560.035014000000, Xinjiang Uygur Autonomous Region, Korla
+location, 9560.018089000000, Jiangsu Province, Shazhou County
+location, 9560.035034000000, Xinjiang Uygur Autonomous Region, Accra District
+location, 9417., Jordan
+location, 9560.027036000000, Shaanxi Province, Chengcheng
+location, 9824., Senegal
+location, 9560.026005000000, Shanxi Province, Yangquan County
+location, 9560.037078000000, Zhejiang Province, Wenling City
+location, 9560.012036000000, Heilongjiang Province, Song Hua River County
+location, 9560.026036000000, Shanxi Province, Yanggao County
+location, 9560.034029000000, Tibet Autonomous Region, Ali Prefecture
+location, 9560.016023000000, Hunan Province, Chenxian County
+location, 9560.009021000000, Hainan Province, Danzhou City
+location, 9560.011019000000, Hebei Province, Gaocheng City
+location, 9560.002007000000, Beijing, Changping District
+location, 9560.026039000000, Shanxi Province, Qinyuan
+location, 9210.728009000000, USA, Virginia, Charlottesville
+location, 9560.011050000000, Hebei Province, Chengde Prefecture
+location, 9658.101000000000, Malawi, Blantyre
+location, 9470.113000000000, United Kingdom, London
+location, 9560.016043000000, Hunan Province, Rucheng
+location, 9560.004023000000, Fujian Province, Minqing
+location, 9655., Madagascar
+location, 9560.036028000000, Yunnan Province, Shaotong City
+location, 9560.015048000000, Hubei Province, Xishui County
+location, 9560.002016000000, Beijing, Miyun County
+location, 9027., Albania
+location, 9780., Singapore
+location, 9600.104000000000, Vietnam, Da Nang
+location, 9560.001075000000, Anhui Province, Chizhou Prefecture
+location, 9560.016016000000, Hunan Province, Changning
+location, 9560.007038000000, Guangxi Zhuang Autonomous Region, Yongning
+location, 9560.016072009000, Hunan Province, Chengbu, Miao Autonomous County
+location, 9560.026086000000, Shanxi Province, Hongdong County
+location, 9560.005041000000, Gansu Province, Zhouqu County
+location, 9390.108000000000, Indonesia, Manado
+location, 9560.028129000000, Shandong Province, Linqing City
+location, 9560.037083000000, Zhejiang Province,  Taishun County
+location, 9560.036001008000, Yunnan Province, Kunming City, Dongchuan District
+location, 9460., Kenya
+location, 9560.005001009000, Gansu Province, Lanzhou City, Chengguan District
+location, 9560.006012000000, Guangdong Province, Chaoyang
+location, 9560.017007000000, Inner Mongolia Autonomous Region, Bayanaoer
+location, 9560.017004000000, Inner Mongolia Autonomous Region, Hohhot City
+location, 9560.012047000000, Heilongjiang Province, Ningan County
+location, 9560.016025000000, Hunan Province, Hengshan
+location, 9210.498000000000, USA, Maine
+location, 9560.031099000000, Sichuan Province, Pixian County
+location, 9560.003008000000, Chongqing Municipality, Wanxian
+location, 9560.037079000000, Zhejiang Province, Yiwu County
+location, 9625.103000000000, Montenegro, Budva
+location, 9560.011037000000, Hebei Province, Luanxian County
+location, 9560.025014000000, Qinghai Province, Haibei Prefecture
+location, 9210.727000000000, USA, Texas
+location, 9560.012035000000, Heilongjiang Province, Hulan County
+location, 9860.001000000000, Republic of Korea, Seoul
+location, 9560.016093000000, Hunan Province, Anxiang County
+location, 9560.031095000000, Sichuan Province, Linjiang District
+location, 9660., Malaysia
+location, 9560.028018000000, Shandong Province, Tancheng
+location, 9560.016095000000, Hunan Province, Guiyang County
+location, 9210.504000000000, USA, Minnesota
+location, 9560.031106000000, Sichuan Province, Zoige County
+location, 9560.017031000000, Inner Mongolia Autonomous Region, Zhelimu League
+location, 9560.037084000000, Zhejiang Province, Jinhua City
+location, 9560.011106000000, Hebei Province, Cheng An County
+location, 9560.037085000000, Zhejiang Province,  Lishui Prefecture
+location, 9560.011048000000, Hebei Province, Mancheng County
+location, 9488.101000000000, Lithuania, Vilnius
+location, 9560.023054000000, Liaoning Province, Gai County
+location, 9560.003023000000, Chongqing Municipality, Zhong County
+location, 9560.031019000000, Sichuan Province, Wenjiang
+location, 9560.032015000000, Taiwan, Chiayi
+location, 9560.026069000000, Shanxi Province, Jinzhong Prefecture
+location, 9560.013017000000, Henan Province, Gongxian County
+location, 9560.026081000000, Shanxi Province, Wanrong County
+location, 9889., Venezuela
+location, 9560.022094000000, Jilin Province, Nongan County
+location, 9560.017083000000, Inner Mongolia Autonomous Region, Chayou Zhongqi County
+location, 9560.022097000000, Jilin Province, Daan County
+location, 9325., Eritrea
+location, 9560.008024000000, Guizhou Province, Dafang County
+location, 9340., Hungary
+location, 9560.007027000000, Guangxi Zhuang Autonomous Region, Guigang City
+location, 9560.024009000000, Ningxia Hui Autonomous Region, Haiyuan County
+location, 9370., Germany
+location, 9560.018005000000, Jiangsu Province, Wujin County
+location, 9560.031051000000, Sichuan Province, Langzhong County
+location, 9560.007058000000, Guangxi Zhuang Autonomous Region, Xincheng County
+location, 9560.023068000000, Liaoning Province, Dengta County
+location, 9560.016067000000, Hunan Province, Wangcheng
+location, 9690.104000000000, Netherlands, Noordwijk
+location, 9560.006019000000, Guangdong Province, Hainan Administrative Region
+location, 9560.028028000000, Shandong Province, Linyi Prefecture
+location, 9560.037029000000, Zhejiang Province, Anji County
+location, 9560.007055000000, Guangxi Zhuang Autonomous Region, Laibin County
+location, 9560.018072000000, Jiangsu Province, Jing'an District
+location, 9560.018017000000, Jiangsu Province, Wujiang County
+location, 9210.727003000000, USA, Texas, Austin
+location, 9560.008042000000, Guizhou Province, Yuping County
+location, 9560.038, Macao SAR
+location, 9560.031043000000, Sichuan Province, Nanbu
+location, 9560.035, Xinjiang Uygur Autonomous Region
+location, 9560.034, Tibet Autonomous Region
+location, 9560.037, Zhejiang Province
+location, 9560.036, Yunnan Province
+location, 9210.611007000000, USA, New Jersey, Camden
+location, 9560.011108000000, Hebei Province, Langfang
+location, 9560.032, Taiwan
+location, 9560.026077000000, Shanxi Province, Lingchuan County
+location, 9560.006016000000, Guangdong Province, Shaoguan City
+location, 9570., Oman
+location, 9560.012051000000, Heilongjiang Province, Tieli City
+location, 9560.034011000000, Tibet Autonomous Region, Changdu
+location, 9560.031107000000, Sichuan Province, Ngawa Tibetan and Qiang Autonomous Prefecture
+location, 9560.021049000000, Jiangxi Province, Wanzai County
+location, 9210.201018000000, USA, California, Rancho Mirage
+location, 9270.107000000000, Australia, Brisbane
+location, 9560.017089000000, Inner Mongolia Autonomous Region, Horinger County
+location, 9560.011107000000, Hebei Province, Jingxing Ore District
+location, 9560.011040000000, Hebei Province, Baoding Prefecture
+location, 9560.011139000000, Hebei Province, Shenzhou City
+location, 9560.018024000000, Jiangsu Province, Binhai
+location, 9560.009011000000, Hainan Province, Baisha County
+location, 9560.018027000000, Jiangsu Province, Funing County
+location, 9560.026059000000, Shanxi Province, Lucheng City
+location, 9560.022031000000, Jilin Province, Qianguo
+location, 9560.009022000000, Hainan Province, Danxian County
+location, 9560.008028000000, Guizhou Province, Luodian County
+location, 9560.017026000000, Inner Mongolia Autonomous Region, Bairin Right Banner
+location, 9560.027055000000, Shaanxi Province, Zhen'an County
+location, 9560.017027000000, Inner Mongolia Autonomous Region, Siziwang Banner
+location, 9560.021046000000, Jiangxi Province, Fengcheng City
+location, 9468.101000000000, Laos, Vientiane
+location, 9350.102000000000, France, Toulouse
+location, 9560.006056000000, Guangdong Province, Huimin County
+location, 9560.031059000000, Sichuan Province, Shehong
+location, 9560.036006009000, Yunnan Province, Chuxiong City, Yi Autonomous Prefecture
+location, 9560.018032000000, Jiangsu Province, Yixing City
+location, 9560.013084000000, Henan Province, Shaan County
+location, 9560.011123000000, Hebei Province, Zhao County
+location, 9560.008029000000, Guizhou Province, Xingyi County
+location, 9560.031087000000, Sichuan Province, Meishan
+location, 9560.031049000000, Sichuan Province, Anxian
+location, 9560.013095000000, Henan Province, Shangqiu County
+location, 9340.011000000000, Hungary, Gede Le
+location, 9560.028021000000, Shandong Province, Weihai City
+location, 9560.013062000000, Henan Province, Xinxiang City
+location, 9210.489002000000, USA, Iowa, Iowa City
+location, 9896.101000000000, Trinidad and Tobago, Port of Spain
+location, 9560.007035000000, Guangxi Zhuang Autonomous Region, Luocheng County
+location, 9560.013033000000, Henan Province, Biyang
+location, 9170.102000000000, Moldova, Chisinau
+location, 9560.031042000000, Sichuan Province, Jiangjin
+location, 9560.018057000000, Jiangsu Province, Huaiying
+location, 9560.008039000000, Guizhou Province, Zunyi City
+location, 9560.021006000000, Jiangxi Province, Yingtan
+location, 9560.025011000000, Qinghai Province, Tongren County
+location, 9560.017009000000, Inner Mongolia Autonomous Region, Hulun Buir League
+location, 9770.101000000000, Turkey, Ankara
+location, 9560.011, Hebei Province
+location, 9560.025019000000, Qinghai Province, Mongolian-Tibetan Autonomous Prefecture
+location, 9560.018081000000, Jiangsu Province, Gaoyou City
+location, 9560.027038000000, Shaanxi Province, Yan'an Prefecture
+location, 9210.201011000000, USA, California, San Luis Obispo
+location, 9794., Suriname
+location, 9560.025004000000, Qinghai Province, Ping'an
+location, 9560.017066009000, Inner Mongolia Autonomous Region, Xilin Gol League, Taibus Banner
+location, 9560.007014000000, Guangxi Zhuang Autonomous Region, Gongcheng Yao Nationality County
+location, 9560.031065000000, Sichuan Province, Shizhu County
+location, 9560.012034000000, Heilongjiang Province, Yichun City
+location, 9560.005024000000, Gansu Province, Yumen City
+location, 9760.118000000000, Russia, Ulan-Ude
+location, 9880.101000000000, Cuba, Havana
+location, 9560.009003000000, Hainan Province, Qiongshan City
+location, 9560.028064000000, Shandong Province, Lu County
+location, 9560.027054000000, Shaanxi Province, Yulin City
+location, 9560.037065000000, Zhejiang Province, Lanxi City
+location, 9560.008025000000, Guizhou Province, Tongzi County
+location, 9560.026062000000, Shanxi Province, Qinxian County
+location, 9560.007019000000, Guangxi Zhuang Autonomous Region, Binyang
+location, 9870., Uzbekistan
+location, 9560.028102000000, Shandong Province, Heze County
+location, 9560.011051000000, Hebei Province, Shenxian County
+location, 9210.504001000000, USA, Minnesota, Minneapolis
+location, 9827.101000000000, Serbia, Belgrade
+location, 9560.006082000000, Guangdong Province, Foshan Prefecture
+location, 9770., Turkey
+location, 9560.013087000000, Henan Province, Zhumadian City
+location, 9894.102000000000, Turkmenistan, Mary
+location, 9560.031086000000, Sichuan Province, Aba County
+location, 9470.112000000000, United Kingdom, Oxford
+location, 9560.018051000000, Jiangsu Province, Wu County
+location, 9560.009018000000, Hainan Province, Wuzhishan City
+location, 9560.015011000000, Hubei Province, Huangmei County
+location, 9560.013014000000, Henan Province, Shangshui County
+location, 9560.031033000000, Sichuan Province, Suining City
+location, 9560.006075000000, Guangdong Province, Zhaoqing City
+location, 9560.013034000000, Henan Province, Dancheng
+location, 9710.105000000000, Philippines, Clark
+location, 9560.015088000000, Hubei Province, Erzhou City
+location, 9127.102000000000, Croatia, Dubrovnik
+location, 9560.023027000000, Liaoning Province, Xinmin
+location, 9560.011078000000, Hebei Province, Shenze County
+location, 9560.011134000000, Hebei Province, She County
+location, 9560.006078000000, Guangdong Province, Conghua County
+location, 9560.028098000000, Shandong Province, Huangxian County
+location, 9560.018009000000, Jiangsu Province, Dafeng County
+location, 9560.026016000000, Shanxi Province, Shouyang
+location, 9560.018008000000, Jiangsu Province, Yizheng City
+location, 9560.028092000000, Shandong Province, Dongming
+location, 9600.102000000000, Vietnam, Ho Chi Minh City
+location, 9560.023062000000, Liaoning Province, Linyuan City
+location, 9461., Niger
+location, 9560.028117000000, Shandong Province, Shanxian County
+location, 9560.021025000000, Jiangxi Province, Fengxin County
+location, 9560.007013000000, Guangxi Zhuang Autonomous Region, Bose Prefecture
+location, 9560.031003000000, Sichuan Province, Neijiang City
+location, 9560.001038000000, Anhui Province, Shexian
+location, 9650.101000000000, Nepal, Kathmandu
+location, 9370.126000000000, Germany, Muenster
+location, 9560.034033000000, Tibet Autonomous Region, Shigatse Prefecture
+location, 9560.031005000000, Sichuan Province, Yibin City
+location, 9560.021028000000, Jiangxi Province, Ruichang
+location, 9530.102000000000, Kyrgyzstan, Alma-Ata
+location, 9560.011141000000, Hebei Province, Zhuozhou City
+location, 9560.011001000000, Hebei Province, Shijiazhuang City
+location, 9382.101000000000, Israel, Tel Aviv
+location, 9560.015092000000, Hubei Province, Nanzhang County
+location, 9210.205000000000, USA, Colorado
+location, 9560.018084000000, Jiangsu Province, Yangzhong City
+location, 9560.015037000000, Hubei Province, Shashi City
+location, 9390.103000000000, Indonesia, Jakarta
+location, 9450.111000000000, Kazakhstan, Khorgos
+location, 9560.037022000000, Zhejiang Province, Yiwu City
+location, 9560.037023000000, Zhejiang Province, Tonglu
+location, 9560.024012000000, Ningxia Hui Autonomous Region, Ningchuan
+location, 9560.028015000000, Shandong Province, Juancheng
+location, 9560.005004000000, Gansu Province, Jinchang City
+location, 9370.104000000000, Germany, Essen
+location, 9560.024014000000, Ningxia Hui Autonomous Region, Kuyuan City
+location, 9560.029017000000, Shanghai, Nanhui
+location, 9560.011060000000, Hebei Province, Langfang City
+location, 9560.004025000000, Fujian Province, Shishi
+location, 9560.023002000000, Liaoning Province, Dalian City
+location, 9010.101000000000, Angola, Luanda
+location, 9560.015032000000, Hubei Province, Hanyang District
+location, 9560.018028000000, Jiangsu Province, Jiangdu City
+location, 9560.026018000000, Shanxi Province, Wenxi County
+location, 9560.011079000000, Hebei Province, Xianxian County
+location, 9560.015038000000, Hubei Province, Suizhou City
+location, 9831.001000000000, Sierra Leone, Freetown
+location, 9560.037003000000, Zhejiang Province, Jiaxing City
+location, 9560.023016000000, Liaoning Province, Wafangdian City
+location, 9560.034004000000, Tibet Autonomous Region, Naqu
+location, 9560.015053000000, Hubei Province, Enshi City
+location, 9560.026017000000, Shanxi Province, Tianzhen County
+location, 9560.017095000000, Inner Mongolia Autonomous Region, Ulaanchab League
+location, 9430.101000000000, Finland, Helsinki
+location, 9560.028041000000, Shandong Province, Yantai City
+location, 9560.036018000000, Yunnan Province, Huaning
+location, 9560.035026000000, Xinjiang Uygur Autonomous Region, Bayinguoleng Mongol Prefecture
+location, 9560.004047000000, Fujian Province, Zhenghe County
+location, 9560.016002000000, Hunan Province, Yueyang County
+location, 9560.011084000000, Hebei Province, Lincheng
+location, 9560.013041000000, Henan Province, Tanghe
+location, 9560.011085000000, Hebei Province, Chicheng County
+location, 9560.026063000000, Shanxi Province, Qinshui County
+location, 9410.116000000000, Japan, Natori
+location, 9560.006071000000, Guangdong Province, Zhuhai
+location, 9560.004039000000, Fujian Province, Datian County
+location, 9560.022019001000, Jilin Province, Lishu County, Guojiadian Township
+location, 9560.004029000000, Fujian Province, Gulou Prefecture
+location, 9560.007047000000, Guangxi Zhuang Autonomous Region, Guiping County
+location, 9730.101000000000, Romania, Bucharest
+location, 9560.026033000000, Shanxi Province, Jishan
+location, 9560.005046000000, Gansu Province, Ning County
+location, 9625.102000000000, Montenegro, Podgorica
+location, 9560.037021000000, Zhejiang Province, Wuxin
+location, 9380., Italy
+location, 9560.015034000000, Hubei Province, Ezhou City
+location, 9560.015076000000, Hubei Province, Shishou County
+location, 9560.022, Jilin Province
+location, 9560.023, Liaoning Province
+location, 9560.018087000000, Jiangsu Province, Taicang City
+location, 9560.037047000000, Zhejiang Province, Fuyang City
+location, 9560.027, Shaanxi Province
+location, 9560.024, Ningxia Hui Autonomous Region
+location, 9560.025, Qinghai Province
+location, 9651.101000000000, Macedonia, Skopje
+location, 9560.028016000000, Shandong Province, Laiwu City
+location, 9560.029, Shanghai Municipality
+location, 9560.028067000000, Shandong Province, Yanzhou
+location, 9560.004024000000, Fujian Province, Shanghang County
+location, 9420.105000000000, India, Ahmedabad
+location, 9560.002028000000, Beijing, Daxing District
+location, 9560.022024000000, Jilin Province, Dongliao
+location, 9560.011029000000, Hebei Province, Leting County
+location, 9560.028103000000, Shandong Province, Jizhou County
+location, 9290.101000000000, Cambodia, Phnom Penh
+location, 9560.005032000000, Gansu Province, Zhangjiachuan Hui Autonomous County
+location, 9760.119000000000, Russia, Ufa
+location, 9560.026061000000, Shanxi Province, Jinzhong City
+location, 9110.104000000000, Brazil, Salvador
+location, 9560.015067001000, Hubei Province, Hong'an County, Yonghe District
+location, 9210.501003000000, USA, Massachusetts, Waltham
+location, 9260.103000000000, Greece, Heraklion
+location, 9829.101000000000, Seychelles, Victoria
+location, 9560.031, Sichuan Province
+location, 9390.102000000000, Indonesia, Sishui
+location, 9560.026053000000, Shanxi Province, Taigu
+location, 9560.016087000000, Hunan Province, Zixing City
+location, 9560.007003000000, Guangxi Zhuang Autonomous Region, Qinzhou City
+location, 9210.651021000000, USA, New York, Stony Brook
+location, 9560.033, Tianjin Municipality
+location, 9560.012011000000, Heilongjiang Province, Mudanjiang City
+location, 9560.026065000000, Shanxi Province, Huairen County
+location, 9560.001022000000, Anhui Province, Fengyang County
+location, 9560.036003000000, Yunnan Province, Qujing
+location, 9560.001053000000, Anhui Province, Xiao County
+location, 9760.103000000000, Russia, Odessa
+location, 9560.016091000000, Hunan Province, Miluo City
+location, 9560.006079000000, Guangdong Province, Dongguan City
+location, 9560.037017000000, Zhejiang Province, Pinghu
+location, 9560.008031000000, Guizhou Province, Wengan County
+location, 9860.115000000000, Republic of Korea, Suwon City
+location, 9560.026074000000, Shanxi Province, Daixian County
+location, 9340.009000000000, Hungary, Godollo
+location, 9210.727001000000, USA, Texas, Houston
+location, 9560.025012000000, Qinghai Province, Haixi City
+location, 9412.001000000000, Jamaica, Kingston
+location, 9210.651000000000, USA, New York
+location, 9560.032011000000, Taiwan, Xinzhu County
+location, 9070., Comoros
+location, 9560.018045000000, Jiangsu Province, Hongze County
+location, 9560.016008000000, Hunan Province, Cili County
+location, 9560.028025000000, Shandong Province, Tai'an County
+location, 9560.015057000000, Hubei Province, E'xi Prefecture
+location, 9560.036026000000, Yunnan Province, Xishuangbanna Dai Autonomous Prefecture
+location, 9560.004006000000, Fujian Province, Putian City
+location, 9560.017059000000, Inner Mongolia Autonomous Region, Ordos City
+location, 9560.034032000000, Tibet Autonomous Region, Dingqing County
+location, 9560.017087000000, Inner Mongolia Autonomous Region, Xilingol
+location, 9560.026024000000, Shanxi Province, Xiangfen County
+location, 9560.021029000000, Jiangxi Province, Shangyao
+location, 9127., Croatia
+location, 9560.032001000000, Taiwan, Taipei
+location, 9560.012055000000, Heilongjiang Province, Longjiang County
+location, 9560.016078000000, Hunan Province, Changde County
+location, 9560.001008000000, Anhui Province, Jixi County
+location, 9410., Japan
+location, 9560.028119000000, Shandong Province, Dezhou City
+location, 9740.101000000000, Syria, Damascus
+location, 9210.201015000000, USA, California, Santa Barbara
+location, 9540.111000000000, Mexico, Cancun
+location, 9560.007032000000, Guangxi Zhuang Autonomous Region, Tiandong
+location, 9560.001059000000, Anhui Province, Guzhen County
+location, 9750.114000000000, Spain, Seville
+location, 9560.016054000000, Hunan Province, Huaihui District
+location, 9560.001019000000, Anhui Province, Tongling City
+location, 9560.007051000000, Guangxi Zhuang Autonomous Region, Tianyang County
+location, 9560.031108000000, Sichuan Province, Naxi County
+location, 9560.016045000000, Hunan Province, Shimen
+location, 9560.011099000000, Hebei Province, Jizhou City
+location, 9560.001067000000, Anhui Province, Yuexi County
+location, 9560.006018000000, Guangdong Province, Maoming City
+location, 9560.015001008000, Hubei Province, Wuhan City, Jianghan District
+location, 9560.036021000000, Yunnan Province, Shiping
+location, 9420.104000000000, India, Hyderabad
+location, 9710.103000000000, Philippines, Makati City
+location, 9560.026004000000, Shanxi Province, Jincheng City
+location, 9560.023008000000, Liaoning Province, Tai'an County
+location, 9560.028002000000, Shandong Province, Jinan City
+location, 9110.103000000000, Brazil, Sao Paulo
+location, 9560.026026000000, Shanxi Province, Wutai County
+location, 9560.016071000000, Hunan Province, Shuangfeng County
+location, 9860., Republic of Korea (South Korea)
+location, 9560.011065000000, Hebei Province, Linshui County
+location, 9560.033017000000, Tianjin, Nankai District
+location, 9560.037033000000, Zhejiang Province, Leqing
+location, 9475., Libya
+location, 9150., Cape Verde
+location, 9180.101000000000, Ethiopia, Addis Ababa
+location, 9560.004046000000, Fujian Province,  Sanmingzhi City
+location, 9700., Malta
+location, 9370.135000000000, Germany, Clausthal-Zellerfeld
+location, 9560.017075000000, Inner Mongolia Autonomous Region, Zhalantun City
+location, 9560.013076000000, Henan Province, Lushi County
+location, 9720.105000000000, French Polynesia, Papeete
+location, 9560.021048000000, Jiangxi Province, Qing An County
+location, 9610.101000000000, Iceland, Reykjavik
+location, 9560.017086000000, Inner Mongolia Autonomous Region, Wulate Front County
+location, 9560.037066000000, Zhejiang Province, Yongjia County
+location, 9560.027059000000, Shaanxi Province, Hanyin County
+location, 9462., Nigeria
+location, 9560.001031000000, Anhui Province, Suxian County
+location, 9210.662002000000, USA, North Carolina, Durham
+location, 9620.102000000000, Morocco, Marakach
+location, 9560.035023000000, Xinjiang Uygur Autonomous Region, Pishan
+location, 9560.005047000000, Gansu Province, Zhenyuan County
+location, 9410.117000000000, Japan, Sendai
+location, 9210.495002000000, USA, Ohio, Cincinnati
+location, 9840.111001000000, Ukraine, Autonomous Republic of Crimea, Simferopol
+location, 9560.018085000000, Jiangsu Province, Zhenjiang Prefecture
+location, 9560.037046000000, Zhejiang Province, Zhuji City
+location, 9560.037059000000, Zhejiang Province, Taizhou City
+location, 9560.017021000000, Inner Mongolia Autonomous Region, Wuhai City
+location, 9560.011136000000, Hebei Province, Fuping County
+location, 9560.016057000000, Hunan Province, Loudi Prefecture
+location, 9280.104000000000, Belgium, Brugge
+location, 9210.481001000000, USA, Illinois, Chicago
+location, 9989., Yugoslavia
+location, 9560.016069000000, Hunan Province, Hanyan County
+location, 9670.103000000000, New Zealand, Christchurch
+location, 9560.018041000000, Jiangsu Province, Jiangning County
+location, 9560.023038000000, Liaoning Province, Liaozhong County
+location, 9560.011091000000, Hebei Province, Cang County
+location, 9560.028069000000, Shandong Province, Zhangqiu County
+location, 9560.004002000000, Fujian Province, Quanzhou City
+location, 9560.017003000000, Inner Mongolia Autonomous Region, Chifeng City
+location, 9560.006041000000, Guangdong Province, Jieyang City
+location, 9560.026048000000, Shanxi Province, Hongzhao County
+location, 9560.021065000000, Jiangxi Province, Shanggao County
+location, 9560.012033000000, Heilongjiang Province, Helen
+location, 9210.801009000000, USA, Wisconsin, Madison
+location, 9619., Peru
+location, 9560.017005000000, Inner Mongolia Autonomous Region, Hulunbeier
+location, 9475.101000000000, Libya, Tripoli
+location, 9560.022004000000, Jilin Province, Songyuan City
+location, 9560.007033000000, Guangxi Zhuang Autonomous Region, Ningming
+location, 9560.031092000000, Sichuan Province, Wanxian Prefecture
+location, 9560.016034000000, Hunan Province, Li County
+location, 9560.003007000000, Chongqing Municipality, Yuzhong District
+location, 9560.022015000000, Jilin Province, Taonan
+location, 9560.034024000000, Tibet Autonomous Region, Ritu County
+location, 9560.003006000000, Chongqing Municipality, Dadukou District
+location, 9560.018007000000, Jiangsu Province, Fengxian County
+location, 9380.101000000000, Italy, Rome
+location, 9560.013077000000, Henan Province, Yuxian County
+location, 9560.037061000000, Zhejiang Province, Ruijian
+location, 9440.102000000000, Ireland, Shannon
+location, 9560.028053000000, Shandong Province, Jining City
+location, 9210.221101000000, USA, Delaware, Newark
+location, 9861.101000000000, Rwanda, Kigali
+location, 9560.021011000000, Jiangxi Province, Ganzhou Prefecture
+location, 9560.001043000000, Anhui Province, Huaining
+location, 9520.101000000000, Pakistan, Karachi
+location, 9560.021012000000, Jiangxi Province, Ganzhou City
+location, 9560.003017000000, Chongqing Municipality, Jiangjin
+location, 9560.025015000000, Qinghai Province, Minhe County
+location, 9560.009002000000, Hainan Province, Sanya City
+location, 9690.103000000000, Netherlands, Hague
+location, 9560.006077009000, Guangdong Province, Fushan City, Shunde District
+location, 9560.013083000000, Henan Province, Fangcheng County
+location, 9560.027011000000, Shaanxi Province, Zhidan County
+location, 9410.103000000000, Japan, Kyoto
+location, 9560.011003000000, Hebei Province, Baoding City
+location, 9560.016006000000, Hunan Province, Xiangtan City
+location, 9560.018067000000, Jiangsu Province, Jiangyin City
+location, 9560.006014000000, Guangdong Province, Heyuan County
+location, 9560.031057000000, Sichuan Province, Xichong County
+location, 9560.012004000000, Heilongjiang Province, Qiqihar City
+location, 9390.105000000000, Indonesia, Bandung
+location, 9560.016061000000, Hunan Province, Sangzhi County
+location, 9560.003025000000, Chongqing Municipality, Wansheng District
+location, 9560.011118000000, Hebei Province, Funing
+location, 9560.006026000000, Guangdong Province, Meixian City
+location, 9560.022096000000, Jilin Province, Zhenlai County
+location, 9560.012054000000, Heilongjiang Province, Suifenhe City
+location, 9560.011101000000, Hebei Province, Wei County
+location, 9560.013026000000, Henan Province, Anyang City
+location, 9560.034009000000, Tibet Autonomous Region, Biru County
+location, 9560.023032000000, Liaoning Province, Faku County
+location, 9560.006037000000, Guangdong Province, Conghua City
+location, 9560.018062000000, Jiangsu Province, Xiao County
+location, 9560.031017000000, Sichuan Province, Guanxian County
+location, 9560.018068000000, Jiangsu Province, Baoying County
+location, 9560.028032000000, Shandong Province, Haiyang City
+location, 9560.023042000000, Liaoning Province, Yangjiazhangzi
+location, 9560.037043000000, Zhejiang Province, Dinghai
+location, 9560.028113000000, Shandong Province, Xintai County
+location, 9140.101000000000, Czechoslovakia, Prague
+location, 9560.021044000000, Jiangxi Province, Lianhua County
+location, 9560.013051000000, Henan Province, Yanling County
+location, 9888.101000000000, Vanuatu, Port Vila
+location, 9560.034025000000, Tibet Autonomous Region, Ngari
+location, 9530.101000000000, Kyrgyzstan, Bishkek
+location, 9560.032004000000, Taiwan, Zhanghua
+location, 9560.001018000000, Anhui Province, Wuwei County
+location, 9390., Indonesia
+location, 9760.112000000000, Russia, Yekaterinburg
+location, 9560.031001000000, Sichuan Province, Chengdu City
+location, 9560.027034000000, Shaanxi Province, Huayin County
+location, 9560.028142000000, Shandong Province, Juxian County
+location, 9560.011047000000, Hebei Province, Jixian County
+location, 9560.028077000000, Shandong Province, Dezhou Prefecture
+location, 9274., Belarus
+location, 9560.012062000000, Heilongjiang Province, Mulan County
+location, 9210.611008000000, USA, New Jersey, Princeton
+location, 9210.611009000000, USA, New Jersey, South Orange
+location, 9090., Argentina
+location, 9210.201002000000, USA, California, Berkeley
+location, 9560.011095000000, Hebei Province, Beidaihe
+location, 9370.102000000000, Germany, Berlin
+location, 9560.031098000000, Sichuan Province, Mianyang City
+location, 9560.026076000000, Shanxi Province, Xinzhou City
+location, 9210.675001000000, USA, Oregon, Portland
+location, 9560.027026002000, Shaanxi Province, Xianyang City, Qindu District
+location, 9560.001045000000, Anhui Province, Wangjiang County
+location, 9560.029029000000, Shanghai, Jiading District
+location, 9560.028024000000, Shandong Province, Ninghe County
+location, 9560.018064000000, Jiangsu Province, Pingcha District
+location, 9560.027016000000, Shaanxi Province, Fuping County
+location, 9970., Poland
+location, 9560.006003000000, Guangdong Province, Dongguan County
+location, 9560.015036000000, Hubei Province, Huangpo County
+location, 9550., UAE
+location, 9560.021043000000, Jiangxi Province, Jishan County
+location, 9560.037024000000, Zhejiang Province, Haining
+location, 9164., Chad
+location, 9560.021042000000, Jiangxi Province, Fuzhou Prefecture
+location, 9940.101000000000, Tunisia, Tunis
+location, 9210.609002000000, USA, New Mexico, Albuquerque
+location, 9560.029011000000, Shanghai, Huangpu District
+location, 9760.121000000000, Russia, Arkhangelsk
+location, 9560.036012000000, Yunnan Province, Yunlong County
+location, 9560.015086000000, Hubei Province, Chongyang County
+location, 9110.101000000000, Brazil, Rio de Janeiro
+location, 9420.103000000000, India, Bangalore
+location, 9560.017009001000, Inner Mongolia Autonomous Region, Hulun Buir League, Ewenke Banner
+location, 9560.024005000000, Ningxia Hui Autonomous Region, Guyuan County
+location, 9560.006039000000, Guangdong Province, Huadu
+location, 9560.027029000000, Shaanxi Province, Yaoxian County
+location, 9560.011027000000, Hebei Province, Baxian County
+location, 9560.024006000000, Ningxia Hui Autonomous Region, Yinnan Prefecture
+location, 9560.028045000000, Shandong Province, Laixi County
+location, 9560.028127000000, Shandong Province, Shenxian County
+location, 9210.201014000000, USA, California, Claremont
+location, 9560.011135000000, Hebei Province, Baixiang County
+location, 9560.027052000000, Shaanxi Province, Yan'an County
+location, 9560.021053000000, Jiangxi Province, Shangrao City
+location, 9521., Palestine
+location, 9560.031022000000, Sichuan Province, Pengshui County
+location, 9560.031055000000, Sichuan Province, Xinjing
+location, 9760.117000000000, Russia, Yakutsk
+location, 9560.015046000000, Hubei Province, Luotian County
+location, 9060., Colombia
+location, 9560.037075000000, Zhejiang Province, Qing County
+location, 9560.031073000000, Sichuan Province, Leibo County
+location, 9560.037014000000, Zhejiang Province, Fenghua City
+location, 9560.002025000000, Beijing, Fangshan District
+location, 9210.608000000000, USA, New Hampshire
+location, 9560.037006000000, Zhejiang Province, Wenzhou City
+location, 9560.012032000000, Heilongjiang Province, Jiamusi City
+location, 9211.102000000000, Fiji, Nadi
+location, 9560.015072000000, Hubei Province, Mianyang County
+location, 9560.016073000000, Hunan Province, Pingjiang County
+location, 9827., Serbia
+location, 9560.031093000000, Sichuan Province, Wanxian City
+location, 9560.005018000000, Gansu Province, Tianzhu Tibetan Autonomous County
+location, 9560.028031000000, Shandong Province, Guangrao
+location, 9560.006042000000, Guangdong Province, Meixian County
+location, 9560.028012000000, Shandong Province, Shengli
+location, 9560.005001000000, Gansu Province, Lanzhou City
+location, 9325.101000000000, Eritrea, Asmara
+location, 9560.035003001000, Xinjiang Uygur Autonomous Region, Changji, Hui Autonomous Prefecture
+location, 9560.028063000000, Shandong Province, Laizhou City
+location, 9810., Sweden
+location, 9560.013055000000, Henan Province, Huaiyang County
+location, 9560.027026000000, Shaanxi Province, Xianyang City
+location, 9280.103000000000, Belgium, Leuven
+location, 9861., Rwanda
+location, 9560.016012000000, Hunan Province, Yuanjiang
+location, 9560.022001000000, Jilin Province, Changchun City
+location, 9560.004013000000, Fujian Province, Pucheng
+location, 9560.008035000000, Guizhou Province, Meitan County
+location, 9560.015065000000, Hubei Province, Xiaogan City
+location, 9560.026052000000, Shanxi Province, Yangqu County
+location, 9210.201001000000, USA, California, Stanford
+location, 9560.011013000000, Hebei Province, Yanshan County
+location, 9785., Slovakia
+location, 9560.009009000000, Hainan Province, Lingao County
+location, 9560.028044000000, Shandong Province, Feicheng City
+location, 9560.001002000000, Anhui Province, Anqing City
+location, 9560.009008000000, Hainan Province, Baoting County
+location, 9829., Seychelles
+location, 9560.033006000000, Tianjin, Hedong District
+location, 9560.031054000000, Sichuan Province, Weiyuan County
+location, 9560.001026000000, Anhui Province, Tianchang
+location, 9560.017018000000, Inner Mongolia Autonomous Region, Ejin Horo Banner
+location, 9210.503000000000, USA, Michigan
+location, 9560.031074000000, Sichuan Province, Meigu County
+location, 9117.102000000000, Brunei, Bandar Seri Begawan
+location, 9463., Kuwait
+location, 9560.011033000000, Hebei Province, Shishou
+location, 9210.731000000000, USA, Washington
+location, 9410.115000000000, Japan, Nara
+location, 9560.008014000000, Guizhou Province, Zhenning County
+location, 9710., Philippines
+location, 9645., Namibia
+location, 9560.036019000000, Yunnan Province, Suijiang County
+location, 9560.011008000000, Hebei Province, Fengrun County
+location, 9560.001057000000, Anhui Province, Liuan Prefecture
+location, 9560.027001000000, Shaanxi Province, Xi'an City
+location, 9560.004044000000, Fujian Province, Pinghe County
+location, 9560.028097000000, Shandong Province, Wudi City
+location, 9560.028096000000, Shandong Province, Mouping
+location, 9810.002000000000, Sweden, Umea
+location, 9560.035001000000, Xinjiang Uygur Autonomous Region, Urumqi City
+location, 9560.011066000000, Hebei Province, Luanping County
+location, 9560.016033000000, Hunan Province, Youxian
+location, 9560.036016000000, Yunnan Province, Zhaotong City
+location, 9560.028112000000, Shandong Province, Qingzhou City
+location, 9300., Azerbaijan
+location, 9560.028038000000, Shandong Province, Wucheng
+location, 9560.007049000000, Guangxi Zhuang Autonomous Region, Pingxiang
+location, 9560.031036000000, Sichuan Province, Guang'an
+location, 9560.013023000000, Henan Province, Pingdingshan City
+location, 9270.105000000000, Australia, Cairns
+location, 9560.026008000000, Shanxi Province, Dingxiang County
+location, 9560.023031000000, Liaoning Province, Huanren County
+location, 9210.651009000000, USA, New York, Buffalo
+location, 9560.011046000000, Hebei Province, Gaoyang County
+location, 9210.211009000000, USA, Connecticut, New Haven
+location, 9560.023049000000, Liaoning Province, Tiefa City
+location, 9560.028087000000, Shandong Province, Chiping County
+location, 9560.001063000000, Anhui Province, 9560.011059
+location, 9560.021038000000, Jiangxi Province, Yudu
+location, 9560.005035000000, Gansu Province, Lixian
+location, 9980.101000000000, Yemen, Sanaa
+location, 9560.027023000000, Shaanxi Province, Pucheng County
+location, 9560.037049000000, Zhejiang Province, Pingyang County
+location, 9364., Guinea-Bissau
+location, 9560.006068000000, Guangdong Province, Shanwei City
+location, 9560.031096000000, Sichuan Province, Shuangqiao District
+location, 9210.201008000000, USA, California, Pasadena
+location, 9560.013101000000, Henan Province, Yuanyang City
+location, 9560.023075000000, Liaoning Province, Fu County
+location, 9560.001003000000, Anhui Province, Wuhu City
+location, 9270.108000000000, Australia, Hobart
+location, 9560.016007000000, Hunan Province, Xiangxiang County
+location, 9560.008004000000, Guizhou Province, Liupanshui City
+location, 9560.017092000000, Inner Mongolia Autonomous Region, Ongniud Banner
+location, 9210.503003000000, USA, Michigan, East Lansing
+location, 9560.028138000000, Shandong Province, Muping City
+location, 9560.001056000000, Anhui Province, Su County
+location, 9560.012024000000, Heilongjiang Province, Wudaogang District
+location, 9560.028139000000, Shandong Province, Qufu City
+location, 9560.035042000000, Xinjiang Uygur Autonomous Region, Tacheng Prefecture
+location, 9210.721000000000, USA, South Carolina
+location, 9560.034001000000, Tibet Autonomous Region, Lhasa
+location, 9260., Greece
+location, 9210.491000000000, USA, Kansas
+location, 9560.015085000000, Hubei Province, Yunxian County
+location, 9560.036034000000, Yunnan Province, Songming County
+location, 9560.016075000000, Hunan Province, Jishou City
+location, 9560.011061000000, Hebei Province, Dacheng
+location, 9219., Bahrain
+location, 9560.007028000000, Guangxi Zhuang Autonomous Region, Guixian County
+location, 9560.037058000000, Zhejiang Province, Xiangshan County
+location, 9560.037042000000, Zhejiang Province, Deqing County
+location, 9560.015029000000, Hubei Province, Yingcheng City
+location, 9382., Israel
+location, 9560.023053000000, Liaoning Province, Panshan County
+location, 9560.036031000000, Yunnan Province, Longchuan County
+location, 9560.004035000000, Fujian Province, Pingnan County
+location, 9560.004034000000, Fujian Province, Yongding County
+location, 9560.026066000000, Shanxi Province, Yuxian County
+location, 9560.033002000000, Tianjin, Wuqing
+location, 9560.025005000000, Qinghai Province, Datong County
+location, 9560.034027000000, Tibet Autonomous Region, Nagchu Prefecture
+location, 9560.017057000000, Inner Mongolia Autonomous Region, Hanggin Rear Banner
+location, 9560.035027000000, Xinjiang Uygur Autonomous Region, Yecheng
+location, 9560.013082000000, Henan Province, Hebi City
+location, 9560.022106000000, Jilin Province, Qianan County
+location, 9560.006008000000, Guangdong Province, Zhaoqing Prefecture
+location, 9210.311000000000, USA, Georgia
+location, 9560.026025000000, Shanxi Province, Linfen Prefecture
+location, 9970.102000000000, Poland, Krakow
+location, 9560.012009000000, Heilongjiang Province, Songliao
+location, 9560.022023000000, Jilin Province, Ji'an City
+location, 9560.006024000000, Guangdong Province, Huiyang District
+location, 9560.027043000000, Shaanxi Province, Qianyan
+location, 9560.004008000000, Fujian Province, Jinjiang City
+location, 9660.104000000000, Malaysia, Malacca
+location, 9560.016053000000, Hunan Province, Nanxian County
+location, 9560.017017000000, Inner Mongolia Autonomous Region, Ih Ju League
+location, 9560.022026000000, Jilin Province, Huaide County
+location, 9560.013081000000, Henan Province, Weihui City
+location, 9560.011043000000, Hebei Province, Zunhua
+location, 9560.007005000000, Guangxi Zhuang Autonomous Region, Guilin City
+location, 9560.027037000000, Shaanxi Province, Shenmu County
+location, 9560.012025000000, Heilongjiang Province, Suihua County
+location, 9560.037055000000, Zhejiang Province, Qinshan
+location, 9370.106000000000, Germany, Frankfurt
+location, 9560.017001000000, Inner Mongolia Autonomous Region, Bayannur City
+location, 9560.036037000000, Yunnan Province, Ludian County
+location, 9560.021068000000, Jiangxi Province, Ruijin
+location, 9560.037034000000, Zhejiang Province, Linhai
+location, 9560.018, Jiangsu Province
+location, 9560.001027000000, Anhui Province, Zongyang County
+location, 9210.485008000000, USA, Indiana, Notre Dame
+location, 9560.017098000000, Inner Mongolia Autonomous Region, Ulanhot
+location, 9560.022066000000, Jilin Province, Yushu County
+location, 9560.016081000000, Hunan Province, Ning County
+location, 9560.028072000000, Shandong Province, Zhucheng City
+location, 9560.023065000000, Liaoning Province, Fumeng County
+location, 9300.101000000000, Azerbaijan, Baku
+location, 9560.007039000000, Guangxi Zhuang Autonomous Region, Bailiu County
+location, 9560.002024000000, Beijing Municipality, Shijingshan District
+location, 9560.016048000000, Hunan Province, Chenzhou Prefecture
+location, 9560.036032009000, Yunnan Province, Dehong, Dai-Jingpo Autonomous Prefecture
+location, 9520., Pakistan
+location, 9106.101000000000, Botswana, Gaborone
+location, 9844., Timor-Leste
+location, 9560.002015000000, Beijing, Chaoyang District
+location, 9560.003011000000, Chongqing Municipality, Nanchuan County
+location, 9350.104000000000, France, Saint-Denis
+location, 9560.006064000000, Guangdong Province, Dapu
+location, 9560.007043000000, Guangxi Zhuang Autonomous Region, Lingui County
+location, 9560.016039000000, Hunan Province, Dong'an
+location, 9859., Qatar
+location, 9560.031082000000, Sichuan Province, Daxi District
+location, 9169., Equatorial Guinea
+location, 9560.022092000000, Jilin Province, Bajiazi
+location, 9560.026011000000, Shanxi Province, Yanbei Prefecture
+location, 9560.028037000000, Shandong Province, Qixia
+location, 9560.028128000000, Shandong Province, Linshu County
+location, 9560.028125000000, Shandong Province, Lijin County
+location, 9560.031115000000, Sichuan Province, Pengzhou City
+location, 9560.018066000000, Jiangsu Province, Shuchang
+location, 9560.017022000000, Inner Mongolia Autonomous Region, Dong Ujimqin Banner
+location, 9560.018001009000, Jiangsu Province, Nanjing City, Hexixinxheng District
+location, 9960.103000000000, South Africa, Pretoria
+location, 9010., Angola
+location, 9560.011111000000, Hebei Province, Huanghua City
+location, 9560.011075000000, Hebei Province, Yutian County
+location, 9560.017073000000, Inner Mongolia Autonomous Region, Tu Left Banner
+location, 9560.011014000000, Hebei Province, Changli County
+location, 9560.021034000000, Jiangxi Province, Ningdu County
+location, 9210.201009000000, USA, California, Long Beach
+location, 9560.022029000000, Jilin Province, Lanshu
+location, 9400., Guyana
+location, 9380.102000000000, Italy, Milan
+location, 9560.017093000000, Inner Mongolia Autonomous Region, Naiman Banner
+location, 9210.728011000000, USA, Virginia, Arlington
+location, 9560.031069000000, Sichuan Province, Luhuo County
+location, 9560.027046000000, Shaanxi Province, Changwu County
+location, 9651., Macedonia
+location, 9560.002012000000, Beijing, Haidian District
+location, 9560.018016000000, Jiangsu Province, Yancheng City
+location, 9560.035037000000, Xinjiang Uygur Autonomous Region, Kezilesu District
+location, 9652.101000000000, Mauritania, Nouakchott
+location, 9560.027006000000, Shaanxi Province, Yan'an City
+location, 9623.001000000000, Mongolia, Ulan Bator
+location, 9560.016074000000, Hunan Province, Chaling County
+location, 9560.006034000000, Guangdong Province, Dabu
+location, 9370.105000000000, Germany, Hannover
+location, 9560.037026000000, Zhejiang Province, Putuo
+location, 9560.007029000000, Guangxi Zhuang Autonomous Region, Pingnan County
+location, 9560.008001000000, Guizhou Province, Guiyang City
+location, 9560.007026000000, Guangxi Zhuang Autonomous Region, Bose County
+location, 9560.018022000000, Jiangsu Province, Nantong City
+location, 9140., Czechoslovakia
+location, 9560.007041000000, Guangxi Zhuang Autonomous Region, Baise County
+location, 9560.023039000000, Liaoning Province, Qingyuan
+location, 9560.006049000000, Guangdong Province, Chao'an
+location, 9560.031075000000, Sichuan Province, Butuo County
+location, 9370.134000000000, Germany, Bochum
+location, 9560.023072000000, Liaoning Province, Huludao City
+location, 9560.037001000000, Zhejiang Province, Hangzhou City
+location, 9210.821001000000, USA, Utah, Salt Lake City
+location, 9560.006052000000, Guangdong Province, Jiexi
+location, 9560.006005000000, Guangdong Province, Foshan City
+location, 9560.022002000000, Jilin Province, Jilin City
+location, 9645.101000000000, Namibia, Windhoek
+location, 9380.107000000000, Italy, Palermo
+location, 9560.015006000000, Hubei Province, Dawu County
+location, 9560.031114000000, Sichuan Province, Dayi County
+location, 9560.016085000000, Hunan Province, Lengshuitan City
+location, 9560.012002002009, Heilongjiang Province, Daqing City, Ranghulu District, Lamadian Township
+location, 9560.017074000000, Inner Mongolia Autonomous Region, Dalate Banner
+location, 9210.725002000000, USA, Tennessee, Memphis
+location, 9560.012002002000, Heilongjiang Province, Daqing City, Ranghulu District
+location, 9720., French Polynesia
+location, 9560.011023000000, Hebei Province, Wuji County
+location, 9410.111000000000, Japan, Niigata
+location, 9560.031097000000, Sichuan Province, Tianquan
+location, 9560.022022000000, Jilin Province, Antu
+location, 9560.006027000000, Guangdong Province, Nanhai County
+location, 9560.031048000000, Sichuan Province, Jinyang County
+location, 9560.018035000000, Jiangsu Province, Jurong City
+location, 9560.009006000000, Hainan Province, Tunchang County
+location, 9560.023015000000, Liaoning Province, Haicheng County
+location, 9560.013001000000, Henan Province, Zhengzhou City
+location, 9560.021055000000, Jiangxi Province, Jinggangshan City
+location, 9560.006028000000, Guangdong Province, Panyu
+location, 9560.007006000000, Guangxi Zhuang Autonomous Region, Beihai City
+location, 9560.027008000000, Shaanxi Province, Qingjian County
+location, 9760.111000000000, Russia, Republic of Tatarstan
+location, 9560.017012000000, Inner Mongolia Autonomous Region, Bayinguoleng Prefecture
+location, 9560.006045000000, Guangdong Province, Qingquan
+location, 9560.018047000000, Jiangsu Province, Jintan
+location, 9560.006009000000, Guangdong Province, Huizhou City
+location, 9560.006043000000, Guangdong Province, Taishan County
+location, 9470.126000000000, United Kingdom, Lancaster
+location, 9560.011017000000, Hebei Province, Pingshan County
+location, 9560.028054000000, Shandong Province, Rizhao County
+location, 9420.106000000000, India, Goa
+location, 9210.608001000000, USA, New Hampshire, Concord
+location, 9770.102000000000, Turkey, Istanbul
+location, 9274.101000000000, Belarus, Minsk
+location, 9560.011049000000, Hebei Province, Pingxiang
+location, 9890., Tajikistan
+location, 9560.006048000000, Guangdong Province, Huiyang Prefecture
+location, 9560.017096000000, Inner Mongolia Autonomous Region, Ar Horqin Banner
+location, 9417.101000000000, Jordan, Amman
+location, 9560.013065000000, Henan Province, Xiping County
+location, 9560.013094000000, Henan Province, Wuzhi County
+location, 9560.022005000000, Jilin Province, Tonghua County
+location, 9560.021015000000, Jiangxi Province, Guixi City
+location, 9560.016027000000, Hunan Province, Liuyang County
+location, 9750.112000000000, Spain, Palma
+location, 9560.011088000000, Hebei Province, Xingtai City
+location, 9560.021059000000, Jiangxi Province, Fuzhou City
+location, 9560.018092000000, Jiangsu Province, Gaochun County
+location, 9560.034023000000, Tibet Autonomous Region, Jiading District
+location, 9560.011059000000, Hebei Province, Shucheng County
+location, 9560.023078000000, Liaoning Province, Donggou County
+location, 9883., Tonga
+location, 9560.015069000000, Hubei Province, Tianmen City
+location, 9560.028068000000, Shandong Province, Yuncheng County
+location, 9560.011022000000, Hebei Province, Zhengding County
+location, 9560.026082000000, Shanxi Province, Yuncheng City
+location, 9560.015063000000, Hubei Province, Guangshui
+location, 9250., Denmark
+location, 9560.016038000000, Hunan Province, Baojing
+location, 9560.005037000000, Gansu Province, Dingxi County
+location, 9560.007044000000, Guangxi Zhuang Autonomous Region, Shangsi
+location, 9560.013044000000, Henan Province, Yuzhou City
+location, 9560.006055000000, Guangdong Province, Bao'an
+location, 9560.023014000000, Liaoning Province, Beipiao City
+location, 9560.033001000000, Tianjin, Baodi County
+location, 9560.028115000000, Shandong Province, Ju County
+location, 9560.026043000000, Shanxi Province, Fangshan Coounty
+location, 9470.125000000000, United Kingdom, Southampton
+location, 9560.011042000000, Hebei Province, Xushui
+location, 9560.028126000000, Shandong Province, Lingxian County
+location, 9560.031066000000, Sichuan Province, Qianjiang County
+location, 9850.123000000000, Democratic People's Republic of Korea, Pyongyang
+location, 9240.101000000000, Austria, Vienna
+location, 9560.034015000000, Tibet Autonomous Region, Bomi County
+location, 9560.015002000000, Hubei Province, Xiangfan City
+location, 9560.022027000000, Jilin Province, Huinan County
+location, 9490., Mali
+location, 9560.029013000000, Shanghai, Luwan District
+location, 9560.031011000000, Sichuan Province, Dujiangyan City
+location, 9560.013027000000, Henan Province, Nanzhao
+location, 9560.023001009000, Liaoning Province, Shenyang City, Huanggu District
+location, 9560.023034000000, Liaoning Province, Kuandian
+location, 9560.026019000000, Shanxi Province, Xiaoyi County
+location, 9927., Zimbabwe
+location, 9560.017019000000, Inner Mongolia Autonomous Region, Yih Ju League
+location, 9560.011030000000, Hebei Province, Handan Prefecture
+location, 9560.018079000000, Jiangsu Province, Pei County
+location, 9560.001046000000, Anhui Province, Xiuming County
+location, 9560.035007000000, Xinjiang Uygur Autonomous Region, Yining City
+location, 9560.001042000000, Anhui Province, Suzhou City
+location, 9540.112000000000, Mexico, Morelia
+location, 9106., Botswana
+location, 9940.102000000000, Tunisia, Hammamet
+location, 9560.002018001000, Beijing Municipality, Tongxian County, Taihu Community
+location, 9560.023059000000, Liaoning Province, Fengcheng City
+location, 9210.151003000000, USA, Alabama, Auburn
+location, 9560.028081000000, Shandong Province, Tengzhou
+location, 9560.027004000000, Shaanxi Province, Weinan City
+location, 9560.008015000000, Guizhou Province, Duyun City
+location, 9560.037082000000, Zhejiang Province, Wuzhen
+location, 9082., Cote d'Ivoire
+location, 9210.481003000000, USA, Illinois, Normal
+location, 9467.101000000000, United Arab Emirates, Abu Dhabi
+location, 9560.011093000000, Hebei Province, Xinji City
+location, 9560.036001007000, Yunnan Province, Kunming City, Guandu District
+location, 9560.034006000000, Tibet Autonomous Region, Nyingchi
+location, 9680.111000000000, Myanmar, Yangon
+location, 9560.035029000000, Xinjiang Uygur Autonomous Region, Yining County
+location, 9119., Burundi
+location, 9560.025012009000, Qinghai Province, Haixi City, Mongolian-Tibetan Autonomous Prefecture
+location, 9560.034012000000, Tibet Autonomous Region, Gyangze County
+location, 9120., Cook Islands
+location, 9790.104000000000, Switzerland, Davos
+location, 9560.031021000000, Sichuan Province, Pengxian County
+location, 9560.011034000000, Hebei Province, Xiongxian County
+location, 9450.107000000000, Kazakhstan, Almaty
+location, 9560.029015000000, Shanghai, Jiading County
+location, 9560.023045000000, Liaoning Province, Fuxian County
+location, 9560.015081000000, Hubei Province, Dalu
+location, 9560.016051000000, Hunan Province, Hengnan County
+location, 9560.037073000000, Zhejiang Province, Pingyang City
+location, 9560.024001000000, Ningxia Hui Autonomous Region, Yinchuan City
+location, 9950., Democratic Republic of the Congo
+location, 9560.023024000000, Liaoning Province, Gaiping
+location, 9560.005013000000, Gansu Province, Hezheng County
+location, 9560.023071000000, Liaoning Province, Lushun
+location, 9560.024007000000, Ningxia Hui Autonomous Region, Pingluo County
+location, 9560.011128000000, Hebei Province, Gucheng County
+location, 9560.015091000000, Hubei Province, Gucheng County
+location, 9412., Jamaica
+location, 9560.004018000000, Fujian Province, Fuqing City
+location, 9560.026044000000, Shanxi Province, Fenxi County
+location, 9560.036035000000, Yunnan Province, Chenggong County
+location, 9370.136000000000, Germany, Heiligendamm
+location, 9560.023057000000, Liaoning Province, Fusun
+location, 9560.031038000000, Sichuan Province, Dachuan
+location, 9560.022019000000, Jilin Province, Lishu County
+location, 9130.101000000000, Cyprus, Nicosia
+location, 9560.028071000000, Shandong Province, Zhanqiu County
+location, 9560.011057000000, Hebei Province, Anguo
+location, 9560.037036000000, Zhejiang Province, Yongkang City
+location, 9560.007008000000, Guangxi Zhuang Autonomous Region, Pingguo
+location, 9560.027019000000, Shaanxi Province, Xingping County
+location, 9120.102000000000, Cook Islands, Avarua
+location, 9560.023058000000, Liaoning Province, Dilian
+location, 9560.017082000000, Inner Mongolia Autonomous Region, Kezuozhongqi County
+location, 9560.033008000000, Tianjin, Dagang District
+location, 9560.022102000000, Jilin Province, Shulan City
+location, 9560.023005000000, Liaoning Province, Jinzhou City
+location, 9560.028055000000, Shandong Province, Ye County
+location, 9810.003000000000, Sweden, Gothenburg
+location, 9560.035013000000, Xinjiang Uygur Autonomous Region, Ili Kazak Prefecture
+location, 9560.004032000000, Fujian Province, Longyan City
+location, 9560.016015000000, Hunan Province, Xiangxi
+location, 9560.005048000000, Gansu Province, Jingning County
+location, 9650., Nepal
+location, 9560.031039000000, Sichuan Province, Rongxian
+location, 9560.035028000000, Xinjiang Uygur Autonomous Region, Shufu County
+location, 9560.017003009000, Inner Mongolia Autonomous Region, Chifeng City, Yuanbaoshan District
+location, 9750.111000000000, Spain, Gran Canaria
+location, 9560.001048000000, Anhui Province, Fuyang
+location, 9840.002000000000, Ukraine, Yalta
+location, 9560.031015000000, Sichuan Province, Liangping County
+location, 9560.035046000000, Xinjiang Uygur Autonomous Region, Aksu Prefecture
+location, 9560.005019000000, Gansu Province, Dunhuang County
+location, 9560.004014000000, Fujian Province, Anxi
+location, 9560.007054000000, Guangxi Zhuang Autonomous Region, Luchuan County
+location, 9560.027022000000, Shaanxi Province, Mianxian County
+location, 9390.106000000000, Indonesia, Denpasar
+location, 9560.004012000000, Fujian Province, Longxi
+location, 9410.108000000000, Japan, Nagano
+location, 9989.101000000000, Yugoslavia, Belgrade
+location, 9210.711001000000, USA, Pennsylvania, Philadelphia
+location, 9560.005027000000, Gansu Province, Gaotai County
+location, 9560.008021001000, Guizhou Province, Qiandongnan, Miao-Dong Autonomous Prefecture
+location, 9560.028005000000, Shandong Province, Zibo City
+location, 9560.027031000000, Shaanxi Province, Yulin County
+location, 9560.013037000000, Henan Province, Lingbao County
+location, 9920.101000000000, Zambia, Lusaka
+location, 9560.037086000000, Zhejiang Province,  Lishui City
+location, 9560.022001009000, Jilin Province, Changchun City, Shuangyang District
+location, 9560.004019000000, Fujian Province, Gulangyu
+location, 9560.021005000000, Jiangxi Province, Xinyu City
+location, 9560.028076000000, Shandong Province, Yucheng County
+location, 9950.101000000000, Democratic Republic of the Congo, Kinshasa
+location, 9560.022011000000, Jilin Province, Liuhe County
+location, 9560.028114000000, Shandong Province, Anqiu County
+location, 9560.001014000000, Anhui Province, Guangde County
+location, 9470.111000000000, United Kingdom, Birmingham
+location, 9560.027032000000, Shaanxi Province, Ankang City
+location, 9110.102000000000, Brazil, Brasilia
+location, 9560.001005000000, Anhui Province, Huainan City
+location, 9560.036004000000, Yunnan Province, Red River
+location, 9690.101000000000, Netherlands, Rotterdam
+location, 9800.102000000000, Togo, Kara
+location, 9560.033021000000, Tianjin Municipality, Jinghai County
+location, 9760.102000000000, Russia, St. Petersburg
+location, 9560.022103000000, Jilin Province, Liaoyuan City
+location, 9560.008002000000, Guizhou Province, Zunyi County
+location, 9240.111000000000, Austria, Graz
+location, 9560.012064000000, Heilongjiang Province, Fuyuan County
+location, 9470.128000000000, United Kingdom, Kent
+location, 9560.031006000000, Sichuan Province, Panzhihua City
+location, 9580.104000000000, Portugal, Porto
+location, 9730., Romania
+location, 9311., Uruguay
+location, 9560.031063000000, Sichuan Province, Yuexi County
+location, 9260.104000000000, Greece, Rhodes
+location, 9625., Montenegro
+location, 9560.008041000000, Guizhou Province, Zunyi Prefecture
+location, 9199., Georgia
+location, 9560.037052000000, Zhejiang Province, Yinxian County
+location, 9560.017097000000, Inner Mongolia Autonomous Region, Xilinhot City
+location, 9560.035006000000, Xinjiang Uygur Autonomous Region, Kashi Prefecture
+location, 9560.008022000000, Guizhou Province, Weining County
+location, 9560.029009000000, Shanghai, Baoshan District
+location, 9210.101000000000, USA, Washington D.C.
+location, 9560.026041000000, Shanxi Province, Lin County
+location, 9218.101000000000, Bahamas, Nassau
+location, 9560.009015000000, Hainan Province, Wanning City
+location, 9320., Ghana
+location, 9470.123000000000, United Kingdom, Gleneagles
+location, 9560.037012000000, Zhejiang Province, Tongxiang City
+location, 9560.024011000000, Ningxia Hui Autonomous Region, Tongxin County
+location, 9210.718008000000, USA, Rhode Island, Smithfield
+location, 9860.114000000000, Republic of Korea, Gyeongju
+location, 9560.018056000000, Jiangsu Province, Ganyu County
+location, 9560.015044000000, Hubei Province, Jiangling County
+location, 9560.026049000000, Shanxi Province, Heyang County
+location, 9560.034007000000, Tibet Autonomous Region, Nagarze County
+location, 9210.211000000000, USA, Connecticut
+location, 9560.013061002000, Henan Province, Mengjin County, Chaoyang Township
+location, 9560.007045000000, Guangxi Zhuang Autonomous Region, Longan County
+location, 9560.032012000000, Taiwan, Yilan County
+location, 9900.111000000000, Tanzania, Dares Salaam
+location, 9560.001017000000, Anhui Province, Hanshan County
+location, 9210.411001000000, USA, Hawaii, Honolulu
+location, 9560.031109000000, Sichuan Province, Ya'an City
+location, 9880., Cuba
+location, 9560.001029000000, Anhui Province, Qingyang County
+location, 9210.241000000000, USA, Florida
+location, 9560.013053000000, Henan Province, Fugou County
+location, 9560.008005000000, Guizhou Province, Tongren
+location, 9560.007018000000, Guangxi Zhuang Autonomous Region, Jingxiu
+location, 9760.017000000000, Russia, Omsk
+location, 9560.016021000000, Hunan Province, Fenghuang
+location, 9560.037018000000, Zhejiang Province, Shangyu County
+location, 9397., Iran
+location, 9560.012023000000, Heilongjiang Province, Yilan County
+location, 9560.033010000000, Tianjin Municipality, Ninghe County
+location, 9560.013099000000, Henan Province,  Linzhou County
+location, 9560.001074000000, Anhui Province, Chizhou City
+location, 9560.006031000000, Guangdong Province, Xingning City
+location, 9240., Austria
+location, 9785.101000000000, Slovakia, Bratislava
+location, 9560.012049000000, Heilongjiang Province, Wangkui County
+location, 9560.007021000000, Guangxi Zhuang Autonomous Region, Longzhou
+location, 9560.037027000000, Zhejiang Province, Xiaoshan City
+location, 9560.016044000000, Hunan Province, Shangfeng County
+location, 9560.009014000000, Hainan Province, Precipice County
+location, 9560.033004000000, Tianjin, Heping District
+location, 9560.012044000000, Heilongjiang Province, Linkou County
+location, 9560.004033000000, Fujian Province, Pingtan County
+location, 9560.016014000000, Hunan Province, Xupu County
+location, 9560.026038000000, Shanxi Province, Guangling County
+location, 9560.017066000000, Inner Mongolia Autonomous Region, Xilin Gol League
+location, 9250.101000000000, Denmark, Copenhagen
+location, 9370.138000000000, Germany, Garching
+location, 9560.005009000000, Gansu Province, Wuwei County
+location, 9560.018039000000, Jiangsu Province, Changshu City
+location, 9470.129000000000, United Kingdom, Reading
+location, 9560.028106000000, Shandong Province, Yinan County
+location, 9840.111000000000, Ukraine, Autonomous Republic of Crimea
+location, 9560.028048000000, Shandong Province, Zaozhuang City
+location, 9210.201007000000, USA, California, Sacramento
+location, 9560.018033000000, Jiangsu Province, Zhenjiang City
+location, 9480., Lesotho
+location, 9560.007002000000, Guangxi Zhuang Autonomous Region, Liuzhou City
+location, 9210.489003000000, USA, Iowa, Des Moines
+location, 9560.023019000000, Liaoning Province, Tieling City
+location, 9210.821000000000, USA, Utah
+location, 9560.023021000000, Liaoning Province, Liaoyang City
+location, 9560.008027000000, Guizhou Province, Qianxinan Prefecture
+location, 9410.112000000000, Japan, Fukuoka
+location, 9560.003013000000, Chongqing Municipality, Shizhong Prefecture
+location, 9560.037009000000, Zhejiang Province, Jiangnan
+location, 9560.017011000000, Inner Mongolia Autonomous Region, Bayannur League
+location, 9560.035016000000, Xinjiang Uygur Autonomous Region, Qinghe County
+location, 9560.015001009000, Hubei Province, Wuhan City, Qingshan District
+location, 9560.006022000000, Guangdong Province, Luoding County
+location, 9560.006047000000, Guangdong Province, Renhua County
+location, 9210.711002000000, USA, Pennsylvania, Pittsburgh
+location, 9560.013008000000, Henan Province, Wugang
+location, 9560.013007000000, Henan Province, Shangqiu City
+location, 9560.028132000000, Shandong Province, Yangxin County
+location, 9370.143000000000, Germany, Baden-Baden
+location, 9560.016022000000, Hunan Province, Lixian County
+location, 9660.001000000000, Malaysia, Kuala Lumpur
+location, 9461.101000000000, Niger, Niamey
+location, 9560.002081000000, Beijing, Petrochemical Industry Zone
+location, 9560.018052000000, Jiangsu Province, Jiangyin County
+location, 9560.011082000000, Hebei Province, Cangzhou City
+location, 9210.499002000000, USA, Maryland, Towson
+location, 9560.013069000000, Henan Province, Mengzhou
+location, 9560.005005000000, Gansu Province, Xiahe County
+location, 9210.801019000000, USA, Wisconsin, Milwaukee
+location, 9560.012006000000, Heilongjiang Province, Shuangcheng County
+location, 9560.006077000000, Guangdong Province, Fushan City
+location, 9560.013029000000, Henan Province, Wuyang
+location, 9560.007009000000, Guangxi Zhuang Autonomous Region, Yulin City
+location, 9560.037011000000, Zhejiang Province, Cixi City
+location, 9130., Cyprus
+location, 9870.102000000000, Uzbekistan, Samarkand
+location, 9760.111001000000, Russia, Republic of Tatarstan, Kazan
+location, 9560.031085000000, Sichuan Province, Hongyuan County
+location, 9990.101000000000, Saudi Arabia, Riyadh
+location, 9560.012012000000, Heilongjiang Province, Da Hinggan Ling Prefecture
+location, 9560.003014000000, Chongqing Municipality, Tongnan County
+location, 9560.028108000000, Shandong Province, Dong'e County
+location, 9560.003015000000, Chongqing Municipality, Kaixian County
+location, 9560.001065000000, Anhui Province, Yanggong County
+location, 9560.023002009000, Liaoning Province, Dalian City, Xigang District
+location, 9560.013064000000, Henan Province, Cili County
+location, 9560.011073000000, Hebei Province, Xingtang County
+location, 9560.028107000000, Shandong Province, Linyi City
+location, 9560.006062000000, Guangdong Province, Zijin
+location, 9560.023001000000, Liaoning Province, Shenyang City
+location, 9560.021027000000, Jiangxi Province, De'an
+location, 9560.007039002000, Guangxi Zhuang Autonomous Region, Bailiu County, Qinshuikou Village
+location, 9479., Lebanon
+location, 9154., Central African Republic
+location, 9560.003022000000, Chongqing Municipality, Beijiang County
+location, 9560.011109000000, Hebei Province, Gaoyang City
+location, 9560.008019000000, Guizhou Province, Congjiang County
+location, 9470.116000000000, United Kingdom, Surrey
+location, 9760.114000000000, Russia, Kazan
+location, 9560.011143000000, Hebei Province, Xiongan
+location, 9560.011036000000, Hebei Province, Dingxing
+location, 9810.004000000000, Sweden, Trosa
+location, 9560.016011000000, Hunan Province, Longshan County
+location, 9560.006007000000, Guangdong Province, Shantou City
+location, 9560.035031000000, Xinjiang Uygur Autonomous Region, Nilka County
+location, 9560.016072000000, Hunan Province, Chengbu
+location, 9560.021032000000, Jiangxi Province, Jie'an
+location, 9560.015008000000, Hubei Province, Hanchuan County
+location, 9190.101000000000, Gabon, Libreville
+location, 9560.009005000000, Hainan Province, Qionghai
+location, 9260.101000000000, Greece, Athens
+location, 9560.011116000000, Hebei Province, Rongchen City
+location, 9560.013013000000, Henan Province, Zhoukou Prefecture
+location, 9640., Sudan
+location, 9560.034016000000, Tibet Autonomous Region, Baxoi County
+location, 9560.023007000000, Liaoning Province, Yingkou City
+location, 9560.018075000000, Jiangsu Province, Huai An City
+location, 9560.031105000000, Sichuan Province, Langzhong City
+location, 9550.101000000000, UAE, Dubai
+location, 9560.013028000000, Henan Province, Puyang
+location, 9210.651004000000, USA, New York, West Point
+location, 9560.031104000000, Sichuan Province, Nanchong City
+location, 9560.001021000000, Anhui Province, Changfeng
+location, 9560.008016000000, Guizhou Province, Songtao
+location, 9560.023055000000, Liaoning Province, Hulutao City
+location, 9560.017015000000, Inner Mongolia Autonomous Region, Jungar Banner
+location, 9560.021057000000, Jiangxi Province, Wuzhou City
+location, 9560.011100000000, Hebei Province, Xianghe
+location, 9560.013046000000, Henan Province, Linzhou City
+location, 9560.006016001000, Guangdong Province, Shaoguan City, Wujiang District
+location, 9270.103000000000, Australia, Canberra
+location, 9560.032017000000, Taiwan,  Kaohsiung
+location, 9560.037019000000, Zhejiang Province, Shanyin
+location, 9560.015052000000, Hubei Province, Jianshi County
+location, 9560.015051000000, Hubei Province, Zaoyang County
+location, 9560.011089000000, Hebei Province, Sanhe County
+location, 9560.026079000000, Shanxi Province, Dai County
+location, 9560.028137000000, Shandong Province, Xintai City
+location, 9560.005042000000, Gansu Province, Chengxian County
+location, 9560.001051000000, Anhui Province, Sudong
+location, 9560.006001000000, Guangdong Province, Guangzhou City
+location, 9560.016036000000, Hunan Province, Yueyang Prefecture
+location, 9560.011086000000, Hebei Province, Jingxian County
+location, 9560.011121000000, Hebei Province, Xu County
+location, 9560.001052000000, Anhui Province, Shu Cheng
+location, 9560.035053000000, Xinjiang Uygur Autonomous Region, Yanqi County
+location, 9560.005017000000, Gansu Province, Gannan Tibetan Autonomous Prefecture
+location, 9560.024003000000, Ningxia Hui Autonomous Region, Wuzhong City
+location, 9560.028051000000, Shandong Province, Hengtai
+location, 9560.018073000000, Jiangsu Province, Guan'nan County
+location, 9619.101000000000, Peru, Lima
+location, 9470.204000000000, United Kingdom, Leicester
+location, 9560.035038000000, Xinjiang Uygur Autonomous Region, Wuqia County
+location, 9030.101000000000, Algeria, Algiers
+location, 9560.001001009000, Anhui Province, Hefei City, Suburban District
+location, 9560.011124000000, Hebei Province, Xingzhou County
+location, 9560.013061000000, Henan Province, Mengjin County
+location, 9330.101000000000, Estonia, Tallinn
+location, 9820.102000000000, Scotland, Glasgow
+location, 9560.021051000000, Jiangxi Province, Gaoan County
+location, 9560.006058000000, Guangdong Province, Longchuan County
+location, 9560.029024000000, Shanghai, Nanshi District
+location, 9570.101000000000, Oman, Muscat
+location, 9560.036027000000, Yunnan Province, Menghai County
+location, 9560.015061000000, Hubei Province, Hefeng
+location, 9462.003000000000, Nigeria, Niamey
+location, 9560.018088000000, Jiangsu Province, Donghai County
+location, 9560.023069000000, Liaoning Province, Jinxian County
+location, 9560.011052000000, Hebei Province, Shulu County
+location, 9760.116000000000, Russia, Khabarovsk Krai
+location, 9560.028078000000, Shandong Province, Dongyi City
+location, 9560.015031000000, Hubei Province, Anlu County
+location, 9560.013006000000, Henan Province, Kaifeng City
+location, 9210.499000000000, USA, Maryland
+location, 9560.005023000000, Gansu Province, Gulang County
+location, 9560.003009000000, Chongqing Municipality, Daxian County
+location, 9230., Afghanistan
+location, 9560.035004000000, Xinjiang Uygur Autonomous Region, Ba
+location, 9330., Estonia
+location, 9050.101000000000, Chile, Santiago
+location, 9560.015073000000, Hubei Province, Zhongnan
+location, 9560.037062000000, Zhejiang Province, Hongzhou
+location, 9560.021008000000, Jiangxi Province, Ji
+location, 9560.001073000000, Anhui Province, Qimen County
+location, 9560.013091000000, Henan Province, Neihuang County
+location, 9560.026047000000, Shanxi Province, Linyi County
+location, 9560.026084000000, Shanxi Province, Zuoquan County
+location, 9560.027053000000, Shaanxi Province, Qishan County
+location, 9560.005043000000, Gansu Province, Wuwei Prefecture
+location, 9560.012007000000, Heilongjiang Province, Zhaoyuan County
+location, 9560.031023000000, Sichuan Province, Fuling City
+location, 9560.027045000000, Shaanxi Province, Weinan Prefecture
+location, 9471.101000000000, Liberia, Monrovia
+location, 9560.027018000000, Shaanxi Province, Wugong
+location, 9560.004016000000, Fujian Province, Zhangpu
+location, 9560.011122000000, Hebei Province, Tang County
+location, 9479.101000000000, Lebanon, Beirut
+location, 9560.031084000000, Sichuan Province, Songpan
+location, 9489.101000000000, Luxembourg, Luxembourg
+location, 9790., Switzerland
+location, 9560.015066000000, Hubei Province, Qichun County
+location, 9560.028001000000, Shandong Province, Qingdao City
+location, 9560.005016000000, Gansu Province, Pingliang Prefecture
+location, 9560.016064000000, Hunan Province, [Huaihua City
+location, 9560.015067000000, Hubei Province, Hong'an County
+location, 9560.031028000000, Sichuan Province, Dukou
+location, 9560.011070000000, Hebei Province, Hengshui Prefecture
+location, 9560.018021009000, Jiangsu Province, Changzhou City, Wujin District
+location, 9560.023025000000, Liaoning Province, Gaixian County
+location, 9560.013042000000, Henan Province, Xizhou
+location, 9750.101000000000, Spain, Madrid
+location, 9470.121000000000, United Kingdom, Bath
+location, 9560.011058000000, Hebei Province, Anxin County
+location, 9560.023001008000, Liaoning Province, Shenyang City, Tiexi District
+location, 9560.004007000000, Fujian Province, Xianyou
+location, 9160.202000000000, Egypt, Sharm el-Sheikh
+location, 9560.011018000000, Hebei Province, Longyao
+location, 9560.004004000000, Fujian Province, Zhangzhou City
+location, 9560.001047000000, Anhui Province, Chuzhou City
+location, 9470.201000000000, United Kingdom, Wales
+location, 9560.002018002000, Beijing Municipality, Tongxian County, Songzhuang Village
+location, 9270.106000000000, Australia, Perth
+location, 9560.026027000000, Shanxi Province, Baode County
+location, 9560.027039000000, Shaanxi Province, Hanzhong Prefecture
+location, 9560.026068000000, Shanxi Province, Yuncheng Prefecture
+location, 9560.036008000000, Yunnan Province, Lijiang Prefecture
+location, 9560.028079000000, Shandong Province, Jiaozhou
+location, 9560.036002000000, Yunnan Province, Yuxi City
+location, 9560.035032000000, Xinjiang Uygur Autonomous Region, Kulja
+location, 9560.001035000000, Anhui Province, Lai'an
+location, 9560.031067000000, Sichuan Province, Qianjiang Prefecture
+location, 9560.022089000000, Jilin Province, Yanbian
+location, 9080., Djibouti
+location, 9560.015004000000, Hubei Province, Yichang City
+location, 9560.023077000000, Liaoning Province, Pulandian City
+location, 9560.037056000000, Zhejiang Province, Ninghai County
+location, 9560.018015000000, Jiangsu Province, Liyang City
+location, 9560.023004000000, Liaoning Province, Fushun City
+location, 9560.027014000000, Shaanxi Province, Fufeng County
+location, 9620.101000000000, Morocco, Rabat
+location, 9560.008037000000, Guizhou Province, Taijiang County
+location, 9560.023041000000, Liaoning Province, Fuxin City
+location, 9560.004031000000, Fujian Province, Fuzhou County
+location, 9560.028084000000, Shandong Province, Yidu
+location, 9560.028085000000, Shandong Province, Linqu County
+location, 9560.031007000000, Sichuan Province, Zigong City
+location, 9560.012015000000, Heilongjiang Province, Shuangyashan City
+location, 9560.036023000000, Yunnan Province, Jianchuan
+location, 9560.025007000000, Qinghai Province, Xunhua County
+location, 9560.009019000000, Hainan Province, Wenchang County
+location, 9655.102000000000, Madagascar, Antananarivo
+location, 9560.011009000000, Hebei Province, Wuhan
+location, 9560.016065000000, Hunan Province, Longhui County
+location, 9560.013016000000, Henan Province, Xuchang Prefecture
+location, 9560.004045000000, Fujian Province, Youxi County
+location, 9560.028123000000, Shandong Province, Changwei Prefecture
+location, 9210.171000000000, USA, Arizona
+location, 9560.023026000000, Liaoning Province, Suizhong County
+location, 9560.026006000000, Shanxi Province, Shuozhou City
+location, 9560.027009000000, Shaanxi Province, Jingbian
+location, 9560.037004000000, Zhejiang Province, Huzhou City
+location, 9370.125000000000, Germany, Mainz
+location, 9560.035048000000, Xinjiang Uygur Autonomous Region, Ili Prefecture
+location, 9560.001013000000, Anhui Province, Dingyuan County
+location, 9560.008001009000, Guizhou Province, Guiyang City, Yunyan District
+location, 9560.035015000000, Xinjiang Uygur Autonomous Region, Hotan (Hetian)
+location, 9560.037074000000, Zhejiang Province, Haiyang County
+location, 9560.031081000000, Sichuan Province, Aba Prefecture
+location, 9560.033019000000, Tianjin, Ji County
+location, 9560.023048000000, Liaoning Province, Liaoyang County
+location, 9560.016094, Xiangxiang City
+location, 9560.013045000000, Henan Province, Gongyi City
+location, 9560.028029000000, Shandong Province, Dongping County
+location, 9560.035018000000, Xinjiang Uygur Autonomous Region, Altay Prefecture
+location, 9210.662000000000, USA, North Carolina
+location, 9930.101000000000, Sri Lanka, Colombo
+location, 9030., Algeria
+location, 9560.035039000000, Xinjiang Uygur Autonomous Region, Jimsar County
+location, 9440.101000000000, Ireland, Dublin
+location, 9560.017085000000, Inner Mongolia Autonomous Region, Urad Middle Banner
+location, 9478., Latvia
+location, 9560.037057000000, Zhejiang Province, Zhuji County
+location, 9560.016028000000, Hunan Province, Zhijing
+location, 9647.101000000000, Nicaragua, Managua
+location, 9560.011011000000, Hebei Province, Qinhuangdao Harbor
+location, 9560.033016000000, Tianjin, New Technology Industry District
+location, 9560.006015000000, Guangdong Province, Qujiang County
+location, 9560.026031000000, Shanxi Province, Sanyuan County
+location, 9210.161001000000, USA, Alaska, Anchorage
+location, 9210.201019000000, USA, California, Palm Springs
+location, 9467., United Arab Emirates
+location, 9210.489004000000, USA, Iowa, Muscatine
+location, 9560.029027000000, Shanghai, Hongkou District
+location, 9560.025003000000, Qinghai Province, Delingha
+location, 9560.007053000000, Guangxi Zhuang Autonomous Region, Chongzuo County
+location, 9940., Tunisia
+location, 9560.026034000000, Shanxi Province, Xin County
+location, 9560.004026000000, Fujian Province, Liancheng County
+location, 9810.001000000000, Sweden, Stockholm
+location, 9210.311001000000, USA, Georgia, Atlanta
+location, 9478.101000000000, Latvia, Riga
+location, 9560.004027000000, Fujian Province, Xiapu County
+location, 9560.027003000000, Shaanxi Province, Baoji
+location, 9210.501002000000, USA, Massachusetts, Cambridge
+location, 9560.003005000000, Chongqing Municipality, Beibei District
+location, 9560.021045000000, Jiangxi Province, Gangkang City
+location, 9560.026087000000, Shanxi Province, Lan County
+location, 9560.013031000000, Henan Province, Zhengyang
+location, 9984., Samoa
+location, 9560.035012000000, Xinjiang Uygur Autonomous Region, Keshen
+location, 9560.035051000000, Xinjiang Uygur Autonomous Region, Karamay City
+location, 9560.025002000000, Qinghai Province, Golmud City
+location, 9370.137000000000, Germany, Freiburg
+location, 9560.026042000000, Shanxi Province, Linxian County
+location, 9020., Armenia
+location, 9630., Uganda
+location, 9560.012016000000, Heilongjiang Province, Acheng County
+location, 9560.009007000000, Hainan Province, Qiongzhong
+location, 9560.026067000000, Shanxi Province, Wenshui County
+location, 9560.012039000000, Heilongjiang Province, Tahe County
+location, 9560.013079000000, Henan Province, Xingyang County
+location, 9560.012063000000, Heilongjiang Province, Zhaodong City
+location, 9210.675000000000, USA, Oregon
+location, 9560.007016000000, Guangxi Zhuang Autonomous Region, Hezhou City
+location, 9560.016029000000, Hunan Province, Anxing
+location, 9560.008038000000, Guizhou Province, Zhijin County
+location, 9560.008036000000, Guizhou Province, Guiding County
+location, 9560.023029000000, Liaoning Province, Heishan County
+location, 9560.004009000000, Fujian Province, Ningde Prefecture
+location, 9560.018058000000, Jiangsu Province, Lianshui County
+location, 9560.026032000000, Shanxi Province, Luliang Prefecture
+location, 9560.018018000000, Jiangsu Province, Dongtai
+location, 9560.012058000000, Heilongjiang Province, Shuangcheng City
+location, 9658.102000000000, Malawi, Lilongwe
+location, 9560.028099000000, Shandong Province, Xinshui County
+location, 9410.104000000000, Japan, Kobe
+location, 9860.113000000000, Republic of Korea, Pusan
+location, 9560.031009002000, Sichuan Province, Leshan City, Shawan District
+location, 9560.012041000000, Heilongjiang Province, Greater Hinggan Mountain Prefecture
+location, 9040.103000000000, Bulgaria, Varna
+location, 9560.032014000000, Taiwan, Taichung
+location, 9560.001034000000, Anhui Province, Guichi
+location, 9560.028131000000, Shandong Province, Changyi County
+location, 9020.103000000000, Armenia, Erivan
+location, 9560.011026000000, Hebei Province, Anping County
+location, 9560.028065000000, Shandong Province, Tengxian County
+location, 9560.023076000000, Liaoning Province, Jianchang County
+location, 9560.018002000000, Jiangsu Province, Suzhou City
+location, 9060.104000000000, Colombia, Medellin
+location, 9560.034028000000, Tibet Autonomous Region, Shannan Prefecture
+location, 9560.018001000000, Jiangsu Province, Nanjing City
+location, 9560.013038000000, Henan Province, Pingyang
+location, 9824.101000000000, Senegal, Dakar
+location, 9560.004048000000, Fujian Province, Luoyuan County
+location, 9560.022093000000, Jilin Province, Dongfeng County
+location, 9560.021, Jiangxi Province
+location, 9560.003024000000, Chongqing Municipality, Fuling District
+location, 9560.006011000000, Guangdong Province, Heyuan City
+location, 9560.007059000000, Guangxi Zhuang Autonomous Region, Chongzuo City
+location, 9470.119000000000, United Kingdom, Leeds
+location, 9560.028039000000, Shandong Province, Wudi County
+location, 9103.101000000000, Bosnia, Sarajevo
+location, 9560.004041000000, Fujian Province, Guangze County
+location, 9560.028, Shandong Province
+location, 9560.009012000000, Hainan Province, Zhongyuan
+location, 9560.015033000000, Hubei Province, Zhongxiang County
+location, 9560.018071000000, Jiangsu Province, Jianhu County
+location, 9560.013004000000, Henan Province, Xinxiang County
+location, 9210.728000000000, USA, Virginia
+location, 9521.101000000000, Palestine, Ramallah
+location, 9560.011062000000, Hebei Province, Huolu County
+location, 9560.011007000000, Hebei Province, Botou
+location, 9560.021041000000, Jiangxi Province, Boyang County
+location, 9560.028091000000, Shandong Province, Xixia County
+location, 9560.018001011000, Jiangsu Province, Nanjing City, Pukou District
+location, 9560.011104000000, Hebei Province, Haixing County
+location, 9560.018031000000, Jiangsu Province, Qidong City
+location, 9560.032013000000, Taiwan, Changhua
+location, 9240.102000000000, Austria, Salzburg
+location, 9560.017023000000, Inner Mongolia Autonomous Region, Yakeshi
+location, 9560.018086000000, Jiangsu Province, Jurong County
+location, 9390.107000000000, Indonesia, Bali
+location, 9560.018061000000, Jiangsu Province, Tongshan County
+location, 9560.037005000000, Zhejiang Province, Shaoxing City
+location, 9560.017084000000, Inner Mongolia Autonomous Region, Bayannaoer County
+location, 9370.128000000000, Germany, Kiel
+location, 9920., Zambia
+location, 9560.031102000000, Sichuan Province, Guangyuan City
+location, 9560.018023000000, Jiangsu Province, Lianyungang City
+location, 9103., Bosnia
+location, 9560.035024000000, Xinjiang Uygur Autonomous Region, Sufu
+location, 9560.023046000000, Liaoning Province, Kaiyuan City
+location, 9560.016041000000, Hunan Province, Guluo
+location, 9210.495000000000, USA, Ohio
+location, 9660.103000000000, Malaysia, Kota Kinabalu
+location, 9560.027056000000, Shaanxi Province, Shangnan County
+location, 9540.113000000000, Mexico, Monterrey
+location, 9210.731001000000, USA, Washington, Seattle
+location, 9560.018001008000, Jiangsu Province, Nanjing City, Jianye District
+location, 9560.007031000000, Guangxi Zhuang Autonomous Region, Long'an County
+location, 9640.101000000000, Sudan, Khartoum
+location, 9370.131000000000, Germany, Duisburg
+location, 9560.007052000000, Guangxi Zhuang Autonomous Region, Fusui County
+location, 9074.101000000000, Costa Rica, San Jose
+location, 9560.031025000000, Sichuan Province, Luzhou City
+location, 9524., Panama
+location, 9560.018036000000, Jiangsu Province, Taizhou City
+location, 9560.006032000000, Guangdong Province, Xinyi
+location, 9470.124000000000, United Kingdom, Norwich
+location, 9560.013056000000, Henan Province, Miyang County
+location, 9560.018037000000, Jiangsu Province, Yihuang
+location, 9560.006038000000, Guangdong Province, Heshan
+location, 9560.022077000000, Jilin Province, Wangqing County
+location, 9560.006016002000, Guangdong Province, Shaoguan City, Zhenjiang District
+location, 9560.028003000000, Shandong Province, Yantai Prefecture
+location, 9560.013032000000, Henan Province, Songxian County
+location, 9560.021067000000, Jiangxi Province, Nanfeng County
+location, 9560.016092000000, Hunan Province, You County
+location, 9560.006053000000, Guangdong Province, Puning County
+location, 9560.017067000000, Inner Mongolia Autonomous Region, Hinggan League
+location, 9560.011002009000, Hebei Province, Tangshan City, Fengnan District
+location, 9370.144000000000, Germany, Bad Neuenahr-Ahrweiler
+location, 9560.012056000000, Heilongjiang Province, Hegang City
+location, 9560.028118000000, Shandong Province, Laixi City
+location, 9560.013096000000, Henan Province, Lankao County
+location, 9560.011056000000, Hebei Province, Langfang Prefecture
+location, 9560.029018000000, Shanghai Municipality, Songjiang
+location, 9800., Togo
+location, 9560.022017000000, Jilin Province, Fuyu County
+location, 9560.009004000000, Hainan Province, Wenchang City
+location, 9560.028101000000, Shandong Province, Shan County
+location, 9270.104000000000, Australia, Melbourne
+location, 9560.005002000000, Gansu Province, Tianshui City
+location, 9560.028136000000, Shandong Province, Fei County
+location, 9840.001000000000, Ukraine, Kiev
+location, 9560.021062000000, Jiangxi Province, Xinfeng County
+location, 9560.013075000000, Henan Province, Baofeng County
+location, 9560.027033000000, Shaanxi Province, Zhouzhi
+location, 9560.013074000000, Henan Province, Luoshan County
+location, 9560.022018000000, Jilin Province, Lushuihe
+location, 9560.029023000000, Shanghai, Xuhui District
+location, 9560.007015000000, Guangxi Zhuang Autonomous Region, Longsheng Gezu County
+location, 9560.027057000000, Shaanxi Province, Zhashui County
+location, 9560.021003000000, Jiangxi Province, Jingdezhen City
+location, 9831., Sierra Leone
+location, 9560.031029000000, Sichuan Province, Fushun
+location, 9560.018054000000, Jiangsu Province, Dantu
+location, 9560.037053001000, Zhejiang Province, Zhoushan City, Putuo District
+location, 9420.101000000000, India, New Delhi
+location, 9210.495003000000, USA, Ohio, Cleveland
+location, 9560.006076000000, Guangdong Province, Ruyuan County
+location, 9560.011004000000, Hebei Province, Handan City
+location, 9560.028047000000, Shandong Province, Yishui County
+location, 9560.013048000000, Henan Province, Xiuwu County
+location, 9706., Mauritius
+location, 9560.037025000000, Zhejiang Province, Pujiang County
+location, 9560.013015000000, Henan Province, Taikang County
+location, 9560.028095000000, Shandong Province, Zhanhua County
+location, 9560.011074000000, Hebei Province, Yongqing
+location, 9210.501004000000, USA, Massachusetts, Amherst
+location, 9560.016068000000, Hunan Province, Xinshao County
+location, 9788., Slovenia
+location, 9560.017004041000, Inner Mongolia Autonomous Region, Hohhot City, Suburb District
+location, 9560.031024000000, Sichuan Province, Fuling Prefecture
+location, 9560.017081000000, Inner Mongolia Autonomous Region, Hailar City
+location, 9960.104000000000, South Africa, Durban
+location, 9560.037028000000, Zhejiang Province, Yuyao County
+location, 9560.013018000000, Henan Province, Luoning
+location, 9740., Syria
+location, 9560.021064000000, Jiangxi Province, Xingzi County
+location, 9560.021026000000, Jiangxi Province, Guangfen
+location, 9560.013039000000, Henan Province, Qixian County
+location, 9468., Laos
+location, 9560.008011000000, Guizhou Province, Sinan County
+location, 9560.004043000000, Fujian Province, Shanghang City
+location, 9520.102000000000, Pakistan, Islamabad
+location, 9660.102000000000, Malaysia, Putra Jaja
+location, 9560.016058000000, Hunan Province, Lengshuijiang City
+location, 9560.032003000000, Taiwan, Taizhong
+location, 9450.105000000000, Kazakhstan, Astana
+location, 9560.025001000000, Qinghai Province, Xining City
+location, 9990.102000000000, Saudi Arabia, Jeddah
+location, 9560.035036000000, Xinjiang Uygur Autonomous Region, Wuyi
+location, 9560.001011000000, Anhui Province, Jinzhai County
+location, 9560.007057000000, Guangxi Zhuang Autonomous Region, Liuzhou Prefecture
+location, 9470.203000000000, United Kingdom, St. Andrews
+location, 9560.005038000000, Gansu Province, Liangdang County
+location, 9700.111000000000, Malta, Valetta
+location, 9560.034022000000, Tibet Autonomous Region, Rikaze Prefecture
+location, 9560.023061000000, Liaoning Province, Xinbin
+location, 9560.028035000000, Shandong Province, Ningjin
+location, 9560.028027000000, Shandong Province, Rushan County
+location, 9021., Antarctica
+location, 9280.101000000000, Belgium, Brussels
+location, 9560.023064000000, Liaoning Province, Xifeng County
+location, 9560.028135000000, Shandong Province, Erzhao City
+location, 9560.031053000000, Sichuan Province, Santai County
+location, 9560.035058000000, Xinjiang Uygur Autonomous Region, Bayinguole Mongolian Prefecture
+location, 9560.025009000000, Qinghai Province, Xunhua Salar Autonomous County
+location, 9560.031068000000, Sichuan Province, Da County
+location, 9560.015047000000, Hubei Province, Xiantao City
+location, 9210.205001000000, USA, Colorado, Denver
+location, 9827.102000000000, Serbia-Montenegro, Milocer
+location, 9560.011105000000, Hebei Province, Wuqiao County
+location, 9560.005008000000, Gansu Province, Jiuquan City
+location, 9230.101000000000, Afghanistan, Kabul
+location, 9560.022012000000, Jilin Province, Yongji County
+location, 9560.006057000000, Guangdong Province, Dayawan
+location, 9560.029026000000, Shanghai, Fengxian County
+location, 9210.505000000000, USA, Missouri
+location, 9560.013012000000, Henan Province, Ye County
+location, 9560.015056000000, Hubei Province, Laifeng County
+location, 9760.101000000000, Russia, Moscow
+location, 9210.201017000000, USA, California, Ontario
+location, 9560.036029000000, Yunnan Province, Dayao County
+location, 9620., Morocco
+location, 9540.115000000000, Mexico, Los Cabos
+location, 9560.031103000000, Sichuan Province, Xingwen County
+location, 9560.006002009000, Guangdong Province, Shenzhen City, Longgang District
+location, 9560.011094000000, Hebei Province, Hengshui City
+location, 9560.001055000000, Anhui Province, Liuan City
+location, 9790.103000000000, Switzerland, Bern
+location, 9159.101000000000, Ecuador, Quito
+location, 9560.034008000000, Tibet Autonomous Region, Gyaca County
+location, 9560.017077000000, Inner Mongolia Autonomous Region, Bayanhaote
+location, 9560.013047000000, Henan Province, Qi Liying Community
+location, 9370.141000000000, Germany, Wolfsburg
+location, 9560.004042000000, Fujian Province, Shaowu County
+location, 9894., Turkmenistan
+location, 9560.026014000000, Shanxi Province, Zuoyun County
+location, 9560.021007000000, Jiangxi Province, Yugan County
+location, 9560.024017000000, Ningxia Hui Autonomous Region, Lingwu City
+location, 9560.035054000000, Xinjiang Uygur Autonomous Region, Khotan City
+location, 9560.011080000000, Hebei Province, Yuanshi
+location, 9600.101000000000, Vietnam, Hanoi
+location, 9560.034019000000, Tibet Autonomous Region, Lhokha Prefecture
+location, 9560.035052000000, Xinjiang Uygur Autonomous Region, Horgos
+location, 9560.005045000000, Gansu Province, Minxian County
+location, 9210.498001000000, USA, Maine, Orono
+location, 9560.028013000000, Shandong Province, Dongying City
+location, 9560.033018000000, Tianjin, Baodi District
+location, 9160.101000000000, Egypt, Cairo
+location, 9560.029021000000, Shanghai, Putuo District
+location, 9960.105000000000, South Africa, Bloemfontein
+location, 9560.006059000000, Guangdong Province, Jiangmen City
+location, 9560.016024000000, Hunan Province, Hengdong County
+location, 9560.035059000000, Xinjiang Uygur Autonomous Region, Kizilsu Kyrgyz Prefecture
+location, 9470.127000000000, United Kingdom, Staffordshire
+location, 9560.037064000000, Zhejiang Province, Quzhou City
+location, 9560.013097000000, Henan Province,  Tangyin County
+location, 9560.028033000000, Shandong Province, Junan
+location, 9382.102000000000, Israel, Jerusalem
+location, 9560.031041000000, Sichuan Province, Zizhong County
+location, 9560.031046000000, Sichuan Province, Baxian County
+location, 9560.005003000000, Gansu Province, Baiyin City
+location, 9560.028008000000, Shandong Province, Shouguang County
+location, 9560.015082000000, Hubei Province, Shanshi City
+location, 9560.036001009000, Yunnan Province, Kunming City, Penglai District
+location, 9530.103000000000, Kyrgyzstan, Cholpon-Ata
+location, 9560.022006000000, Jilin Province, Baisan
+location, 9560.028066000000, Shandong Province, Xinxian County
+location, 9560.026083000000, Shanxi Province, Yangcheng County
+location, 9560.026073000000, Shanxi Province, Yuci City
+location, 9530., Kyrgyzstan
+location, 9560.023028000000, Liaoning Province, Nongyang City
+location, 9560.015075000000, Hubei Province, Wuxue City
+location, 9470.118000000000, United Kingdom, Liverpool
+location, 9590.101000000000, Norway, Oslo
+location, 9560.026057000000, Shanxi Province, Linfen City
+location, 9210.201003000000, USA, California, Los Angeles
+location, 9460.101000000000, Kenya, Nairobi
+location, 9560.016083000000, Hunan Province, Yongzhou City
+location, 9560.036032000000, Yunnan Province, Dehong
+location, 9560.028046000000, Shandong Province, Jimo City
+location, 9560.004021000000, Fujian Province, Nan'an County
+location, 9110.105000000000, Brazil, Fortaleza
+location, 9560.013068000000, Henan Province, Nanle City
+location, 9560.026088000000, Shanxi Province, Yushe County
+location, 9621.001000000000, Monaco, Monte Carlo
+location, 9150.101000000000, Cape Verde, Praia
+location, 9560.031002000000, Sichuan Province, Mianyang Prefecture
+location, 9100.103000000000, Benin, Porto-Novo
+location, 9560.004003000000, Fujian Province, Xiamen City
+location, 9560.007061000000, Guangxi Zhuang Autonomous Region, Jingxi County
+location, 9450.106000000000, Kazakhstan, Alma-ata
+location, 9210.727002000000, USA, Texas, Dallas
+location, 9560.001033000000, Anhui Province, Feixi County
+location, 9930., Sri Lanka
+location, 9890.101000000000, Tajikistan, Dushanbe
+location, 9560.004005000000, Fujian Province, Sanming City
+location, 9560.016063000000, Hunan Province, Ningxiang County
