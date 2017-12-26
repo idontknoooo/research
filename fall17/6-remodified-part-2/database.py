@@ -11,7 +11,7 @@ for content in contents:
     if tmp[1]:
         year_tmp = tmp[1].split('-')
         start_year = year_tmp[0]
-        if len(year_tmp) > 1:
+        if len(year_tmp) > 1 and year_tmp[1].isdigit():
             end_year = year_tmp[1]
     title = tmp[2]
     info = []
