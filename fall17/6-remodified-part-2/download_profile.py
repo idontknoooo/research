@@ -71,7 +71,7 @@ def extract(i, career_href, letter):
                         experience.append(tmp_experience)
                     # experience[a['href'].split('/')[-1]] = a.text
 
-            result = cur_name + delimiter + year + delimiter
+            result = cur_name + delimiter + year + delimiter + title + delimiter
 
             prev_key = '$'
             prev_val = ''
@@ -81,76 +81,28 @@ def extract(i, career_href, letter):
                 else:
                     result += item[0] + ':' + item[1] + delimiter
                 prev_key = item[0]
-                prev_val = item[1] 
+                prev_val = item[1]
+                
+            prev_loc_key = '$'
+            prev_loc_val = ''
             if locations:
                 for location in locations:
-                    result += location[0] + ':' + location[1] 
-            else:
-                result = result[:-len(delimiter)]
+                    if location[0].find(prev_loc_key) >= 0:
+                        result += location[0] + ':' + prev_loc_val + ', ' + location[1] + delimiter
+                    else:
+                        result += location[0] + ':' + location[1] + delimiter
+                    prev_loc_key = location[0]
+                    prev_loc_val = location[1]
+            
+            result = result[:-len(delimiter)]
                 # pass
                 
             result += '\n'
 
             wb.write(result)
-            # for a in all_td[0:-1]:
-            #     #print("First: " + first_td + "\n")
-            #     more_a = a.find_all('a')
-            #     if more_a:
-            #         # print(more_a['class'])
-            #         info = title
-            #         # print(more_a)
-            #         for content in more_a:
-            #             info = info + ',' + content.get_text()
-            #         info = info.replace('\n','')
-                    
-            #         #print(cur_name)
-            #         #print(year)
-            #         #print(info)
-            #         #print(index)
-            #         result = cur_name + ',' + year + ',' + info + '\n'
-            #         #print(result.encode('utf-8'))
-            #         # wb.write(r+index, 0, cur_name)
-            #         # ws.write(r+index, 1, year)
-            #         # ws.write(r+index, 2, info)
-            #         #doc = csv.writer(wb)
-            #         #doc.writerow(result)
-            #         # result = result.encode('utf-8')
-            #         # print(result)
-            #         # wb.write(result.encode('utf-8'))
-            #         wb.write(result)
-            #         # wb.flush()
-            #         index += 1
+
     except:
         pass
-                
-        #print("-----------")
-                #ws.write(r+all_tr.index(a), 0, cur_name)
-                #print("Info: " + info + "\n")
-#Zebazou 
-#Student
-#Minzu University of China,Political Department,Beijing Municipality
-    # all_tr[i]: One row information on website for this person, including 1 <tr> and multiple <td> <a>
-    # all_td = all_tr[i].find_all('td'): all <td>s in <tr>
-    # all_td[i].get_text().split(',')[0]: first <td> string
-    # all_td[i].find_all('a')[j].get_text(): all other strings in <td> (they are all <a>s)
-    #num_tr = len(all_tr)
-    # name is the last tr content
-    #cur_name = all_tr[num_tr-1].get_text()
-    #print(cur_name)
-    #for a in all_tr[0:num_tr-5]:
-        # print(a)
-        # combine career url
-     #   title = a.get_text()
-        # period is the first element in title
-      #  period = title[0]
-        #print(period)
-       # experience = title[1:]
-        #print(experience)
-        #print(all_tr.index(a))
-        #ws.write(r+all_tr.index(a), 0, cur_name)
-        #ws.write(r+all_tr.index(a), 1, period)
-        #ws.write(r+all_tr.index(a), 1, experience)
-        # print(cur_name,r)
 
     wb.close()
 
