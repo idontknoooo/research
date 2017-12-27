@@ -1,0 +1,123 @@
+Ou Guangyuan	2008-	Chairman	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.006:Guangdong Province
+Ou Guangyuan	2007-2008	Vice-Chairman	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.006:Guangdong Province
+Ou Guangyuan	2002-2007	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Ou Guangyuan	2002-2008	Deputy Secretary-General	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.006:Guangdong Province
+Ou Guangyuan	1997-2002	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Ou Guangyuan	1993-2001	Vice-Governor	2050.101:People's Government	9560.006:Guangdong Province
+Ou Guangyuan	1993-2001	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.006:Guangdong Province
+Ou Guangyuan	1992-1993	Secretary-General	1010.101:CPC	1010.101015:CPC-City Committee	9560.006:Guangdong Province	9560.006005:Guangdong Province, Foshan City
+Ou Guangyuan	1992-1997	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Ou Guangyuan	1989-1992	Deputy Secretary-General	1010.101:CPC	1010.101015:CPC-City Committee	9560.006:Guangdong Province	9560.006005:Guangdong Province, Foshan City
+Ou Guangyuan	1989-1992	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.006:Guangdong Province	9560.006005:Guangdong Province, Foshan City
+Ou Guangyuan	1989-1992	Member	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015026:City Committee-Standing Committee	9560.006:Guangdong Province	9560.006005:Guangdong Province, Foshan City
+Ou Guangyuan	1974-1988	Chief Executive	2050.101:People's Government	2050.101061:People's Government-County Office	9560.006:Guangdong Province	9560.006006:Guangdong Province, Shunde County
+Ou Guangyuan	1974-1988	Member	1010.101:CPC	1010.101019:CPC-County Committee	1010.101019001:County Committee-Standing Committee	9560.006:Guangdong Province	9560.006006:Guangdong Province, Shunde County
+Ou Guangyuan	1974-1988	Secretary-General	1010.101:CPC	1010.101019:CPC-County Committee	1010.101019001:County Committee-Standing Committee	9560.006:Guangdong Province	9560.006006:Guangdong Province, Shunde County
+Ou Guangyuan	1969	Joined	1010.101:CPC
+Ou Xinqian	2008-	Vice-Minister	3100.441:Ministry of Industry and Information Technology
+Ou Xinqian	2003-2008	Member	3100.151:National Development and Reform Commission	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Ou Xinqian	2003-2008	Vice-Minister	3100.151:National Development and Reform Commission
+Ou Xinqian	2002-2003	Member	3100.171:State Economic and Trade Commission	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Ou Xinqian	2002-2003	Deputy Director	3100.171:State Economic and Trade Commission
+Ou Xinqian	2002-2007	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Ou Xinqian		Director	3100.171:State Economic and Trade Commission	3100.171007:State Economic and Trade Commission-Industry Policy Department
+Ou Xinqian		Director	3100.171:State Economic and Trade Commission	3100.171008:State Economic and Trade Commission-Economic Policy Coordination Department
+Ou Xinqian		Deputy Director	3100.171:State Economic and Trade Commission	3100.171008:State Economic and Trade Commission-Economic Policy Coordination Department
+Ou Xinqian		Division Chief	3400.103:State Economic and Trade Office	3400.103009:State Economic and Trade Office-Control Bureau
+Ou Xinqian		Deputy Division Chief	3400.103:State Economic and Trade Office	3400.103009:State Economic and Trade Office-Control Bureau
+Ou Xinqian		Division Chief	3100.151:National Development and Reform Commission	3100.151009:National Development and Reform Commission-Economic Research Center	3100.151009001:Economic Research Center-State Planning Commission
+Ou Xinqian		Deputy Division Chief	3100.804:State Economic Commission	3100.804008:State Economic Commission-Light Industry Bureau
+Ou Xinqian		Staff Member	3100.804:State Economic Commission	3100.804008:State Economic Commission-Light Industry Bureau
+Ou Xinqian		Deputy Division Chief	3100.151:National Development and Reform Commission	3100.151009:National Development and Reform Commission-Economic Research Center	3100.151009001:Economic Research Center-State Planning Commission
+Ou Xinqian	1978	Graduate	6020.101:Beijing University	6020.101023:Beijing University-Chemistry Department	9560.002:Beijing Municipality
+Ou Xinqian		Worker	3100.151:National Development and Reform Commission	3100.151009:National Development and Reform Commission-Economic Research Center	3100.151009001:Economic Research Center-State Planning Commission
+Ou Xinqian		Joined	1010.101:CPC
+Ou Zegao	2007-	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005003:Provincial Committee-Commission for Discipline Inspection	9560.031:Sichuan Province
+Ou Zegao	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001039:Central Committee-Central Commission for Discipline Inspection
+Ou Zegao	2002-2007	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005011:Provincial Committee-Political and Legislative Affairs Committee	9560.031:Sichuan Province
+Ou Zegao	2002-	Deputy Secretary	2210.171:Ethnic Affairs Committee	9560.031:Sichuan Province
+Ou Zegao	2002-2007	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Ou Zegao	2001-2002	Secretary	2210.171:Ethnic Affairs Committee	9560.031:Sichuan Province
+Ou Zegao	2000-	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.031:Sichuan Province
+Ou Zegao	1997-2002	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Ou Zegao	1993-2001	Deputy Secretary	2210.171:Ethnic Affairs Committee	9560.031:Sichuan Province
+Ou Zegao	1993-2001	Vice-Governor	2050.101:People's Government	9560.031:Sichuan Province
+Ou Zegao	1988-1993	Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.031:Sichuan Province	9560.031086:Sichuan Province, Aba County
+Ou Zegao	1988-1993	Deputy Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.031:Sichuan Province	9560.031086:Sichuan Province, Aba County
+Ou Zegao	1987-1988	Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.031:Sichuan Province	9560.031085:Sichuan Province, Hongyuan County
+Ou Zegao	1986-1987	County Magistrate Assistant	4020.103:County (District) People's Court	9560.031:Sichuan Province	9560.031052:Sichuan Province, Nanchong County
+Ou Zegao	1985-1986	Deputy Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.031:Sichuan Province	9560.031085:Sichuan Province, Hongyuan County
+Ou Zegao	1985-1986	County Magistrate	4020.103:County (District) People's Court	9560.031:Sichuan Province	9560.031085:Sichuan Province, Hongyuan County
+Ou Zegao	1983-1985	Deputy County Magistrate	4020.103:County (District) People's Court	9560.031:Sichuan Province	9560.031085:Sichuan Province, Hongyuan County
+Ou Zegao	1981	Joined	1010.101:CPC
+Ou Zegao	1977	Graduate	6270.138:Sichuan Normal University	6270.138009:Sichuan Normal University-Mathematics Department	9560.031:Sichuan Province
+Ouyang Changlin		President	7020.402:Hunan Television
+Ouyang Changlin		Graduate	6140.101:Wuhan University	9560.015:Hubei Province	9560.015001:Hubei Province, Wuhan City
+Ouyang Jian	2012-2017	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Ouyang Jian	2011-2017	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.005:Gansu Province
+Ouyang Jian	2011-2017	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.005:Gansu Province
+Ouyang Jian	2008-2011	Vice-Minister	3100.821:Ministry of Culture
+Ouyang Jian	2008-2011	Deputy Secretary	3100.821:Ministry of Culture	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Ouyang Jian	2005-2008	Deputy Director	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001007:Central Committee-Publicity Department
+Ouyang Jian	2004-2005	Deputy Secretary-General	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001007:Central Committee-Publicity Department
+Ouyang Jian	2001-2004	Secretary	1010.101:CPC	1010.101011:CPC-Prefectural Committee	9560.036:Yunnan Province	9560.036008:Yunnan Province, Lijiang Prefecture
+Ouyang Jian	1978-1982	Student	6320.101:Yunnan University	6320.101004:Yunnan University-Economics Department	9560.036:Yunnan Province	9560.036001:Yunnan Province, Kunming City
+Ouyang Jian	1974-1977	Cultural Revolution	1020.101:Cultural Revolution	1020.101106:Cultural Revolution-Rusticated Youth	9560.036:Yunnan Province
+Ouyang Qin	1978-1978	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Ouyang Qin	1956-1969	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Ouyang Qin	1945-1959	First-Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.012:Heilongjiang Province
+Ouyang Qin	1936-1939	Secretary-General	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.026:Shanxi Province
+Ouyang Qin	1924	Joined	1010.101:CPC
+Ouyang Yin	1998-	Vice-President	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.012:Heilongjiang Province
+Ouyang Yin	1997-	President	6770.329:Association of Chinese Industry and Commerce	9560.012:Heilongjiang Province
+Ouyang Yin	1997-2007	Member	6750.126:All-China Federation of Industry and Commerce	6750.126002:All-China Federation of Industry and Commerce-Standing Committee
+Ouyang Yin	1992-1997	Deputy Chief	2190.301:Petrochemical Industry Bureau	9560.012:Heilongjiang Province
+Ouyang Yin	1992-1997	Deputy Chairman	6770.329:Association of Chinese Industry and Commerce	9560.012:Heilongjiang Province
+Ouyang Yin	1989-1997	Deputy Chief Engineer	2190.301:Petrochemical Industry Bureau	9560.012:Heilongjiang Province
+Ouyang Yin	1982-1987	Clerk	2190.301:Petrochemical Industry Bureau	9560.012:Heilongjiang Province
+Ouyang Yin	1982-1987	Director	2190.301:Petrochemical Industry Bureau	9560.012:Heilongjiang Province
+Ouyang Yin	1982-1987	Engineer	2190.301:Petrochemical Industry Bureau	9560.012:Heilongjiang Province
+Ouyang Yin	1960-1965	Student	6170.129:Jiangxi Chemistry University	6170.129009:Jiangxi Chemistry University-Chemical Department	9560.021:Jiangxi Province
+Ouyang Yingpeng	2003-	Vice-President	8010.107:Baosteel Group Corporation
+Ouyang Yingpeng	2001-	Member	8010.107:Baosteel Group Corporation	1010.101:CPC	1010.101025:CPC-Party Committee
+Ouyang Yingpeng	2000-2006	Secretary-General	8010.107:Baosteel Group Corporation	1010.101:CPC	1010.101025:CPC-Party Committee
+Ouyang Yingpeng	1994-2002	Senior Management Employee	8010.107:Baosteel Group Corporation
+Ouyang Yingpeng	1993-2002	Vice-President	8010.107:Baosteel Group Corporation	8010.107122:Baosteel Group Corporation-General Affairs Department
+Ouyang Yingpeng	1985	Graduate	6250.112:Shanghai Teachers' University	9560.029:Shanghai Municipality
+Ouyang Yu	2000-	Deputy Director	8010.163:China National Nuclear Industry Corporation	8010.163021:China National Nuclear Industry Corporation-Science and Technology Committee
+Ouyang Yu	2000-	Foreign Academician	6490.252:Russian Academy of Engineering	9760.:Russia	9760.101:Russia, Moscow
+Ouyang Yu	1991-	Academician	6410.107:Chinese Academy of Sciences
+Ouyang Yu	1957	Graduate	6490.251:Moscow Dynamics Institute	9760.:Russia	9760.101:Russia, Moscow
+Ouyang Yu	1948	Graduate	6140.101:Wuhan University	6140.101011:Wuhan University-Electric Motor Department	9560.015:Hubei Province
+Ouyang Zhongmou	2000-2004	President	8010.569:China Putian Corporation
+Ouyang Zhongmou		Member
+Ouyang Zhongmou		Awardee
+Ouyang Zhongmou	1995-2000	Deputy Chairman	8010.568:China National Electronics Import and Export Corporation
+Ouyang Zhongmou	1995-2000	Vice-President	6770.302:Chinese Association of Communications Enterprises
+Ouyang Zhongmou	1995-2000	Executive Director	6900.234:China Institute of Electronics
+Ouyang Zhongmou	1995-2000	President	6870.109:China Chamber of Commerce	6870.109009:China Chamber of Commerce-Division of Machinery and Electronic Products	6870.109009001:Division of Machinery and Electronic Products-IT Products Branch
+Ouyang Zhongmou	1995-2000	Vice-President	6770.303:China Mobile Communications Association
+Ouyang Zhongmou	1995-2000	Deputy Director	6770.304:Electronic IT Soft Science and International Studies Society
+Ouyang Zhongmou	1995-2000	Executive Director	6770.305:China Marketing Association
+Ouyang Zhongmou	1995-2000	Executive Director	6770.306:China Policy Science Society
+Ouyang Zhongmou	1995-2000	General Manager	8010.568:China National Electronics Import and Export Corporation
+Ouyang Zhongmou	1995	Winner
+Ouyang Zhongmou	1994	Winner
+Ouyang Zhongmou	1994	Winner
+Ouyang Zhongmou		Honored
+Ouyang Zhongmou	1987-????	Member	1610.301:District People's Congress	9560.002:Beijing	9560.002012:Beijing, Haidian District
+Ouyang Zhongmou		Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001055:Central Committee-Central Agencies and State Organizations
+Ouyang Zhongmou		Joined	1010.101:CPC
+Ouyang Zhongmou	1980-1987	Counterman	8010.568:China National Electronics Import and Export Corporation
+Ouyang Zhongmou	1980-1987	Department Director	8010.568:China National Electronics Import and Export Corporation
+Ouyang Zhongmou	1980-1987	Division Manager	8010.568:China National Electronics Import and Export Corporation
+Ouyang Zhongmou	1978-1980	Worker	3100.421:Ministry of Electronics Industry	3100.421021:Ministry of Electronics Industry-Introduction Office
+Ouyang Zhongmou	1974-1978	Worker	3100.421:Ministry of Electronics Industry	3100.421061:Ministry of Electronics Industry-No. 4433 Factory
+Ouyang Zhongmou	1966	Graduate	6020.102:Tsinghua University	6020.102013:Tsinghua University-Engineering Physics Department	9560.002:Beijing Municipality
+Ouyang Ziyuan	1994-	Chairman	6770.728:Guizhou Provincial Science and Technology Association	9560.008:Guizhou Province
+Ouyang Ziyuan	1993-2001	Vice-Chairman	1610.401:Provincial People's Congress	9560.008:Guizhou Province
+Ouyang Ziyuan	1991-	Academician	6410.107:Chinese Academy of Sciences
+Ouyang Ziyuan		Researcher	6410.107:Chinese Academy of Sciences	6410.107063:Chinese Academy of Sciences-Geochemical Research Institute
+Ouyang Ziyuan	1957-1961	Postgraduate Student	6410.107:Chinese Academy of Sciences	6410.107057:Chinese Academy of Sciences-Geological Research Institute
+Ouyang Ziyuan	1956-1957	Postgraduate Student	6020.802:Peking College of Geoscience	9560.002:Beijing Municipality
+Ouyang Ziyuan	1956	Joined	1010.101:CPC

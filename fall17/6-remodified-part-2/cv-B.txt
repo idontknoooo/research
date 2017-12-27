@@ -1,0 +1,617 @@
+Ba Sang	1993-1994	Deputy Secretary	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	9560.034:Tibet Autonomous Region
+Ba Sang	1993-1994	Secretary	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007012:Autonomous Regional Committee-Commission for Discipline Inspection	9560.034:Tibet Autonomous Region
+Ba Sang	1992-1997	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001039:Central Committee-Central Commission for Discipline Inspection
+Ba Sang	1987-1992	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001039:Central Committee-Central Commission for Discipline Inspection
+Ba Sang	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Ba Sang	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Ba Sang	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Aying	2011-	Deputy Director	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.027:Shaanxi Province
+Bai Aying	2008-2013	Deputy	1610.001:NPC
+Bai Aying	2008-	Secretary	2210.901:State-Owed Property Supervision Committee	1010.101:CPC	1010.101025:CPC-Party Committee	9560.027:Shaanxi Province
+Bai Aying	2006-2008	Deputy Secretary	2210.901:State-Owed Property Supervision Committee	1010.101:CPC	1010.101025:CPC-Party Committee	9560.027:Shaanxi Province
+Bai Aying	2006-	Director	2210.901:State-Owed Property Supervision Committee	9560.027:Shaanxi Province
+Bai Aying	2003-2006	Deputy Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005004:Provincial Committee-Publicity Department	9560.027:Shaanxi Province
+Bai Aying	2003-2006	Director	2210.902:Provincial Guidance Committee on Ethical and Cultural Construction	9560.027:Shaanxi Province
+Bai Aying	1996-2003	Deputy Director	2210.897:Committee of Science, Technology and Industry for National Defense	9560.027:Shaanxi Province
+Bai Chunli	2012-2017	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Chunli	2011-	President	6410.107:Chinese Academy of Sciences
+Bai Chunli	2007-2012	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Chunli	2002-2007	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Chunli	1999-	Member	3200.568:State Academic Degrees Committee
+Bai Chunli	1998-	Director	6900.128:China Chemistry Association
+Bai Chunli	1997-2002	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Chunli	1996-2011	Vice-President	6410.107:Chinese Academy of Sciences
+Bai Chunli	1995-2000	Vice-Chairman	6750.128:All-China Youth Federation
+Bai Chunli	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bai Chunli	1992-1997	Vice-Dean	6410.107:Chinese Academy of Sciences	6410.107031:Chinese Academy of Sciences-Chemistry Research Institute
+Bai Chunli	1989	Developer
+Bai Chunli	1987-1992	Researcher	6410.107:Chinese Academy of Sciences	6410.107031:Chinese Academy of Sciences-Chemistry Research Institute
+Bai Chunli	1985-1987	Post-Doctoral Researcher	6490.579:California Institute of Technology	6490.579009:California Institute of Technology-Jet Propulsion Laboratory	9210.:USA	9210.201:USA, California	9210.201008:California, Pasadena
+Bai Chunli	1981-1985	Graduate Student	6410.107:Chinese Academy of Sciences	6410.107031:Chinese Academy of Sciences-Chemistry Research Institute
+Bai Chunli	1978-1981	Graduate Student	6410.107:Chinese Academy of Sciences	6410.107031:Chinese Academy of Sciences-Chemistry Research Institute
+Bai Chunli	1978-1978	Internship	6410.107:Chinese Academy of Sciences	6410.107102:Chinese Academy of Sciences-Applied Chemistry Institute	9560.022:Jilin Province	9560.022001:Jilin Province, Changchun City
+Bai Chunli	1974	Joined	1010.101:CPC
+Bai Chunli	1974-1978	Student	6020.101:Beijing University	6020.101023:Beijing University-Chemistry Department	9560.002:Beijing Municipality
+Bai Chunli	1970-1974	Soldier	2410.912:Production and Construction Corps	9560.017:Inner Mongolia Autonomous Region
+Bai Dahua	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Bai Dahua	1997-2002	Vice-Chairman	1500.301:China Democratic National Construction Association	1500.301001:China Democratic National Construction Association-Central Committee
+Bai Dahua	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bai Dahua	1991-2001	Vice-Chairman	6750.171:Jilin Federation of Industry and Commerce	9560.022:Jilin Province
+Bai Dahua	1991-1998	Director	3200.141:State Administration of Industry and Commerce	3200.141011:State Administration of Industry and Commerce-Trademark Bureau
+Bai Dahua	1991-2001	Deputy Director	3200.141:State Administration of Industry and Commerce
+Bai Dahua		Vice-Chairman	1500.301:China Democratic National Construction Association	1500.301041:China Democratic National Construction Association-City Committee	9560.022:Jilin Province	9560.022001:Jilin Province, Changchun City
+Bai Dahua	1988-1993	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bai Dahua	1987	Joined	1500.301:China Democratic National Construction Association
+Bai Dahua		Deputy Director	8010.391:No. 2 Automobile Works	8010.391001:No. 2 Automobile Works-Chassis Plant	9560.022:Jilin Province	9560.022001:Jilin Province, Changchun City
+Bai Dahua		Senior Engineer	8010.391:No. 2 Automobile Works	8010.391001:No. 2 Automobile Works-Chassis Plant	9560.022:Jilin Province	9560.022001:Jilin Province, Changchun City
+Bai Dahua	1978-1987	Engineer	8010.391:No. 2 Automobile Works	8010.391001:No. 2 Automobile Works-Chassis Plant	9560.022:Jilin Province	9560.022001:Jilin Province, Changchun City
+Bai Dahua	1978-1987	Technician	8010.391:No. 2 Automobile Works	8010.391001:No. 2 Automobile Works-Chassis Plant	9560.022:Jilin Province	9560.022001:Jilin Province, Changchun City
+Bai Dahua	1966	Graduate	6020.102:Tsinghua University	9560.002:Beijing Municipality
+Bai Dongcai	1992-1997	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Bai Dongcai	1987-1992	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Bai Dongcai	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Dongcai	1982-1987	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Bai Dongcai	1979-1982	Governor	2050.101:People's Government	9560.021:Jiangxi Province
+Bai Dongcai	1978-1983	Deputy	1610.001:NPC
+Bai Dongcai	1977-1982	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Bai Dongcai	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Dongcai	1973-1977	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Bai Dongcai	1973-1977	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Dongcai	1972-1982	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.021:Jiangxi Province
+Bai Dongcai	1965-1975	Deputy	1610.001:NPC
+Bai Dongcai	1959-1965	Deputy	1610.001:NPC
+Bai Enpei	2015	Expelled	1010.101:CPC
+Bai Enpei	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Enpei	2003-2011	Chairman	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.036:Yunnan Province
+Bai Enpei	2002-2007	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Enpei	2001-2011	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.036:Yunnan Province
+Bai Enpei	2001-2011	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.036:Yunnan Province
+Bai Enpei	2000-2001	Chairman	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.025:Qinghai Province
+Bai Enpei	1999-2001	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.025:Qinghai Province
+Bai Enpei	1998-1999	Governor	2050.101:People's Government	9560.025:Qinghai Province
+Bai Enpei	1997-1999	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.025:Qinghai Province
+Bai Enpei	1997-1998	Vice-Governor	2050.101:People's Government	9560.025:Qinghai Province
+Bai Enpei	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Enpei	1992-1997	Deputy Secretary	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	9560.017:Inner Mongolia Autonomous Region
+Bai Enpei	1992-1997	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Enpei	1990-1993	Member	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007011:Autonomous Regional Committee-Standing Committee	9560.017:Inner Mongolia Autonomous Region
+Bai Enpei	1990-1993	Head	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007068:Autonomous Regional Committee-Organization Department	9560.017:Inner Mongolia Autonomous Region
+Bai Enpei	1987-1992	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Enpei	1983-1983	Deputy Secretary	8010.227:Yan'an Cigarette Factory	1010.101:CPC	1010.101025:CPC-Party Committee	9560.027:Shaanxi Province	9560.027006:Shaanxi Province, Yan'an City
+Bai Enpei	1983-1990	Deputy Secretary and Secretary	1010.101:CPC	1010.101011:CPC-Prefectural Committee	9560.027:Shaanxi Province	9560.027006:Shaanxi Province, Yan'an City
+Bai Enpei	1974-1983	Deputy Secretary	8010.226:Yan'an Diesel Engine Plant	1010.101:CPC	1010.101025:CPC-Party Committee	9560.027:Shaanxi Province	9560.027006:Shaanxi Province, Yan'an City
+Bai Enpei	1974-1983	Deputy Director and Director	8010.226:Yan'an Diesel Engine Plant	9560.027:Shaanxi Province	9560.027006:Shaanxi Province, Yan'an City
+Bai Enpei	1973	Joined	1010.101:CPC
+Bai Enpei	1972-1974	Technician	8010.226:Yan'an Diesel Engine Plant	9560.027:Shaanxi Province	9560.027006:Shaanxi Province, Yan'an City
+Bai Enpei	1970-1972	Cultural Revolution	1020.101:Cultural Revolution	1020.101104:Cultural Revolution-Sent to do manual labor
+Bai Enpei	1970	Graduate	6230.122:Northwest China Engineering University	9560.027:Shaanxi Province
+Bai Jingfu	2008-2013	Member	1610.101:Standing Committee of the NPC
+Bai Jingfu	2008-2013	Deputy Director	1610.202:Internal and Judicial Affairs Committee of the NPC
+Bai Jingfu	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Jingfu	2005-2008	Executive Vice-Minister	3100.241:Ministry of Public Security
+Bai Jingfu	2002-2007	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Jingfu	1993-2008	Deputy Secretary	3100.241:Ministry of Public Security	1010.101:CPC	1010.101025:CPC-Party Committee
+Bai Jingfu	1991-2005	Vice-Minister	3100.241:Ministry of Public Security
+Bai Jingfu	1988-1991	Secretary-General	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005094:Provincial Committee-Politics and Law Committee	9560.012:Heilongjiang Province
+Bai Jingfu	1985-1988	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.012:Heilongjiang Province
+Bai Jingfu	1985-1988	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005094:Provincial Committee-Politics and Law Committee	9560.012:Heilongjiang Province
+Bai Jingfu	1985-1987	CPC	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.012:Heilongjiang Province
+Bai Jingfu	1983-1985	Vice-Mayor	2050.101:People's Government	9560.012:Heilongjiang Province	9560.012042:Heilongjiang Province, Qitaihe City
+Bai Jingfu	1983-1985	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.012:Heilongjiang Province	9560.012042:Heilongjiang Province, Qitaihe City
+Bai Jingfu	1982-1983	Director	2190.105:Public Security Bureau	9560.012:Heilongjiang Province	9560.012042:Heilongjiang Province, Qitaihe City
+Bai Jingfu	1979-1982	Deputy Chief Procurator	4150.105:County (City) People's Procuratorate	9560.012:Heilongjiang Province	9560.012042:Heilongjiang Province, Qitaihe City
+Bai Jingfu	1979-1982	Director	4150.105:County (City) People's Procuratorate	4150.105009:County (City) People's Procuratorate-Lawsuit Department	9560.012:Heilongjiang Province	9560.012042:Heilongjiang Province, Qitaihe City
+Bai Jingfu	1973-1979	Deputy Director	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015001:City Committee-General Office	9560.012:Heilongjiang Province	9560.012042:Heilongjiang Province, Qitaihe City
+Bai Jingfu	1973	Joined	1010.101:CPC
+Bai Jingfu	1970-1973	Clerk	2190.105:Public Security Bureau	9560.012:Heilongjiang Province	9560.012042:Heilongjiang Province, Qitaihe City
+Bai Jingfu	1965-1970	Student	6180.101:Jilin University	6180.101009:Jilin University-Law Department	9560.022:Jilin Province	9560.022001:Jilin Province, Changchun City
+Bai Keming	2008-2013	Chairman	1610.203:Education, Science, Culture and Health Committee of the NPC
+Bai Keming	2003-2007	Chairman	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.011:Hebei Province
+Bai Keming	2002-2007	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Keming	2002-2007	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.011:Hebei Province
+Bai Keming	2001-2002	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.009:Hainan Province
+Bai Keming	2001-2002	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.009:Hainan Province
+Bai Keming	2000-2001	Chairman	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.009:Hainan Province
+Bai Keming	2000-2001	President	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001027:Central Committee-People's Daily
+Bai Keming	2000-2001	Deputy Director	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001003:Central Committee-General Office
+Bai Keming	1997-2002	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Bai Keming	1993-2000	Deputy Head	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001007:Central Committee-Publicity Department
+Bai Keming	1993-1993	Secretary-General	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001007:Central Committee-Publicity Department
+Bai Keming	1989-1993	Head	3400.501:Research Office of the State Council	3400.501001:Research Office of the State Council-Education, Science, Culture and Public Health Department
+Bai Keming	1989-1989	Secretary	3400.501:Research Office of the State Council	3400.501001:Research Office of the State Council-Education, Science, Culture and Public Health Department	1010.101:CPC	1010.101025:CPC-Party Committee
+Bai Keming	1986-1989	Deputy Director	3100.201:Ministry of Education	3100.201001:Ministry of Education-General Office
+Bai Keming		Member	3100.891:State Education Commission
+Bai Keming	1978-1986	Vice-Division Chief	3100.201:Ministry of Education	3100.201001:Ministry of Education-General Office
+Bai Keming	1978-1986	Deputy Division Chief	3100.201:Ministry of Education	3100.201001:Ministry of Education-General Office
+Bai Keming	1975	Joined	1010.101:CPC
+Bai Keming	1973-1978	Worker	2210.181:National Defense Industry Committee	9560.027:Shaanxi Province
+Bai Keming	1970-1973	Teacher	8010.228:Harbin Shipbuilding Institute	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Bai Keming	1968-1970	Worker	2190.110:Metallurgy and Geology Bureau	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Bai Keming	1962-1968	Student	6400.114:Military Engineering Institute of the Chinese PLA	6400.114001:Military Engineering Institute of the Chinese PLA-Department of Missile Engineering	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Bai Lichen	2008-2013	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bai Lichen	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Lichen	2003-2008	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bai Lichen	2002-2007	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Lichen	1999-	President	6750.141:All-China Federation of Supply and Marketing Cooperatives
+Bai Lichen	1998-2003	Director	6750.141:All-China Federation of Supply and Marketing Cooperatives
+Bai Lichen	1998-2003	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bai Lichen	1997-2000	Secretary	6750.141:All-China Federation of Supply and Marketing Cooperatives	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Bai Lichen	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Lichen	1992-1997	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Lichen	1987-1997	Deputy Secretary	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	9560.024:Ningxia Hui Autonomous Region
+Bai Lichen	1987-1992	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Lichen	1987-1997	Chairman	1610.901:Autonomous Regional People's Congress	9560.024:Ningxia Hui Autonomous Region
+Bai Lichen	1986-1987	Acting Chairman	1610.901:Autonomous Regional People's Congress	9560.024:Ningxia Hui Autonomous Region
+Bai Lichen	1985-1986	Vice-Governor	2050.101:People's Government	9560.023:Liaoning Province
+Bai Lichen	1985-1986	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.023:Liaoning Province
+Bai Lichen	1984-1985	Assistant to Governor	2050.101:People's Government	9560.023:Liaoning Province
+Bai Lichen	1984-1985	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.023:Liaoning Province	9560.023009:Liaoning Province, Panjin City
+Bai Lichen	1983-1984	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.023:Liaoning Province	9560.023007:Liaoning Province, Yingkou City
+Bai Lichen	1983-1984	Mayor	2050.101:People's Government	9560.023:Liaoning Province	9560.023007:Liaoning Province, Yingkou City
+Bai Lichen	1972-1980	Deputy Section Chief	2190.141:Personnel Supervision Bureau	9560.023:Liaoning Province	9560.023007:Liaoning Province, Yingkou City
+Bai Lichen	1972-1980	Clerk	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015036:City Committee-Organization Department	9560.023:Liaoning Province	9560.023007:Liaoning Province, Yingkou City
+Bai Lichen	1971	Joined	1010.101:CPC
+Bai Lichen	1964-1968	Technician	6190.175:Yingkou Agricultural College	6190.175001:Yingkou Agricultural College-Agricultural Machinery Institute	9560.023:Liaoning Province	9560.023007:Liaoning Province, Yingkou City
+Bai Lichen	1964	Graduate	6190.171:Shenyang Agricultural College	6190.171001:Shenyang Agricultural College-Agricultural Engineering Department	9560.023:Liaoning Province
+Bai Lutang	1998-2005	Chairman	6750.223:Hebei Federation of Trade Unions	9560.011:Hebei Province
+Bai Lutang	1998-2005	Member	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.011:Hebei Province
+Bai Lutang	1998-2005	Vice-Chairman	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.011:Hebei Province
+Bai Lutang	1993-1998	Secretary	2410.246:Provincial Labor Department	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.011:Hebei Province
+Bai Lutang	1993-1998	Director	2410.246:Provincial Labor Department	9560.011:Hebei Province
+Bai Lutang	1992-1993	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.011:Hebei Province	9560.011004:Hebei Province, Handan City
+Bai Lutang	1984-1992	Mayor	2050.101:People's Government	9560.011:Hebei Province	9560.011004:Hebei Province, Handan City
+Bai Lutang	1984-1992	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.011:Hebei Province	9560.011004:Hebei Province, Handan City
+Bai Lutang	1983-1984	Deputy Commissioner	2410.108:Administrative Office	9560.011:Hebei Province	9560.011004:Hebei Province, Handan City
+Bai Lutang	1983-1984	Member	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015026:City Committee-Standing Committee	9560.011:Hebei Province	9560.011004:Hebei Province, Handan City
+Bai Lutang	1982-1983	Member	2190.273:Bureau of Mines and Geology	1010.101:CPC	1010.101025:CPC-Party Committee	1010.101025001:Party Committee-Standing Committee	9560.011:Hebei Province	9560.011004:Hebei Province, Handan City
+Bai Lutang	1982-1983	Deputy Director	2190.273:Bureau of Mines and Geology	9560.011:Hebei Province	9560.011004:Hebei Province, Handan City
+Bai Lutang	1975-1982	Deputy Section Chief	2190.273:Bureau of Mines and Geology	9560.011:Hebei Province	9560.011004:Hebei Province, Handan City
+Bai Lutang	1968-1975	Principal	3100.332:Ministry of Coal Industry	3100.332081:Ministry of Coal Industry-Fenxi Bureau of Mines	9560.026:Shanxi Province	9560.026044:Shanxi Province, Fenxi County
+Bai Lutang	1968-1975	Deputy Director	3100.332:Ministry of Coal Industry	3100.332081:Ministry of Coal Industry-Fenxi Bureau of Mines	9560.026:Shanxi Province	9560.026044:Shanxi Province, Fenxi County
+Bai Lutang	1968-1975	Team Leader	3100.332:Ministry of Coal Industry	3100.332081:Ministry of Coal Industry-Fenxi Bureau of Mines	9560.026:Shanxi Province	9560.026044:Shanxi Province, Fenxi County
+Bai Lutang	1968-1975	Political Director	3100.332:Ministry of Coal Industry	3100.332081:Ministry of Coal Industry-Fenxi Bureau of Mines	9560.026:Shanxi Province	9560.026044:Shanxi Province, Fenxi County
+Bai Lutang	1963-1968	Student	6230.137:Xi'an Mining Institute	6230.137001:Xi'an Mining Institute-Mining Department	9560.027:Shaanxi Province	9560.027001:Shaanxi Province, Xi'an City
+Bai Lutang	1963	Joined	1010.101:CPC
+Bai Qingcai	1998-2003	Deputy Director	1610.206:Environmental Protection and Resources Conservation Committee of the NPC
+Bai Qingcai	1998-2003	Member	1610.101:Standing Committee of the NPC
+Bai Qingcai	1997-2002	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Bai Qingcai	1995-1997	Director	6750.141:All-China Federation of Supply and Marketing Cooperatives
+Bai Qingcai	1993-1998	Member	1610.001:NPC
+Bai Qingcai	1992-1997	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Qingcai	1990-1994	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.026:Shanxi Province
+Bai Qingcai	1990-1994	Governor	2050.101:People's Government	9560.026:Shanxi Province
+Bai Qingcai	1988-1993	Member	1610.001:NPC
+Bai Qingcai	1987-1992	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Bai Qingcai	1985-1990	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.026:Shanxi Province
+Bai Qingcai	1985-1990	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.026:Shanxi Province
+Bai Qingcai	1985-1990	Executive Vice-Governor	2050.101:People's Government	9560.026:Shanxi Province
+Bai Qingcai	1983-1985	Vice-Governor	2050.101:People's Government	9560.026:Shanxi Province
+Bai Qingcai	1975-1981	Director	2410.159:Finance and Trade Office	9560.026:Shanxi Province
+Bai Qingcai	1973-1975	Deputy Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.026:Shanxi Province	9560.026056:Shanxi Province, Penglu County
+Bai Qingcai	1970-1973	Secretary	2210.178:Provincial Planning Committee	2210.178001:Provincial Planning Committee-General Office	1010.101:CPC	1010.101025:CPC-Party Committee	9560.026:Shanxi Province
+Bai Qingcai	1966-1970	Worker	1020.101:Cultural Revolution	1020.101104:Cultural Revolution-Sent to do manual labor
+Bai Qingcai	1955	Joined	1010.101:CPC
+Bai Qingcai	1949-1959	Clerk	8510.101:People's Bank of China	8510.101001:People's Bank of China-Provincial Branch	9560.026:Shanxi Province
+Bai Qingcai	1949	Joined
+Bai Rubing	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Rubing	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Runzhang	2003-	Vice-Chairman	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.011:Hebei Province
+Bai Runzhang	1997-2002	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.011:Hebei Province	9560.011002:Hebei Province, Tangshan City
+Bai Runzhang	1993-1998	Deputy	1610.001:NPC
+Bai Runzhang	1993-1997	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.011:Hebei Province	9560.011094:Hebei Province, Hengshui City
+Bai Runzhang	1993	Acting Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.011:Hebei Province	9560.011001:Hebei Province, Shijiazhuang City
+Bai Runzhang	1991-1993	Commissioner	2410.108:Administrative Office	9560.011:Hebei Province	9560.011001:Hebei Province, Shijiazhuang City
+Bai Runzhang	1989-1993	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.011:Hebei Province	9560.011001:Hebei Province, Shijiazhuang City
+Bai Runzhang	1986-1989	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.011:Hebei Province	9560.011093:Hebei Province, Xinji City
+Bai Runzhang	1985-1986	Secretary	1010.101:CPC	1010.101021:CPC-Autonomous County Committee	9560.007:Guangxi Zhuang Autonomous Region	9560.007034:Guangxi Zhuang Autonomous Region, Luzhai County
+Bai Runzhang	1983-1985	Deputy Secretary	1010.101:CPC	1010.101021:CPC-Autonomous County Committee	9560.007:Guangxi Zhuang Autonomous Region	9560.007034:Guangxi Zhuang Autonomous Region, Luzhai County
+Bai Runzhang	1982-1983	Deputy Secretary	8010.772:Hu Tuo He Chemical Fertilizer Factory	1010.101:CPC	1010.101025:CPC-Party Committee	9560.011:Hebei Province	9560.011001:Hebei Province, Shijiazhuang City
+Bai Runzhang	1982-1983	Director	8010.772:Hu Tuo He Chemical Fertilizer Factory	9560.011:Hebei Province	9560.011001:Hebei Province, Shijiazhuang City
+Bai Runzhang	1981-1982	Deputy Section Chief	2190.255:Chemical Industry Bureau	9560.011:Hebei Province	9560.011001:Hebei Province, Shijiazhuang City
+Bai Runzhang	1975	Joined	1010.101:CPC
+Bai Runzhang	1971-1981	Secretary	8010.244:Xinjiang Production and Construction Corps	8010.244011:Xinjiang Production and Construction Corps-Production Section	1010.101:CPC	1010.101041:CPC-Party Branch	9560.035:Xinjiang Uygur Autonomous Region
+Bai Runzhang	1971-1981	Technician	8010.244:Xinjiang Production and Construction Corps	8010.244011:Xinjiang Production and Construction Corps-Production Section	9560.035:Xinjiang Uygur Autonomous Region
+Bai Runzhang	1968-1971	Worker	9560.011:Hebei Province
+Bai Runzhang	1963-1968	Student	6290.142:Tianjin Institute of Technology	6290.142009:Tianjin Institute of Technology-Chemical Engineering Department	9560.033:Tianjin Municipality
+Bai Shaokang	2013-	Vice-Mayor	2050.101:People's Government	9560.029:Shanghai Municipality
+Bai Xiangqun	2012-	Vice-Chairman	2050.106:Autonomous Region People's Government	9560.017:Inner Mongolia Autonomous Region
+Bai Xiangqun	2011-2012	Secretary	1810.101:CPPCC	1810.101032:CPPCC-Autonomous League Committee	9560.017:Inner Mongolia Autonomous Region	9560.017066:Inner Mongolia Autonomous Region, Xilin Gol League
+Bai Xiangqun	2008-2013	Deputy	1610.001:NPC
+Bai Xiangqun	2008-2011	Secretary	1010.101:CPC	1010.101016:CPC-Autonomous City Committee	9560.017:Inner Mongolia Autonomous Region	9560.017021:Inner Mongolia Autonomous Region, Wuhai City
+Bai Xiangqun	2003-2008	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bai Xiangqun	2003-2008	Mayor	2050.106:Autonomous Region People's Government	9560.017:Inner Mongolia Autonomous Region	9560.017021:Inner Mongolia Autonomous Region, Wuhai City
+Bai Xiangqun	2003-2008	Deputy Secretary	1010.101:CPC	1010.101016:CPC-Autonomous City Committee	9560.017:Inner Mongolia Autonomous Region	9560.017021:Inner Mongolia Autonomous Region, Wuhai City
+Bai Xiangqun	2003-2008	Deputy Secretary	2050.106:Autonomous Region People's Government	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.017:Inner Mongolia Autonomous Region	9560.017021:Inner Mongolia Autonomous Region, Wuhai City
+Bai Xiangqun	2003-2006	Student	6020.103:People's University of China	9560.002:Beijing Municipality
+Bai Xiangqun	2000-2003	Secretary	6777.101:CYLC	6777.101611:CYLC-Autonomous Regional-Level	9560.017:Inner Mongolia Autonomous Region
+Bai Xiangqun	2000-2003	Secretary	6777.101:CYLC	6777.101611:CYLC-Autonomous Regional-Level	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.017:Inner Mongolia Autonomous Region
+Bai Xiangqun	1996-2000	Member	6777.101:CYLC	6777.101611:CYLC-Autonomous Regional-Level	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.017:Inner Mongolia Autonomous Region
+Bai Xiangqun	1996-2000	Deputy Secretary	6777.101:CYLC	6777.101611:CYLC-Autonomous Regional-Level	9560.017:Inner Mongolia Autonomous Region
+Bai Xiangqun	1994-1996	Secretary	6777.101:CYLC	6777.101621:CYLC-Autonomous City-Level	9560.017:Inner Mongolia Autonomous Region	9560.017003:Inner Mongolia Autonomous Region, Chifeng City
+Bai Xiangqun	1993-1994	Deputy Secretary	6777.101:CYLC	6777.101621:CYLC-Autonomous City-Level	9560.017:Inner Mongolia Autonomous Region	9560.017003:Inner Mongolia Autonomous Region, Chifeng City
+Bai Xiangqun	1992-1993	Director	2190.124:Education Bureau	2190.124001:Education Bureau-General Office	9560.017:Inner Mongolia Autonomous Region	9560.017003:Inner Mongolia Autonomous Region, Chifeng City
+Bai Xiangqun	1991-1992	Director	2190.124:Education Bureau	2190.124011:Education Bureau-Adult Self-Examination Office	9560.017:Inner Mongolia Autonomous Region	9560.017003:Inner Mongolia Autonomous Region, Chifeng City
+Bai Yilong		 (Winner
+Bai Yilong	1996-	Deputy Director	6410.107:Chinese Academy of Sciences	6410.107008:Chinese Academy of Sciences-Division of Mathematics and Physics
+Bai Yilong		Editor-in-Chief	7010.805:Scientia Sinica
+Bai Yilong	1993-	Director	6410.107:Chinese Academy of Sciences	6410.107081:Chinese Academy of Sciences-Laboratory for Non-Linear Mechanics of Continuous Media
+Bai Yilong	1992-	Member	6410.107:Chinese Academy of Sciences	6410.107008:Chinese Academy of Sciences-Division of Mathematics and Physics
+Bai Yilong	1991-	Member	6410.107:Chinese Academy of Sciences
+Bai Yilong	1990-1994	Secretary-General	6900.137:Mechanics Society of China
+Bai Yilong	1988-1993	Deputy Director	6410.107:Chinese Academy of Sciences	6410.107081:Chinese Academy of Sciences-Laboratory for Non-Linear Mechanics of Continuous Media
+Bai Yilong	1987-1994	Deputy Director	6410.107:Chinese Academy of Sciences	6410.107014:Chinese Academy of Sciences-Mechanics Research Institute
+Bai Yilong	1987-1987	Professor	6410.107:Chinese Academy of Sciences	6410.107014:Chinese Academy of Sciences-Mechanics Research Institute
+Bai Yilong	1986-1986	Researcher	6410.107:Chinese Academy of Sciences	6410.107014:Chinese Academy of Sciences-Mechanics Research Institute
+Bai Yilong	1984-1984	Chairman	6410.107:Chinese Academy of Sciences	6410.107014:Chinese Academy of Sciences-Mechanics Research Institute	6410.107014001:Mechanics Research Institute-Academic Committee
+Bai Yilong	1982-1985	Assistant Researcher	6410.107:Chinese Academy of Sciences	6410.107014:Chinese Academy of Sciences-Mechanics Research Institute
+Bai Yilong	1980-1981	Researcher	6490.706:University of Cambridge	9470.:United Kingdom	9470.117:United Kingdom, Cambridge
+Bai Yilong	1979-1980	Researcher	6490.701:Oxford University	9470.:United Kingdom	9470.112:United Kingdom, Oxford
+Bai Yilong	1966-1978	Research Trainee	6410.107:Chinese Academy of Sciences	6410.107014:Chinese Academy of Sciences-Mechanics Research Institute
+Bai Yilong	1963-1966	Postgraduate Student	6410.107:Chinese Academy of Sciences	6410.107014:Chinese Academy of Sciences-Mechanics Research Institute
+Bai Yilong	1963	Graduate	6010.102:University of Science and Technology of China	9560.001:Anhui Province
+Bai Zhijian	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Zhijian	2002-2007	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Zhijian	2002-2014	Director	2050.201:Central People's Government	2050.201009:Central People's Government-Liaison Office	9560.038:Macao SAR
+Bai Zhijian	1998-2001	Deputy Chairman	2050.106:Autonomous Region People's Government	9560.017:Inner Mongolia Autonomous Region
+Bai Zhijian	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bai Zhijian	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001039:Central Committee-Central Commission for Discipline Inspection
+Bai Zhijian	1996-1998	Member	3100.651:Ministry of Agriculture	1010.101:CPC	1010.101025:CPC-Party Committee
+Bai Zhijian	1996-1998	Minister	3100.651:Ministry of Agriculture
+Bai Zhijian	1993-1993	Chief	3100.651:Ministry of Agriculture	3100.651004:Ministry of Agriculture-Personnel Department
+Bai Zhijian	1989-1993	Deputy General Manager	3100.651:Ministry of Agriculture	3100.651222:Ministry of Agriculture-National Aquatic Products Administration	3100.651222001:National Aquatic Products Administration-General Office
+Bai Zhijian	1988-1989	Assistant General Manager	3100.651:Ministry of Agriculture	3100.651222:Ministry of Agriculture-National Aquatic Products Administration	3100.651222001:National Aquatic Products Administration-General Office
+Bai Zhijian	1986-1988	Division Chief	3100.651:Ministry of Agriculture	3100.651005:Ministry of Agriculture-Agricultural Bureau	3100.651005001:Agricultural Bureau-Animal Husbandry and Fisheries	3100.651005001001:Animal Husbandry and Fisheries-General Office
+Bai Zhijian	1983-1986	Deputy Division Chief	3100.651:Ministry of Agriculture	3100.651005:Ministry of Agriculture-Agricultural Bureau	3100.651005001:Agricultural Bureau-Animal Husbandry and Fisheries	3100.651005001001:Animal Husbandry and Fisheries-General Office
+Bai Zhijian	1977-1983	Secretary	3100.651:Ministry of Agriculture	3100.651222:Ministry of Agriculture-National Aquatic Products Administration
+Bai Zhijian	1977-1983	Secretary	3100.651:Ministry of Agriculture	3100.651005:Ministry of Agriculture-Agricultural Bureau	3100.651005001:Agricultural Bureau-Animal Husbandry and Fisheries
+Bai Zhijian	1976-1977	Worker	6410.149:Chinese Academy of Agricultural Sciences	6410.149009:Chinese Academy of Agricultural Sciences-Aquatic Products Department
+Bai Zhijian	1973-1976	Student	6040.123:Xiamen Aquatic Products Institute	6040.123009:Xiamen Aquatic Products Institute-Aquatic Products Process Department	9560.004:Fujian Province	9560.004003:Fujian Province, Xiamen City
+Baimachilin 	2010-	Deputy Secretary	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	9560.034:Tibet Autonomous Region
+Bainqen Erdini Qoigyi Gyaincain	1988-1993	Vice-Chairman	1610.101:Standing Committee of the NPC
+Bainqen Erdini Qoigyi Gyaincain	1983-1988	Vice-Chairman	1610.101:Standing Committee of the NPC
+Bainqen Erdini Qoigyi Gyaincain	1979-1983	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bainqen Erdini Qoigyi Gyaincain	1978-1983	Vice-Chairman	1610.101:Standing Committee of the NPC
+Bainqen Erdini Qoigyi Gyaincain	1959-1965	Vice-Chairman	1610.101:Standing Committee of the NPC
+Bainqen Erdini Qoigyi Gyaincain	1954-1959	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bao Erhan	1983-1988	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bao Erhan	1978-1983	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bao Erhan	1959-1964	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bao Erhan	1954-1959	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bao Hong	2009-2014	Member	3200.751:State Intellectual Property Office	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Bao Hong	2009-2014	Deputy Director	3200.751:State Intellectual Property Office
+Bao Hong	2005-2009	Director	6900.113:China Association for Science and Technology	6900.113001:China Association for Science and Technology-General Office
+Bao Hong	2003-2005	Deputy Director	6900.113:China Association for Science and Technology	6900.113001:China Association for Science and Technology-General Office
+Bao Hong	1998-2003	Deputy Director	3100.221:Ministry of Science and Technology	3100.221001:Ministry of Science and Technology-General Office
+Bao Hong	1985-1998	Assistant Inspector	3100.801:State Science and Technology Commission	3100.801004:State Science and Technology Commission-Comprehensive Planning Department
+Bao Hong	1978	Graduate	6250.101:Fudan University	9560.029:Shanghai Municipality
+Bao Hong	1978-1985	Staff Member	6900.739:National Institute of Metrology
+Bao Junchen	2008-2013	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Bao Junchen	2003-	Vice-Chairman	1810.101:CPPCC	1810.101033:CPPCC-Autonomous Regional Committee	9560.017:Inner Mongolia Autonomous Region
+Bao Junchen	1998-2003	Deputy Director	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007068:Autonomous Regional Committee-Organization Department	9560.017:Inner Mongolia Autonomous Region
+Bao Junchen	1996-1998	Director	1610.903:Autonomous League People's Congress	1610.903009:Autonomous League People's Congress-Working Committee	9560.017:Inner Mongolia Autonomous Region	9560.017066:Inner Mongolia Autonomous Region, Xilin Gol League
+Bao Junchen	1996-1998	Secretary	1010.101:CPC	1010.101061:CPC-League Committee	9560.017:Inner Mongolia Autonomous Region	9560.017066:Inner Mongolia Autonomous Region, Xilin Gol League
+Bao Junchen	1994-1996	Head	2410.108:Administrative Office	9560.017:Inner Mongolia Autonomous Region	9560.017066:Inner Mongolia Autonomous Region, Xilin Gol League
+Bao Junchen	1994-1996	Deputy Secretary	1010.101:CPC	1010.101061:CPC-League Committee	9560.017:Inner Mongolia Autonomous Region	9560.017066:Inner Mongolia Autonomous Region, Xilin Gol League
+Bao Junchen	1989-1994	Deputy Secretary	1010.101:CPC	1010.101061:CPC-League Committee	9560.017:Inner Mongolia Autonomous Region	9560.017017:Inner Mongolia Autonomous Region, Ih Ju League
+Bao Junchen	1984-1989	Director	1010.101:CPC	1010.101061:CPC-League Committee	1010.101061004:League Committee-Propaganda Department	9560.017:Inner Mongolia Autonomous Region	9560.017017:Inner Mongolia Autonomous Region, Ih Ju League
+Bao Junchen	1984-1989	Member	1010.101:CPC	1010.101061:CPC-League Committee	1010.101061001:League Committee-Standing Committee	9560.017:Inner Mongolia Autonomous Region	9560.017017:Inner Mongolia Autonomous Region, Ih Ju League
+Bao Junchen	1983-1984	Secretary-General	1010.101:CPC	1010.101061:CPC-League Committee	9560.017:Inner Mongolia Autonomous Region	9560.017017:Inner Mongolia Autonomous Region, Ih Ju League
+Bao Junchen	1981-1983	Secretary	1010.101:CPC	1010.101061:CPC-League Committee	1010.101061007:League Committee-Administration Office	9560.017:Inner Mongolia Autonomous Region	9560.017017:Inner Mongolia Autonomous Region, Ih Ju League
+Bao Junchen	1975	Joined	1010.101:CPC
+Bao Junchen	1972-1981	Deputy Director	7010.159:Erdos Newspaper	7010.159001:Erdos Newspaper-Chinese Editing Office	9560.017:Inner Mongolia Autonomous Region	9560.017017:Inner Mongolia Autonomous Region, Ih Ju League
+Bao Junchen	1972-1981	Editor	7010.159:Erdos Newspaper	7010.159001:Erdos Newspaper-Chinese Editing Office	9560.017:Inner Mongolia Autonomous Region	9560.017017:Inner Mongolia Autonomous Region, Ih Ju League
+Bao Junchen	1970-1972	Teacher	9560.017:Inner Mongolia Autonomous Region	9560.017003:Inner Mongolia Autonomous Region, Chifeng City
+Bao Junchen	1969-1970	Worker
+Bao Junchen	1965-1969	Student	6160.101:Inner Mongolia University	6160.101008:Inner Mongolia University-Chinese Department	9560.017:Inner Mongolia Autonomous Region
+Bao Kexin	2002-2007	Vice-Governor	2050.101:People's Government	9560.008:Guizhou Province
+Bao Kexin	2001-2002	Director	3100.151:National Development and Reform Commission	3100.151035:National Development and Reform Commission-Investment Department
+Bao Kexin	1998-2001	Director	3100.151:National Development and Reform Commission	3100.151034:National Development and Reform Commission-Economy and Trade Circulation Department
+Bao Kexin	1993-1998	Director	3100.151:National Development and Reform Commission	3100.151009:National Development and Reform Commission-Economic Research Center	3100.151009001:Economic Research Center-State Planning Commission	3100.151009001022:State Planning Commission-Foreign Economic Relations and Trade Department
+Bao Kexin	1993-1998	Deputy Director	3100.151:National Development and Reform Commission	3100.151009:National Development and Reform Commission-Economic Research Center	3100.151009001:Economic Research Center-State Planning Commission	3100.151009001022:State Planning Commission-Foreign Economic Relations and Trade Department
+Bao Kexin	1992-1993	Deputy Director	2210.177:Planning Committee	9560.006:Guangdong Province	9560.006001:Guangdong Province, Guangzhou City
+Bao Kexin	1985-1993	Chief	3100.151:National Development and Reform Commission	3100.151009:National Development and Reform Commission-Economic Research Center	3100.151009001:Economic Research Center-State Planning Commission	3100.151009001021:State Planning Commission-Economics and Trade Bureau
+Bao Kexin	1985-1993	Deputy Chief	3100.151:National Development and Reform Commission	3100.151009:National Development and Reform Commission-Economic Research Center	3100.151009001:Economic Research Center-State Planning Commission	3100.151009001021:State Planning Commission-Economics and Trade Bureau
+Bao Kexin	1982-1985	Staff Member	3100.151:National Development and Reform Commission	3100.151009:National Development and Reform Commission-Economic Research Center	3100.151009001:Economic Research Center-State Planning Commission	3100.151009001021:State Planning Commission-Economics and Trade Bureau
+Bao Kexin	1979-1982	Graduate	6020.239:Beijing Institute of Economics	6020.239009:Beijing Institute of Economics-Finance and Trade Department	9560.002:Beijing Municipality
+Bao Kexin	1978-1979	Student	6260.141:Shanxi Institute of Finance and Economics	6260.141009:Shanxi Institute of Finance and Economics-Trade and Economics Department	9560.026:Shanxi Province
+Bao Kexin	1973	Joined	1010.101:CPC
+Bao Kexin	1968-1978	Cultural Revolution	1020.101:Cultural Revolution	1020.101104:Cultural Revolution-Sent to do manual labor	9560.026:Shanxi Province	9560.026036:Shanxi Province, Yanggao County
+Bao Peide	2003-	Vice-Chairman	6870.501:Song Qingling Foundation
+Bao Peide	2003-2008	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bao Peide	1993-2002	Deputy Commissioner	3200.251:Civil Aviation Administration of China
+Bao Peide	1991-1993	Director	3200.251:Civil Aviation Administration of China	3200.251002:Civil Aviation Administration of China-General Office
+Bao Peide	1986-1991	Secretary	3200.251:Civil Aviation Administration of China	1010.101:CPC	1010.101025:CPC-Party Committee	9560.006:Guangdong Province	9560.006001:Guangdong Province, Guangzhou City
+Bao Peide	1984-1986	Director	3200.251:Civil Aviation Administration of China	3200.251001:Civil Aviation Administration of China-General Administration	9560.006:Guangdong Province	9560.006001:Guangdong Province, Guangzhou City
+Bao Peide	1970-1984	Department Head	3200.251:Civil Aviation Administration of China
+Bao Peide	1970-1984	Assistant Deputy Office Chief	3200.251:Civil Aviation Administration of China
+Bao Peide	1970-1984	Clerk	3200.251:Civil Aviation Administration of China
+Bao Peide	1960-1970	Aviation Business Assistant	3200.251:Civil Aviation Administration of China	3200.251001:Civil Aviation Administration of China-General Administration	9560.031:Sichuan Province	9560.031001:Sichuan Province, Chengdu City
+Bao Peide	1960-1970	Dispatcher	3200.251:Civil Aviation Administration of China	3200.251001:Civil Aviation Administration of China-General Administration	9560.031:Sichuan Province	9560.031001:Sichuan Province, Chengdu City
+Bao Tong	1987-1992	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bao Xinbao	2003-	Vice-Chairman	1610.801:Municipal People's Congress	1610.801001:Municipal People's Congress-Standing Committee	9560.029:Shanghai Municipality
+Bao Xinbao	2002-	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Bao Xinbao	1998-2003	Chairman	6750.153:General Labor Union	9560.029:Shanghai Municipality
+Bao Xinbao	1998-	Deputy Secretary	1610.801:Municipal People's Congress	1610.801001:Municipal People's Congress-Standing Committee	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.029:Shanghai Municipality
+Bao Xinbao	1998-	Vice-Chairman	1610.801:Municipal People's Congress	1610.801001:Municipal People's Congress-Standing Committee	9560.029:Shanghai Municipality
+Bao Xinbao	1997-2002	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Bao Xinbao	1994-1998	Secretary	6750.224:Shanghai General Trade Union	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.029:Shanghai Municipality
+Bao Xinbao	1994-1998	Chairman	6750.224:Shanghai General Trade Union	9560.029:Shanghai Municipality
+Bao Xinbao	1992-1993	Secretary	1010.101:CPC	1010.101017:CPC-District Committee	9560.029:Shanghai	9560.029008:Shanghai, Min Hang District
+Bao Xinbao	1992-1997	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Bao Xinbao	1988-1992	Secretary	1010.101:CPC	1010.101017:CPC-District Committee	9560.029:Shanghai	9560.029009:Shanghai, Baoshan District
+Bao Xinbao	1987-1992	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Bao Xinbao	1985-1988	Secretary	2190.110:Metallurgy and Geology Bureau	1010.101:CPC	1010.101025:CPC-Party Committee	9560.029:Shanghai Municipality
+Bao Xinbao	1983-1985	Student	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School	1010.101001031014:Central Party School-Marxism and Leninism Research Institute
+Bao Xinbao	1981-1983	Deputy Director	2190.110:Metallurgy and Geology Bureau	2190.110010:Metallurgy and Geology Bureau-Cadre Division	9560.029:Shanghai Municipality
+Bao Xinbao	1978-1981	Deputy Secretary	8010.775:Shanghai Yuelong Chemical Factory	1010.101:CPC	1010.101025:CPC-Party Committee	9560.029:Shanghai Municipality
+Bao Xinbao	1968-1978	Worker	8010.775:Shanghai Yuelong Chemical Factory	8010.775002:Shanghai Yuelong Chemical Factory-No. 2 Workshop	9560.029:Shanghai Municipality
+Bao Xinbao	1968-1978	Secretary	8010.775:Shanghai Yuelong Chemical Factory	8010.775001:Shanghai Yuelong Chemical Factory-Factory Office	9560.029:Shanghai Municipality
+Bao Xinbao	1968-1978	Secretary	8010.775:Shanghai Yuelong Chemical Factory	8010.775003:Shanghai Yuelong Chemical Factory-No. 3 Workshop	1010.101:CPC	1010.101041:CPC-Party Branch	9560.029:Shanghai Municipality
+Bao Xinbao	1965-1968	Student	6250.101:Fudan University	6250.101012:Fudan University-Foreign Language Department	9560.029:Shanghai Municipality
+Bao Xinbao	1965	Joined	1010.101:CPC
+Bao Xinbao	1963-1965	Student	6250.101:Fudan University	6250.101009:Fudan University-Physics Department	9560.029:Shanghai Municipality
+Bao Xuding	2003-2008	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Bao Xuding	2002-	Deputy Secretary	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.003:Chongqing Municipality
+Bao Xuding	2002-	General Manager	8010.841:China International Engineering Consulting Company
+Bao Xuding	2000-2002	Mayor	2050.101:People's Government	9560.003:Chongqing Municipality
+Bao Xuding	1999-	Member	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009001:Municipal Committee-Standing Committee	9560.003:Chongqing Municipality
+Bao Xuding	1999-2000	Vice-Mayor	2050.101:People's Government	9560.003:Chongqing Municipality
+Bao Xuding	1999-2000	Deputy Secretary	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.003:Chongqing Municipality
+Bao Xuding	1998-1999	Vice-Minister	3100.151:National Development and Reform Commission
+Bao Xuding	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bao Xuding	1996-1998	Minister	3100.471:Ministry of Machinery Industry
+Bao Xuding	1993-1996	Vice-Minister	3100.471:Ministry of Machinery Industry
+Bao Xuding	1990-1993	Vice-Minister	3100.354:Ministry of Machinery and Electronics Industry
+Bao Xuding	1988-1990	Director	2210.234:Provincial Economic Planning Commission	9560.031:Sichuan Province
+Bao Xuding	1986-1988	Director	2190.263:City Machine Building Industry Bureau	9560.031:Sichuan Province
+Bao Xuding	1984-1986	Student	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School
+Bao Xuding	1970-1975	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005002:Provincial Committee-General Office	9560.031:Sichuan Province
+Bao Xuding	1969-1970	Worker	1020.101:Cultural Revolution	1020.101102:Cultural Revolution-May 7th Cadre School
+Bao Xuding	1966-1969	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005002:Provincial Committee-General Office	9560.031:Sichuan Province
+Bao Xuding	1961	Joined	1010.101:CPC
+Bao Xuding	1955-1958	Graduate	6190.186:Shenyang Machinery Industry School	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Bao Yueqiao	1998-2006	President	8010.702:Beijing Our Game Computer Technology Company	9560.002:Beijing Municipality
+Bao Yueqiao	1993-1998	Programmer	8010.701:Beijing Hope Computer Company	8010.701001:Beijing Hope Computer Company-Software Department	9560.002:Beijing Municipality
+Bao Yueqiao	1993-1998	Chief Engineer	8010.701:Beijing Hope Computer Company	9560.002:Beijing Municipality
+Bao Yueqiao	1989	Graduate	6330.101:Zhejiang University	6330.101004:Zhejiang University-Mathematics Department	9560.037:Zhejiang Province
+Bao Yueqiao	1989-1993	Programmer	9560.037:Zhejiang Province	9560.037001:Zhejiang Province, Hangzhou City
+Bao Yujun	1998-	President	6770.726:China Private Enterprises Association
+Bao Yujun	1998-	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001012:National Committee-Committee for Social and Legal Affairs
+Bao Yujun	1996-	Vice-Chairman	6750.126:All-China Federation of Industry and Commerce	6750.126001:All-China Federation of Industry and Commerce-Executive Committee
+Bao Yujun	1993-1996	Honorary President	6770.193:National Association of University and College Newspapers
+Bao Yujun		Vice-President	6770.192:Chinese Advertising Association
+Bao Yujun		Vice-President	6770.191:Chinese Health Press Association
+Bao Yujun		President	6770.186:China National Association for Newspaper Management
+Bao Yujun	1988-1996	Deputy Editor-in-Chief	7010.101:People's Daily
+Bao Yujun	1988-????	Secretary-General	7010.101:People's Daily
+Bao Yujun	1988-????	Chief Editor	7010.101:People's Daily	7010.101003:People's Daily-Third Page
+Bao Yujun	1988-????	Member	7010.101:People's Daily	7010.101001:People's Daily-Editorial Board
+Bao Yujun	1988-????	Director	7010.101:People's Daily	7010.101008:People's Daily-Scientific and Educational Department
+Bao Yujun	1988-????	Director	7010.101:People's Daily	7010.101009:People's Daily-Political and Cultural Department
+Bao Yujun	1966	Graduate	6020.103:People's University of China	6020.103004:People's University of China-Journalism Department	9560.002:Beijing Municipality
+Bao Yujun	1965	Joined	1010.101:CPC
+Bao Zheng	1991-	Academician	6410.107:Chinese Academy of Sciences
+Bao Zheng	1960	Developer
+Bao Zheng	1953	Graduate	6400.120:PLA Institute of Communications Engineering
+Baoriledai 	1979-2003	Member	1810.101:CPPCC	1810.101033:CPPCC-Autonomous Regional Committee	1810.101033001:Autonomous Regional Committee-Standing Committee	9560.017:Inner Mongolia Autonomous Region
+Baoriledai 	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Baoriledai 	1977-1982	Deputy Director	1610.901:Autonomous Regional People's Congress	1610.901001:Autonomous Regional People's Congress-Standing Committee	9560.017:Inner Mongolia Autonomous Region
+Baoriledai 	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Baoriledai 	1969-1973	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Baoriledai 	1958	Joined	1010.101:CPC
+Baoyindeliger 	2003-	Member	1610.901:Autonomous Regional People's Congress	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.017:Inner Mongolia Autonomous Region
+Baoyindeliger 	2003-	Vice-Chairman	1610.901:Autonomous Regional People's Congress	9560.017:Inner Mongolia Autonomous Region
+Baoyindeliger 	1995-2003	Member	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007011:Autonomous Regional Committee-Standing Committee	9560.017:Inner Mongolia Autonomous Region
+Baoyindeliger 	1995-2003	Member	2050.106:Autonomous Region People's Government	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.017:Inner Mongolia Autonomous Region
+Baoyindeliger 	1995-2003	Vice-Chairman	2050.106:Autonomous Region People's Government	9560.017:Inner Mongolia Autonomous Region
+Baoyindeliger 	1992-1995	Deputy Secretary	1010.101:CPC	1010.101061:CPC-League Committee	9560.017:Inner Mongolia Autonomous Region	9560.017011:Inner Mongolia Autonomous Region, Bayannur League
+Baoyindeliger 	1992-1995	League Head	9560.017:Inner Mongolia Autonomous Region	9560.017011:Inner Mongolia Autonomous Region, Bayannur League
+Baoyindeliger 	1983-1992	Deputy League Head	9560.017:Inner Mongolia Autonomous Region	9560.017011:Inner Mongolia Autonomous Region, Bayannur League
+Baoyindeliger 	1981-1983	Deputy Banner Head	9560.017:Inner Mongolia Autonomous Region	9560.017025:Inner Mongolia Autonomous Region, Urad Front Banner
+Baoyindeliger 	1977-1981	Deputy Director	1010.101:CPC	1010.101081:CPC-Banner Committee	1010.101081001:Banner Committee-Standing Committee	9560.017:Inner Mongolia Autonomous Region	9560.017025:Inner Mongolia Autonomous Region, Urad Front Banner
+Baoyindeliger 	1974-1981	Deputy Director	2210.802:Innovation Commission	9560.017:Inner Mongolia Autonomous Region	9560.017025:Inner Mongolia Autonomous Region, Urad Front Banner
+Baoyindeliger 	1974-1977	Deputy Secretary	6950.714:Baiyanhua Commune	1010.101:CPC	1010.101025:CPC-Party Committee
+Baoyindeliger 	1973-1974	Secretary	2210.233:Planning Commission	9560.017:Inner Mongolia Autonomous Region	9560.017025:Inner Mongolia Autonomous Region, Urad Front Banner
+Baoyindeliger 	1972	Joined	1010.101:CPC
+Baoyindeliger 	1971-1973	Clerk	9560.017:Inner Mongolia Autonomous Region	9560.017025:Inner Mongolia Autonomous Region, Urad Front Banner
+Baoyindeliger 	1970-1971	Cultural Revolution	1020.101:Cultural Revolution	1020.101104:Cultural Revolution-Sent to do manual labor	9560.033:Tianjin Municipality
+Baoyindeliger 	1965-1970	Student	6160.125:Inner Mongolia Agriculture and Animal Husbandry College	6160.125009:Inner Mongolia Agriculture and Animal Husbandry College-Machine and Water Conservancy Department	9560.017:Inner Mongolia Autonomous Region
+Bater  (Bagatur, Bateer)	2012-2017	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bater  (Bagatur, Bateer)	2008-2009	Acting Chairman	2050.106:Autonomous Region People's Government	9560.017:Inner Mongolia Autonomous Region
+Bater  (Bagatur, Bateer)	2008-2009	Vice-Chairman	2050.106:Autonomous Region People's Government	9560.017:Inner Mongolia Autonomous Region
+Bater  (Bagatur, Bateer)	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001039:Central Committee-Central Commission for Discipline Inspection
+Bater  (Bagatur, Bateer)	2002-2007	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001039:Central Committee-Central Commission for Discipline Inspection
+Bater  (Bagatur, Bateer)	2001-	Deputy Secretary	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	9560.017:Inner Mongolia Autonomous Region
+Bater  (Bagatur, Bateer)	1999-1999	Chairman	1610.902:Autonomous City People's Congress	9560.017:Inner Mongolia Autonomous Region	9560.017021:Inner Mongolia Autonomous Region, Wuhai City
+Bater  (Bagatur, Bateer)	1999-	Member	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007011:Autonomous Regional Committee-Standing Committee	9560.017:Inner Mongolia Autonomous Region
+Bater  (Bagatur, Bateer)	1999-2001	Secretary	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007012:Autonomous Regional Committee-Commission for Discipline Inspection	9560.017:Inner Mongolia Autonomous Region
+Bater  (Bagatur, Bateer)	1997-2002	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bater  (Bagatur, Bateer)	1997-2002	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bater  (Bagatur, Bateer)	1994-1998	Mayor	2050.101:People's Government	9560.017:Inner Mongolia Autonomous Region	9560.017021:Inner Mongolia Autonomous Region, Wuhai City
+Bater  (Bagatur, Bateer)	1994-1999	Secretary	1010.101:CPC	1010.101016:CPC-Autonomous City Committee	9560.017:Inner Mongolia Autonomous Region	9560.017021:Inner Mongolia Autonomous Region, Wuhai City
+Bater  (Bagatur, Bateer)	1992-1994	Deputy Secretary	1010.101:CPC	1010.101016:CPC-Autonomous City Committee	9560.017:Inner Mongolia Autonomous Region	9560.017021:Inner Mongolia Autonomous Region, Wuhai City
+Bater  (Bagatur, Bateer)	1991-1992	Director Assistant	2050.101:People's Government	9560.002:Beijing	9560.002015:Beijing, Chaoyang District
+Bater  (Bagatur, Bateer)	1989-1990	Student	6490.117:Tokyo Training Center of Japan	9410.:Japan	9410.101:Japan, Tokyo
+Bater  (Bagatur, Bateer)	1988-1989	Student	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School
+Bater  (Bagatur, Bateer)	1986-1992	Secretary	6777.101:CYLC	6777.101611:CYLC-Autonomous Regional-Level	9560.017:Inner Mongolia Autonomous Region
+Bater  (Bagatur, Bateer)	1984-1986	Deputy Secretary	6777.101:CYLC	6777.101611:CYLC-Autonomous Regional-Level	9560.017:Inner Mongolia Autonomous Region
+Bater  (Bagatur, Bateer)	1983-1984	Chairman	6777.101:CYLC	6777.101629:CYLC-Autonomous League-Level	9560.017:Inner Mongolia Autonomous Region	9560.017009:Inner Mongolia Autonomous Region, Hulun Buir League
+Bater  (Bagatur, Bateer)	1982-1983	Student	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007009:Autonomous Regional Committee-Party School	9560.017:Inner Mongolia Autonomous Region
+Bater  (Bagatur, Bateer)	1981	Joined	1010.101:CPC
+Bater  (Bagatur, Bateer)	1980-1983	Clerk	1010.101:CPC	1010.101061:CPC-League Committee	1010.101061005:League Committee-Organization Department	9560.017:Inner Mongolia Autonomous Region	9560.017009:Inner Mongolia Autonomous Region, Hulun Buir League
+Bater  (Bagatur, Bateer)	1980-1983	Teacher	1010.101:CPC	1010.101061:CPC-League Committee	1010.101061006:League Committee-Party School	9560.017:Inner Mongolia Autonomous Region	9560.017009:Inner Mongolia Autonomous Region, Hulun Buir League
+Bater  (Bagatur, Bateer)	1978-1980	Student	6160.126:Hailar Mongolian Teachers' School	6160.126009:Hailar Mongolian Teachers' School-Mongolian Language Department	9560.017:Inner Mongolia Autonomous Region
+Bater  (Bagatur, Bateer)	1973-1978	Worker	9560.017:Inner Mongolia Autonomous Region	9560.017009:Inner Mongolia Autonomous Region, Hulun Buir League	9560.017009001:Hulun Buir League, Ewenke Banner
+Batubagen 	1987-1992	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Batubagen 	1982-1987	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bayanqolu 	2014-	Director	1610.401:Provincial People's Congress	9560.022:Jilin Province
+Bayanqolu 	2014-	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.022:Jilin Province
+Bayanqolu 	2013-2014	Governor	2050.101:People's Government	9560.022:Jilin Province
+Bayanqolu 	2012-2012	Vice-Governor	2050.101:People's Government	9560.022:Jilin Province
+Bayanqolu 	2012-2012	Acting Governor	2050.101:People's Government	9560.022:Jilin Province
+Bayanqolu 	2012-2017	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bayanqolu 	2011-	Chairman	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.022:Jilin Province
+Bayanqolu 	2010-2014	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.022:Jilin Province
+Bayanqolu 	2010-	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.022:Jilin Province
+Bayanqolu 	2007-2012	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bayanqolu 	2007-2010	Chairman	1610.501:City People's Congress	1610.501001:City People's Congress-Standing Committee	9560.037:Zhejiang Province	9560.037002:Zhejiang Province, Ningbo City
+Bayanqolu 	2003-2010	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.037:Zhejiang Province	9560.037002:Zhejiang Province, Ningbo City
+Bayanqolu 	2003-2010	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.037:Zhejiang Province
+Bayanqolu 	2001-2004	Vice-Governor	2050.101:People's Government	9560.037:Zhejiang Province
+Bayanqolu 	2000-	President	6770.194:China Association for Youth Volunteers	6770.194001:China Association for Youth Volunteers-Council
+Bayanqolu 	1998-2001	Executive Secretary	6777.101:CYLC	6777.101101:CYLC-Central Committee	6777.101101002:Central Committee-Secretariat
+Bayanqolu 	1998-2001	Chairman	6750.128:All-China Youth Federation
+Bayanqolu 	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Bayanqolu 	1993-1998	Secretary	6777.101:CYLC	6777.101101:CYLC-Central Committee	6777.101101002:Central Committee-Secretariat
+Bayanqolu 	1993-1998	Vice-Chairman	6750.128:All-China Youth Federation
+Bayanqolu 	1993-1998	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001014:National Committee-Subcommittee on Women and Youth
+Bayanqolu 	1992-1993	Secretary	6777.101:CYLC	6777.101611:CYLC-Autonomous Regional-Level	9560.017:Inner Mongolia Autonomous Region
+Bayanqolu 	1992-1993	Chairman	6750.252:Inner Mongolia Youth Federation
+Bayanqolu 	1991-1992	Deputy Secretary	6777.101:CYLC	6777.101611:CYLC-Autonomous Regional-Level	9560.017:Inner Mongolia Autonomous Region
+Bayanqolu 	1988-1991	Secretary	1010.101:CPC	1010.101081:CPC-Banner Committee	9560.017:Inner Mongolia Autonomous Region	9560.017018:Inner Mongolia Autonomous Region, Ejin Horo Banner
+Bayanqolu 	1985-1988	Deputy Secretary	1010.101:CPC	1010.101081:CPC-Banner Committee	9560.017:Inner Mongolia Autonomous Region	9560.017018:Inner Mongolia Autonomous Region, Ejin Horo Banner
+Bayanqolu 	1985-1988	Magistrate	4020.103:County (District) People's Court	9560.017:Inner Mongolia Autonomous Region	9560.017018:Inner Mongolia Autonomous Region, Ejin Horo Banner
+Bayanqolu 	1980-1982	Student	6160.136:Inner Mongolia Normal University	6160.136222:Inner Mongolia Normal University-Political Education College	9560.017:Inner Mongolia Autonomous Region
+Bi Jingquan	2015-	Secretary	3200.701:China Food and Drug Administration	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Bi Jingquan	2015-	Director	3200.701:China Food and Drug Administration
+Bi Jingquan	2008-2013	Deputy Secretary-General	3000.:State Council
+Bi Jingquan	2005-2015	Secretary-General	3100.151:National Development and Reform Commission
+Bi Jingquan	2005-2015	Vice-President	6770.707:China Consumers' Association (CCA)
+Bi Jingquan	1993	Student	6160.127:College of Administrative Cadres
+Bi Jingquan	1982-1993	Deputy Director-General	3800.261:National Price Bureau	3800.261005:National Price Bureau-Composite Affairs Department
+Bi Jingquan	1982-1993	Division Director	3800.261:National Price Bureau	3800.261004:National Price Bureau-Planning Department
+Bi Jingquan	1982-1993	Deputy Division Director	3800.261:National Price Bureau	3800.261003:National Price Bureau-Agriculture Department
+Bi Jingquan	1982	Graduate	6020.101:Beijing University	6020.101002:Beijing University-Economics Department	9560.002:Beijing Municipality
+Bian Changtai	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Bian Changtai	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bian Changtai	1988-1993	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Bian Changtai		Member	1500.101:Revolutionary Committee of Chinese Kuomintang (RCCK)	1500.101002:Revolutionary Committee of Chinese Kuomintang (RCCK)-Standing Committee
+Bian Changtai		Vice-Chairman	1500.101:Revolutionary Committee of Chinese Kuomintang (RCCK)	1500.101051:Revolutionary Committee of Chinese Kuomintang (RCCK)-City Committee	9560.023:Liaoning Province	9560.023002:Liaoning Province, Dalian City
+Bian Changtai		Professor	6190.187:Northeast China University of Finance and Economics	9560.023:Liaoning Province
+Bian Changtai		Joined	1010.101:CPC
+Bing Zhigang	2010-	Vice-Governor	2050.101:People's Government	9560.023:Liaoning Province
+Bing Zhigang	2008-2013	Deputy	1610.001:NPC
+Bing Zhigang	2007-2012	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Bing Zhigang	2003-2010	Director	2410.134:Finance Department	9560.023:Liaoning Province
+Bing Zhigang	2003-2010	Secretary	2410.134:Finance Department	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.023:Liaoning Province
+Bing Zhigang	2000-2003	Director	2190.178:Provincial Tax Bureau	9560.023:Liaoning Province
+Bing Zhigang	2000-2003	Secretary	2190.178:Provincial Tax Bureau	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.023:Liaoning Province
+Bing Zhigang	1994-2000	Member	2190.178:Provincial Tax Bureau	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.023:Liaoning Province
+Bing Zhigang	1994-2000	Deputy Director	2190.178:Provincial Tax Bureau	9560.023:Liaoning Province
+Bing Zhigang	1993-1994	Mayor	2050.101:People's Government	9560.023:Liaoning Province	9560.023035:Liaoning Province, Linghai City
+Bing Zhigang	1993-1994	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.023:Liaoning Province	9560.023035:Liaoning Province, Linghai City
+Bing Zhigang	1992-1993	Magistrate	4020.103:County (District) People's Court	9560.023:Liaoning Province	9560.023069:Liaoning Province, Jinxian County
+Bing Zhigang	1992-1993	Deputy Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.023:Liaoning Province	9560.023069:Liaoning Province, Jinxian County
+Bing Zhigang	1988-1992	Deputy Director	2410.134:Finance Department	9560.023:Liaoning Province
+Bing Zhigang	1988-1992	Member	2410.134:Finance Department	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.023:Liaoning Province
+Bo Xilai	2007-2012	Member	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009001:Municipal Committee-Standing Committee	9560.003:Chongqing Municipality
+Bo Xilai	2007-2012	Secretary	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.003:Chongqing Municipality
+Bo Xilai	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001001:Central Committee-Politburo
+Bo Xilai	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bo Xilai	2004-2007	Minister	3100.276:Ministry of Commerce
+Bo Xilai	2004-2007	Secretary	3100.276:Ministry of Commerce	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Bo Xilai	2002-2007	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bo Xilai	2001-2004	Governor	2050.101:People's Government	9560.023:Liaoning Province
+Bo Xilai	2000-2004	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.023:Liaoning Province
+Bo Xilai	2000-2001	Acting Governor	2050.101:People's Government	9560.023:Liaoning Province
+Bo Xilai	1999-2000	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.023:Liaoning Province
+Bo Xilai	1999-2000	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.023:Liaoning Province	9560.023002:Liaoning Province, Dalian City
+Bo Xilai	1999	 (Given award by UN Center for Human Settlements.) 
+Bo Xilai	1995-	 (Given title of National Model for Respecting the Aged.) 
+Bo Xilai	1993-2000	Mayor	2050.101:People's Government	9560.023:Liaoning Province	9560.023002:Liaoning Province, Dalian City
+Bo Xilai	1992-1999	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.023:Liaoning Province	9560.023002:Liaoning Province, Dalian City
+Bo Xilai	1992-1993	Acting Mayor	2050.101:People's Government	9560.023:Liaoning Province	9560.023002:Liaoning Province, Dalian City
+Bo Xilai	1989-1992	Vice-Mayor	2050.101:People's Government	9560.023:Liaoning Province	9560.023002:Liaoning Province, Dalian City
+Bo Xilai	1988-1992	Member	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015026:City Committee-Standing Committee	9560.023:Liaoning Province	9560.023002:Liaoning Province, Dalian City
+Bo Xilai	1988-1989	Director	2410.104:Communications Department	9560.023:Liaoning Province	9560.023002:Liaoning Province, Dalian City
+Bo Xilai	1985-1986	 Secretary	2190.241:Economic and Technological Development Zone	1010.101:CPC	1010.101025:CPC-Party Committee	9560.023:Liaoning Province	9560.023002:Liaoning Province, Dalian City
+Bo Xilai	1982-1984	Staff Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001001:Central Committee-Politburo	1010.101001001002:Politburo-Secretariat
+Bo Xilai	1982-1984	Staff Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001003:Central Committee-General Office
+Bo Xilai	1980	Joined	1010.101:CPC
+Bo Xilai	1979-1982	Student	6410.108:Chinese Academy of Social Sciences
+Bo Xilai	1978-1979	Student	6020.101:Beijing University	6020.101011:Beijing University-History Department	9560.002:Beijing Municipality
+Bo Xilai	1972-1978	Worker	2190.221:No. 2 Light Industry Bureau	9560.002:Beijing Municipality
+Bo Xilai	1968-1972	Prisoner	1020.101:Cultural Revolution
+Bu Guxiang	1977-1982	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bu Guxiang	1973-1977	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Bu Zhengfa	2007-	Vice-Chairman	6750.241:China National Light Industry Council
+Bu Zhengfa	2002-2007	Vice-Minister	3100.291:Ministry of Human Resources and Social Security
+Bu Zhengfa	1999-	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.021:Jiangxi Province
+Bu Zhengfa	1998-1999	Member	3100.291:Ministry of Human Resources and Social Security	3100.291011:Ministry of Human Resources and Social Security-Central Large Enterprises Working Committee
+Bu Zhengfa	1998-1999	Member	3100.291:Ministry of Human Resources and Social Security	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Bu Zhengfa	1998-1999	Vice-Minister	3100.291:Ministry of Human Resources and Social Security
+Bu Zhengfa	1996-1998	Member	3200.958:State Council of Light Industry	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Bu Zhengfa	1996-1998	Deputy Director	3200.958:State Council of Light Industry
+Bu Zhengfa	1994-1996	Director	7050.001:Xinhua News Agency	7050.001006:Xinhua News Agency-Macao Bureau	7050.001006009:Macao Bureau-Personnel Department	9560.038:Macao SAR
+Bu Zhengfa	1994-1996	Head
+Bu Zhengfa	1990-1994	Director	3200.958:State Council of Light Industry	3200.958009:State Council of Light Industry-Industry Sector Management Guidance Department
+Bu Zhengfa		Director	3100.461:Ministry of Light Industry	3100.461008:Ministry of Light Industry-Industry Sector Management Guidance Department
+Bu Zhengfa		Director	3100.461:Ministry of Light Industry	3100.461009:Ministry of Light Industry-Personnel and Labor Department
+Bu Zhengfa	1985-1990	Deputy Director	3100.461:Ministry of Light Industry	3100.461009:Ministry of Light Industry-Personnel and Labor Department
+Bu Zhengfa	1985-1990	Deputy Director	3990.142:Ministry of Ordinance Industry	3990.142009:Ministry of Ordinance Industry-Personnel Department
+Bu Zhengfa	1969-1985	Deputy Division Chief	3990.142:Ministry of Ordinance Industry	3990.142009:Ministry of Ordinance Industry-Personnel Department
+Bu Zhengfa	1969	Graduate	6020.185:Beijing Engineering Institute	6020.185007:Beijing Engineering Institute-Radio Department	9560.002:Beijing Municipality
+Bu Zhengfa	1965	Joined	1010.101:CPC
+Bu Zhixin	1998-	Deputy Director	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.008:Guizhou Province
+Bu Zhixin	1995-1998	Secretary-General	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.008:Guizhou Province
+Bu Zhixin	1993-1995	Secretary-General	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.008:Guizhou Province
+Bu Zhixin	1992-1997	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Bu Zhixin	1988-1992	Secretary	2410.204:Provincial Agricultural Office	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.008:Guizhou Province
+Bu Zhixin	1988-1992	Chief	2410.204:Provincial Agricultural Office	9560.008:Guizhou Province
+Bu Zhixin	1985-1988	Deputy Secretary	2410.204:Provincial Agricultural Office	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.008:Guizhou Province
+Bu Zhixin	1985-1988	Deputy Chief	2410.204:Provincial Agricultural Office	9560.008:Guizhou Province
+Bu Zhixin	1985-1985	Deputy Commissioner	2410.109:Provincial Administrative Office	9560.008:Guizhou Province
+Bu Zhixin	1984-1985	Deputy Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.008:Guizhou Province	9560.008025:Guizhou Province, Tongzi County
+Bu Zhixin	1984-1985	Chief	2190.127:Animal Husbandry Bureau	9560.008:Guizhou Province
+Bu Zhixin	1984-1985	Manager	9560.008:Guizhou Province	9560.008002:Guizhou Province, Zunyi County
+Bu Zhixin	1975	Joined	1010.101:CPC
+Bu Zhixin	1967-1984	Deputy Magistrate	4020.103:County (District) People's Court	9560.008:Guizhou Province	9560.008002:Guizhou Province, Zunyi County
+Bu Zhixin	1967-1984	Deputy Director	1020.101:Cultural Revolution	1020.101033:Cultural Revolution-Revolutionary Committee	9560.008:Guizhou Province	9560.008002:Guizhou Province, Zunyi County
+Bu Zhixin	1967-1984	Technician
+Bu Zhixin	1962-1967	Student	6120.103:Henan Agricultural University	9560.013:Henan Province
+Buhe 		Author
+Buhe 	1998-2003	Vice-Chairman	1610.101:Standing Committee of the NPC
+Buhe 	1998-2003	Deputy	1610.001:NPC
+Buhe 	1997-2002	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Buhe 	1993-1998	Vice-Chairman	1610.101:Standing Committee of the NPC
+Buhe 	1993-1998	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Buhe 	1993-1998	Deputy	1610.001:NPC
+Buhe 	1992-1997	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Buhe 	1988-1993	Deputy	1610.001:NPC
+Buhe 	1987-1992	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Buhe 		Advisor	6770.198:Chinese Poetry Society
+Buhe 		Member	6770.197:Chinese Dramatists Association
+Buhe 		Member	6770.161:Chinese Writers Association
+Buhe 		Member	6750.133:China Federation of Literary and Art Circles (CFLAC)	6750.133001:China Federation of Literary and Art Circles (CFLAC)-Council
+Buhe 	1983-????	Chairman	2050.106:Autonomous Region People's Government	9560.017:Inner Mongolia Autonomous Region
+Buhe 	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Buhe 	1982-1993	Deputy Secretary	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	9560.017:Inner Mongolia Autonomous Region
+Buhe 		Mayor	2050.101:People's Government	9560.017:Inner Mongolia Autonomous Region	9560.017004:Inner Mongolia Autonomous Region, Hohhot City
+Buhe 		Secretary	1010.101:CPC	1010.101016:CPC-Autonomous City Committee	9560.017:Inner Mongolia Autonomous Region	9560.017004:Inner Mongolia Autonomous Region, Hohhot City
+Buhe 		Vice-Chairman	3100.231:State Ethnic Affairs Commission
+Buhe 	1978-1981	Member	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007011:Autonomous Regional Committee-Standing Committee	9560.017:Inner Mongolia Autonomous Region
+Buhe 		Head	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007066:Autonomous Regional Committee-Publicity Department	9560.017:Inner Mongolia Autonomous Region
+Buhe 	1974-1978	Secretary	1010.101:CPC	1010.101016:CPC-Autonomous City Committee	9560.017:Inner Mongolia Autonomous Region	9560.017002:Inner Mongolia Autonomous Region, Baotou City
+Buhe 		Secretary-General	6800.114:Sino-Russian Friendship Association	6800.114031:Sino-Russian Friendship Association-Inner Mongolia Branch
+Buhe 		Chairman	6750.172:Regional Federation of Literary and Art Circles
+Buhe 	1954-1974	Deputy Director	2190.106:Cultural Bureau	9560.017:Inner Mongolia Autonomous Region
+Buhe 	1954-1974	Secretary	2190.106:Cultural Bureau	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.017:Inner Mongolia Autonomous Region
+Buhe 	1946-1954	Director	2410.801:Inner Mongolia Cultural Troupe	9560.017:Inner Mongolia Autonomous Region
+Buhe 	1946-1954	Secretary	2410.801:Inner Mongolia Cultural Troupe	1010.101:CPC	1010.101025:CPC-Party Committee	9560.017:Inner Mongolia Autonomous Region
+Buhe 	1942	Joined	1010.101:CPC
+Buhe 	1939-1946	Student	6230.131:Yan'an Nationalities College	9560.027:Shaanxi Province	9560.027006:Shaanxi Province, Yan'an City
+Buhe 	1939-1946	Student	6230.129:Northern Shaanxi College	9560.027:Shaanxi Province	9560.027006:Shaanxi Province, Yan'an City
+Buxiaolin  (Bu Xiaolin)	2016-	Chairman	2050.106:Autonomous Region People's Government	9560.017:Inner Mongolia Autonomous Region
+Buxiaolin  (Bu Xiaolin)	2008-2016	Vice-Chairman	2050.106:Autonomous Region People's Government	9560.017:Inner Mongolia Autonomous Region
+Buxiaolin  (Bu Xiaolin)	2007-	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Buxiaolin  (Bu Xiaolin)	2006-2008	Secretary	1010.101:CPC	1010.101061:CPC-League Committee	9560.017:Inner Mongolia Autonomous Region	9560.017069:Inner Mongolia Autonomous Region, Alxa League
+Buxiaolin  (Bu Xiaolin)	2006-2007	Director	1610.901:Autonomous Regional People's Congress	1610.901009:Autonomous Regional People's Congress-Work Committee	9560.017:Inner Mongolia Autonomous Region	9560.017069:Inner Mongolia Autonomous Region, Alxa League
+Buxiaolin  (Bu Xiaolin)	2004-2006	Deputy Secretary	1010.101:CPC	1010.101061:CPC-League Committee	9560.017:Inner Mongolia Autonomous Region	9560.017069:Inner Mongolia Autonomous Region, Alxa League
+Buxiaolin  (Bu Xiaolin)	2004-2006	Administrative Chief	2050.106:Autonomous Region People's Government	9560.017:Inner Mongolia Autonomous Region	9560.017069:Inner Mongolia Autonomous Region, Alxa League
+Buxiaolin  (Bu Xiaolin)	2003-2004	Deputy Secretary-General	2050.106:Autonomous Region People's Government	9560.017:Inner Mongolia Autonomous Region
+Buxiaolin  (Bu Xiaolin)	2003-2004	Director	2050.106:Autonomous Region People's Government	2050.106024:Autonomous Region People's Government-Research Office	9560.017:Inner Mongolia Autonomous Region
+Buxiaolin  (Bu Xiaolin)	2003-2008	Deputy	1610.001:NPC
+Buxiaolin  (Bu Xiaolin)	2000-2003	Director	2050.106:Autonomous Region People's Government	2050.106025:Autonomous Region People's Government-Legal Affairs Office	9560.017:Inner Mongolia Autonomous Region
+Buxiaolin  (Bu Xiaolin)	2000-2003	Secretary	2050.106:Autonomous Region People's Government	2050.106025:Autonomous Region People's Government-Legal Affairs Office	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.017:Inner Mongolia Autonomous Region
+Buxiaolin  (Bu Xiaolin)	1984-1985	Teacher	6160.101:Inner Mongolia University	6160.101006:Inner Mongolia University-Law Department	9560.017:Inner Mongolia Autonomous Region	9560.017004:Inner Mongolia Autonomous Region, Hohhot City
+Buxiaolin  (Bu Xiaolin)	1980-1984	Student	6020.101:Beijing University	9560.002:Beijing Municipality

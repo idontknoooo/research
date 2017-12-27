@@ -1,0 +1,1071 @@
+Tan Benhong	2014-	Commander	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022049:Services and Arms-Army (or Ground Force)	5110.101022049004:Army (or Ground Force)-Corps Command	9560.014:Hong Kong SAR
+Tan Furen	1969-1973	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Jialin	2004-	Deputy Director	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001011:Central Committee-International Liaison Department
+Tan Jialin	2003-2004	Deputy Secretary	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001011:Central Committee-International Liaison Department
+Tan Jialin	1994-2003	Deputy Director	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001011:Central Committee-International Liaison Department	1010.101001011001:International Liaison Department-General Office
+Tan Jialin	1984	Joined	1010.101:CPC
+Tan Jiazhen		Professor	6250.101:Fudan University	9560.029:Shanghai Municipality
+Tan Jiazhen	1999-	Honorary Academician	6900.169:New York Academy of Science
+Tan Jiazhen	1987-	Foreign Academician	6900.168:Italian National Academy of Science
+Tan Jiazhen	1985-	Academician	6490.801:Third World Academy of Sciences
+Tan Jiazhen	1985-	Foreign Academician	6900.167:American National Academy of Science
+Tan Jiazhen	1980-	Academician	6410.107:Chinese Academy of Sciences
+Tan Jiazhen	1932	Graduate	6020.801:Yanjing University	9560.002:Beijing Municipality
+Tan Jiazhen	1930	Graduate	6330.123:Dongwu University	9560.018:Jiangsu Province	9560.018002:Jiangsu Province, Suzhou City
+Tan Li	2010-2014	Vice-Governor	2050.101:People's Government	9560.009:Hainan Province
+Tan Li	2009-2010	Director	2050.101:People's Government	2050.101017:People's Government-Publicity Department	9560.009:Hainan Province
+Tan Li	2009-2010	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.009:Hainan Province
+Tan Li	2004-2009	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.031:Sichuan Province	9560.031098:Sichuan Province, Mianyang City
+Tan Li	2004-2004	Director	1610.501:City People's Congress	9560.031:Sichuan Province	9560.031036:Sichuan Province, Guang'an
+Tan Li	2001-2004	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.031:Sichuan Province	9560.031036:Sichuan Province, Guang'an
+Tan Li	1998-2001	Member	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015026:City Committee-Standing Committee	9560.031:Sichuan Province	9560.031001:Sichuan Province, Chengdu City
+Tan Li	1998-2001	Director	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015016:City Committee-Publicity Department	9560.031:Sichuan Province	9560.031001:Sichuan Province, Chengdu City
+Tan Li	1997-1998	Assistant to the Mayor	2050.101:People's Government	9560.031:Sichuan Province	9560.031001:Sichuan Province, Chengdu City
+Tan Li	1996-1997	Head	2050.101:People's Government	9560.031:Sichuan Province	9560.031099:Sichuan Province, Pixian County
+Tan Li	1995-1998	Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.031:Sichuan Province	9560.031099:Sichuan Province, Pixian County
+Tan Li	1993-1995	Deputy Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.031:Sichuan Province	9560.031099:Sichuan Province, Pixian County
+Tan Li	1985-1995	Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005022:Provincial Committee-Party School	1010.101005022011:Party School-Teaching and Research Laboratory	9560.031:Sichuan Province
+Tan Li	1983-1985	Worker	2190.124:Education Bureau	9560.031:Sichuan Province	9560.031078:Sichuan Province, Yibin Prefecture
+Tan Li	1979-1983	Student	6030.132:Chongqing Normal College	6030.132009:Chongqing Normal College-History Department	9560.003:Chongqing Municipality
+Tan Liangliang	1999-	General Manager	8010.316:Nanning Water Supply Company	9560.007:Guangxi Zhuang Autonomous Region	9560.007001:Guangxi Zhuang Autonomous Region, Nanning City
+Tan Liangliang	1996-1999	Deputy General Manager	8010.316:Nanning Water Supply Company	9560.007:Guangxi Zhuang Autonomous Region	9560.007001:Guangxi Zhuang Autonomous Region, Nanning City
+Tan Liangliang	1995-1996	Assistant to the General Manager	8010.316:Nanning Water Supply Company	9560.007:Guangxi Zhuang Autonomous Region	9560.007001:Guangxi Zhuang Autonomous Region, Nanning City
+Tan Liangliang	1990-1995	Deputy Director	8010.316:Nanning Water Supply Company	8010.316011:Nanning Water Supply Company-Design Office	9560.007:Guangxi Zhuang Autonomous Region	9560.007001:Guangxi Zhuang Autonomous Region, Nanning City
+Tan Liangliang		Joined	1010.101:CPC
+Tan Liangliang	1987-1990	Assistant Engineer	8010.316:Nanning Water Supply Company	8010.316011:Nanning Water Supply Company-Design Office	9560.007:Guangxi Zhuang Autonomous Region	9560.007001:Guangxi Zhuang Autonomous Region, Nanning City
+Tan Liangliang	1982-1987	Student	6030.101:Chongqing University	9560.003:Chongqing Municipality
+Tan Min		Professor	6250.215:Shanghai Institute of Finance and Economics	9560.029:Shanghai Municipality
+Tan Min		President	6250.215:Shanghai Institute of Finance and Economics	9560.029:Shanghai Municipality
+Tan Min		Secretary	6250.215:Shanghai Institute of Finance and Economics	1010.101:CPC	1010.101025:CPC-Party Committee
+Tan Naida	1992-1997	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Qilong	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Qilong	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Qilong	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Qilong	1969-1973	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Qilong	1956-1969	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Qiwei	2006-	Vice-Mayor	2050.101:People's Government	9560.003:Chongqing Municipality
+Tan Qiwei	2003-2008	Member	1610.001:NPC
+Tan Qiwei	2001-2006	Secretary	1010.101:CPC	1010.101017:CPC-District Committee	9560.003:Chongqing Municipality
+Tan Qiwei	1997-2001	Deputy Secretary	1010.101:CPC	1010.101017:CPC-District Committee	9560.003:Chongqing Municipality
+Tan Qiwei	1997-2001	Chief Executive	2050.101:People's Government	9560.003:Chongqing Municipality
+Tan Qiwei	1991-1997	Deputy Commissioner	2050.101:People's Government	9560.031:Sichuan Province	9560.031067:Sichuan Province, Qianjiang Prefecture
+Tan Qiwei	1985-1989	Chief Executive	2050.101:People's Government	9560.031:Sichuan Province	9560.031065:Sichuan Province, Shizhu County
+Tan Qiwei	1980-1981	Chief Executive	2050.101:People's Government	9560.031:Sichuan Province	9560.031065:Sichuan Province, Shizhu County
+Tan Qiwei	1973	Joined CPC
+Tan Runhua	1999-	Vice-President	6100.102:Hebei University of Technology	9560.011:Hebei Province
+Tan Runhua	1998-1999	Dean	6100.102:Hebei University of Technology	6100.102023:Hebei University of Technology-Machinery School	9560.011:Hebei Province
+Tan Runhua		Joined	1500.401:China Association for Promoting Democracy (CAPD)
+Tan Shanhe	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Shanhe	1977-1982	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Shaowen	1992-1997	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Shaowen	1992-1997	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001001:Central Committee-Politburo
+Tan Shaowen	1989-1990	Chairman	1810.101:CPPCC	1810.101035:CPPCC-Municipal Committee	9560.033:Tianjin Municipality
+Tan Shaowen	1984-1988	Deputy Secretary	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.033:Tianjin Municipality
+Tan Shaowen	1982-1984	Secretary	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.033:Tianjin Municipality
+Tan Shaowen	1978-1981	President	6100.102:Hebei University of Technology	9560.033:Tianjin Municipality
+Tan Shaowen	1978-1982	Deputy Secretary	6100.102:Hebei University of Technology	1010.101:CPC	1010.101025:CPC-Party Committee	9560.033:Tianjin Municipality
+Tan Shaowen	1955	Joined	1010.101:CPC
+Tan Shigui	2002-	President	6090.101:Hainan University	9560.009:Hainan Province	9560.009001:Hainan Province, Haikou City
+Tan Shigui	1998-2002	Deputy Secretary	6090.101:Hainan University	1010.101:CPC	1010.101025:CPC-Party Committee	9560.009:Hainan Province	9560.009001:Hainan Province, Haikou City
+Tan Shigui	1993-2002	Vice-President	6090.101:Hainan University	9560.009:Hainan Province	9560.009001:Hainan Province, Haikou City
+Tan Shigui	1988-1993	Professor	6090.101:Hainan University	6090.101009:Hainan University-Law Department	9560.009:Hainan Province	9560.009001:Hainan Province, Haikou City
+Tan Tianxing	2012-	Deputy Director	3400.101:Overseas Chinese Affairs Office of the State Council
+Tan Tianxing	1990	Graduate	6020.101:Beijing University	9560.002:Beijing Municipality
+Tan Tianxing	1983-1986	Student	6140.151:Huazhong Normal University	6140.151009:Huazhong Normal University-History Department	9560.015:Hubei Province	9560.015001:Hubei Province, Wuhan City
+Tan Tianxing	1979-1983	Student	6140.151:Huazhong Normal University	6140.151009:Huazhong Normal University-History Department	9560.015:Hubei Province	9560.015001:Hubei Province, Wuhan City
+Tan Weidong	2011-	Vice-Chairman	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.006:Guangdong Province
+Tan Weidong	2007-	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.006:Guangdong Province	9560.006075:Guangdong Province, Zhaoqing City
+Tan Weidong	2006-	Director	1610.501:City People's Congress	1610.501001:City People's Congress-Standing Committee	9560.006:Guangdong Province	9560.006075:Guangdong Province, Zhaoqing City
+Tan Weidong	2001-2006	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.006:Guangdong Province	9560.006016:Guangdong Province, Shaoguan City
+Tan Weidong	2001-2006	Director	1610.501:City People's Congress	1610.501001:City People's Congress-Standing Committee	9560.006:Guangdong Province	9560.006016:Guangdong Province, Shaoguan City
+Tan Weidong	1997-2001	Mayor	2050.101:People's Government	9560.006:Guangdong Province	9560.006016:Guangdong Province, Shaoguan City
+Tan Weidong	1996-1997	Acting Mayor	2050.101:People's Government	9560.006:Guangdong Province	9560.006016:Guangdong Province, Shaoguan City
+Tan Weidong	1995-1997	Vice-Mayor	2050.101:People's Government	9560.006:Guangdong Province	9560.006016:Guangdong Province, Shaoguan City
+Tan Weidong	1995-2001	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.006:Guangdong Province	9560.006016:Guangdong Province, Shaoguan City
+Tan Weidong	1993-1995	Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.006:Guangdong Province	9560.006076:Guangdong Province, Ruyuan County
+Tan Weidong	1991-1993	Secretary	1010.101:CPC	1010.101017:CPC-District Committee	9560.006:Guangdong Province	9560.006016:Guangdong Province, Shaoguan City	9560.006016002:Shaoguan City, Zhenjiang District
+Tan Weidong	1988-1991	Chief	2050.101:People's Government	9560.006:Guangdong Province	9560.006016:Guangdong Province, Shaoguan City	9560.006016002:Shaoguan City, Zhenjiang District
+Tan Weidong	1988-1991	Deputy Secretary	1010.101:CPC	1010.101017:CPC-District Committee	9560.006:Guangdong Province	9560.006016:Guangdong Province, Shaoguan City	9560.006016002:Shaoguan City, Zhenjiang District
+Tan Weidong	1984-1988	Secretary	6777.101:CYLC	6777.101421:CYLC-City-Level	9560.006:Guangdong Province	9560.006016:Guangdong Province, Shaoguan City
+Tan Weidong	1980-1984	Deputy Secretary	6777.101:CYLC	6777.101421:CYLC-City-Level	9560.006:Guangdong Province	9560.006016:Guangdong Province, Shaoguan City
+Tan Wenzhen	1977-1982	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Xinghui	2000-	Vice-President	8010.116:China Unicom
+Tan Xinghui	2000-	Executive Director	8010.116:China Unicom
+Tan Xinghui	1996-2000	General Manager	8010.116:China Unicom	8010.116011:China Unicom-Operation Maintenance and Interconnection Department
+Tan Xinghui	1983	Graduate	6020.109:Beijing Institute of Posts and Telecommunications	6020.109008:Beijing Institute of Posts and Telecommunications-Microwave Communications Department	9560.002:Beijing Municipality
+Tan Yingji	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Yingji	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Youlin	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Zheng	1956-1969	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Zhenhui	1998-	President	6020.107:Northern Jiaotong University	9560.002:Beijing Municipality
+Tan Zhenhui	1987	Graduate	6020.107:Northern Jiaotong University	9560.002:Beijing Municipality
+Tan Zhenhui		Graduate	6020.107:Northern Jiaotong University	9560.002:Beijing Municipality
+Tan Zhenlin	1978-1983	Vice-Chairman	1610.101:Standing Committee of the NPC
+Tan Zhenlin	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Zhenlin	1975-1978	Vice-Chairman	1610.101:Standing Committee of the NPC
+Tan Zhenlin	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Zhenlin	1956-1969	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tan Zhongchi	1999-	Mayor	2050.101:People's Government	9560.016:Hunan Province	9560.016001:Hunan Province, Changsha City
+Tan Zhongchi	1998-2000	Vice-Mayor	2050.101:People's Government	9560.016:Hunan Province	9560.016001:Hunan Province, Changsha City
+Tan Zhongchi	1998-2000	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.016:Hunan Province	9560.016001:Hunan Province, Changsha City
+Tan Zhongchi	1997-1998	Deputy Secretary-General	2050.101:People's Government	9560.016:Hunan Province
+Tan Zhongchi	1995-1997	Member	1010.101:CPC	1010.101011:CPC-Prefectural Committee	9560.016:Hunan Province	9560.016057:Hunan Province, Loudi Prefecture
+Tan Zhongchi	1992-1995	Factory Manager
+Tan Zhongchi	1990-1992	Magistrate	4020.103:County (District) People's Court	9560.016:Hunan Province	9560.016027:Hunan Province, Liuyang County
+Tan Zhongchi	1989-1990	Acting Magistrate	4020.103:County (District) People's Court	9560.016:Hunan Province	9560.016027:Hunan Province, Liuyang County
+Tan Zhongchi	1986-1992	Deputy Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.016:Hunan Province	9560.016027:Hunan Province, Liuyang County
+Tan Zhongchi	1985-1986	Member	1010.101:CPC	1010.101019:CPC-County Committee	1010.101019001:County Committee-Standing Committee	9560.016:Hunan Province	9560.016027:Hunan Province, Liuyang County
+Tan Zhongchi	1982-1985	Deputy Director	1010.101:CPC	1010.101019:CPC-County Committee	1010.101019002:County Committee-General Office	9560.016:Hunan Province	9560.016027:Hunan Province, Liuyang County
+Tan Zhongchi	1978-1979	President	9560.016:Hunan Province	9560.016027:Hunan Province, Liuyang County
+Tan Zhongchi	1977	Joined	1010.101:CPC
+Tan Zuojun	2012-2017	Vice-Governor	2050.101:People's Government	9560.023:Liaoning Province
+Tan Zuojun	2008-2012	General Manager	8010.136:China State Shipbuilding Corporation (CSSC)
+Tan Zuojun	2008-2012	Deputy Secretary	8010.136:China State Shipbuilding Corporation (CSSC)	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Tan Zuojun	2005-2008	Chairman	8010.136:China State Shipbuilding Corporation	8010.136555:China State Shipbuilding Corporation-CSSC Jiangnan Heavy Industry Co., Ltd.	8010.136555001:CSSC Jiangnan Heavy Industry Co., Ltd.-Board of the Directors	9560.029:Shanghai Municipality
+Tan Zuojun	2005	Graduate	6250.221:China Europe International Business School	9560.029:Shanghai Municipality
+Tan Zuojun	2003-2008	Deputy General Manager	8010.136:China State Shipbuilding Corporation (CSSC)
+Tan Zuojun	2003-2008	Member	8010.136:China State Shipbuilding Corporation (CSSC)	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Tan Zuojun	2003-2007	Secretary	8010.136:China State Shipbuilding Corporation	8010.136444:China State Shipbuilding Corporation-Shanghai Waigaoqiao Shipbuilding Co., Ltd.	1010.101:CPC	1010.101025:CPC-Party Committee	9560.029:Shanghai Municipality
+Tan Zuojun	2002-2005	Chairman	8010.136:China State Shipbuilding Corporation	8010.136444:China State Shipbuilding Corporation-Shanghai Waigaoqiao Shipbuilding Co., Ltd.	8010.136444001:Shanghai Waigaoqiao Shipbuilding Co., Ltd.-Board of Directors	9560.029:Shanghai Municipality
+Tan Zuojun	2002-2003	Assistant General Manager	8010.136:China State Shipbuilding Corporation (CSSC)
+Tan Zuojun	2001-2002	General Manager	8010.136:China State Shipbuilding Corporation	8010.136333:China State Shipbuilding Corporation-CSSC Shipbuilding Properties Limited
+Tan Zuojun	1986-1990	Student	6140.101:Wuhan University	6140.101051:Wuhan University-Law School	9560.015:Hubei Province	9560.015001:Hubei Province, Wuhan City
+Tang Chongti	1991-	Academician	6410.107:Chinese Academy of Sciences
+Tang Chongti	1986-	Professor	6040.101:Xiamen University	6040.101008:Xiamen University-Biology Department
+Tang Chongti	1954	Graduate	6040.101:Xiamen University	6040.101008:Xiamen University-Biology Department
+Tang Dengjie	2003-	Vice-Mayor	2050.101:People's Government	9560.029:Shanghai Municipality
+Tang Dengjie		President	8010.119:Shanghai Electric Group Corporation	9560.029:Shanghai Municipality
+Tang Dengjie		Deputy Secretary	8010.119:Shanghai Electric Group Corporation	1010.101:CPC	1010.101025:CPC-Party Committee	9560.029:Shanghai Municipality
+Tang Dengjie		Vice-President	8010.482:Shanghai Automobile Industry Corp.	9560.029:Shanghai Municipality
+Tang Dengjie		Deputy Manager	8010.482:Shanghai Automobile Industry Corp.	8010.482008:Shanghai Automobile Industry Corp.-Programming Department	9560.029:Shanghai Municipality
+Tang Dengjie		Director	8010.004:Shanghai Volkswagen Automotive Co., Ltd.	8010.004009:Shanghai Volkswagen Automotive Co., Ltd.-Production Programming Department	9560.029:Shanghai Municipality
+Tang Dengjie		Director	8010.004:Shanghai Volkswagen Automotive Co., Ltd.	8010.004008:Shanghai Volkswagen Automotive Co., Ltd.-Industry Control Division	9560.029:Shanghai Municipality
+Tang Dengjie	1986	Graduate	6250.102:Tongji University	9560.029:Shanghai Municipality
+Tang Guozhong	2012-	Deputy Director	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.006:Guangdong Province
+Tang Guozhong	2011-	Deputy Secretary	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.006:Guangdong Province
+Tang Guozhong	2005-2011	Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005004:Provincial Committee-Publicity Department	9560.004:Fujian Province
+Tang Guozhong	2005-2006	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005033:Provincial Committee-Education Working Committee	9560.004:Fujian Province
+Tang Guozhong	2003-2005	Deputy Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005016:Provincial Committee-Organization Department	9560.006:Guangdong Province
+Tang Guozhong	1998-2003	Secretary-General	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.006:Guangdong Province
+Tang Guozhong	1998-1998	Secretary-General	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.013:Henan Province
+Tang Guozhong	1994-1998	Deputy Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005002:Provincial Committee-General Office	9560.013:Henan Province
+Tang Guozhong	1992-1994	Researcher	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005008:Provincial Committee-Policy Research Office	9560.013:Henan Province
+Tang Guozhong	1990-1992	Staff Member	2050.101:People's Government	2050.101001:People's Government-General Office	9560.013:Henan Province
+Tang Guozhong	1968-1971	Cultural Revolution	1020.101:Cultural Revolution	1020.101106:Cultural Revolution-Rusticated Youth	9560.023:Liaoning Province	9560.023037:Liaoning Province, Changtu County
+Tang Honggao	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Honggao	1993-1998	President	6020.701:China Science and Technology University	9560.002:Beijing Municipality
+Tang Honggao	1992-1997	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Honggao	1990-1998	Secretary	6020.701:China Science and Technology University	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.002:Beijing Municipality
+Tang Honggao	1990-1993	Managing Vice-President	6020.701:China Science and Technology University	9560.002:Beijing Municipality
+Tang Honggao		Graduate Student	6410.107:Chinese Academy of Sciences	6410.107012:Chinese Academy of Sciences-Physics Research Institute
+Tang Honggao	1972	Graduate	6240.101:Shandong University	6240.101004:Shandong University-Chemistry Department	9560.028:Shandong Province
+Tang Honggao	1972	Joined	1010.101:CPC
+Tang Hsiang-chien	1999	Member	3200.808:1st Hong Kong SAR Government	3200.808001:1st Hong Kong SAR Government-Selection Committee
+Tang Hsiang-chien	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Tang Hsiang-chien	1995-1997	Member	3200.804:Hong Kong SAR Preparatory Committee
+Tang Hsiang-chien	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Tang Hsiang-chien	1992-????	Member	3400.201:Hong Kong and Macao Affairs Office of the State Council	3400.201001:Hong Kong and Macao Affairs Office of the State Council-1st Group of Advisors
+Tang Jianwu	2011-	Vice-Chairman	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.023:Liaoning Province
+Tang Jianwu	2010-	Chairman	1500.501:Chinese Peasants and Workers Democratic Party	1500.501021:Chinese Peasants and Workers Democratic Party-Provincial Committee	9560.023:Liaoning Province
+Tang Jianwu	2002-	President	9560.023:Liaoning Province	9560.023002:Liaoning Province-Dalian City	9560.023:Liaoning Province
+Tang Jianwu	1994-2002	Dean	6190.205:Dalian Medical University	6190.205002:Dalian Medical University-College of Basic Medicine	9560.023:Liaoning Province	9560.023002:Liaoning Province, Dalian City
+Tang Jianwu	1994-2002	Deputy Director	2410.444:Public Health Department	9560.023:Liaoning Province	9560.023002:Liaoning Province, Dalian City
+Tang Jianwu	1994-2002	Vice-President	6190.205:Dalian Medical University	9560.023:Liaoning Province	9560.023002:Liaoning Province, Dalian City
+Tang Jiaxuan	2003-2008	State Councilor	3000.:State Council
+Tang Jiaxuan	2002-2007	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Jiaxuan	1998-2003	Minister	3100.101:Ministry of Foreign Affairs
+Tang Jiaxuan	1997-2000	Secretary	3100.101:Ministry of Foreign Affairs	1010.101:CPC	1010.101025:CPC-Party Committee
+Tang Jiaxuan	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Jiaxuan	1994-1997	Deputy Secretary	3100.101:Ministry of Foreign Affairs	1010.101:CPC	1010.101025:CPC-Party Committee
+Tang Jiaxuan	1993-1994	Member	3100.101:Ministry of Foreign Affairs	1010.101:CPC	1010.101025:CPC-Party Committee
+Tang Jiaxuan	1993-1998	Vice-Minister	3100.101:Ministry of Foreign Affairs
+Tang Jiaxuan	1991-1993	Assistant Minister	3100.101:Ministry of Foreign Affairs
+Tang Jiaxuan	1988-1991	Minister-Counselor	7210.101:Chinese Embassy	9410.:Japan	9410.101:Japan, Tokyo
+Tang Jiaxuan	1988-1991	Minister	7210.101:Chinese Embassy	9410.:Japan	9410.101:Japan, Tokyo
+Tang Jiaxuan	1983-1988	Deputy Director	3100.101:Ministry of Foreign Affairs	3100.101001:Ministry of Foreign Affairs-Asian Affairs Department
+Tang Jiaxuan	1983-1988	First Secretary	3100.101:Ministry of Foreign Affairs	3100.101001:Ministry of Foreign Affairs-Asian Affairs Department
+Tang Jiaxuan	1978-1983	First Secretary	7210.101:Chinese Embassy	9410.:Japan	9410.101:Japan, Tokyo
+Tang Jiaxuan	1978-1983	Second Secretary	7210.101:Chinese Embassy	9410.:Japan	9410.101:Japan, Tokyo
+Tang Jiaxuan	1973	Joined	1010.101:CPC
+Tang Jiaxuan	1970-1978	Council Member	6800.111:Chinese People's Association for Friendship with Foreign Countries
+Tang Jiaxuan	1970-1978	Council Member	6800.123:Sino-Japanese Friendship Association
+Tang Jiaxuan	1970-1978	Deputy Chief	6800.111:Chinese People's Association for Friendship with Foreign Countries
+Tang Jiaxuan	1969-1970	Worker	1020.101:Cultural Revolution	1020.101102:Cultural Revolution-May 7th Cadre School
+Tang Jiaxuan	1964-1969	Staff Member	3100.101:Ministry of Foreign Affairs	3100.101021:Ministry of Foreign Affairs-Translation and Interpretation Department
+Tang Jiaxuan	1962-1964	Intern	3200.302:State Broadcasting Administration
+Tang Jiaxuan	1962	Graduate	6020.101:Beijing University	6020.101012:Beijing University-Oriental Languages Department	9560.002:Beijing Municipality
+Tang Jiaxuan		Student	6250.101:Fudan University	6250.101006:Fudan University-English Department	9560.029:Shanghai Municipality
+Tang Jiliang	2003-	Deputy	1610.001:NPC
+Tang Jiliang	1998-2003	Deputy	1610.001:NPC
+Tang Jiliang	1997-	President	6070.101:Guangxi University	9560.007:Guangxi Zhuang Autonomous Region
+Tang Jiliang	1995-1997	President	6070.135:Guangxi Agricultural College	9560.007:Guangxi Zhuang Autonomous Region
+Tang Jiliang	1989	Graduate	6490.714:University of East Anglia	9470.:United Kingdom	9470.124:United Kingdom, Norwich
+Tang Jiliang		Graduate	6070.101:Guangxi University	9560.007:Guangxi Zhuang Autonomous Region
+Tang Jun	2002-	President	8010.666:Microsoft	8010.666002:Microsoft-China
+Tang Jun		Graduate	6020.109:Beijing Institute of Posts and Telecommunications	9560.002:Beijing Municipality
+Tang Ke	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Ke	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Kebi	1977-1982	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Kebi	1973-1977	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Liang	1977-1982	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Liang	1973-1977	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Liang	1969-1973	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Liangzhi	2017-	Deputy Secretary	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.003:Chongqing Municipality
+Tang Minwei		Secretary	8010.589:Chongqing Iron and Steel Co., Ltd.	1010.101:CPC	1010.101025:CPC-Party Committee
+Tang Minwei		Board Chairman	8010.589:Chongqing Iron and Steel Co., Ltd.
+Tang Minwei		General Manager	8010.589:Chongqing Iron and Steel Co., Ltd.
+Tang Minwei		Deputy Director	2410.147:Metallurgical Department	9560.031:Sichuan Province
+Tang Minwei		Deputy Secretary	2410.147:Metallurgical Department	1010.101:CPC	1010.101025:CPC-Party Committee	9560.031:Sichuan Province
+Tang Minwei		Executive Deputy Manager	8010.589:Chongqing Iron and Steel Co., Ltd.	9560.031:Sichuan Province
+Tang Minwei		Chief Engineer	8010.589:Chongqing Iron and Steel Co., Ltd.	9560.031:Sichuan Province
+Tang Minwei		Deputy Director	8010.589:Chongqing Iron and Steel Co., Ltd.	8010.589009:Chongqing Iron and Steel Co., Ltd.-Quality Control Department
+Tang Minwei		Joined	1010.101:CPC
+Tang Minwei	1964	Graduate	6030.101:Chongqing University	6030.101014:Chongqing University-Mining and Metallurgy Department	9560.003:Chongqing Municipality
+Tang Qishan	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Qishan	1969-1973	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Renjian	2017-2017	Acting Governor	2050.101:People's Government	9560.005:Gansu Province
+Tang Renjian	2017-	Governor	2050.101:People's Government	9560.005:Gansu Province
+Tang Renjian	2016-	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.005:Gansu Province
+Tang Renjian	2014-2016	Vice-Chairman	2050.106:Autonomous Region People's Government	9560.007:Guangxi Zhuang Autonomous Region
+Tang Shouzheng	1995-	Academician	6410.107:Chinese Academy of Sciences
+Tang Shouzheng		Researcher	6410.124:Chinese Academy of Forestry Sciences	6410.124001:Chinese Academy of Forestry Sciences-Natural Resources Information Institute
+Tang Shouzheng	1986-????	Postdoctorate Student	6490.404:University of New Brunswick	9310.:Canada	9310.401:Canada, New Brunswick
+Tang Shouzheng	1985	Graduate	6020.111:Beijing Normal University	6020.111003:Beijing Normal University-Mathematics Department	9560.002:Beijing Municipality
+Tang Shouzheng	1963	Graduate	6020.192:Beijing Forestry College	9560.002:Beijing Municipality
+Tang Shuangning	2007-	Chairman	8510.111:China Everbright (CEB)
+Tang Shuangning	2003-2007	Vice-Chairman	3600.231:China Banking Regulatory Commission
+Tang Shuangning	1999-2003	Director-General	8510.101:People's Bank of China	8510.101028:People's Bank of China-Banking Supervision Department
+Tang Shuangning	1998-1999	Director-General	8510.101:People's Bank of China	8510.101032:People's Bank of China-Gold and Silver Bureau
+Tang Shuangning	1997-1998	Director-General	8510.101:People's Bank of China	8510.101029:People's Bank of China-Credit Management Department
+Tang Shuangning	1989-1997	President	8510.101:People's Bank of China	8510.101005:People's Bank of China-City Branch	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Tang Shuangning	1989-1997	Vice-President	8510.101:People's Bank of China	8510.101005:People's Bank of China-City Branch	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Tang Shuangning	1989-1989	Assistant President	8510.108:China Construction Bank	8510.108002:China Construction Bank-Provincial Branch	9560.023:Liaoning Province
+Tang Shuangning	1986-1989	Vice-President	8510.108:China Construction Bank	8510.108003:China Construction Bank-City Branch	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Tang Shuangning	1982-1986	Deputy Division Chief	8510.108:China Construction Bank	8510.108002:China Construction Bank-Provincial Branch	9560.023:Liaoning Province
+Tang Shubei	1998-2003	Vice-Chairman	1810.101:CPPCC	1810.101017:CPPCC-Subcommittee for Hong Kong, Macao, Taiwan and Overseas Chinese
+Tang Shubei	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Tang Shubei	1995-1997	Member	3200.804:Hong Kong SAR Preparatory Committee
+Tang Shubei	1993-1998	Vice-Chairman	1810.101:CPPCC	1810.101016:CPPCC-Coordinating Committee for the Reunification of Motherland
+Tang Shubei	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Tang Shubei	1991-	Deputy Director	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001051:Central Committee-Offices Under Central Committee	1010.101001051077:Offices Under Central Committee-Taiwan Affairs Office
+Tang Shubei	1989-????	Deputy Director	3400.601:Taiwan Affairs Office of the State Council
+Tang Shubei	1986-1988	Ambassador	7210.101:Chinese Embassy	9210.:USA	9210.101:USA, Washington D.C.
+Tang Shubei	1983-1986	Consul-General	7210.201:Chinese Consulate General	9210.:USA	9210.201:USA, California	9210.201004:California, San Francisco
+Tang Shubei		Secretary	7210.101:Chinese Embassy	9410.:Japan	9410.101:Japan, Tokyo
+Tang Shubei	1982-1983	Division Chief	3100.101:Ministry of Foreign Affairs	3100.101012:Ministry of Foreign Affairs-Department of Consular Affairs
+Tang Shubei	1971-1980	Deputy Division Chief	3100.101:Ministry of Foreign Affairs	3100.101012:Ministry of Foreign Affairs-Department of Consular Affairs
+Tang Shubei	1957-1969	Editor	7050.201:China News Service	7050.201009:China News Service-Broadcasting Department
+Tang Shubei	1955-????	Editor	7010.156:Fujian Daily
+Tang Shubei	1949	Joined	1010.101:CPC
+Tang Shujie	1996-	Deputy Director	3200.951:Government Offices Administration of the State Council
+Tang Shujie	1996-	Member	3200.951:Government Offices Administration of the State Council	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Tang Shujie		Director	3200.951:Government Offices Administration of the State Council	3200.951011:Government Offices Administration of the State Council-Logistics System Reforms and Service Guidance Department
+Tang Shujie		Director	3200.951:Government Offices Administration of the State Council	3200.951008:Government Offices Administration of the State Council-Personnel Department
+Tang Shujie		Deputy Director	3200.951:Government Offices Administration of the State Council	3200.951008:Government Offices Administration of the State Council-Personnel Department
+Tang Shujie	1985-????	Staff Member	3200.951:Government Offices Administration of the State Council
+Tang Shujie	1964	Joined	1010.101:CPC
+Tang Tao	2014-	Vice-Minister	3100.291:Ministry of Human Resources and Social Security
+Tang Tao	2012-2017	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Tao	2009-2014	Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005016:Provincial Committee-Organization Department	9560.026:Shanxi Province
+Tang Tao	2009-2014	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.026:Shanxi Province
+Tang Tao	2008-2009	Vice-Governor	2050.101:People's Government	9560.015:Hubei Province
+Tang Tao	2007-2012	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Tao	2007-2009	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.015:Hubei Province
+Tang Tao	2007-2008	Director	1610.502:Prefectural People's Congress	1610.502001:Prefectural People's Congress-Standing Committee	9560.015:Hubei Province	9560.015062:Hubei Province, Enshi County	9560.015062009:Enshi County, Tujia-Miao Autonomous Prefecture
+Tang Tao	2002-2008	Secretary	1010.101:CPC	1010.101013:CPC-Autonomous Prefectural Committee	9560.015:Hubei Province	9560.015062:Hubei Province, Enshi County	9560.015062009:Enshi County, Tujia-Miao Autonomous Prefecture
+Tang Tao	2000-2002	Mayor	2050.101:People's Government	9560.015:Hubei Province	9560.015053:Hubei Province, Enshi City
+Tang Tao	2000-2002	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.015:Hubei Province	9560.015053:Hubei Province, Enshi City
+Tang Tao	1998-2000	Student	6140.108:Wuhan University of Science and Technology	9560.015:Hubei Province	9560.015001:Hubei Province, Wuhan City
+Tang Tao	1997-2000	Secretary	6777.101:CYLC	6777.101201:CYLC-Provincial-Level	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.015:Hubei Province
+Tang Tao	1997-2000	Secretary	6777.101:CYLC	6777.101201:CYLC-Provincial-Level	9560.015:Hubei Province
+Tang Tao	1996-1997	Deputy Secretary	1010.101:CPC	1010.101013:CPC-Autonomous Prefectural Committee	9560.015:Hubei Province	9560.015062:Hubei Province, Enshi County	9560.015062009:Enshi County, Tujia-Miao Autonomous Prefecture
+Tang Tao	1996-1997	Director	1010.101:CPC	1010.101013:CPC-Autonomous Prefectural Committee	1010.101013006:Autonomous Prefectural Committee-Organization Department	9560.015:Hubei Province	9560.015062:Hubei Province, Enshi County	9560.015062009:Enshi County, Tujia-Miao Autonomous Prefecture
+Tang Tao	1992-1996	Deputy Secretary	6777.101:CYLC	6777.101201:CYLC-Provincial-Level	9560.015:Hubei Province
+Tang Tao	1992-1996	Member	6777.101:CYLC	6777.101201:CYLC-Provincial-Level	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.015:Hubei Province
+Tang Tao	1992-1992	Director	2050.101:People's Government	2050.101001:People's Government-General Office	9560.015:Hubei Province	9560.015004:Hubei Province, Yichang City
+Tang Tao	1988-1992	Secretary	6777.101:CYLC	6777.101421:CYLC-City-Level	9560.015:Hubei Province	9560.015004:Hubei Province, Yichang City
+Tang Tao	1984-1988	Director	6777.101:CYLC	6777.101421:CYLC-City-Level	6777.101421026:City-Level-Youth Work Department	9560.015:Hubei Province	9560.015004:Hubei Province, Yichang City
+Tang Tianbiao	2002-2007	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Tianbiao	2000-	General	5110.101:PLA
+Tang Tianbiao	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Tianbiao	1995-	Deputy Director	5110.101:PLA	5110.101003:PLA-General Political Department
+Tang Tianbiao	1994-2000	Lieutenant General	5110.101:PLA
+Tang Tianbiao	1993-1995	Assistant to the Director	5110.101:PLA	5110.101003:PLA-General Political Department
+Tang Tianbiao	1992-1994	Major General	5110.101:PLA
+Tang Tianbiao	1992-1994	Section Chief	5110.101:PLA	5110.101003:PLA-General Political Department	5110.101003007:General Political Department-Cadre Department
+Tang Tianbiao	1990-1992	Deputy Director	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy	5110.101022017001:Navy-Political Department
+Tang Tianbiao	1990-1992	Major General	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy
+Tang Tianbiao	1983	Graduate	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School	1010.101001031011:Central Party School-Propaganda and Theoretical Personnel Training Course
+Tang Tianbiao	1983-1990	Deputy Section Chief	5110.101:PLA	5110.101003:PLA-General Political Department	5110.101003007:General Political Department-Cadre Department
+Tang Tianbiao	1975-1983	Deputy Commander	5110.101:PLA	5110.101009:PLA-Regions	5110.101009031:Regions-Guangzhou Military Region	5110.101009031005:Guangzhou Military Region-Publicity Department
+Tang Tianbiao	1975-1983	Secretary	5110.101:PLA	5110.101009:PLA-Regions	5110.101009031:Regions-Guangzhou Military Region	5110.101009031009:Guangzhou Military Region-Political Department
+Tang Tianbiao	1970-1976	Secretary	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022015:Services and Arms-Engineering Corps	5110.101022015009:Engineering Corps-Political Department
+Tang Tianbiao	1966-1970	Staff Officer	5110.101:PLA	5110.101009:PLA-Regions	5110.101009031:Regions-Guangzhou Military Region
+Tang Tianbiao	1961	Joined	1010.101:CPC
+Tang Tianbiao	1960	Joined	5110.101:PLA
+Tang Tianbiao	1959-1966	Student	6400.133:Harbin Institute of Military Engineering	6400.133003:Harbin Institute of Military Engineering-Engineering Department	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Tang Wensheng	1977-1982	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Wensheng	1973-1977	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Xiaoqing	2003-2008	Deputy	1610.001:NPC
+Tang Xiaoqing	2003-	Vice-Chairman	1810.101:CPPCC	1810.101035:CPPCC-Municipal Committee	9560.002:Beijing Municipality
+Tang Xiaoqing	2000-	Vice-President	6020.104:Beihang University (BUAA)	9560.002:Beijing Municipality
+Tang Xiaoqing	1999-2000	Dean	6020.104:Beihang University (BUAA)	6020.104022:Beihang University (BUAA)-College of Mechanical Engineering and Automatization	9560.002:Beijing Municipality
+Tang Xiaoqing	1998-2000	Professor	6020.104:Beihang University (BUAA)	6020.104022:Beihang University (BUAA)-College of Mechanical Engineering and Automatization	9560.002:Beijing Municipality
+Tang Xiaoqing	1995-1998	Professor	6020.104:Beihang University (BUAA)	6020.104021:Beihang University (BUAA)-Department of Manufacturing Engineering	9560.002:Beijing Municipality
+Tang Xiaoqing	1995-1998	Director	6020.104:Beihang University (BUAA)	6020.104021:Beihang University (BUAA)-Department of Manufacturing Engineering	9560.002:Beijing Municipality
+Tang Xiaoqing	1992-1995	Associate Professor	6020.104:Beihang University (BUAA)	6020.104021:Beihang University (BUAA)-Department of Manufacturing Engineering	9560.002:Beijing Municipality
+Tang Xiaoqing	1989-1999	Student	6490.713:University of Manchester	6490.713009:University of Manchester-College of Sciences and Technology	9470.:United Kingdom	9470.122:United Kingdom, Manchester
+Tang Xiaoqing	1986-1989	Lecturer	6020.104:Beihang University (BUAA)	6020.104021:Beihang University (BUAA)-Department of Manufacturing Engineering	9560.002:Beijing Municipality
+Tang Xiaoqing	1986-1989	Teacher	6020.104:Beihang University (BUAA)	6020.104021:Beihang University (BUAA)-Department of Manufacturing Engineering	9560.002:Beijing Municipality
+Tang Xiaoqing	1984-1986	Student	6490.713:University of Manchester	6490.713009:University of Manchester-College of Sciences and Technology	9470.:United Kingdom	9470.122:United Kingdom, Manchester
+Tang Xiaoqing	1981-1984	Teacher	6020.104:Beihang University (BUAA)	6020.104021:Beihang University (BUAA)-Department of Manufacturing Engineering	9560.002:Beijing Municipality
+Tang Xiaoqing	1978-1981	Student	6020.216:Beijing Aeronautics Institute	6020.216021:Beijing Aeronautics Institute-Department of Manufacturing Engineering	9560.002:Beijing Municipality
+Tang Xiaoqing	1975-1978	Teacher	6020.216:Beijing Aeronautics Institute	6020.216021:Beijing Aeronautics Institute-Department of Manufacturing Engineering	9560.002:Beijing Municipality
+Tang Xiaoqing	1972-1975	Student	6020.216:Beijing Aeronautics Institute	6020.216021:Beijing Aeronautics Institute-Department of Manufacturing Engineering	9560.002:Beijing Municipality
+Tang Xiaoqing	1969-1972	Worker	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Tang Xiaoqing	1967-1969	Student	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Tang Xiaoquan	2004-	Executive Vice-President	6770.139:Chinese Olympic Committee	6770.139021:Chinese Olympic Committee-Beijing Organizing Committee for the XXIX Olympiad	9560.002:Beijing Municipality
+Tang Xiaoquan	2003-2004	President	6550.105:China Rehabilitation Research Center
+Tang Xiaoquan	2001-2003	Member	6750.132:China Disabled Persons' Federation	6750.132001:China Disabled Persons' Federation-Executive Council
+Tang Xiaoquan	1995-2001	Director	6550.105:China Rehabilitation Research Center
+Tang Xiaoquan	1993-1995	Director	6550.104:China Deaf Child Rehabilitation Research Center
+Tang Xiaoquan	1991-1993	Secretary	6777.101:CYLC	6777.101531:CYLC-District-Level	9560.002:Beijing	9560.002017:Beijing, Xicheng District
+Tang Xiaoquan		Graduate	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School
+Tang Xiaoquan	1969	Joined	1010.101:CPC
+Tang Yijun	2017-	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Yijun	2017-	Vice-Governor	2050.101:People's Government	9560.023:Liaoning Province
+Tang Yijun	2017-	Acting Governor	2050.101:People's Government	9560.023:Liaoning Province
+Tang Yijun	2017-	Deputy Sectretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.023:Liaoning Province
+Tang Yijun	2017-	Secretary	2050.101:People's Government	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.023:Liaoning Province
+Tang Yijun	2017-2017	Deputy Sectretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.037:Zhejiang Province
+Tang Yijun	2016-2017	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.037:Zhejiang Province	9560.037002:Zhejiang Province, Ningbo City
+Tang Yijun	2016-2017	Mayor	2050.101:People's Government	9560.037:Zhejiang Province	9560.037002:Zhejiang Province, Ningbo City
+Tang Yijun	2011-2016	Secretary	1810.101:CPPCC	1810.101039:CPPCC-City Committee	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.037:Zhejiang Province	9560.037002:Zhejiang Province, Ningbo City
+Tang Yijun	2011-2016	Chairman	1810.101:CPPCC	1810.101039:CPPCC-City Committee	9560.037:Zhejiang Province	9560.037002:Zhejiang Province, Ningbo City
+Tang Yijun	2005-2011	Deputy Sectretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.037:Zhejiang Province	9560.037002:Zhejiang Province, Ningbo City
+Tang Yijun	2005-2011	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015027:City Committee-Politics and Law Committee	9560.037:Zhejiang Province	9560.037002:Zhejiang Province, Ningbo City
+Tang Yijun	2002-2005	General Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.037:Zhejiang Province
+Tang Yijun	1997-2005	General Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.037:Zhejiang Province	9560.037053:Zhejiang Province, Zhoushan City
+Tang Yijun	1986-1991	Staff Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005004:Provincial Committee-Publicity Department	9560.037:Zhejiang Province
+Tang Yijun	1984-1986	Student	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005022:Provincial Committee-Party School	9560.037:Zhejiang Province
+Tang Yunwei	1987	Graduate	6250.215:Shanghai Institute of Finance and Economics	9560.029:Shanghai Municipality
+Tang Yunwei	1983	Graduate	6250.215:Shanghai Institute of Finance and Economics	9560.029:Shanghai Municipality
+Tang Yunzhang	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Tang Yunzhang	1997-	Chairman	1500.501:Chinese Peasants and Workers Democratic Party	1500.501021:Chinese Peasants and Workers Democratic Party-Provincial Committee	9560.031:Sichuan Province
+Tang Yunzhang	1993-	Vice-Chairman	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.031:Sichuan Province	9560.031001:Sichuan Province, Chengdu City
+Tang Zhongfu	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Zhongfu	1969-1973	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tang Zhongwen	1982-1987	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tao Bojun	2000-	Commander	5110.101:PLA	5110.101009:PLA-Regions	5110.101009021:Regions-Chengdu Military Region
+Tao Bojun	2000-	General	5110.101:PLA
+Tao Bojun	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tao Bojun	1992-1997	Delegate	1010.101:CPC	1010.101001:CPC-Central Committee
+Tao Bojun	1991-2000	Lieutenant General	5110.101:PLA
+Tao Bojun	1988-1991	Major General	5110.101:PLA
+Tao Bojun	1987-1992	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Tao Bojun	1985-1992	Chief-of-Staff	5110.101:PLA	5110.101009:PLA-Regions	5110.101009021:Regions-Chengdu Military Region
+Tao Bojun	1983-1985	Deputy Army Commander	5110.101:PLA	5110.101009:PLA-Regions	5110.101009021:Regions-Chengdu Military Region
+Tao Bojun	1983-????	Director	5110.101:PLA	5110.101009:PLA-Regions	5110.101009031:Regions-Guangzhou Military Region	5110.101009031027:Guangzhou Military Region-Wuhan Military District
+Tao Bojun	1976-1977	Chief	5110.101:PLA	5110.101009:PLA-Regions	5110.101009031:Regions-Guangzhou Military Region	5110.101009031027:Guangzhou Military Region-Wuhan Military District
+Tao Bojun	1961	Joined	1010.101:CPC
+Tao Bojun	1951	Joined	5110.101:PLA
+Tao Dayong	2002-	Honorary Vice-Chairman	1500.201:China Democratic League	1500.201001:China Democratic League-Central Committee
+Tao Dayong	2001-	Honorary Chairman	1500.201:China Democratic League	1500.201031:China Democratic League-Municipal Committee	9560.002:Beijing Municipality
+Tao Dayong	1993-1998	Member	1610.101:Standing Committee of the NPC
+Tao Dayong	1988-1993	Vice-Chairman	1610.207:Financial and Economic Affairs Committee of the NPC
+Tao Dayong	1988-1993	Member	1610.101:Standing Committee of the NPC
+Tao Dayong		Vice-Chairman	1500.201:China Democratic League	1500.201001:China Democratic League-Central Committee
+Tao Dayong	1983-1988	Member	1610.101:Standing Committee of the NPC
+Tao Dayong	1983-1988	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Tao Dayong	1978-1983	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tao Dayong	1954	Professor	6020.111:Beijing Normal University	9560.002:Beijing Municipality
+Tao Dayong	1947	Joined	1500.201:China Democratic League
+Tao Dayong	1945-1946	Professor	6270.101:Sichuan University	9560.031:Sichuan Province
+Tao Dayong	1943-1944	Associate Professor	6250.104:Jiaotong University	9560.029:Shanghai Municipality
+Tao Dayong	1943-1944	Associate Professor	6070.101:Guangxi University	9560.007:Guangxi Zhuang Autonomous Region
+Tao Hengxian	1955-	Academician	6410.107:Chinese Academy of Sciences
+Tao Hengxian		Senior Engineer	3200.404:National Bureau of Machinery Industry
+Tao Hengxian	1939	Graduate	6250.102:Tongji University	6250.102031:Tongji University-Institute of Technology	9560.029:Shanghai Municipality
+Tao Jianxing	2002-2007	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tao Jianxing	1997-2002	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tao Jianxing	1996-	Chairman	8010.153:Chunlan Corporation
+Tao Jianxing	1996-	Member	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015026:City Committee-Standing Committee	9560.037:Zhejiang Province	9560.037059:Zhejiang Province, Taizhou City
+Tao Jianxing	1993-1996	Member	1010.101:CPC	1010.101019:CPC-County Committee	1010.101019001:County Committee-Standing Committee	9560.018:Jiangsu Province	9560.018036:Jiangsu Province, Taizhou City
+Tao Jianxing	1989-1996	General Manager	8010.839:Chunlan Air Conditioning Co.
+Tao Jianxing	1989-1991	Chairman of the Board	8010.839:Chunlan Air Conditioning Co.
+Tao Jianxing	1985-1991	Director	9560.018:Jiangsu Province	9560.018036:Jiangsu Province, Taizhou City
+Tao Jianxing	1984-1985	Deputy Section Chief	9560.018:Jiangsu Province	9560.018036:Jiangsu Province, Taizhou City
+Tao Jianxing	1977-1984	Technician	3100.261:Ministry of Forestry	3100.261222:Ministry of Forestry-Taizhou Forest Machine Company	9560.018:Jiangsu Province	9560.018036:Jiangsu Province, Taizhou City
+Tao Jianxing	1974	Joined	1010.101:CPC
+Tao Jianxing	1973-1977	Student	6250.179:Nanjing University	6250.179005:Nanjing University-Mathematics Department	9560.018:Jiangsu Province	9560.018001:Jiangsu Province, Nanjing City
+Tao Jianxing	1970-1973	Worker	3100.261:Ministry of Forestry	3100.261222:Ministry of Forestry-Taizhou Forest Machine Company	9560.018:Jiangsu Province	9560.018036:Jiangsu Province, Taizhou City
+Tao Kaiyuan	2013-	Vice-President	4010.101:Supreme People's Court
+Tao Kui	2001-	Executive Director	8010.002:IRICO Electronics Group Corporation
+Tao Kui	2001-	Vice-Chairman	8010.002:IRICO Electronics Group Corporation
+Tao Kui	1995-2001	Director	8010.002:IRICO Electronics Group Corporation
+Tao Kui	1990-1995	Factory Manager	8010.917:Shaanxi Color Picture Tube Plant	8010.917007:Shaanxi Color Picture Tube Plant-Phosphor Powder Factory
+Tao Kui	1990-1995	Factory Manager	8010.917:Shaanxi Color Picture Tube Plant	8010.917008:Shaanxi Color Picture Tube Plant-Phosphor Glass Factory
+Tao Lujia	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tao Shiyan	1980-	Academician	6410.107:Chinese Academy of Sciences
+Tao Shiyan		Researcher	6410.107:Chinese Academy of Sciences	6410.107049:Chinese Academy of Sciences-Institute of Atmospheric Physics
+Tao Shiyan	1942	Graduate	6020.196:Central University for Nationalities	6020.196005:Central University for Nationalities-Geography Department
+Tao Shiyue	1983-1988	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tao Siju	2003-	Vice-Chairman	1610.202:Internal and Judicial Affairs Committee of the NPC
+Tao Siju	1998-2003	Member	1610.101:Standing Committee of the NPC
+Tao Siju	1997-????	Head	6650.112:National Group for Narcotics Control
+Tao Siju	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tao Siju	1992-	Commissioner General	5210.101:Chinese People's Armed Police Force
+Tao Siju	1992-1997	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tao Siju	1990-	1st Political Commissar	5210.101:Chinese People's Armed Police Force
+Tao Siju	1990-1998	Minister	3100.241:Ministry of Public Security
+Tao Siju	1987-1992	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Tao Siju		Vice-Minister	3100.241:Ministry of Public Security
+Tao Siju	1949	Joined	1010.101:CPC
+Tao Suyun	2002-	Vice-President	8010.986:Sinotrans Limited
+Tao Suyun	2002-	Executive Director	8010.986:Sinotrans Limited
+Tao Suyun	1997-2002	Vice-President	8010.149:China Foreign Trade Transportation Corporation
+Tao Suyun	1993-1997	Assistant President	8010.149:China Foreign Trade Transportation Corporation
+Tao Suyun	1987-1993	General Manager	8010.149:China Foreign Trade Transportation Corporation	8010.149007:China Foreign Trade Transportation Corporation-First Liner Division
+Tao Suyun	1984-1987	General Manager	8010.987:Sinorick Shipping Agency Company	9370.:Germany	9370.103:Germany, Hamburg
+Tao Suyun	1980-1984	Deputy General Manager	8010.812:China National Technical Import and Export Corporation	8010.812009:China National Technical Import and Export Corporation-European Shipping Department
+Tao Suyun		Graduate	6020.217:Beijing Institute of Foreign Trade	9560.002:Beijing Municipality
+Tao Wuxian	2000-	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.031:Sichuan Province
+Tao Wuxian	1997-2000	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.031:Sichuan Province	9560.031001:Sichuan Province, Chengdu City
+Tao Wuxian	1997-2000	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.031:Sichuan Province
+Tao Wuxian	1996-1997	Secretary-General	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.031:Sichuan Province
+Tao Wuxian	1992-1996	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.031:Sichuan Province	9560.031001:Sichuan Province, Chengdu City
+Tao Wuxian	1988-1992	Secretary-General	1010.101:CPC	1010.101015:CPC-City Committee	9560.031:Sichuan Province	9560.031001:Sichuan Province, Chengdu City
+Tao Wuxian	1986-1987	Deputy Secretary-General	1010.101:CPC	1010.101015:CPC-City Committee	9560.031:Sichuan Province	9560.031001:Sichuan Province, Chengdu City
+Tao Wuxian	1982-1986	Member	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015026:City Committee-Standing Committee	9560.031:Sichuan Province	9560.031001:Sichuan Province, Chengdu City
+Tao Wuxian	1977-1982	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.031:Sichuan Province	9560.031001:Sichuan Province, Chengdu City
+Tao Wuxian	1977-1982	Deputy Secretary	6777.101:CYLC	6777.101421:CYLC-City-Level	9560.031:Sichuan Province	9560.031001:Sichuan Province, Chengdu City
+Tao Wuxian	1973	Joined	1010.101:CPC
+Tao Wuxian	1969-1977	Worker	9560.031:Sichuan Province	9560.031079:Sichuan Province, Deyang County
+Tao Wuxian	1965-1969	Student	9560.031:Sichuan Province	9560.031079:Sichuan Province, Deyang County
+Tao Xihui	2000-	Secretary	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.031:Sichuan Province
+Tao Xihui	2000-	Deputy Director	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.031:Sichuan Province
+Tao Xihui	1998-2003	Deputy	1610.001:NPC
+Tao Xihui	1997-2000	Director	2210.233:Planning Commission	9560.031:Sichuan Province
+Tao Xihui	1997-2000	Secretary	2210.233:Planning Commission	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.031:Sichuan Province
+Tao Xihui	1995-1997	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.031:Sichuan Province	9560.031007:Sichuan Province, Zigong City
+Tao Xihui	1993-1998	Deputy	1610.001:NPC	9560.031:Sichuan Province	9560.031007:Sichuan Province, Zigong City
+Tao Xihui	1992-1995	Mayor	2050.101:People's Government	9560.031:Sichuan Province	9560.031007:Sichuan Province, Zigong City
+Tao Xihui	1992-1993	Vice-Mayor	2050.101:People's Government	9560.031:Sichuan Province	9560.031007:Sichuan Province, Zigong City
+Tao Xihui	1991-1995	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.031:Sichuan Province	9560.031007:Sichuan Province, Zigong City
+Tao Xihui	1990-1991	Director	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015036:City Committee-Organization Department	9560.031:Sichuan Province	9560.031007:Sichuan Province, Zigong City
+Tao Xihui	1990-1991	Member	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015026:City Committee-Standing Committee	9560.031:Sichuan Province	9560.031007:Sichuan Province, Zigong City
+Tao Xihui	1988-1990	Secretary-General	1010.101:CPC	1010.101015:CPC-City Committee	9560.031:Sichuan Province	9560.031007:Sichuan Province, Zigong City
+Tao Xihui	1987-1988	Secretary	2210.888:Industrial Board of Trustees	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.031:Sichuan Province	9560.031007:Sichuan Province, Zigong City
+Tao Xihui	1987-1988	Director	2210.888:Industrial Board of Trustees	9560.031:Sichuan Province	9560.031007:Sichuan Province, Zigong City
+Tao Xihui	1984-1987	Deputy Director	2210.451:Economic and Trade Committee	9560.031:Sichuan Province	9560.031007:Sichuan Province, Zigong City
+Tao Xihui	1983-1984	Deputy Director	2190.302:Mechanical Industry Bureau	9560.031:Sichuan Province	9560.031007:Sichuan Province, Zigong City
+Tao Xihui	1979	Joined	1010.101:CPC
+Tao Xihui	1968-1983	Deputy Director	9560.031:Sichuan Province	9560.031007:Sichuan Province, Zigong City
+Tao Xihui	1968-1983	Technician	9560.031:Sichuan Province	9560.031007:Sichuan Province, Zigong City
+Tao Xihui	1963-1968	Student	6230.126:Northwest China Institute of Technology	6230.126008:Northwest China Institute of Technology-Aerodynamics Department
+Tao Zhu	1956-1969	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Teng Daiyuan	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Teng Daiyuan	1969-1973	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Teng Daiyuan	1964-1978	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Teng Daiyuan	1956-1969	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Teng Haiqing	1969-1973	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Teng Jiacai	2013-	Deputy Director	3200.701:China Food and Drug Administration
+Teng Jiacai	2012-2013	Deputy Director	3200.141:State Administration of Industry and Commerce
+Teng Jiacai	2010-2012	Vice-Mayor	2050.101:People's Government	9560.022:Jilin Province	9560.022001:Jilin Province, Changchun City
+Teng Jiuming	2002-	Secretary	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009015:Municipal Committee-Commission for Discipline Inspection	9560.003:Chongqing Municipality
+Teng Jiuming	2001-	Secretary-General	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.003:Chongqing Municipality
+Teng Jiuming	1997-	Member	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009001:Municipal Committee-Standing Committee	9560.003:Chongqing Municipality
+Teng Jiuming	1997-2002	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Teng Jiuming	1993-	Deputy Secretary	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.003:Chongqing Municipality
+Teng Jiuming	1988-1993	Head	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009014:Municipal Committee-Publicity Department	9560.003:Chongqing Municipality
+Teng Jiuming	1987-1993	Secretary-General	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.003:Chongqing Municipality
+Teng Jiuming	1987-1993	Member	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009001:Municipal Committee-Standing Committee	9560.003:Chongqing Municipality
+Teng Jiuming	1985-1987	Deputy Secretary	1010.101:CPC	1010.101017:CPC-District Committee	9560.003:Chongqing Municipality	9560.003005:Chongqing Municipality, Beibei District
+Teng Jiuming	1983-1985	Student	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School
+Teng Jiuming	1982-1985	Secretary	1010.101:CPC	1010.101017:CPC-District Committee	9560.003:Chongqing Municipality	9560.003006:Chongqing Municipality, Dadukou District
+Teng Jiuming	1979-1982	Director	1010.101:CPC	1010.101017:CPC-District Committee	1020.101:Cultural Revolution	1020.101033:Cultural Revolution-Revolutionary Committee	9560.003:Chongqing Municipality	9560.003006:Chongqing Municipality, Dadukou District
+Teng Jiuming	1979-1982	Deputy Director	1010.101:CPC	1010.101017:CPC-District Committee	1010.101017001:District Committee-General Office	9560.003:Chongqing Municipality	9560.003006:Chongqing Municipality, Dadukou District
+Teng Jiuming	1979-1982	Deputy Secretary	1010.101:CPC	1010.101017:CPC-District Committee	9560.003:Chongqing Municipality	9560.003006:Chongqing Municipality, Dadukou District
+Teng Jiuming	1973-1979	Office Director	1010.101:CPC	1010.101017:CPC-District Committee	1020.101:Cultural Revolution	1020.101033:Cultural Revolution-Revolutionary Committee	9560.003:Chongqing Municipality	9560.003006:Chongqing Municipality, Dadukou District
+Teng Jiuming	1973-????	Secretary	6777.101:CYLC	6777.101531:CYLC-District-Level	9560.003:Chongqing Municipality	9560.003006:Chongqing Municipality, Dadukou District
+Teng Jiuming	1973-1979	Office Director	1010.101:CPC	1010.101017:CPC-District Committee	1010.101017001:District Committee-General Office	9560.003:Chongqing Municipality	9560.003006:Chongqing Municipality, Dadukou District
+Teng Jiuming		Member	6030.136:Chongqing No. 96 Middle School	1010.101:CPC	1010.101025:CPC-Party Committee	9560.003:Chongqing Municipality
+Teng Jiuming		Dean	6030.136:Chongqing No. 96 Middle School	9560.003:Chongqing Municipality
+Teng Jiuming		Secretary	6030.136:Chongqing No. 96 Middle School	6777.101:CYLC	6777.101801:CYLC-Institutional Level	9560.003:Chongqing Municipality
+Teng Jiuming		Cultural Revolution	1020.101:Cultural Revolution	1020.101104:Cultural Revolution-Sent to do manual labor
+Teng Jiuming	1966	Graduate	6030.135:Southwest China Teachers' College	6030.135001:Southwest China Teachers' College-Chinese Literature Department	9560.003:Chongqing Municipality
+Teng Jiuming	1965	Postgraduate Student	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School
+Teng Jiuming	1965	Joined	1010.101:CPC
+Teng Jiwen	1999-	Academician	6410.107:Chinese Academy of Sciences
+Teng Jiwen		Researcher	6410.107:Chinese Academy of Sciences	6410.107058:Chinese Academy of Sciences-Geophysics Research Institute
+Teng Jiwen	1962	Graduate	6490.272:Russian Academy of Science	6490.272009:Russian Academy of Science-Geophysics Institute
+Teng Jiwen	1956	Graduate	6190.188:Northeast University of Earth Science	6190.188009:Northeast University of Earth Science-Geophysics Department
+Teng Teng	1998-2003	Member	1610.101:Standing Committee of the NPC
+Teng Teng	1993-1998	Member	1610.203:Education, Science, Culture and Health Committee of the NPC
+Teng Teng	1993-1998	Member	1610.101:Standing Committee of the NPC
+Teng Teng	1993-????	Vice-President	6410.108:Chinese Academy of Social Sciences
+Teng Teng	1988-1993	Vice-Chairman	7250.102:UNESCO	7250.102001:UNESCO-Executive Board
+Teng Teng	1986-1987	Vice-President	6410.107:Chinese Academy of Sciences
+Teng Teng	1986-1987	Deputy Head	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001004:Central Committee-Propaganda Department
+Teng Teng	1985-1986	Vice-Minister	3100.801:State Science and Technology Commission
+Teng Teng	1980-1984	Professor	6020.102:Tsinghua University	9560.002:Beijing Municipality
+Teng Teng	1960-1965	Deputy Director	6020.102:Tsinghua University	6020.102003:Tsinghua University-Chemical Engineering Department	9560.002:Beijing Municipality
+Teng Teng	1951	Graduate	6020.102:Tsinghua University	6020.102003:Tsinghua University-Chemical Engineering Department	9560.002:Beijing Municipality
+Teng Teng	1948	Joined	1010.101:CPC
+Teng Weiping	2003-	Vice-Governor	2050.101:People's Government	9560.023:Liaoning Province
+Teng Weiping	2003-2008	Deputy	1610.001:NPC
+Teng Weiping	2002-2003	President	6190.193:China Medical University	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Teng Weiping	1998-2003	Deputy	1610.001:NPC
+Teng Weiping	1997-2002	Vice-President	6190.193:China Medical University	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Teng Weiping	1995-1997	Vice-Dean	6190.193:China Medical University	6190.193011:China Medical University-1st Affiliated Hospital	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Teng Weiping	1994-1995	Visiting Scholar	6490.406:University of Toronto	9310.:Canada	9310.111:Canada, Toronto
+Teng Weiping	1988-1990	Visiting Scholar	6490.706:University of Cambridge	9470.:United Kingdom	9470.117:United Kingdom, Cambridge
+Teng Weiping	1981-1988	Professor	6190.193:China Medical University	6190.193011:China Medical University-1st Affiliated Hospital	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Teng Weiping	1978-1981	Student	6190.193:China Medical University	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Teng Wensheng	2002-	Director	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001043:Central Committee-Literature Research Office
+Teng Wensheng	2002-2007	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Teng Wensheng	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Teng Wensheng	1989-1997	Director	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001013:Central Committee-Policy Research Office
+Teng Wensheng	1988-1992	Deputy Chief of Secretary	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001042:Central Committee-Counsellors Committee
+Teng Wensheng	1986-1988	Section Chief	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001006:Central Committee-Research Office	1010.101001006009:Research Office-Theory Section
+Teng Wensheng	1982-1986	Deputy Section Chief	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001006:Central Committee-Research Office	1010.101001006009:Research Office-Theory Section
+Teng Wensheng	1979-1980	Staff Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001006:Central Committee-Research Office
+Teng Wensheng	1975-1979	Staff Member	3100.001:General Office of the State Council	3100.001007:General Office of the State Council-Political Science Research Office
+Teng Wensheng	1974-1975	Staff Member	7010.111:People's Publications of China	9560.002:Beijing Municipality
+Teng Wensheng	1965-1974	Worker	1020.101:Cultural Revolution	1020.101102:Cultural Revolution-May 7th Cadre School	9560.011:Hebei Province	9560.011001:Hebei Province, Shijiazhuang City
+Teng Wensheng	1965	Joined	1010.101:CPC
+Teng Wensheng	1964-1965	Worker	7010.316:Hongqi Magazine	9560.002:Beijing Municipality
+Teng Wensheng	1964	Graduate	6020.222:Renmin University of China	6020.222006:Renmin University of China-History Department	9560.002:Beijing Municipality
+Tian Bao	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Bao	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Bao	1969-1973	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Bo	1991-	Academician	6410.107:Chinese Academy of Sciences
+Tian Bo		Member	6900.172:Indian Virus Academy
+Tian Bo		Member	6900.173:International Viroid Working Team
+Tian Bo		Senior Member	6900.171:American Virus Academy
+Tian Bo		Researcher	6410.107:Chinese Academy of Sciences	6410.107065:Chinese Academy of Sciences-Microorganism Research Institute
+Tian Bo	1954	Graduate	6020.209:Beijing Agricultural University	6020.209007:Beijing Agricultural University-Botanic Protection Department	9560.002:Beijing Municipality
+Tian Chengping	2008-	Deputy Director	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001087:Central Committee-Central Leading Small Group for Rural Work
+Tian Chengping	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Chengping	2005-2008	Secretary	3100.292:Ministry of Labor and Social Security	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Tian Chengping	2005-2008	Deputy Director	6770.734:All-China Working Committee for Old Age
+Tian Chengping	2005-2008	Minister	3100.292:Ministry of Labor and Social Security
+Tian Chengping	2003-2005	Chairman	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.026:Shanxi Province
+Tian Chengping	2002-2007	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Chengping	2000-2001	Chairman	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.026:Shanxi Province
+Tian Chengping	1999-2005	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.026:Shanxi Province
+Tian Chengping	1999-2005	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.026:Shanxi Province
+Tian Chengping	1998-2003	Deputy	1610.001:NPC
+Tian Chengping	1998-1999	Chairman	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.025:Qinghai Province
+Tian Chengping	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Chengping	1997-1999	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.025:Qinghai Province
+Tian Chengping	1993-1997	Governor	2050.101:People's Government	9560.025:Qinghai Province
+Tian Chengping	1993-1998	Deputy	1610.001:NPC
+Tian Chengping	1992-1993	Vice-Governor	2050.101:People's Government	9560.025:Qinghai Province
+Tian Chengping	1992-1993	Acting Governor	2050.101:People's Government	9560.025:Qinghai Province
+Tian Chengping	1992-1997	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Chengping	1988-1997	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.025:Qinghai Province
+Tian Chengping	1984-1988	Secretary	1010.101:CPC	1010.101017:CPC-District Committee	9560.002:Beijing	9560.002017:Beijing, Xicheng District
+Tian Chengping	1983-1984	Deputy Secretary	8010.271:Beijing Yanshan Petrochemical Corp.	1010.101:CPC	1010.101025:CPC-Party Committee
+Tian Chengping	1974-1983	Deputy Secretary	8010.271:Beijing Yanshan Petrochemical Corp.	8010.271001:Beijing Yanshan Petrochemical Corp.-Qianjin Chemical Plant	9560.002:Beijing Municipality
+Tian Chengping	1973-1974	Secretary	8010.269:Beijing General Petrochemical Works	6777.101:CYLC	6777.101801:CYLC-Institutional Level	9560.002:Beijing Municipality
+Tian Chengping	1970-1973	Secretary	8010.268:Shengli Chemical Plant	8010.268011:Shengli Chemical Plant-Publicity Section	9560.028:Shandong Province	9560.028012:Shandong Province, Shengli
+Tian Chengping	1970-1973	Secretary	8010.269:Beijing General Petrochemical Works	1010.101:CPC	1010.101025:CPC-Party Committee	1010.101025003:Party Committee-Publicity Department
+Tian Chengping	1968-1970	Cultural Revolution	1020.101:Cultural Revolution	1020.101104:Cultural Revolution-Sent to do manual labor	9560.001:Anhui Province	9560.001023:Anhui Province, Huoqiucheng
+Tian Chengping	1964	Joined	1010.101:CPC
+Tian Chengping	1962-1968	Student	6020.102:Tsinghua University	6020.102008:Tsinghua University-Civil Engineering Department	9560.002:Beijing Municipality
+Tian Chengzhong	2008-	Vice-Governor	2050.101:People's Government	9560.015:Hubei Province
+Tian Chengzhong	2004-2008	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.015:Hubei Province	9560.015002:Hubei Province, Xiangfan City
+Tian Chengzhong	2004-2008	Director	1610.501:City People's Congress	1610.501001:City People's Congress-Standing Committee	9560.015:Hubei Province	9560.015002:Hubei Province, Xiangfan City
+Tian Chengzhong	2003-2004	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.015:Hubei Province	9560.015001:Hubei Province, Wuhan City
+Tian Chengzhong	1996-2003	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.013:Henan Province	9560.013023:Henan Province, Pingdingshan City
+Tian Chengzhong	1996-2003	Mayor	2050.101:People's Government	9560.013:Henan Province	9560.013023:Henan Province, Pingdingshan City
+Tian Chengzhong	1991-1996	Executive Vice-Mayor	2050.101:People's Government	9560.013:Henan Province	9560.013072:Henan Province, Luohe City
+Tian Chengzhong	1991-1996	Director	2210.177:Planning Committee	9560.013:Henan Province	9560.013072:Henan Province, Luohe City
+Tian Chengzhong	1991-1996	Deputy Secretary-General	1010.101:CPC	1010.101015:CPC-City Committee	9560.013:Henan Province	9560.013072:Henan Province, Luohe City
+Tian Chengzhong	1988-1991	Magistrate	4020.103:County (District) People's Court	9560.013:Henan Province	9560.013086:Henan Province, Lingying County
+Tian Chengzhong	1988-1991	Director	1610.601:County People's Congress	1610.601009:County People's Congress-Standing Committee	9560.013:Henan Province	9560.013086:Henan Province, Lingying County
+Tian Chengzhong	1988-1991	Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.013:Henan Province	9560.013086:Henan Province, Lingying County
+Tian Chengzhong	1986-1988	Deputy Director	2210.102:Economic Committee	9560.013:Henan Province	9560.013086:Henan Province, Lingying County
+Tian Chengzhong	1977-1980	Student	8010.228:Harbin Shipbuilding Institute	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Tian Congming	2002-2007	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Congming	2000-2008	President	7050.001:Xinhua News Agency
+Tian Congming	2000-	Secretary	7050.001:Xinhua News Agency	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Tian Congming	1998-2000	Secretary	3200.301:State Administration of Radio, Film and Television	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Tian Congming	1998-2000	Director	3200.301:State Administration of Radio, Film and Television
+Tian Congming	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Congming	1992-1997	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Congming	1990-1998	Vice-Minister	3100.352:Ministry of Radio, Film and Television
+Tian Congming	1990-1998	Deputy Secretary	3100.352:Ministry of Radio, Film and Television	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Tian Congming	1988-1990	Deputy Secretary	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	9560.034:Tibet Autonomous Region
+Tian Congming	1987-1988	Student	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School
+Tian Congming	1984-1988	Deputy Secretary	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	9560.017:Inner Mongolia Autonomous Region
+Tian Congming	1983-1987	Secretary-General	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	9560.017:Inner Mongolia Autonomous Region
+Tian Congming	1983-1984	Member	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007011:Autonomous Regional Committee-Standing Committee	9560.017:Inner Mongolia Autonomous Region
+Tian Congming	1980-1983	Deputy Director	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007014:Autonomous Regional Committee-Policy Research Office	9560.017:Inner Mongolia Autonomous Region
+Tian Congming	1980-1982	Secretary	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007001:Autonomous Regional Committee-General Office	9560.017:Inner Mongolia Autonomous Region
+Tian Congming	1975-1980	Reporter	7050.001:Xinhua News Agency	7050.001004:Xinhua News Agency-Inner Mongolia Bureau	9560.017:Inner Mongolia Autonomous Region
+Tian Congming	1975-1980	Section Director	7050.001:Xinhua News Agency	7050.001004:Xinhua News Agency-Inner Mongolia Bureau	7050.001004002:Inner Mongolia Bureau-Farming Department	9560.017:Inner Mongolia Autonomous Region
+Tian Congming	1975-1980	Deputy Office Director	7050.001:Xinhua News Agency	7050.001004:Xinhua News Agency-Inner Mongolia Bureau	9560.017:Inner Mongolia Autonomous Region
+Tian Congming	1972-1975	Clerk	2050.106:Autonomous Region People's Government	2050.106009:Autonomous Region People's Government-Political Department	9560.017:Inner Mongolia Autonomous Region	9560.017011:Inner Mongolia Autonomous Region, Bayannur League
+Tian Congming	1970	Graduate	6020.111:Beijing Normal University	9560.002:Beijing Municipality
+Tian Congming	1965	Joined	1010.101:CPC
+Tian Fengshan	2002-2004	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Fengshan	2000-2003	Minister	3100.311:Ministry of Land and Resources
+Tian Fengshan	1999-2003	Secretary	3100.311:Ministry of Land and Resources	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Tian Fengshan	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Fengshan	1995-1999	Governor	2050.101:People's Government	9560.012:Heilongjiang Province
+Tian Fengshan	1994-1995	Vice-Governor	2050.101:People's Government	9560.012:Heilongjiang Province
+Tian Fengshan	1992-1997	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Fengshan	1992-1999	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.012:Heilongjiang Province
+Tian Fengshan	1991-1992	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.012:Heilongjiang Province
+Tian Fengshan	1991-1994	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Tian Fengshan	1989-1991	Vice-Governor	2050.101:People's Government	9560.012:Heilongjiang Province
+Tian Fengshan	1988-1989	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.012:Heilongjiang Province	9560.012011:Heilongjiang Province, Mudanjiang City
+Tian Fengshan	1987-1988	Deputy Secretary	2410.111:Prefectural Administrative Office	1010.101:CPC	1010.101025:CPC-Party Committee	9560.012:Heilongjiang Province	9560.012003:Heilongjiang Province, Suihua Prefecture
+Tian Fengshan	1987-1988	Commissioner	2410.111:Prefectural Administrative Office	9560.012:Heilongjiang Province	9560.012003:Heilongjiang Province, Suihua Prefecture
+Tian Fengshan	1985-1987	Deputy Commissioner	2410.111:Prefectural Administrative Office	9560.012:Heilongjiang Province	9560.012003:Heilongjiang Province, Suihua Prefecture
+Tian Fengshan	1983-1985	Magistrate	4020.103:County (District) People's Court	9560.012:Heilongjiang Province	9560.012007:Heilongjiang Province, Zhaoyuan County
+Tian Fengshan	1981-1981	Student	6190.171:Shenyang Agricultural College	9560.012:Heilongjiang Province
+Tian Fengshan	1979-1979	Student	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005022:Provincial Committee-Party School	9560.012:Heilongjiang Province
+Tian Fengshan	1977-1983	Deputy Magistrate	4020.103:County (District) People's Court	9560.012:Heilongjiang Province	9560.012007:Heilongjiang Province, Zhaoyuan County
+Tian Fengshan	1977-1985	Deputy Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.012:Heilongjiang Province	9560.012007:Heilongjiang Province, Zhaoyuan County
+Tian Fengshan	1973-1977	Secretary	6950.132:Zhaoyuan People's Commune	1010.101:CPC	1010.101025:CPC-Party Committee	9560.012:Heilongjiang Province	9560.012007:Heilongjiang Province, Zhaoyuan County
+Tian Fengshan	1973-1975	Chairman	1020.101:Cultural Revolution	1020.101033:Cultural Revolution-Revolutionary Committee	9560.012:Heilongjiang Province	9560.012007:Heilongjiang Province, Zhaoyuan County
+Tian Fengshan	1970	Joined	1010.101:CPC
+Tian Fengshan	1969-1973	Deputy Director	1020.101:Cultural Revolution	1020.101033:Cultural Revolution-Revolutionary Committee	1020.101033002:Revolutionary Committee-Political Department	9560.012:Heilongjiang Province	9560.012007:Heilongjiang Province, Zhaoyuan County
+Tian Fengshan	1969-1973	Deputy Chief	1020.101:Cultural Revolution	1020.101033:Cultural Revolution-Revolutionary Committee	1020.101033011:Revolutionary Committee-Work Group	9560.012:Heilongjiang Province	9560.012007:Heilongjiang Province, Zhaoyuan County
+Tian Fengshan	1969-1973	Chief	1020.101:Cultural Revolution	1020.101033:Cultural Revolution-Revolutionary Committee	1020.101033014:Revolutionary Committee-Publicity Group	9560.012:Heilongjiang Province	9560.012007:Heilongjiang Province, Zhaoyuan County
+Tian Fengshan	1967-1969	Secretary	1020.101:Cultural Revolution	1020.101033:Cultural Revolution-Revolutionary Committee	1020.101033011:Revolutionary Committee-Work Group	9560.012:Heilongjiang Province	9560.012007:Heilongjiang Province, Zhaoyuan County
+Tian Fengshan	1964-1967	Teacher	6950.791:Yishun Commune	9560.012:Heilongjiang Province	9560.012007:Heilongjiang Province, Zhaoyuan County
+Tian Fengshan	1964	Graduate	6400.138:2nd Artillery Technical College	9560.027:Shaanxi Province	9560.027001:Shaanxi Province, Xi'an City
+Tian Fuda	1997-	Honorary Vice-Chairman	1500.901:Taiwan Democratic Self-Government League (TDSGL)	1500.901001:Taiwan Democratic Self-Government League (TDSGL)-Central Committee
+Tian Fuda	1993-1998	Deputy	1610.001:NPC
+Tian Fuda	1992-1997	Vice-Chairman	1500.901:Taiwan Democratic Self-Government League (TDSGL)	1500.901011:Taiwan Democratic Self-Government League (TDSGL)-General Appraisal Committee
+Tian Fuda	1978-1983	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tian Fuda	1964-1978	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tian Fuda	1959-1964	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tian Fuda	1954-1959	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tian Fuda	1954-1959	Deputy	1610.001:NPC
+Tian Fuda	1949	Joined	1500.901:Taiwan Democratic Self-Government League (TDSGL)
+Tian Fuda	1948	Joined	1010.101:CPC
+Tian Fuda	1947	Joined	5110.101:PLA
+Tian Guangtao		Honorary Vice-Chairman	1500.501:Chinese Peasants and Workers Democratic Party	1500.501001:Chinese Peasants and Workers Democratic Party-Central Committee
+Tian Guangtao	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tian Guangtao	1988-1993	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tian Guangtao	1983-1988	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tian Guangtao	1980-1982	Deputy Director	3800.703:State Personnel Bureau
+Tian Guangtao	1978-1980	President	6020.217:Beijing Institute of Foreign Trade	9560.002:Beijing Municipality
+Tian Guangtao	1978-1982	General Manager	8010.415:China National Metals and Minerals Import and Export Corporation
+Tian Guangtao	1952-1956	Deputy Director	3100.401:Ministry of Communications	3100.401009:Ministry of Communications-Personnel Department
+Tian Guangtao	1952	Joined	1500.501:Chinese Peasants and Workers Democratic Party
+Tian Guangtao	1940-1941	Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.011:Hebei Province	9560.011077:Hebei Province, Weixian County
+Tian Guangtao	1937	Joined	1010.101:CPC
+Tian Guoli	2013-	Chairman	8510.107:Bank of China	8510.107001:Bank of China-Board of Directors
+Tian Guoli	2013-	Secretary	8510.107:Bank of China	1010.101:CPC	1010.101025:CPC-Party Committee
+Tian Guoli	2013-	Executive Member	8510.107:Bank of China	8510.107001:Bank of China-Board of Directors
+Tian Guoli	2010-2013	General Manager	8510.124:CITIC Group	8510.124888:CITIC Group-CITIC Limited
+Tian Guoli	2010-2013	Vice-Chairman	8510.124:CITIC Group	8510.124888:CITIC Group-CITIC Limited	8510.124888001:CITIC Limited-Board of the Directors
+Tian Guoli	2004-2010	CEO	8530.132:China Cinda Asset Management Corporation
+Tian Guoli	1999-2010	Chairman	8530.132:China Cinda Asset Management Corporation	8530.132001:China Cinda Asset Management Corporation-Board of the Directors
+Tian Guoli	1997-1999	Assistant Governor	8510.108:China Construction Bank
+Tian Guoli	1994-1997	General Manager	8510.108:China Construction Bank	8510.108014:China Construction Bank-Sales Department
+Tian Guoli	1992-1994	Vice-Governor	8510.108:China Construction Bank	8510.108003:China Construction Bank-City Branch	9560.002:Beijing Municipality
+Tian Guoli	1983-1992	Staff Member	8510.108:China Construction Bank
+Tian Guoli	1979-1982	Student	6140.141:Zhongnan University of Economics and Law	9560.015:Hubei Province	9560.015073:Hubei Province, Zhongnan
+Tian Huagui	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Huagui	1969-1973	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Jin	2013-	Deputy Director	3200.303:State General Administration of Press, Publication, Radio, Film and Television
+Tian Jin	2004-2013	Deputy Director	3200.301:State Administration of Radio, Film and Television
+Tian Jin	2003-2013	Member	3200.301:State Administration of Radio, Film and Television	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Tian Jin	2001-2004	Deputy Editor-in-Chief	3200.301:State Administration of Radio, Film and Television
+Tian Jin	1997-1998	Student	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School
+Tian Jin	1995-2001	Cadre	3400.701:Information Office of the State Council	3400.701006:Information Office of the State Council-6th Bureau
+Tian Jin	1993-1996	Student	6150.102:Hunan University	9560.016:Hunan Province	9560.016001:Hunan Province, Changsha City
+Tian Jin	1993-1995	Deputy Director	7050.001:Xinhua News Agency	7050.001015:Xinhua News Agency-Hong Kong Branch	7050.001015007:Hong Kong Branch-Coordinator Department	9560.014:Hong Kong SAR
+Tian Jin	1991-1993	Deputy Director	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001009:Central Committee-United Front Work Department	1010.101001009777:United Front Work Department-General Office
+Tian Jin	1988-1991	Director	3400.601:Taiwan Affairs Office of the State Council	3400.601004:Taiwan Affairs Office of the State Council-Secretary Bureau
+Tian Jin	1981-1988	Secretary	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001001:Central Committee-Politburo	1010.101001001002:Politburo-Secretariat
+Tian Jin	1973-1981	Staff Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001003:Central Committee-General Office	1010.101001003008:General Office-Secretarial Office
+Tian Jing	2015-	Director	3800.901:National Administration for Protection of State Secrets
+Tian Jiyun	1998-2003	Vice-Chairman	1610.101:Standing Committee of the NPC
+Tian Jiyun	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001001:Central Committee-Politburo
+Tian Jiyun	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Jiyun	1993-1998	Vice-Chairman	1610.101:Standing Committee of the NPC
+Tian Jiyun	1992-1997	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001001:Central Committee-Politburo
+Tian Jiyun	1992-1997	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Jiyun	1987-1992	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Jiyun	1987-1992	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001001:Central Committee-Politburo
+Tian Jiyun	1985-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001001:Central Committee-Politburo	1010.101001001002:Politburo-Secretariat
+Tian Jiyun	1985-1987	Co-opted Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001001:Central Committee-Politburo
+Tian Jiyun	1983-1993	Vice-Premier	3000.:State Council
+Tian Jiyun	1983-1987	Chairman	6770.119:China Committee of the International Decade for Natural Disaster Reduction
+Tian Jiyun	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Jiyun		Director	3400.703:State Flood Control and Drought Relief Headquarters
+Tian Jiyun		Director	3200.702:National Afforestation Committee
+Tian Jiyun		Secretary-General	3000.:State Council
+Tian Jiyun	1981-1983	Deputy Secretary-General	3000.:State Council
+Tian Jiyun		Director	2190.123:Financial Bureau	9560.031:Sichuan Province
+Tian Jiyun	1969-????	Deputy Director	2190.123:Financial Bureau	9560.031:Sichuan Province
+Tian Jiyun		Deputy Director	2410.134:Finance Department	9560.008:Guizhou Province
+Tian Jiyun		Division Chief	2410.134:Finance Department	9560.008:Guizhou Province
+Tian Jiyun		Section Chief	2410.134:Finance Department	9560.008:Guizhou Province
+Tian Jiyun		Administrative Cadre	2410.803:Provincial Training Class for Financial Cadres	9560.008:Guizhou Province
+Tian Jiyun		Teacher	6080.127:Guiyang People's Revolutionary University	9560.008:Guizhou Province	9560.008001:Guizhou Province, Guiyang City
+Tian Jiyun	1945	Joined	1010.101:CPC
+Tian Lipu	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001039:Central Committee-Central Commission for Discipline Inspection
+Tian Lipu	2005-2014	Director	3200.751:State Intellectual Property Office
+Tian Lipu	2001-2005	Deputy Commissioner	3200.751:State Intellectual Property Office
+Tian Lipu	2000-2001	Director General	3200.751:State Intellectual Property Office	3200.751011:State Intellectual Property Office-Automation Department
+Tian Lipu	1998-2000	Deputy Director	3200.751:State Intellectual Property Office	3200.751011:State Intellectual Property Office-Automation Department
+Tian Lipu	1981	Graduate	6010.102:University of Science and Technology of China	9560.002:Beijing Municipality
+Tian Lipu	1979-1998	Instructor
+Tian Lipu		Graduate	6290.106:Tianjin Institute of Light Industry	9560.033:Tianjin Municipality
+Tian Qiyu	1993-1998	Deputy	1610.001:NPC
+Tian Qiyu	1992-	Vice-Minister	3100.241:Ministry of Public Security
+Tian Qiyu	1992-????	Deputy Commissioner-General	5210.101:Chinese People's Armed Police Force
+Tian Qiyu	1987-1992	Director	2410.116:Public Security Department	9560.015:Hubei Province
+Tian Qiyu	1987-1992	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.015:Hubei Province
+Tian Qiyu	1982-1983	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.015:Hubei Province	9560.015053:Hubei Province, Enshi City
+Tian Qiyu	1976-1982	Deputy Director	1010.101:CPC	1010.101011:CPC-Prefectural Committee	1010.101011001:Prefectural Committee-General Office	9560.015:Hubei Province	9560.015043:Hubei Province, Enshi Prefecture
+Tian Qiyu	1965-1975	Deputy Head	1020.101:Cultural Revolution	1020.101033:Cultural Revolution-Revolutionary Committee	1020.101033007:Revolutionary Committee-Propaganda Department	9560.015:Hubei Province	9560.015052:Hubei Province, Jianshi County
+Tian Qiyu	1965-1975	Deputy Head	1020.101:Cultural Revolution	1020.101033:Cultural Revolution-Revolutionary Committee	1020.101033011:Revolutionary Committee-Work Group	9560.015:Hubei Province	9560.015052:Hubei Province, Jianshi County
+Tian Qiyu	1965	Joined	1010.101:CPC
+Tian Qiyu	1963	Graduate	6140.110:Central China Teachers' College	6140.110009:Central China Teachers' College-Physics Department
+Tian Shihong	2013-	Director	3600.905:Standardization Administration of China
+Tian Shixing	1982-1987	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Shulan	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001039:Central Committee-Central Commission for Discipline Inspection
+Tian Shulan	1993-	Secretary	6750.125:All-China Women's Federation	6750.125002:All-China Women's Federation-Secretariat
+Tian Shulan	1993-1997	Chief	6750.217:National Women's Union	6750.217001:National Women's Union-General Office
+Tian Weiqian	2000-	Vice-Governor	2050.101:People's Government	9560.001:Anhui Province
+Tian Weiqian	1999-2000	Assistant Governor	2050.101:People's Government	9560.001:Anhui Province
+Tian Weiqian	1998-2001	Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005002:Provincial Committee-General Office	9560.001:Anhui Province
+Tian Weiqian	1998-1999	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.001:Anhui Province	9560.001003:Anhui Province, Wuhu City
+Tian Weiqian	1997-2002	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Tian Weiqian	1994-1995	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.001:Anhui Province	9560.001003:Anhui Province, Wuhu City
+Tian Weiqian	1991-1995	Vice-Mayor	2050.101:People's Government	9560.001:Anhui Province	9560.001003:Anhui Province, Wuhu City
+Tian Weiqian	1988-1994	Member	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015026:City Committee-Standing Committee	9560.001:Anhui Province	9560.001003:Anhui Province, Wuhu City
+Tian Weiqian	1988-1991	Secretary-General	1010.101:CPC	1010.101015:CPC-City Committee	9560.001:Anhui Province	9560.001003:Anhui Province, Wuhu City
+Tian Weiqian	1987-1988	Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.001:Anhui Province	9560.001029:Anhui Province, Qingyang County
+Tian Weiqian	1986	Graduate	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School	1010.101001031009:Central Party School-Training Department
+Tian Weiqian	1981-1987	Assistant Manager	8010.931:Wuhu Chemical Industry Company	9560.001:Anhui Province	9560.001003:Anhui Province, Wuhu City
+Tian Weiqian	1978-1981	Secretary	8010.930:Wuhu Iron Smeltery	1010.101:CPC	1010.101025:CPC-Party Committee	9560.001:Anhui Province	9560.001003:Anhui Province, Wuhu City
+Tian Weiqian	1978-1981	Director	8010.930:Wuhu Iron Smeltery	9560.001:Anhui Province	9560.001003:Anhui Province, Wuhu City
+Tian Weiqian	1976-1978	Deputy Director	8010.930:Wuhu Iron Smeltery	9560.001:Anhui Province	9560.001003:Anhui Province, Wuhu City
+Tian Weiqian	1976-1978	Deputy Secretary	8010.930:Wuhu Iron Smeltery	1010.101:CPC	1010.101025:CPC-Party Committee	9560.001:Anhui Province	9560.001003:Anhui Province, Wuhu City
+Tian Weiqian	1973-1976	Deputy Director	8010.929:Wuhu Iron Plant	9560.001:Anhui Province	9560.001003:Anhui Province, Wuhu City
+Tian Weiqian	1972	Joined	1010.101:CPC
+Tian Weiqian	1969-1973	Deputy Chief	8010.929:Wuhu Iron Plant	9560.001:Anhui Province	9560.001003:Anhui Province, Wuhu City
+Tian Weiqian	1965-1969	Student	6400.173:Nanjing Infantry School	9560.018:Jiangsu Province	9560.018001:Jiangsu Province, Nanjing City
+Tian Weixin	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Xing	2000-	General Manager	8010.311:Hanjian Construction Group	9560.002:Beijing Municipality
+Tian Xing	1997-2000	Assistant Manager	8010.311:Hanjian Construction Group	9560.002:Beijing Municipality
+Tian Xing	1997-2000	Deputy Secretary	8010.311:Hanjian Construction Group	1010.101:CPC	1010.101025:CPC-Party Committee	9560.002:Beijing Municipality
+Tian Xing	1982-1996	Deputy Director	8010.311:Hanjian Construction Group	8010.311009:Hanjian Construction Group-Technology Department	9560.002:Beijing Municipality
+Tian Xing	1977-1982	Technician	8010.311:Hanjian Construction Group	9560.002:Beijing Municipality
+Tian Xing		Joined	1010.101:CPC
+Tian Xiong	2000-	Secretary	8010.311:Hanjian Construction Group	1010.101:CPC	1010.101025:CPC-Party Committee	9560.002:Beijing Municipality
+Tian Xiong	2000-	Chairman	8010.311:Hanjian Construction Group	9560.002:Beijing Municipality
+Tian Xiong	1998-2000	Vice Manager	8010.309:Fangjian Construction Group	9560.002:Beijing	9560.002025:Beijing, Fangshan District
+Tian Xiong	1997-	Member	1610.801:Municipal People's Congress	1610.801001:Municipal People's Congress-Standing Committee	9560.002:Beijing Municipality
+Tian Xiong	1995-2000	General Manager	9560.002:Beijing	9560.002025:Beijing, Fangshan District
+Tian Xiong	1993-1995	Secretary	1010.101:CPC	1010.101017:CPC-District Committee	9560.002:Beijing	9560.002025:Beijing, Fangshan District
+Tian Xiong	1988-1993	Deputy Secretary	1010.101:CPC	1010.101017:CPC-District Committee	9560.002:Beijing	9560.002025:Beijing, Fangshan District
+Tian Xiong	1988-1993	Manager	8010.309:Fangjian Construction Group	9560.002:Beijing	9560.002025:Beijing, Fangshan District
+Tian Xiong		Joined	1010.101:CPC
+Tian Xiusi	2012-2017	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Xiusi	2009-	Political Commissar	5110.101:PLA	5110.101009:PLA-Regions	5110.101009021:Regions-Chengdu Military Region
+Tian Xiusi	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Xiusi	2005-	Member	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007011:Autonomous Regional Committee-Standing Committee	9560.035:Xinjiang Uygur Autonomous Region
+Tian Xiusi	2004-2009	Political Commissar	5110.101:PLA	5110.101009:PLA-Regions	5110.101009051:Regions-Lanzhou Military Region	5110.101009051025:Lanzhou Military Region-Xinjiang Military District	9560.035:Xinjiang Uygur Autonomous Region
+Tian Xiusi	2002-2004	Student	6400.125:Political Academy of the Chinese PLA	6400.125008:Political Academy of the Chinese PLA-Military and Political Department
+Tian Xiusi	2000-2002	Deputy Director	5110.101:PLA	5110.101009:PLA-Regions	5110.101009051:Regions-Lanzhou Military Region	5110.101009051001:Lanzhou Military Region-Political Department	9560.005:Gansu Province	9560.005001:Gansu Province, Lanzhou City
+Tian Xiusi	1999-2000	Deputy Director	5110.101:PLA	5110.101009:PLA-Regions	5110.101009051:Regions-Lanzhou Military Region	5110.101009051025:Lanzhou Military Region-Xinjiang Military District	9560.035:Xinjiang Uygur Autonomous Region
+Tian Xiusi	1995-1999	Director	5110.101:PLA	5110.101009:PLA-Regions	5110.101009061:Regions-Nanjing Military Region	5110.101009061009:Nanjing Military Region-Political Department	9560.018:Jiangsu Province	9560.018001:Jiangsu Province, Nanjing City
+Tian Xiusi	1994-1995	Student	6400.130:University of National Defense	9560.002:Beijing Municipality
+Tian Xiusi	1994-1995	Deputy Director	5110.101:PLA	5110.101009:PLA-Regions	5110.101009051:Regions-Lanzhou Military Region	5110.101009051025:Lanzhou Military Region-Xinjiang Military District	9560.035:Xinjiang Uygur Autonomous Region
+Tian Xuebin	2015-	Vice-Minister	3100.622:Ministry of Water Resources
+Tian Xuebin	2008-2015	Deputy Director	3400.501:Research Office of the State Council
+Tian Xuebin	2008-2015	Member	3400.501:Research Office of the State Council	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Tian Xuejun	2017-	Vice-Minister	3100.201:Ministry of Education
+Tian Yuke	2008-2013	Member	1610.101:Standing Committee of the NPC
+Tian Yuke	2008-2013	Member	1610.219:Nationalities Committee of the NPC
+Tian Yuke		Director	6510.143:Tongji Hospital	6510.143111:Tongji Hospital-Teaching and Research Laboratory of Anesthetics	9560.015:Hubei Province	9560.015001:Hubei Province, Wuhan City
+Tian Yuke		Vice-Chairman	6750.249:Hubei Provincial Women's Federation
+Tian Yuke		Member	1710.101:Jiusan Society	1710.101001:Jiusan Society-Central Committee
+Tian Yuke	2003-2008	Member	1610.101:Standing Committee of the NPC
+Tian Yuke	1998-2003	Member	1610.101:Standing Committee of the NPC
+Tian Yuke	1971-1974	Student	6140.126:Huazhong University of Science and Technology	6140.126333:Huazhong University of Science and Technology-Tongji Medical College	9560.015:Hubei Province	9560.015001:Hubei Province, Wuhan City
+Tian Zengpei	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Tian Zengpei	1998-2003	Chairman	1810.101:CPPCC	1810.101019:CPPCC-Subcommittee of Foreign Affairs
+Tian Zengpei	1997-2002	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Tian Zengpei	1992-1997	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Zengpei	1988-1998	Vice-Minister	3100.101:Ministry of Foreign Affairs
+Tian Zengpei	1986-1988	Ambassador	7210.101:Chinese Embassy	9989.:Yugoslavia	9989.101:Yugoslavia, Belgrade
+Tian Zengpei	1985-1986	Division Chief	3100.101:Ministry of Foreign Affairs	3100.101022:Ministry of Foreign Affairs-Soviet Union and East European Affairs Department
+Tian Zengpei	1984-1985	Ambassador	7210.101:Chinese Embassy	9140.:Czechoslovakia	9140.101:Czechoslovakia, Prague
+Tian Zengpei	1976-1984	Counselor	7210.101:Chinese Embassy	9760.:Russia	9760.101:Russia, Moscow
+Tian Zengpei	1973-1976	Deputy Division Chief	3100.101:Ministry of Foreign Affairs	3100.101022:Ministry of Foreign Affairs-Soviet Union and East European Affairs Department
+Tian Zengpei	1970-1973	Director	3100.101:Ministry of Foreign Affairs	3100.101022:Ministry of Foreign Affairs-Soviet Union and East European Affairs Department
+Tian Zengpei	1958-1970	Deputy Director	3100.101:Ministry of Foreign Affairs	3100.101016:Ministry of Foreign Affairs-Political Department
+Tian Zengpei	1952-1954	Student	6777.101:CYLC	6777.101101:CYLC-Central Committee	6777.101101018:Central Committee-Party School
+Tian Zengpei	1947	Joined	1010.101:CPC
+Tian Zhaowu	1996-????	Vice-President	6900.129:International Electrochemistry Association
+Tian Zhaowu	1996-	Academician	6490.801:Third World Academy of Sciences
+Tian Zhaowu	1986-????	President	6900.128:China Chemistry Association
+Tian Zhaowu	1984	Graduate	6490.721:University of Wales	9470.:United Kingdom	9470.201:United Kingdom, Wales
+Tian Zhaowu	1982-1989	President	6040.101:Xiamen University	9560.004:Fujian Province	9560.004003:Fujian Province, Xiamen City
+Tian Zhaowu	1980-	Academician	6410.107:Chinese Academy of Sciences
+Tian Zhaowu		Professor	6040.101:Xiamen University	6040.101009:Xiamen University-Chemistry Department	9560.004:Fujian Province	9560.004003:Fujian Province, Xiamen City
+Tian Zhaowu	1949	Graduate	6040.101:Xiamen University	6040.101009:Xiamen University-Chemistry Department	9560.004:Fujian Province	9560.004003:Fujian Province, Xiamen City
+Tian Zhong	2014-	Deputy Commander	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy
+Tian Zhong	2012-2017	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tian Zhong	2009-	Vice-Admiral	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy
+Tian Zhong	2007-	Commander	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy	5110.101022017041:Navy-North China Sea Fleet
+Tian Zhong	2007-2014	Deputy Commander	5110.101:PLA	5110.101009:PLA-Regions	5110.101009041:Regions-Jinan Military Region
+Tian Zhong	2007-2007	Chief of the Staff	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy	5110.101022017041:Navy-North China Sea Fleet
+Tian Zhong	2001-2009	Rear Admiral	5110.101:PLA	5110.101009:PLA-Regions	5110.101009041:Regions-Jinan Military Region
+Tian Zhong	1974	Joined	5110.101:PLA
+Tie Ning	2016-	Chairman	6770.161:Chinese Writers Association
+Tie Ning	2016-	Chairman	6750.133:China Federation of Literary and Art Circles (CFLAC)
+Tie Ning	2012-2017	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tie Ning	2007-2012	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tie Ning		Vice-Chairman	6770.161:Chinese Writers Association
+Tie Ning	2002-2007	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tie Ying	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tie Ying	1973-1977	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tomur Dawamat	1998-2003	Vice-Chairman	1610.101:Standing Committee of the NPC
+Tomur Dawamat	1993-1998	Vice-Chairman	1610.101:Standing Committee of the NPC
+Tomur Dawamat	1992-1997	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tomur Dawamat	1987-1992	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tomur Dawamat	1985-1994	Deputy Secretary	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	9560.035:Xinjiang Uygur Autonomous Region
+Tomur Dawamat	1985-1993	Chairman	2050.106:Autonomous Region People's Government	9560.035:Xinjiang Uygur Autonomous Region
+Tomur Dawamat	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tomur Dawamat	1979-1989	Vice-Minister	3100.231:State Ethnic Affairs Commission
+Tomur Dawamat	1978-1985	Chairman	1610.901:Autonomous Regional People's Congress	1610.901001:Autonomous Regional People's Congress-Standing Committee	9560.035:Xinjiang Uygur Autonomous Region
+Tomur Dawamat	1978-1985	Secretary	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	9560.035:Xinjiang Uygur Autonomous Region
+Tomur Dawamat	1964-1978	Vice-Chairman	2050.106:Autonomous Region People's Government	9560.035:Xinjiang Uygur Autonomous Region
+Tomur Dawamat	1955-1957	Student	6020.196:Central University for Nationalities	9560.002:Beijing Municipality
+Tomur Dawamat	1954-1964	Magistrate	4020.103:County (District) People's Court	9560.035:Xinjiang Uygur Autonomous Region	9560.035021:Xinjiang Uygur Autonomous Region, Toksun
+Tomur Dawamat	1952	Joined	1010.101:CPC
+Tomur Dawamat	1950-1954	Township Head	9560.035:Xinjiang Uygur Autonomous Region	9560.035021:Xinjiang Uygur Autonomous Region, Toksun
+Tondrub Wangben	2007-	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Tondrub Wangben	2006-	Vice-Minister	3100.231:State Ethnic Affairs Commission
+Tondrub Wangben	2006-	Member	3100.231:State Ethnic Affairs Commission	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Tondrub Wangben	2003-2006	Assistant Governor	2050.101:People's Government	9560.036:Yunnan Province
+Tondrub Wangben	2003-2006	Member	2050.101:People's Government	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.036:Yunnan Province
+Tondrub Wangben	2002-2006	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Tondrub Wangben	2001-2006	Director	3100.231:State Ethnic Affairs Commission	3100.231011:State Ethnic Affairs Commission-National Language Translation Center
+Tondrub Wangben	1999-2001	Deputy Director	3100.231:State Ethnic Affairs Commission	3100.231011:State Ethnic Affairs Commission-National Language Translation Center
+Tondrub Wangben	1999-2006	Secretary	3100.231:State Ethnic Affairs Commission	3100.231011:State Ethnic Affairs Commission-National Language Translation Center	1010.101:CPC	1010.101025:CPC-Party Committee
+Tondrub Wangben	1996-1999	Secretary	6020.837:Minzu University of China	1010.101:CPC	1010.101025:CPC-Party Committee	9560.002:Beijing Municipality
+Tondrub Wangben	1995-1996	Member	6020.837:Minzu University of China	1010.101:CPC	1010.101025:CPC-Party Committee	1010.101025001:Party Committee-Standing Committee	9560.002:Beijing Municipality
+Tondrub Wangben	1994-1995	Deputy Dean	6020.837:Minzu University of China	6020.837011:Minzu University of China-Academy of Nationalities Research	9560.002:Beijing Municipality
+Tondrub Wangben	1993-1994	Director	6020.837:Minzu University of China	6020.837009:Minzu University of China-Institute for Tibetan Studies	9560.002:Beijing Municipality
+Tondrub Wangben	1990-1993	Deputy Director	6020.837:Minzu University of China	6020.837009:Minzu University of China-Institute for Tibetan Studies	9560.002:Beijing Municipality
+Tondrub Wangben	1982-1990	Cadre	6020.837:Minzu University of China	6020.837008:Minzu University of China-Institute of Ethnic Literature and Art	9560.002:Beijing Municipality
+Tondrub Wangben	1978-1982	Student	6020.837:Minzu University of China	6020.837007:Minzu University of China-Chinese Language and Literature Department	9560.002:Beijing Municipality
+Tong Baocun	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Tong Baocun	1992-1997	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tong Baocun	1991-	Lieutenant General	5110.101:PLA
+Tong Baocun	1990-1996	Deputy Commander	5110.101:PLA	5110.101009:PLA-Regions	5110.101009071:Regions-Shenyang Military Region	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Tong Baocun	1988-1991	Major General	5110.101:PLA
+Tong Baocun	1948	Joined	1010.101:CPC
+Tong Baocun	1947	Joined	5110.101:PLA
+Tong Dizhou	1978-1983	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tong Fu	1997-2002	Vice-Chairman	1500.101:Revolutionary Committee of Chinese Kuomintang (RCCK)	1500.101001:Revolutionary Committee of Chinese Kuomintang (RCCK)-Central Committee
+Tong Fu	1998-2003	Member	1610.101:Standing Committee of the NPC
+Tong Fu	1992-1997	Vice-Chairman	1500.101:Revolutionary Committee of Chinese Kuomintang (RCCK)	1500.101001:Revolutionary Committee of Chinese Kuomintang (RCCK)-Central Committee
+Tong Fu	1991-1995	Director	6410.107:Chinese Academy of Sciences	6410.107074:Chinese Academy of Sciences-Radio Astronomy Open Laboratory
+Tong Fu	1990	Joined	1500.101:Revolutionary Committee of Chinese Kuomintang (RCCK)
+Tong Fu	1988-1993	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tong Fu	1985	Joined	1010.101:CPC
+Tong Fu	1957	Graduate	6020.101:Beijing University	6020.101013:Beijing University-Mathematics Department	9560.002:Beijing Municipality
+Tong Gang	2013-	Deputy Director	3200.303:State General Administration of Press, Publication, Radio, Film and Television
+Tong Gang	2012-2013	Deputy Director	3200.301:State Administration of Radio, Film and Television
+Tong Gang	2012-2013	Member	3200.301:State Administration of Radio, Film and Television	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Tong Gang	2003-2012	Director	3200.301:State Administration of Radio, Film and Television	3200.301007:State Administration of Radio, Film and Television-Film Bureau
+Tong Gang	2003-2012	Secretary	3200.301:State Administration of Radio, Film and Television	3200.301007:State Administration of Radio, Film and Television-Film Bureau	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Tong Gang	2001-2003	Deputy Director	3200.301:State Administration of Radio, Film and Television	3200.301007:State Administration of Radio, Film and Television-Film Bureau
+Tong Gang	2001-2003	Deputy Secretary	3200.301:State Administration of Radio, Film and Television	3200.301007:State Administration of Radio, Film and Television-Film Bureau	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Tong Gang	2000-2001	General Manager	8010.035:China Film Group Corporation
+Tong Gang	2000-2001	Secretary	8010.035:China Film Group Corporation	1010.101:CPC	1010.101025:CPC-Party Committee
+Tong Gang	1998-2000	Chairman	8010.035:China Film Group Corporation	8010.035001:China Film Group Corporation-Board of Directors
+Tong Gang	1996-1998	Manager	8010.035:China Film Group Corporation
+Tong Gang	1995-1996	Deputy Director	3100.352:Ministry of Radio, Film and Television	3100.352009:Ministry of Radio, Film and Television-Film Bureau
+Tong Gang	1978-1982	Student	6250.101:Fudan University	9560.029:Shanghai Municipality
+Tong Gang	1974-1977	Cultural Revolution	1020.101:Cultural Revolution	1020.101106:Cultural Revolution-Rusticated Youth
+Tong Guorong	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Tong Guorong	1992-1997	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Tong Guorong	1992-	Deputy Political Commissar	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy
+Tong Guorong	1988-	Vice-Admiral	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy
+Tong Guorong	1987-1992	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Tong Guorong	1949	Joined	1010.101:CPC
+Tong Kai		Researcher	6410.151:China Spaceflight Technology Research Institute
+Tong Kai	1999	Award Winner
+Tong Kai		Academician	3600.251:Chinese Academy of Engineering
+Tong Kai	1991	Award Winner
+Tong Kai		Assigned	3100.131:Ministry of National Defense	3100.131053:Ministry of National Defense-5th Research Office
+Tong Kai		Joined	1010.101:CPC
+Tong Shiping	2010-	Admiral	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy
+Tong Shiping	2009-	Deputy Director	5110.101:PLA	5110.101003:PLA-General Political Department
+Tong Shiping	2009-	Secretary	5010.101:Central Military Commission of the PRC	5010.101009:Central Military Commission of the PRC-Commission for Discipline Inspection
+Tong Shiping	2007-2009	Political Commissar	6400.130:University of National Defense	9560.016:Hunan Province	9560.016001:Hunan Province, Changsha City
+Tong Shiping	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tong Shiping	2007-2009	Secretary	6400.130:University of National Defense	1010.101:CPC	1010.101025:CPC-Party Committee	9560.016:Hunan Province	9560.016001:Hunan Province, Changsha City
+Tong Shiping	2005-2007	Member	5110.101:PLA	5110.101003:PLA-General Political Department	1010.101:CPC	1010.101025:CPC-Party Committee
+Tong Shiping	2005-2007	Assistant Director	5110.101:PLA	5110.101003:PLA-General Political Department
+Tong Shiping	2004-2005	Member	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy	1010.101:CPC	1010.101025:CPC-Party Committee	1010.101025001:Party Committee-Standing Committee
+Tong Shiping	2004-2010	Vice-Admiral	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy
+Tong Shiping	2004-2005	Director	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy	5110.101022017001:Navy-Political Department
+Tong Shiping	2003-2004	Deputy Political Commissar	5110.101:PLA	5110.101009:PLA-Regions	5110.101009031:Regions-Guangzhou Military Region	9560.006:Guangdong Province	9560.006001:Guangdong Province, Guangzhou City
+Tong Shiping	2003-2004	Secretary	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy	5110.101022017031:Navy-South China Sea Fleet	1010.101:CPC	1010.101025:CPC-Party Committee
+Tong Shiping	2003-2004	Member	5110.101:PLA	5110.101009:PLA-Regions	5110.101009031:Regions-Guangzhou Military Region	1010.101:CPC	1010.101025:CPC-Party Committee	1010.101025001:Party Committee-Standing Committee	9560.006:Guangdong Province	9560.006001:Guangdong Province, Guangzhou City
+Tong Shiping	2003-2004	Political Commissar	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy	5110.101022017031:Navy-South China Sea Fleet
+Tong Shiping	2002-2007	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Tong Shiping	2000-2003	Political Commissar	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy	5110.101022017021:Navy-Naval Base	9560.004:Fujian Province
+Tong Shiping	1998-2004	Rear Admiral	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy
+Tong Shiping	1994-2000	Deputy Political Commissar	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy	5110.101022017021:Navy-Naval Base	9560.023:Liaoning Province	9560.023071:Liaoning Province, Lushun
+Tong Shiping	1994-2000	Director	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy	5110.101022017002:Navy-Publicity Department
+Tong Shiping	1986-1994	Deputy Director	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022017:Services and Arms-Navy	5110.101022017002:Navy-Publicity Department
+Tong Xiangrong	1998-1999	Deputy Director-General	3200.301:State Administration of Radio, Film and Television
+Tong Xiangrong		Vice-President	6770.332:China Society of Broadcasting and Television
+Tong Xiangrong	1993-1996	Director	7020.103:Central People's Broadcasting Station
+Tong Xiangrong	1993-1998	Vice-Minister	3100.352:Ministry of Radio, Film and Television
+Tong Xiangrong	1984-1993	Director	2410.238:Provincial Department of Radio, Film and Television	9560.027:Shaanxi Province
+Tong Xiangrong	1965	Graduate	6230.110:Shaanxi Teachers' University	6230.110009:Shaanxi Teachers' University-Political Education Department	9560.027:Shaanxi Province
+Tong Xiangrong	1965-1984	Associate Professor	6230.102:Northwest University	6230.102009:Northwest University-Chinese Department
+Tong Xiangrong	1964	Joined	1010.101:CPC
+Tong Xiaoping	2003-	Vice-Mayor	2050.101:People's Government	9560.003:Chongqing Municipality
+Tong Xiaoping	2002-2007	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Tong Xiaoping	2000-2003	Secretary	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.003:Chongqing Municipality
+Tong Xiaoping	2000-2003	Director	2210.233:Planning Commission	9560.003:Chongqing Municipality
+Tong Xiaoping	1997-2000	Deputy Secretary	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.003:Chongqing Municipality
+Tong Xiaoping	1993-2000	Deputy Director	2210.233:Planning Commission	9560.003:Chongqing Municipality
+Tong Xiaoping	1992-1993	Deputy Secretary-General	2210.233:Planning Commission	9560.003:Chongqing Municipality
+Tong Xiaoping	1986	Joined	1010.101:CPC
+Tong Xiaoping	1982-1992	Deputy Director	2050.101:People's Government	2050.101008:People's Government-Economic Research Office	9560.003:Chongqing Municipality
+Tong Xiaoping	1978-1982	Student	6030.135:Southwest China Teachers' College	6030.135002:Southwest China Teachers' College-Chinese Language Department	9560.003:Chongqing Municipality
+Tong Xiaoping	1969-1971	Educated Youth	6950.783:Jingguan People's Commune	9560.031:Sichuan Province	9560.031083:Sichuan Province, Jiangbei County
+Tong Zhiguang	1998-2003	Member	1610.101:Standing Committee of the NPC
+Tong Zhiguang	1997-2002	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Tong Zhiguang	1994-	Chairman of the Board	8510.103:China Export and Import Bank
+Tong Zhiguang	1993-1998	Member	1610.101:Standing Committee of the NPC
+Tong Zhiguang	1993-1998	Member	1610.204:Foreign Affairs Committee of the NPC
+Tong Zhiguang	1973	Joined	1010.101:CPC
+Tong Zhiguang	1955	Graduate	6020.217:Beijing Institute of Foreign Trade	6020.217006:Beijing Institute of Foreign Trade-Western Languages Department	9560.002:Beijing Municipality
+Tong Zhiwu	2011-	Deputy Director	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.023:Liaoning Province
+Tong Zhiwu	2008-	Secretary-General	1610.401:Provincial People's Congress	1610.401001:Provincial People's Congress-Standing Committee	9560.023:Liaoning Province
+Tong Zhiwu	2003-2008	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.023:Liaoning Province	9560.023005:Liaoning Province, Jinzhou City
+Tong Zhiwu	2001-	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.023:Liaoning Province
+Tong Zhiwu	1998-2003	President	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005022:Provincial Committee-Party School	9560.023:Liaoning Province
+Tong Zhiwu	1996-1998	Member	1010.101:CPC	1010.101015:CPC-City Committee	9560.023:Liaoning Province	9560.023072:Liaoning Province, Huludao City
+Tong Zhiwu	1996-1998	Director	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015036:City Committee-Organization Department	9560.023:Liaoning Province	9560.023072:Liaoning Province, Huludao City
+Tong Zhiwu	1994-1996	Vice-President	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005022:Provincial Committee-Party School	9560.023:Liaoning Province
+Tong Zhiwu	1992-1994	Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005016:Provincial Committee-Organization Department	1010.101005016001:Organization Department-General Office	9560.023:Liaoning Province
+Tong Zhiwu	1992-1994	Deputy Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.023:Liaoning Province	9560.023031:Liaoning Province, Huanren County
+Tong Zhiwu	1986-1992	Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005022:Provincial Committee-Party School	1010.101005022007:Party School-Personnel Department	9560.023:Liaoning Province
+Tong Zhiwu	1983-1986	Worker	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005022:Provincial Committee-Party School	9560.023:Liaoning Province
+Tong Zhiwu	1979-1983	Student	6190.101:Liaoning University	6190.101009:Liaoning University-Philosophy Departmant	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Tsang Hin-chi	1998-2003	Member	1610.101:Standing Committee of the NPC
+Tsang Hin-chi	1993-1998	Member	1610.101:Standing Committee of the NPC
+Tsang Hin-chi	1993-	Vice-Chairman	6750.126:All-China Federation of Industry and Commerce	6750.126001:All-China Federation of Industry and Commerce-Executive Committee
+Tsang Hin-chi	1992	Member	3400.201:Hong Kong and Macao Affairs Office of the State Council	3400.201001:Hong Kong and Macao Affairs Office of the State Council-1st Group of Advisors
+Tsang Hin-chi		Chairman	8010.617:Gold Lion Holdings Ltd.
+Tsang Hin-chi	1961	Graduate	6060.101:Zhongshan University	6060.101006:Zhongshan University-Biology Department
+Tsui Sze Man	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Tsui Sze Man	1996	Member	3200.808:1st Hong Kong SAR Government	3200.808001:1st Hong Kong SAR Government-Selection Committee
+Tsui Sze Man	1995-1997	Member	3200.804:Hong Kong SAR Preparatory Committee
+Tsui Sze Man	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Tsui Sze Man	1992	Member	3400.201:Hong Kong and Macao Affairs Office of the State Council	3400.201001:Hong Kong and Macao Affairs Office of the State Council-1st Group of Advisors
+Tsui Sze Man	1988-1993	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tsui Sze Man	1985	Member	3200.504:Committee for Drafting the Basic Law of Hong Kong SAR
+Tsui Sze Man	1983-1988	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tsui Sze Man	1978-1983	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tsui Sze Man	1954-1959	Deputy	1610.001:NPC
+Tsui Sze Man	1945	Founder	7010.157:New Rangoon News
+Tsui Tsin-tong	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Tsui Tsin-tong		Member	3200.808:1st Hong Kong SAR Government	3200.808001:1st Hong Kong SAR Government-Selection Committee
+Tsui Tsin-tong	1995-1997	Member	3200.804:Hong Kong SAR Preparatory Committee
+Tsui Tsin-tong	1995	Received Honorary Ph.D.	6130.101:University of Hong Kong
+Tsui Tsin-tong	1993-1995	Member	3200.804:Hong Kong SAR Preparatory Committee	3200.804011:Hong Kong SAR Preparatory Committee-Preliminary Work Committee
+Tsui Tsin-tong	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Tsui Tsin-tong	1992	Member	3400.201:Hong Kong and Macao Affairs Office of the State Council	3400.201001:Hong Kong and Macao Affairs Office of the State Council-1st Group of Advisors
+Tu Chuanyi	2001-	Academician	6410.107:Chinese Academy of Sciences
+Tu Chuanyi		Professor	6020.101:Beijing University	9560.002:Beijing Municipality
+Tu Chuanyi	1964	Graduate	6020.101:Beijing University	9560.002:Beijing Municipality
+Tu Guangshao		Vice-Mayor	2050.101:People's Government	9560.029:Shanghai Municipality
+Tu Guangshao		Member	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.029:Shanghai Municipality
+Tu Guangshao	2002-	Vice Chairman	3600.801:China Securities Regulatory Commission	9560.002:Beijing Municipality
+Tu Guangshao	2002-	Member	3600.801:China Securities Regulatory Commission	1010.101:CPC	9560.002:Beijing Municipality
+Tu Guangshao		General Manager	8530.115:Shanghai Stock Exchange	9560.029:Shanghai Municipality
+Tu Guangshao		Secretary	8530.115:Shanghai Stock Exchange	1010.101:CPC	9560.029:Shanghai Municipality
+Tu Guangshao		Secretary-General	3600.801:China Securities Regulatory Commission	9560.002:Beijing Municipality
+Tu Guangshao		Deputy General Manager	8530.115:Shanghai Stock Exchange	9560.029:Shanghai Municipality
+Tu Guangshao		Deputy Director	8510.101:People's Bank of China	8510.101111:People's Bank of China-National Financial Markets Offer Trading Information System Center	9560.002:Beijing Municipality
+Tu Guangshao		Deputy Director	8510.101:People's Bank of China	8510.101112:People's Bank of China-Financial Regulatory Division	9560.002:Beijing Municipality
+Tu Guangshao		Deputy Director	8510.101:People's Bank of China	8510.101114:People's Bank of China-General Planning Division	9560.002:Beijing Municipality
+Tu Guangshao	1982	Joined	1010.101:CPC
+Tu Jianhua		Chairman of the Board	8010.591:Chongqing Longcin Group	9560.003:Chongqing Municipality
+Tu Jianhua		Member	6750.128:All-China Youth Federation
+Tu Jianhua		Director	6750.207:Chongqing Youth Federation	9560.003:Chongqing Municipality
+Tu Jianhua		Vice-Chairman	6750.206:Chongqing Federation of Individual Entrepreneurs	9560.003:Chongqing Municipality
+Tu Jianhua		Researcher	6480.216:China Township Enterprise Academy
+Tu Jianhua		Director	6770.316:Chongqing Individual Technology Association	9560.003:Chongqing Municipality
+Tu Jianhua		Director	6770.315:Chongqing Economic Management Association	9560.003:Chongqing Municipality
+Tu Jianhua		Director	6770.314:Sichuan Motorcycle Industry Association	9560.031:Sichuan Province
+Tu Jianhua		Deputy Director-General	6770.313:Chongqing Motorcycle Industry Association	9560.003:Chongqing Municipality
+Tu Jianhua	1999	Honored
+Tu Jianhua	1999	Graduate	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005022:Provincial Committee-Party School	9560.031:Sichuan Province
+Tu Jianhua		Joined	1010.101:CPC
+Tu Shancheng		Researcher	6410.151:China Spaceflight Technology Research Institute
+Tu Shancheng		Professor	6020.701:China Science and Technology University	9560.002:Beijing Municipality
+Tu Shancheng		Academician	6410.152:International Spaceflight Academy of Sciences
+Tu Shancheng		Academician	3600.251:Chinese Academy of Engineering
+Tu Shancheng	1997	Award Winner
+Tu Shancheng	1985	Award Winner
+Tu Shancheng	1956-????	Chief	6410.107:Chinese Academy of Sciences	6410.107047:Chinese Academy of Sciences-Automation Research Institute
+Tu Shancheng	1953	Graduate	6490.605:Cornell University	6490.605009:Cornell University-Electro-Mechanics Department	9210.:USA	9210.651:USA, New York	9210.651031:New York, Ithaca
+Tu Shou'e		Member	6410.152:International Spaceflight Academy of Sciences
+Tu Shou'e		Member	6410.107:Chinese Academy of Sciences
+Tu Shou'e	1985	Award Winner
+Tu Shou'e	1957-????	Chief	3100.131:Ministry of National Defense	3100.131053:Ministry of National Defense-5th Research Office
+Tu Shou'e		Professor	6020.102:Tsinghua University	9560.002:Beijing Municipality
+Tu Shou'e		Deputy Professor	6020.102:Tsinghua University	9560.002:Beijing Municipality
+Tu Shou'e		Professor	6270.124:Southwest China United University
+Tu Shou'e		Deputy Professor	6270.124:Southwest China United University
+Tu Shou'e		Graduate	6490.553:Massachusetts Institute of Technology	9210.:USA	9210.501:USA, Massachusetts	9210.501001:Massachusetts, Boston
+Tu Shou'e	1940	Graduate	6270.124:Southwest China United University
+Tu Yourui	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Tu Yourui	1994-	Vice-Governor	8510.102:China Development Bank
+Tu Yourui	1993-1998	Deputy	1610.001:NPC
+Tu Yourui	1988-1994	Vice-Minister	3100.351:Ministry of Railways
+Tu Yourui	1988-1993	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tu Yourui	1978	Joined	1010.101:CPC
+Tu Youyou		Chief Research Fellow	6410.153:Chinese Academy of Traditional Chinese Medicine	6410.153001:Chinese Academy of Traditional Chinese Medicine-Institute of Chinese Traditional Medicines
+Tu Youyou		Doctoral Supervisor	6410.153:Chinese Academy of Traditional Chinese Medicine
+Tu Youyou	1997	Award Winner
+Tu Youyou	1992	Award Winner
+Tu Youyou	1987	Award Winner
+Tu Youyou	1978	Award Winner
+Tung Chee Chen	1999-2001	Non-Executive Director	8530.124:Bank of China (Hong Kong) Limited	9560.014:Hong Kong SAR
+Tung Chee Chen	1999-2001	Member	6490.555:University of Pittsburgh	6490.555001:University of Pittsburgh-Board of Trustees	9210.:USA	9210.711:USA, Pennsylvania	9210.711002:Pennsylvania, Pittsburgh
+Tung Chee Chen	1999-	Non-Executive Director	8010.447:PetroChina Company Ltd.
+Tung Chee Chen	1996-	Chairman	8010.912:Orient Overseas International Limited Company
+Tung Chee Chen	1996-	Chief Executive Officer	8010.912:Orient Overseas International Limited Company
+Tung Chee Chen	1995-1999	Chairman	6870.119:Hong Kong General Chamber of Commerce	9560.014:Hong Kong SAR
+Tung Chee Chen	1993-1995	Chairman	6770.714:Hong Kong Shipowner's Association	9560.014:Hong Kong SAR
+Tung Chee Hwa	2013-	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tung Chee Hwa	2008-2013	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tung Chee Hwa	2003-2008	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tung Chee Hwa	1996	Member	3200.808:1st Hong Kong SAR Government	3200.808001:1st Hong Kong SAR Government-Selection Committee
+Tung Chee Hwa	1996-2005	Chief Executive	9560.014:Hong Kong SAR
+Tung Chee Hwa	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Tung Chee Hwa	1992-1996	Executive Council Member	9560.014:Hong Kong SAR
+Tung Chee Hwa	1992	Member	3400.201:Hong Kong and Macao Affairs Office of the State Council	3400.201001:Hong Kong and Macao Affairs Office of the State Council-1st Group of Advisors
+Tung Chee Hwa	1985	Member	3200.504:Committee for Drafting the Basic Law of Hong Kong SAR
+Tung Chee Hwa	1960	Graduate	6490.707:University of Liverpool	6490.707009:University of Liverpool-Mechanical Engineering Department	9470.:United Kingdom	9470.118:United Kingdom, Liverpool
+Tuo Zhen	2015-	Deputy Director	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001007:Central Committee-Publicity Department
+Tuo Zhen	2011-	Vice-President	7050.001:Xinhua News Agency
+Tuo Zhen	1982-2011	General Editor	7010.176:The Economics Daily
+Tuo Zhen	1978-1982	Student	6140.101:Wuhan University	6140.101013:Wuhan University-Economics Department	9560.015:Hubei Province	9560.015001:Hubei Province, Wuhan City

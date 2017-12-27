@@ -39,7 +39,7 @@ def extract(i, career_href, letter):
     cur_name = all_tr[num_tr-1].get_text() # name without url
     cur_name = cur_name.replace('\n','')
     index = 0
-    delimiter = ' --- '
+    delimiter = '\t'
     try:
         for td in all_tr[0:num_tr-5]:
             # print(td)
