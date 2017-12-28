@@ -1,0 +1,877 @@
+Fan Baojun	2003-	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001001:National Committee-Subcommittee for Handling Proposals
+Fan Baojun	2000-????	Secretary-General	3200.781:China International Committee for Natural Disaster
+Fan Baojun	2000-????	Vice-Chairman	3200.781:China International Committee for Natural Disaster
+Fan Baojun	1998-????	Vice-Chairman	6770.119:China Committee of the International Decade for Natural Disaster Reduction
+Fan Baojun	1998-????	Secretary-General	6770.119:China Committee of the International Decade for Natural Disaster Reduction
+Fan Baojun	1998-2003	Vice-Minister	3100.271:Ministry of Civil Affairs
+Fan Baojun	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Fan Baojun	1998-2003	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001001:National Committee-Subcommittee for Handling Proposals
+Fan Baojun	1995-????	Member	3400.703:State Flood Control and Drought Relief Headquarters
+Fan Baojun	1994-	Vice-President	6770.132:Red Cross Society of China
+Fan Baojun		President	6770.242:China Funeral and Interment Association
+Fan Baojun		Vice-President	6770.241:Chinese Association for Drug Abuse Prevention and Treatment
+Fan Baojun		Secretary-General	6770.119:China Committee of the International Decade for Natural Disaster Reduction
+Fan Baojun		Deputy Director	6770.119:China Committee of the International Decade for Natural Disaster Reduction
+Fan Baojun		President	6770.239:China Disaster Mitigation and Relief Association
+Fan Baojun	1993-????	Member	3200.954:Leading Group for Settling Ex-Servicemen and Retired Officers
+Fan Baojun	1987-	Vice-Minister	3100.271:Ministry of Civil Affairs
+Fan Baojun		Deputy Chief	6770.121:National Leading Group Concerned With Work Supporting the Army and the People
+Fan Baojun		Director	2190.267:Civil Affairs Bureau	9560.033:Tianjin Municipality
+Fan Baojun		Deputy Director	2190.267:Civil Affairs Bureau	9560.033:Tianjin Municipality
+Fan Baojun		Secretary	6777.101:CYLC	6777.101531:CYLC-District-Level	9560.033:Tianjin Municipality	9560.033007:Tianjin Municipality, Hexi District
+Fan Baojun		Deputy Secretary	6777.101:CYLC	6777.101531:CYLC-District-Level	9560.033:Tianjin Municipality	9560.033007:Tianjin Municipality, Hexi District
+Fan Baojun	1965	Joined	1010.101:CPC
+Fan Benyao		Research Fellow	6410.146:Chinese Academy of Space Technology
+Fan Benyao	1958	Graduate	6020.102:Tsinghua University	9560.002:Beijing Municipality
+Fan Boyuan	2004-	President	6020.105:Beijing University of Technology	9560.002:Beijing Municipality
+Fan Boyuan	2002-2004	Vice-Mayor	2050.101:People's Government	9560.002:Beijing Municipality
+Fan Boyuan	1998-2002	Director	2210.166:Science and Technology Committee	9560.002:Beijing Municipality
+Fan Boyuan	1997-1998	Deputy Director	2210.103:Municipal Education Committee	9560.002:Beijing Municipality
+Fan Boyuan	1993-1997	Graduate	6020.171:Beijing Institute of Technology	9560.002:Beijing Municipality
+Fan Changlong	2014-	Deputy Director	5010.101:Central Military Commission of the PRC	5010.101111:Central Military Commission of the PRC-Leading Group for Deepening Reform on National Defense 
+Fan Changlong	2013-	Vice-Chairman	5010.101:Central Military Commission of the PRC
+Fan Changlong	2012-2017	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001001:Central Committee-Politburo
+Fan Changlong	2012-2017	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fan Changlong	2012-2017	Vice-Chairman	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001037:Central Committee-Central Military Commission
+Fan Changlong	2008-	General	5110.101:PLA
+Fan Changlong	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fan Changlong	2004-2012	Deputy Secretary	5110.101:PLA	5110.101009:PLA-Regions	5110.101009041:Regions-Jinan Military Region	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.028:Shandong Province	9560.028002:Shandong Province, Jinan City
+Fan Changlong	2004-2012	Commander	5110.101:PLA	5110.101009:PLA-Regions	5110.101009041:Regions-Jinan Military Region	9560.028:Shandong Province	9560.028002:Shandong Province, Jinan City
+Fan Changlong	2003-2004	Assistant to the Chief of the General Staff	5110.101:PLA	5110.101001:PLA-Headquarters of the General Staff
+Fan Changlong	2003-2004	Member	5110.101:PLA	5110.101001:PLA-Headquarters of the General Staff	1010.101:CPC	1010.101025:CPC-Party Committee
+Fan Changlong	2002-2007	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fan Changlong	2002-2008	Lieutenant General	5110.101:PLA
+Fan Changlong	2000-2003	Chief of Staff	5110.101:PLA	5110.101009:PLA-Regions	5110.101009071:Regions-Shenyang Military Region	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Fan Changlong	2000-2003	Member	5110.101:PLA	5110.101009:PLA-Regions	5110.101009071:Regions-Shenyang Military Region	1010.101:CPC	1010.101025:CPC-Party Committee	1010.101025001:Party Committee-Standing Committee	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Fan Changlong	1995-2002	Major General	5110.101:PLA
+Fan Changlong	1995-2000	Army Commander	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022016:Services and Arms-16th Group Army
+Fan Changlong	1993-1995	Chief of Staff	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022016:Services and Arms-16th Group Army
+Fan Changlong	1990-1993	Division Commander	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022049:Services and Arms-Army (or Ground Force)
+Fan Changlong	1985-1990	Chief of Staff	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022049:Services and Arms-Army (or Ground Force)	5110.101022049003:Army (or Ground Force)-Division Command
+Fan Changlong	1982	Graduate	6020.899:Beijing Military Academy	9560.002:Beijing Municipality
+Fan Changlong	1976-1982	Chief of Staff	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022049:Services and Arms-Army (or Ground Force)	5110.101022049005:Army (or Ground Force)-Regiment Command
+Fan Changlong	1973-1976	Political Director	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022049:Services and Arms-Army (or Ground Force)	5110.101022049007:Army (or Ground Force)-Company Command
+Fan Changlong	1971-1972	Platoon Leader	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022049:Services and Arms-Army (or Ground Force)
+Fan Changlong	1969-1971	Soldier	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022049:Services and Arms-Army (or Ground Force)
+Fan Changlong	1969	Joined	5110.101:PLA
+Fan Changlong	1969	Joined	1010.101:CPC
+Fan Changlong	1968-1969	Cultural Revolution	1020.101:Cultural Revolution	1020.101106:Cultural Revolution-Rusticated Youth	9560.023:Liaoning Province	9560.023078:Liaoning Province, Donggou County
+Fan Daiming	2010-	Vice-President	3600.251:Chinese Academy of Engineering
+Fan Daiming	2008-2013	Deputy	1610.001:NPC
+Fan Daiming	2007-	President	6400.169:Fourth Military Medical University
+Fan Daiming	2004-	Director	6400.169:Fourth Military Medical University	6400.169111:Fourth Military Medical University-State Tumor Biology Key Laboratory
+Fan Daiming	2001-	Academician	3600.251:Chinese Academy of Engineering
+Fan Daiming	1989	Graduate	6400.169:Fourth Military Medical University
+Fan Daiming	1981	Graduate	6400.169:Fourth Military Medical University
+Fan Daiming	1978	Graduate	6400.181:Third Military Medical University
+Fan Deling	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fan Deling	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fan Deling	1969-1973	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fan Duanwei	2002-	General Manager	8010.149:China Foreign Trade Transportation Corporation	8010.149222:China Foreign Trade Transportation Corporation-Sinotrans Jiuling Transport and Storage Company
+Fan Duanwei	2002-	Assistant President	8010.986:Sinotrans Limited
+Fan Duanwei	1995-2002	General Manager	8010.149:China Foreign Trade Transportation Corporation	8010.149222:China Foreign Trade Transportation Corporation-Sinotrans Jiuling Transport and Storage Company	8010.149222009:Sinotrans Jiuling Transport and Storage Company-Automobile Department
+Fan Duanwei	1991-1995	Deputy General Manager	8010.149:China Foreign Trade Transportation Corporation	8010.149222:China Foreign Trade Transportation Corporation-Sinotrans Jiuling Transport and Storage Company	8010.149222009:Sinotrans Jiuling Transport and Storage Company-Automobile Department
+Fan Duanwei	1987-1991	Assistant Manager	8010.149:China Foreign Trade Transportation Corporation	8010.149222:China Foreign Trade Transportation Corporation-Sinotrans Jiuling Transport and Storage Company	8010.149222009:Sinotrans Jiuling Transport and Storage Company-Automobile Department
+Fan Duanwei		Graduate	6020.102:Tsinghua University	9560.002:Beijing Municipality
+Fan Fangping	2003-2006	Vice-Minister	3100.275:Ministry of Justice
+Fan Fangping	2003-2006	Member	3100.275:Ministry of Justice	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Fan Fangping	1998-2003	Deputy	1610.001:NPC
+Fan Fangping	1979	Joined	1010.101:CPC
+Fan Gang	2003-	Non-Executive Director	8550.104:Ping An Insurance Company of China Limited
+Fan Gang		Secretary-General	6870.401:China Reform Foundation
+Fan Gang	1994-1995	Deputy Director	6410.108:Chinese Academy of Social Sciences	6410.108007:Chinese Academy of Social Sciences-Institute of Economics
+Fan Gang	1985-1988	Graduate	6490.559:Harvard University	9210.:USA	9210.501:USA, Massachusetts	9210.501002:Massachusetts, Cambridge
+Fan Gang	1982	Graduate	6100.101:Hebei University	6100.101002:Hebei University-Economics Department	9560.011:Hebei Province
+Fan Gang	1982-1985	Student	6410.108:Chinese Academy of Social Sciences	6410.108001:Chinese Academy of Social Sciences-Graduate School	6410.108001001:Graduate School-Economics Department
+Fan Gang	1969-????	Farmer	2410.912:Production and Construction Corps	9560.012:Heilongjiang Province
+Fan Jingyi	1998-2003	Vice-Chairman	1610.203:Education, Science, Culture and Health Committee of the NPC
+Fan Jingyi	1998-2003	Member	1610.101:Standing Committee of the NPC
+Fan Jingyi	1995-????	President	6770.127:China Society of News Photography
+Fan Jingyi	1993-1998	Editor-in-Chief	7010.101:People's Daily
+Fan Jingyi	1993-1998	Senior Editor	7010.101:People's Daily
+Fan Jingyi	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Fan Jingyi	1992-1997	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Fan Jingyi	1991	 (Honored as one of the excellent journalists of China) 
+Fan Jingyi	1987-1992	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Fan Jingyi	1986-1993	Editor-in-Chief	7010.163:Economic Daily
+Fan Jingyi	1984-1986	Director	3100.821:Ministry of Culture	3100.821011:Ministry of Culture-Foreign Languages Publishing Bureau
+Fan Jingyi	1979-1984	Editor-in-Chief	7010.162:Liaoning Daily	9560.023:Liaoning Province
+Fan Jingyi	1979-1984	Member	7010.162:Liaoning Daily	7010.162001:Liaoning Daily-Editorial Board	9560.023:Liaoning Province
+Fan Jingyi	1979-1984	Director	7010.162:Liaoning Daily	7010.162009:Liaoning Daily-Rural Report Department	9560.023:Liaoning Province
+Fan Jingyi	1979-1984	Deputy Director	7010.162:Liaoning Daily	7010.162009:Liaoning Daily-Rural Report Department	9560.023:Liaoning Province
+Fan Jingyi	1979-1984	Editor	7010.162:Liaoning Daily	7010.162009:Liaoning Daily-Rural Report Department	9560.023:Liaoning Province
+Fan Jingyi	1978	Joined	1010.101:CPC
+Fan Jingyi	1951	Graduate	6250.206:St. John's University	6250.206007:St. John's University-Chinese Language Department	9560.029:Shanghai Municipality
+Fan Mingwu	2001-	President	6140.126:Huazhong University of Science and Technology	9560.015:Hubei Province	9560.015001:Hubei Province, Wuhan City
+Fan Mingwu	1997-2002	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Fan Mingwu	1996-????	 (Administrative Cadre
+Fan Mingwu		President	6410.135:China Atomic Energy Scientific Research Institute
+Fan Mingwu		Vice-President	6410.135:China Atomic Energy Scientific Research Institute
+Fan Mingwu		Director	6410.135:China Atomic Energy Scientific Research Institute	6410.135008:China Atomic Energy Scientific Research Institute-Physics and Laser Department
+Fan Mingwu		Vice-Director	6410.135:China Atomic Energy Scientific Research Institute	6410.135009:China Atomic Energy Scientific Research Institute-Nuclear Technology Application Department
+Fan Mingwu	1965	Graduate	6140.127:Huazhong Institute of Technology	9560.015:Hubei Province	9560.015001:Hubei Province, Wuhan City
+Fan Qinchen	2003-	Chairman	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.013:Henan Province
+Fan Qinchen	2001-2003	Vice-Chairman	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.013:Henan Province
+Fan Qinchen	1997-2002	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fan Qinchen	1995-2001	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.013:Henan Province
+Fan Qinchen	1993-1996	Executive Vice-Governor	2050.101:People's Government	9560.013:Henan Province
+Fan Qinchen	1992-1997	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fan Qinchen	1991-1993	Vice-Governor	2050.101:People's Government	9560.013:Henan Province
+Fan Qinchen	1983-1988	Mayor	2050.101:People's Government	9560.013:Henan Province	9560.013005:Henan Province, Jiaozuo City
+Fan Qinchen	1983-1988	Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.013:Henan Province	9560.013005:Henan Province, Jiaozuo City
+Fan Qinchen		Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.013:Henan Province
+Fan Qinchen	1980-1983	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.013:Henan Province	9560.013005:Henan Province, Jiaozuo City
+Fan Qinchen	1980-1983	Vice-Mayor	2050.101:People's Government	9560.013:Henan Province	9560.013005:Henan Province, Jiaozuo City
+Fan Qinchen	1980-1983	Vice-Chairman	1020.101:Cultural Revolution	1020.101033:Cultural Revolution-Revolutionary Committee	9560.013:Henan Province	9560.013005:Henan Province, Jiaozuo City
+Fan Qinchen	1968-1980	Engineer	8010.953:1st Refractory Materials Factory	9560.013:Henan Province	9560.013005:Henan Province, Jiaozuo City
+Fan Qinchen	1966	Graduate	6140.137:Wuhan Institute of Iron and Steel Engineering	6140.137009:Wuhan Institute of Iron and Steel Engineering-Chemical Industrial Department	9560.015:Hubei Province	9560.015001:Hubei Province, Wuhan City
+Fan Qinchen	1960	Joined	1010.101:CPC
+Fan Wenlan	1969-1973	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fan Wenlan	1956-1969	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fan Xiaoju	1973-1977	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fan Xiaoju	1969-1973	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fan Xiaomao	2014-	Deputy Director	3800.801:State Bureau for Letters and Calls
+Fan Xiaomao	2012-2014	Director	3800.801:State Bureau for Letters and Calls	3800.801008:State Bureau for Letters and Calls-Comprehensive Instruction Department
+Fan Xiaomao	2009-2012	Director	3800.801:State Bureau for Letters and Calls	3800.801007:State Bureau for Letters and Calls-Information Center
+Fan Xiaomao	2007-2009	Deputy Director	3800.801:State Bureau for Letters and Calls	3800.801007:State Bureau for Letters and Calls-Information Center
+Fan Xiaomao	2003-2007	Deputy Director	3800.801:State Bureau for Letters and Calls	3800.801011:State Bureau for Letters and Calls-Visitor Reception Department
+Fan Xiaomao	2003-2007	Deputy Director	3800.801:State Bureau for Letters and Calls	3800.801006:State Bureau for Letters and Calls-Supervision Office
+Fan Xiaomao	1996-2003	Deputy Director	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001003:Central Committee-General Office	1010.101001003009:General Office-Letters and Calls Bureau
+Fan Yuanmou		Vice-Chairman	1610.801:Municipal People's Congress	1610.801001:Municipal People's Congress-Standing Committee	9560.002:Beijing Municipality
+Fan Yuanmou		Secretary	2210.106:Municipal Working Committee of State Organs	9560.002:Beijing Municipality
+Fan Yuanmou		Director	2050.101:People's Government	2050.101007:People's Government-Legislative Affairs Office	9560.002:Beijing Municipality
+Fan Yuanmou		Secretary-General	2050.101:People's Government	9560.002:Beijing Municipality
+Fan Yuanmou		Secretary	2190.161:Pricing Bureau	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.002:Beijing Municipality
+Fan Yuanmou		Director	2190.161:Pricing Bureau	9560.002:Beijing Municipality
+Fan Yuanmou		Deputy Director	2050.101:People's Government	2050.101006:People's Government-Research Office	9560.002:Beijing Municipality
+Fan Yuanmou		Secretary	2410.135:Agricultural Department	2410.135011:Agricultural Department-Industry and Commerce Corporation	1010.101:CPC	1010.101025:CPC-Party Committee	9560.002:Beijing Municipality
+Fan Yuanmou		Deputy Manager	2410.135:Agricultural Department	2410.135011:Agricultural Department-Industry and Commerce Corporation	9560.002:Beijing Municipality
+Fan Yuanmou		Deputy Director	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009004:Municipal Committee-Rural Work Committee	1010.101009004009:Rural Work Committee-Research Office	9560.002:Beijing Municipality
+Fan Yuanmou	1960	Joined	1010.101:CPC
+Fan Zhaobing	2004-	Secretary	2210.106:Municipal Working Committee of State Organs	1010.101:CPC	9560.003:Chongqing Municipality
+Fan Zhaobing	2004-	Member	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.003:Chongqing Municipality
+Fan Zhaobing	2004-	Secretary-General	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.003:Chongqing Municipality
+Fan Zhaobing	2004-	Director	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009002:Municipal Committee-General Office	9560.003:Chongqing Municipality
+Fan Zhaobing	2000-2004	Deputy Secretary-General	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.003:Chongqing Municipality
+Fan Zhaobing	1997-2000	Deputy Director	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009027:Municipal Committee-Policy Research Office	9560.003:Chongqing Municipality
+Fan Zhaobing	1993-1997	Deputy Director	3200.902:Central Economic and Financial Leading Group
+Fan Zhaobing	1993-1993	Deputy General Editor	7010.219:Farmers Journal
+Fan Zhaobing	1989-1993	Director	3100.651:Ministry of Agriculture	3100.651002:Ministry of Agriculture-Office of the Minister
+Fan Zhaobing	1987-1989	Deputy Director	3100.651:Ministry of Agriculture	3100.651002:Ministry of Agriculture-Office of the Minister
+Fan Zhaobing	1982-1987	Secretary	3100.651:Ministry of Agriculture	3100.651001:Ministry of Agriculture-General Office
+Fan Zhaobing	1981	Joined	1010.101:CPC
+Fan Zhaobing	1978-1982	Student	6140.147:Huazhong Agricultural University
+Fang Aiqing	2013-	Vice-Minister	3100.276:Ministry of Commerce
+Fang Aiqing	2008-2013	Assistant Minister	3100.276:Ministry of Commerce
+Fang Aiqing	2008-	Member	3100.276:Ministry of Commerce	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Fang Aiqing	2003-2008	Deputy Director	3400.902:State Cocoon and Silk Coordination Office
+Fang Aiqing	2003-2008	Director	3100.276:Ministry of Commerce	3100.276004:Ministry of Commerce-Market Regulation Department
+Fang Aiqing	2000-2003	Deputy Director	3100.276:Ministry of Commerce	3100.276004:Ministry of Commerce-Market Regulation Department
+Fang Aiqing	2000-2003	Deputy Director	3100.171:State Economic and Trade Commission	3100.171022:State Economic and Trade Commission-Trade Market Bureau
+Fang Aiqing	1998-2000	Director	3100.884:National Domestic Trade Administration	3100.884002:National Domestic Trade Administration-Consumer Goods Circulation Department
+Fang Aiqing	1995-1998	Deputy Director	3100.884:National Domestic Trade Administration	3100.884008:National Domestic Trade Administration-1st Business Management Department
+Fang Aiqing	1982-1995	Cadre	3100.276:Ministry of Commerce	3100.276014:Ministry of Commerce-Labor Salary Department
+Fang Fenghui	2012-2017	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001037:Central Committee-Central Military Commission
+Fang Fenghui	2012-2017	Chief of the General Staff	5110.101:PLA	5110.101001:PLA-Headquarters of the General Staff
+Fang Fenghui	2012-2017	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fang Fenghui	2010-	General	5110.101:PLA
+Fang Fenghui	2008-2013	Deputy	1610.001:NPC
+Fang Fenghui	2007-2012	Commander	5110.101:PLA	5110.101009:PLA-Regions	5110.101009011:Regions-Beijing Military Region	9560.002:Beijing Municipality
+Fang Fenghui	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fang Fenghui	2007-2012	Deputy Secretary	5110.101:PLA	5110.101009:PLA-Regions	5110.101009011:Regions-Beijing Military Region	1010.101:CPC	1010.101025:CPC-Party Committee	9560.002:Beijing Municipality
+Fang Fenghui	2005-2010	Lieutenant General	5110.101:PLA
+Fang Fenghui	2003-2007	Member	5110.101:PLA	5110.101009:PLA-Regions	5110.101009031:Regions-Guangzhou Military Region	1010.101:CPC	1010.101025:CPC-Party Committee	9560.006:Guangdong Province	9560.006001:Guangdong Province, Guangzhou City
+Fang Fenghui	2003-2007	Chief-of-Staff	5110.101:PLA	5110.101009:PLA-Regions	5110.101009031:Regions-Guangzhou Military Region	9560.006:Guangdong Province	9560.006001:Guangdong Province, Guangzhou City
+Fang Fenghui	1999-2003	Commander	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022049:Services and Arms-Army (or Ground Force)
+Fang Fenghui	1998-2005	Major General	5110.101:PLA
+Fang Fenghui	1997-1999	Deputy Commander	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022049:Services and Arms-Army (or Ground Force)
+Fang Fenghui	1968	Joined	5110.101:PLA
+Fang Fengyou	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Fang Fengyou	1998-	Chairman	1810.101:CPPCC	1810.101035:CPPCC-Municipal Committee	9560.033:Tianjin Municipality
+Fang Fengyou	1997-2002	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fang Fengyou	1995-1998	Deputy Secretary	1810.101:CPPCC	1810.101035:CPPCC-Municipal Committee	9560.033:Tianjin Municipality
+Fang Fengyou	1995-	Deputy Secretary	1010.101:CPC	1010.101009:CPC-Municipal Committee	9560.033:Tianjin Municipality
+Fang Fengyou	1992-1995	Member	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009001:Municipal Committee-Standing Committee	9560.033:Tianjin Municipality
+Fang Fengyou	1991-1995	Head	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009007:Municipal Committee-Organization Department	9560.033:Tianjin Municipality
+Fang Fengyou	1988-1991	Secretary-General	2050.101:People's Government	9560.033:Tianjin Municipality
+Fang Fengyou	1986-1988	Director	2050.101:People's Government	2050.101001:People's Government-General Office	9560.033:Tianjin Municipality
+Fang Fengyou	1982-1986	Director	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009002:Municipal Committee-General Office	9560.033:Tianjin Municipality
+Fang Fengyou	1979-1982	Deputy Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005002:Provincial Committee-General Office	9560.011:Hebei Province
+Fang Fengyou	1979-1982	First Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.011:Hebei Province
+Fang Fengyou	1977-1979	First Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.008:Guizhou Province
+Fang Fengyou	1977-1979	Deputy Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005002:Provincial Committee-General Office	9560.008:Guizhou Province
+Fang Fengyou	1975-1977	Deputy Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005002:Provincial Committee-General Office	9560.011:Hebei Province
+Fang Fengyou	1969-1975	Editor	7010.321:Hebei Daily
+Fang Fengyou	1969-1975	Deputy Director	7010.321:Hebei Daily	7010.321009:Hebei Daily-Investigation and Research Division	9560.011:Hebei Province
+Fang Fengyou	1964-1969	Cadre	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005016:Provincial Committee-Organization Department	9560.011:Hebei Province
+Fang Fengyou	1961	Joined	1010.101:CPC
+Fang Fengyou	1960-1964	Student	6100.171:Hebei Normal University	6100.171007:Hebei Normal University-History Department	9560.011:Hebei Province	9560.011001:Hebei Province, Shijiazhuang City
+Fang Ming	1969-1973	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fang Rongxin	1992-	Vice-Chairman	1500.501:Chinese Peasants and Workers Democratic Party	1500.501001:Chinese Peasants and Workers Democratic Party-Central Committee
+Fang Rongxin		Vice-Chairman	1500.501:Chinese Peasants and Workers Democratic Party	1500.501001:Chinese Peasants and Workers Democratic Party-Central Committee
+Fang Rongxin	1978-1983	Deputy Secretary-General	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Fang Rongxin	1978-1997	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Fang Rongxin		Director	1500.501:Chinese Peasants and Workers Democratic Party	1500.501002:Chinese Peasants and Workers Democratic Party-Executive Bureau
+Fang Rongxin		Member	1500.501:Chinese Peasants and Workers Democratic Party	1500.501001:Chinese Peasants and Workers Democratic Party-Central Committee	1500.501001001:Central Committee-Standing Committee
+Fang Rongxin		Secretary-General	1500.501:Chinese Peasants and Workers Democratic Party
+Fang Rongxin		Member	1810.101:CPPCC	1810.101035:CPPCC-Municipal Committee	1810.101035001:Municipal Committee-Standing Committee	9560.002:Beijing Municipality
+Fang Rongxin		Secretary-General	1810.101:CPPCC	1810.101035:CPPCC-Municipal Committee	9560.002:Beijing Municipality
+Fang Rongxin		Member	6800.121:Chinese People's Institute of  Foreign Affairs
+Fang Rongxin		Councilor	3000.:State Council
+Fang Rongxin		Deputy Director	3200.951:Government Offices Administration of the State Council
+Fang Rongxin	1946-1948	Commissioner	1500.499:Chinese KMT
+Fang Rongxin	1938-????	Director	7010.152:Qianjin News	7010.152011:Qianjin News-General Affairs Department
+Fang Rongxin	1933	 (Participated in Fujian Incident) 
+Fang Rongxin		Joined	1500.499:Chinese KMT	1500.499081:Chinese KMT-Temporary Action Committee
+Fang Shouxian	1991-	Academician	6410.107:Chinese Academy of Sciences
+Fang Shouxian		Chairman	3600.903:State BEPC Lab
+Fang Shouxian		Researcher	6410.107:Chinese Academy of Sciences	6410.107048:Chinese Academy of Sciences-High Energy Physics Research Institute
+Fang Shouxian	1955	Graduate	6250.101:Fudan University	9560.029:Shanghai Municipality
+Fang Weizhong		Chief Editor	7010.802:Chronicle of Major Economic Events
+Fang Weizhong		Deputy Editor	7010.801:China Economic Yearbook
+Fang Weizhong		Professor	6020.103:People's University of China	9560.002:Beijing Municipality
+Fang Weizhong		Professor	6020.101:Beijing University	9560.002:Beijing Municipality
+Fang Weizhong		Vice-Chairman	6770.156:China Enterprise Management Association
+Fang Weizhong		Vice-Chairman	6770.155:China Planning Society
+Fang Weizhong		President	6770.154:China Macroeconomics Society
+Fang Weizhong	1993-2003	Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001009:National Committee-Economics Committee
+Fang Weizhong	1993-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Fang Weizhong	1992-1997	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fang Weizhong	1987-1992	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fang Weizhong	1982-1987	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fang Weizhong	1977-1993	Deputy Secretary	3100.151:National Development and Reform Commission	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Fang Weizhong	1977-1993	Vice-Minister	3100.151:National Development and Reform Commission
+Fang Weizhong	1961-1965	Researcher	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001003:Central Committee-General Office
+Fang Weizhong	1952-1961	Deputy Director	3100.151:National Development and Reform Commission	3100.151021:National Development and Reform Commission-Research and Editing Division
+Fang Weizhong	1950-1952	Secretary	1010.101:CPC	1010.101091:CPC-Northeast Bureau	1010.101091006:Northeast Bureau-Publicity Department
+Fang Weizhong	1950	Joined	1010.101:CPC
+Fang Weizhong	1947-1949	Student	6180.136:Northeast China Teachers' University	9560.022:Jilin Province
+Fang Xin	2008-2013	Member	1610.101:Standing Committee of the NPC
+Fang Xin	2008-2013	Member	1610.203:Education, Science, Culture and Health Committee of the NPC
+Fang Xin		Deputy Secretary	6410.107:Chinese Academy of Sciences	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Fang Xin	2003-2008	Member	1610.101:Standing Committee of the NPC
+Fang Xin	2002-2007	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Fang Xin	1997	Graduate	6020.102:Tsinghua University	9560.002:Beijing Municipality
+Fang Xinghai	2015-	Vice-Chairman	3600.801:China Securities Regulatory Commission
+Fang Xinghai	2001-2015	Deputy Chief Executive Officer	8530.115:Shanghai Stock Exchange	9560.029:Shanghai Municipality
+Fang Xinghai	2000-2001	Member	8530.129:China Galaxy Securities Company	8530.129002:China Galaxy Securities Company-Management Committee
+Fang Xinghai	2000-2001	Secretary-General	8530.129:China Galaxy Securities Company	8530.129002:China Galaxy Securities Company-Management Committee
+Fang Xinghai	1998-2000	Director	8510.108:China Construction Bank	8510.108006:China Construction Bank-Coordination Office	9560.002:Beijing Municipality
+Fang Xinghai	1993	Graduate	6490.557:Stanford University	9210.:USA	9210.201:USA, California	9210.201001:California, Stanford
+Fang Xinghai	1993-1998	Investment Officer	8530.128:The World Bank	9210.:USA	9210.101:USA, Washington D.C.
+Fang Xinghai	1986	Graduate	6020.102:Tsinghua University	9560.002:Beijing Municipality
+Fang Yi	1988-1993	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Fang Yi	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fang Yi	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fang Yi	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fang Yi	1969-1973	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fang Zhaoben	1998-	Vice-Chairman	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.001:Anhui Province
+Fang Zhaoben	1997-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Fang Zhaoben	1997-	Chairman	1500.301:China Democratic National Construction Association
+Fang Zhaoben		Vice-Chairman	1500.301:China Democratic National Construction Association
+Fang Zhaoben		Vice-President	6010.102:University of Science and Technology of China	6010.102021:University of Science and Technology of China-Institute of Commerce	9560.001:Anhui Province
+Fang Zhaoxiang	2000-	Chairman	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.001:Anhui Province
+Fang Zhaoxiang	1998-2003	Deputy	1610.001:NPC
+Fang Zhaoxiang	1993-	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.001:Anhui Province
+Fang Zhaoxiang	1992-1997	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Fang Zhaoxiang	1990-	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.001:Anhui Province
+Fang Zhaoxiang	1990-1993	Secretary-General	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.001:Anhui Province
+Fang Zhaoxiang	1971	Joined	1010.101:CPC
+Fang Zuqi	1998-	General	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022035:Services and Arms-Group Army
+Fang Zuqi	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fang Zuqi	1993-2000	Political Commissar	5110.101:PLA	5110.101009:PLA-Regions	5110.101009061:Regions-Nanjing Military Region
+Fang Zuqi	1993-1998	Lieutenant General	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022035:Services and Arms-Group Army
+Fang Zuqi	1992-1993	Director	5110.101:PLA	5110.101009:PLA-Regions	5110.101009011:Regions-Beijing Military Region	5110.101009011009:Beijing Military Region-Political Department
+Fang Zuqi	1990-1992	Director	5110.101:PLA	5110.101009:PLA-Regions	5110.101009031:Regions-Guangzhou Military Region	5110.101009031009:Guangzhou Military Region-Political Department
+Fang Zuqi	1988-1990	Political Commissar	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022035:Services and Arms-Group Army
+Fang Zuqi	1988-1993	Major General	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022035:Services and Arms-Group Army
+Fang Zuqi	1984-1985	Director	5110.101:PLA	5110.101009:PLA-Regions	5110.101009071:Regions-Shenyang Military Region	5110.101009071009:Shenyang Military Region-Cadre Department
+Fang Zuqi	1984-1988	Deputy Director	5110.101:PLA	5110.101009:PLA-Regions	5110.101009071:Regions-Shenyang Military Region	5110.101009071007:Shenyang Military Region-Political Department
+Fang Zuqi	1983-1984	Secretary-General	5110.101:PLA	5110.101009:PLA-Regions	5110.101009071:Regions-Shenyang Military Region	5110.101009071009:Shenyang Military Region-Cadre Department
+Fang Zuqi	1980-1983	Deputy Director	5110.101:PLA	5110.101009:PLA-Regions	5110.101009071:Regions-Shenyang Military Region	5110.101009071009:Shenyang Military Region-Cadre Department
+Fang Zuqi	1970-1980	Section Chief	5110.101:PLA	5110.101009:PLA-Regions	5110.101009071:Regions-Shenyang Military Region	5110.101009071009:Shenyang Military Region-Cadre Department
+Fang Zuqi	1969-1970	Deputy Regiment Political Commissar	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022049:Services and Arms-Army (or Ground Force)
+Fang Zuqi	1963-1969	Deputy Director	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022049:Services and Arms-Army (or Ground Force)	5110.101022049082:Army (or Ground Force)-Division Organization Section
+Fang Zuqi	1959-1963	Assistant	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022049:Services and Arms-Army (or Ground Force)	5110.101022049081:Army (or Ground Force)-Cadre Department
+Fang Zuqi	1956	Joined	1010.101:CPC
+Fang Zuqi	1952	 (Participated in the Korean War) 
+Fang Zuqi	1951	Joined	5110.101:PLA
+Fei Xiaotong	1997-	Honorary President	6800.122:China Overseas Friendship Association
+Fei Xiaotong	1996-	Honorary Chairman	1500.201:China Democratic League
+Fei Xiaotong	1995	Honorary Professor	6250.102:Tongji University	9560.029:Shanghai Municipality
+Fei Xiaotong	1993-1998	Vice-Chairman	1610.101:Standing Committee of the NPC
+Fei Xiaotong	1993-1998	Deputy	1610.001:NPC
+Fei Xiaotong	1992-1996	Chairman	1500.201:China Democratic League
+Fei Xiaotong	1988-1993	Deputy	1610.001:NPC
+Fei Xiaotong	1988-1993	Vice-Chairman	1610.101:Standing Committee of the NPC
+Fei Xiaotong	1983-1988	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Fei Xiaotong	1982	Honorary Academician	6490.702:University of London	6490.702009:University of London-Political Economy College	9470.:United Kingdom	9470.113:United Kingdom, London
+Fei Xiaotong	1982-????	President	6770.157:China Sociology Society
+Fei Xiaotong	1978-1983	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Fei Xiaotong		Vice-Chairman	2210.501:Committee for Drafting Basic Law	9560.014:Hong Kong SAR
+Fei Xiaotong		Member	3200.568:State Academic Degrees Committee
+Fei Xiaotong	1964-1978	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Fei Xiaotong		Director	6410.108:Chinese Academy of Social Sciences	6410.108012:Chinese Academy of Social Sciences-Sociology Research Institute
+Fei Xiaotong		Deputy Director	6410.108:Chinese Academy of Social Sciences	6410.108011:Chinese Academy of Social Sciences-Nationalities Research Institute
+Fei Xiaotong	1959-1964	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Fei Xiaotong		Deputy Director	3800.253:Foreign Experts Affairs Bureau
+Fei Xiaotong		Vice-Minister	3100.866:Nationality Affairs Commission
+Fei Xiaotong	1954-1959	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Fei Xiaotong	1954-1959	Deputy	1610.001:NPC
+Fei Xiaotong		Professor	6020.901:Central Institute for Ethnic Minorities	9560.002:Beijing Municipality
+Fei Xiaotong	1951	Founder	6020.901:Central Institute for Ethnic Minorities	9560.002:Beijing Municipality
+Fei Xiaotong	1949-1954	Deputy	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Fei Xiaotong		Professor	6020.102:Tsinghua University	9560.002:Beijing Municipality
+Fei Xiaotong	1939-????	Professor	6320.101:Yunnan University	9560.036:Yunnan Province
+Fei Xiaotong	1938	Student	6490.702:University of London	9470.:United Kingdom	9470.113:United Kingdom, London
+Fei Xiaotong	1938	Fellow	6490.703:Royal Anthropological Institute	9470.:United Kingdom	9470.113:United Kingdom, London
+Fei Xiaotong	1930-1935	Student	6020.102:Tsinghua University	9560.002:Beijing Municipality
+Feng Baiju	1956-1969	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Feng Bing	2000-	Editor-in-Chief	7010.163:Economic Daily
+Feng Bing	1996-2000	Deputy Editor-in-Chief	7010.163:Economic Daily
+Feng Bing	1993-1996	Deputy Secretary-General	3100.802:State Commission for Restructuring the Economy
+Feng Bo	1997	Founder	8010.705:China Vest
+Feng Bo	1997-	Executive Director	8010.705:China Vest
+Feng Changgen	2008-2013	Member	1610.101:Standing Committee of the NPC
+Feng Changgen	2008-2013	Deputy	1610.001:NPC
+Feng Changgen	2008-2013	Member	1610.203:Education, Science, Culture and Health Committee of the NPC
+Feng Changgen	2007-2012	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Feng Changgen	2007-2010	Deputy Director	3100.201:Ministry of Education	3100.201029:Ministry of Education-Safety Engineering Education Guidance Committee
+Feng Changgen	2007-2008	Chairman	6900.736:Science Council of Asia
+Feng Changgen	2003-2008	Deputy	1610.001:NPC
+Feng Changgen	2003-2008	Member	1610.203:Education, Science, Culture and Health Committee of the NPC
+Feng Changgen	2002-2007	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Feng Changgen	2001-	Member	6900.113:China Association for Science and Technology	6900.113009:China Association for Science and Technology-Secretariat
+Feng Changgen	1999-2001	Vice-President	6020.171:Beijing Institute of Technology	9560.002:Beijing Municipality
+Feng Changgen	1997-2002	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Feng Changgen	1992-1997	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Feng Changgen	1983	Graduate	6490.708:University of Leeds	9470.:United Kingdom	9470.119:United Kingdom, Leeds
+Feng Chunbo	1992	 (State Natural Science Award) 
+Feng Chunbo	1986	 (1st-class Science and Technology Advancement Award of the State Education Commission) 
+Feng Chunbo	1986-????	Vice-President	6080.128:Southeast China University	6080.128021:Southeast China University-Graduate School
+Feng Chunbo	1985	Member
+Feng Chunbo		Professor	6080.128:Southeast China University	6080.128009:Southeast China University-Automation Research Institute
+Feng Chunbo	1984-????	Doctoral Supervisor	6080.128:Southeast China University	6080.128009:Southeast China University-Automation Research Institute
+Feng Chunbo	1983-1991	Vice-Director	6080.128:Southeast China University	6080.128009:Southeast China University-Automation Research Institute
+Feng Chunbo	1958	Graduate	6490.276:Leningrad Institute of Technology	6490.276009:Leningrad Institute of Technology-Electro-Mechanics Department	9760.:Russia	9760.102:Russia, St. Petersburg
+Feng Chunbo	1953	Postgraduate Student	6110.151:Harbin Institute of Technology	6110.151019:Harbin Institute of Technology-Electric Machinery Department	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Feng Chunbo	1950	Graduate	6330.101:Zhejiang University	6330.101018:Zhejiang University-Electro-Mechanics Department	9560.037:Zhejiang Province
+Feng Cui		Member	6750.125:All-China Women's Federation	6750.125005:All-China Women's Federation-Standing Committee
+Feng Cui	1998-2000	Member	7250.101:United Nations	7250.101082:United Nations-Committee for Eliminating Discrimination against Women
+Feng Cui	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Feng Cui	1996-	Secretary	6750.125:All-China Women's Federation	6750.125002:All-China Women's Federation-Secretariat
+Feng Cui	1996-1998	Chief	6750.125:All-China Women's Federation	6750.125004:All-China Women's Federation-International Communication Department
+Feng Cui		Deputy Chief	3100.101:Ministry of Foreign Affairs	3100.101004:Ministry of Foreign Affairs-International Department
+Feng Cui	1991-1996	Counselor	7250.101:United Nations	7250.101031:United Nations-Chinese Delegation
+Feng Cui	1983-1991	Interpreter	7250.101:United Nations	7250.101041:United Nations-Liaison Office	7250.101041001:Liaison Office-Chinese Department
+Feng Cui	1983-1991	First Secretary	7310.101:Chinese Delegation	9790.:Switzerland	9790.101:Switzerland, Geneva
+Feng Duan	1980-	Academician	6410.107:Chinese Academy of Sciences
+Feng Duan		Professor	6250.179:Nanjing University	9560.018:Jiangsu Province	9560.018001:Jiangsu Province, Nanjing City
+Feng Duan	1946	Graduate	6020.196:Central University for Nationalities	9560.002:Beijing Municipality
+Feng Fei	2016-	Vice-Governor	2050.101:People's Government	9560.037:Zhejiang Province
+Feng Guoqin	2008-	Chairman	1810.101:CPPCC	1810.101035:CPPCC-Municipal Committee	9560.029:Shanghai Municipality
+Feng Guoqin	2002-2008	Member	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009001:Municipal Committee-Standing Committee	9560.029:Shanghai Municipality
+Feng Guoqin	1996-2008	Vice-Mayor	2050.101:People's Government	9560.029:Shanghai Municipality
+Feng Guoqin		Director	2050.101:People's Government	2050.101001:People's Government-General Office	9560.029:Shanghai Municipality
+Feng Guoqin		Secretary-General	2050.101:People's Government	9560.029:Shanghai Municipality
+Feng Guoqin		Deputy Secretary-General	2050.101:People's Government	9560.029:Shanghai Municipality
+Feng Guoqin		Deputy Secretary-General	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009001:Municipal Committee-Standing Committee	9560.029:Shanghai Municipality
+Feng Guoqin		Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.029:Shanghai	9560.029015:Shanghai, Jiading County
+Feng Guoqin		Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.029:Shanghai	9560.029026:Shanghai, Fengxian County
+Feng Guoqin		Deputy Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.029:Shanghai	9560.029026:Shanghai, Fengxian County
+Feng Guoqin		Graduate	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School
+Feng Henggao	1992-1997	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Feng Hongshun		Member	1500.201:China Democratic League	1500.201001:China Democratic League-Central Committee	1500.201001001:Central Committee-Standing Committee
+Feng Hongshun	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Feng Hongshun	1998-	Vice-Chairman	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.013:Henan Province
+Feng Hongshun	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Feng Hongshun	1988-1993	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Feng Hongshun		Vice-Chairman	1610.501:City People's Congress	1610.501001:City People's Congress-Standing Committee	9560.013:Henan Province	9560.013023:Henan Province, Pingdingshan City
+Feng Hongshun	1986-????	Vice-Chairman	1500.201:China Democratic League	1500.201021:China Democratic League-Provincial Committee	9560.013:Henan Province
+Feng Hongshun	1986	Joined	1500.201:China Democratic League
+Feng Hongshun	1983-1988	Deputy	1610.001:NPC
+Feng Hongshun		President	6120.121:Henan Urban Construction and Environmental Protection School	9560.013:Henan Province
+Feng Hongshun		Senior Engineer	3990.109:Ministry of Metallurgical Industry	3990.109016:Ministry of Metallurgical Industry-No. 6 Metallurgical Construction Company
+Feng Hongshun		Deputy Chief Engineer	3990.109:Ministry of Metallurgical Industry	3990.109016:Ministry of Metallurgical Industry-No. 6 Metallurgical Construction Company
+Feng Hongshun		Engineer	3990.109:Ministry of Metallurgical Industry	3990.109016:Ministry of Metallurgical Industry-No. 6 Metallurgical Construction Company
+Feng Hongshun		Deputy Chief	8010.295:Northwest Mining and Metallurgy No. 4 Company	8010.295097:Northwest Mining and Metallurgy No. 4 Company-Technical Section
+Feng Hongshun		Engineer	8010.295:Northwest Mining and Metallurgy No. 4 Company	8010.295097:Northwest Mining and Metallurgy No. 4 Company-Technical Section
+Feng Hongshun		Technician	8010.295:Northwest Mining and Metallurgy No. 4 Company	8010.295097:Northwest Mining and Metallurgy No. 4 Company-Technical Section
+Feng Hongshun	1955	Graduate	6020.102:Tsinghua University	6020.102008:Tsinghua University-Civil Engineering Department	9560.002:Beijing Municipality
+Feng Huimin	2012-2017	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001039:Central Committee-Central Commission for Discipline Inspection
+Feng Jianshen	2011-	Chairman	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.005:Gansu Province
+Feng Jianshen	2004-	Vice-Governor	2050.101:People's Government	9560.005:Gansu Province
+Feng Jianshen	2001-2004	Deputy Board Chairman	3600.851:National Council for Social Security Fund
+Feng Jianshen	2001-2004	Member	3600.851:National Council for Social Security Fund	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Feng Jianshen	2000-2001	Member	3100.281:Ministry of Finance	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Feng Jianshen	2000-2001	Assistant Minister	3100.281:Ministry of Finance
+Feng Jianshen	1999-1999	Student	6490.596:Columbia University	9210.:USA	9210.651:USA, New York	9210.651001:New York, New York
+Feng Jianshen	1998-2000	Director	3400.802:National Debt and Financial Department
+Feng Jianshen	1997-1999	Graduate	6110.106:Harbin University of Science and Technology	6110.106009:Harbin University of Science and Technology-Management Science Department	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Feng Jianshen	1996-1998	Director-General	3100.281:Ministry of Finance	3100.281009:Ministry of Finance-Budget Department
+Feng Jianshen	1995-1996	Director-General	3100.281:Ministry of Finance	3100.281015:Ministry of Finance-Capital Construction Department
+Feng Jianshen	1993-1995	Deputy Director-General	3100.281:Ministry of Finance	3100.281009:Ministry of Finance-Budget Department
+Feng Jianshen	1989-1992	Graduate	6110.106:Harbin University of Science and Technology	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Feng Jianshen	1985-1988	Student	6110.163:Harbin Normal University	6110.163011:Harbin Normal University-Political Educational Department	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Feng Jianshen	1978-1993	Secretary	2190.138:Finance Bureau	1010.101:CPC	1010.101025:CPC-Party Committee	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Feng Jianshen	1978-1993	Director	2190.138:Finance Bureau	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Feng Jianshen	1978-1993	Deputy Division Chief	2190.138:Finance Bureau	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Feng Jianzhong	2005-	Deputy Director	3200.503:State General Administration of Sports
+Feng Jianzhong	2004-2005	Vice-Chairman	6770.139:Chinese Olympic Committee
+Feng Jianzhong	2004-2005	Vice-Chairman	6770.137:All-China Sports Association
+Feng Jicai	2001-????	Dean	6290.102:Tianjin University	6290.102012:Tianjin University-Feng Jicai Literature and Art Institute	9560.033:Tianjin Municipality
+Feng Jicai	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Feng Jicai	1997-2002	Vice-Chairman	1500.401:China Association for Promoting Democracy	1500.401001:China Association for Promoting Democracy-Central Committee
+Feng Jicai	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Feng Jicai	1988-1993	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Feng Jicai	1988-????	Executive Vice-Chairman	6750.133:China Federation of Literary and Art Circles (CFLAC)	6750.133003:China Federation of Literary and Art Circles (CFLAC)-National Committee
+Feng Jicai	1986-????	Council Member	6770.161:Chinese Writers Association
+Feng Jicai	1986-????	Editor-In-Chief	7010.803:Free Forum on Literature
+Feng Jicai	1986-????	Vice-Chairman	6770.162:Chinese Society for Study of Folk Literature and Art	9560.033:Tianjin Municipality
+Feng Jicai	1986-????	Vice-Chairman	6770.161:Chinese Writers Association	9560.033:Tianjin Municipality
+Feng Jicai	1986-????	Vice-Chairman	6770.159:Tianjin Federation of Literary and Art Circles	9560.033:Tianjin Municipality
+Feng Jicai	1983-1988	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Feng Jicai	1983	Joined	1500.401:China Association for Promoting Democracy (CAPD)
+Feng Jicai	1978-????	Writer	6770.158:Tianjin Municipal Writers Association	9560.033:Tianjin Municipality
+Feng Jicai	1962-????	Painter	6290.135:Tianjin Calligraphic and Painting Studio	9560.033:Tianjin Municipality
+Feng Kexi	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Feng Kexi	1997-	Vice-Chairman	1610.801:Municipal People's Congress	1610.801001:Municipal People's Congress-Standing Committee	9560.003:Chongqing Municipality
+Feng Kexi	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Feng Kexi		Chairman	1500.201:China Democratic League	1500.201031:China Democratic League-Municipal Committee	9560.003:Chongqing Municipality
+Feng Kexi	1988-1993	Deputy Secretary-General	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Feng Kexi	1988-1993	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Feng Kexi	1983-1988	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Feng Kexi		Member	1500.201:China Democratic League	1500.201001:China Democratic League-Central Committee	1500.201001001:Central Committee-Standing Committee
+Feng Kexi		Vice-Chairman	1500.201:China Democratic League	1500.201021:China Democratic League-Provincial Committee	9560.031:Sichuan Province
+Feng Kexi		Vice-Chairman	1500.201:China Democratic League	1500.201031:China Democratic League-Municipal Committee	9560.003:Chongqing Municipality
+Feng Kexi		President	6900.115:Chongqing City Social Institute	9560.003:Chongqing Municipality
+Feng Kexi		Vice-Mayor	2050.101:People's Government	9560.003:Chongqing Municipality
+Feng Kexi		Deputy Secretary-General	1610.801:Municipal People's Congress	9560.003:Chongqing Municipality
+Feng Kexi		Deputy Director	2210.601:Finance and Economic Committee	2210.601009:Finance and Economic Committee-Planning Division	9560.003:Chongqing Municipality
+Feng Kexi	1950-????	Director	2410.218:Administration for Industry and Commerce	2410.218009:Administration for Industry and Commerce-Research Office	9560.003:Chongqing Municipality
+Feng Kexi		Head	1500.201:China Democratic League	1500.201031:China Democratic League-Municipal Committee	1500.201031011:Municipal Committee-Publicity Department	9560.003:Chongqing Municipality
+Feng Kexi		Member	1500.201:China Democratic League	1500.201031:China Democratic League-Municipal Committee	1500.201031021:Municipal Committee-Work Committee	9560.003:Chongqing Municipality
+Feng Kexi		Manager	7010.207:Democracy Journal
+Feng Kexi		Editor-in-Chief	7010.204:Guomin Gongbao
+Feng Kexi		Representative	7010.205:Huaxi Daily
+Feng Kexi		General Manager	7010.206:Qunyi Press
+Feng Kexi		Editor	7010.203:Xinshu Bao
+Feng Kexi	1945	Joined	1500.201:China Democratic League
+Feng Kexi	1942	Graduate	6320.127:Southwest Associated University	9560.036:Yunnan Province	9560.036001:Yunnan Province, Kunming City
+Feng Kexu	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Feng Kexu	1993-1998	Member	1610.101:Standing Committee of the NPC
+Feng Kexu	1992-1997	Vice-Chairman	1500.301:China Democratic National Construction Association	1500.301001:China Democratic National Construction Association-Central Committee
+Feng Kexu	1988-1993	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Feng Kexu	1988-1993	Deputy Secretary-General	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Feng Kexu	1983-1988	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Feng Kexu		Member	1500.301:China Democratic National Construction Association	1500.301001:China Democratic National Construction Association-Central Committee	1500.301001001:Central Committee-Standing Committee
+Feng Kexu		Member	1500.301:China Democratic National Construction Association	1500.301001:China Democratic National Construction Association-Central Committee	1500.301001003:Central Committee-Executive Bureau
+Feng Kexu		Head	1500.301:China Democratic National Construction Association	1500.301001:China Democratic National Construction Association-Central Committee	1500.301001011:Central Committee-Consulting and Training Department
+Feng Kexu		Deputy Director	1500.301:China Democratic National Construction Association	1500.301001:China Democratic National Construction Association-Central Committee	1500.301001002:Central Committee-General Office
+Feng Kexu	1959-1979	Deputy Secretary-General	1500.301:China Democratic National Construction Association	1500.301001:China Democratic National Construction Association-Central Committee
+Feng Kexu	1959-1979	Secretary-General	1500.301:China Democratic National Construction Association	1500.301001:China Democratic National Construction Association-Central Committee
+Feng Kexu		Office Secretary	1500.301:China Democratic National Construction Association	1500.301021:China Democratic National Construction Association-Provincial Committee	9560.031:Sichuan Province
+Feng Kexu	1955	Joined	1500.301:China Democratic National Construction Association	1500.301001:China Democratic National Construction Association-Central Committee
+Feng Kexu	1949-????	Section Chief	6750.156:Chongqing City Federation of Industry and Commerce	9560.003:Chongqing Municipality
+Feng Kexu	1949-????	Secretary	6750.157:Sichuan Provincial Federation of Industry and Commerce	9560.031:Sichuan Province
+Feng Kexu	1945	Joined	1500.201:China Democratic League
+Feng Kexu		Special Correspondent	7010.209:Industry and Commerce Herald
+Feng Kexu		Editor	7010.208:Kou Ming Kung Poa
+Feng Kexu		Reporter	7010.208:Kou Ming Kung Poa
+Feng Kexu	1945	Graduate	6250.192:Guanghua University	9560.029:Shanghai Municipality
+Feng Lun	1991-	Chairman	8010.706:Wantong Industrial Group
+Feng Lun	1991-	Director	8510.118:China Minsheng Bank
+Feng Lun		Deputy Chief	3100.802:State Commission for Restructuring the Economy	3100.802021:State Commission for Restructuring the Economy-China Economic Restructuring Research Institute	3100.802021001:China Economic Restructuring Research Institute-Comparative System Research Office
+Feng Lun		Executive Deputy Director	6090.112:Hainan Reform and Development Research Institute	9560.009:Hainan Province
+Feng Lun		Worker	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001007:Central Committee-Publicity Department	1010.101001007009:Publicity Department-Theoretical Research Office
+Feng Lun	1984-1988	Lecturer	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School	1010.101001031014:Central Party School-Marxism and Leninism Research Institute
+Feng Lun	1982	Graduate	6230.102:Northwest University	6230.102005:Northwest University-Economics Department
+Feng Lun	1982	Graduate	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School
+Feng Pinde	1977-1982	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Feng Pinde	1973-1977	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Feng Shidong	2001-	Vice-President	8510.303:State Development and Investment Corporation
+Feng Shidong	1996-2001	Secretary	3800.321:State Coal Industry Bureau	3800.321001:State Coal Industry Bureau-General Office
+Feng Shidong	1986-1990	Deputy General Manager	8510.304:China National Energy Investment Corporation
+Feng Shidong	1986-1996	Secretary	8510.304:China National Energy Investment Corporation	8510.304001:China National Energy Investment Corporation-General Office
+Feng Shidong	1981-1986	General Manager	8510.303:State Development and Investment Corporation	8510.303006:State Development and Investment Corporation-Coal Department
+Feng Shidong	1981-1986	Deputy General Manager	8510.303:State Development and Investment Corporation
+Feng Tiyun	1998-2003	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001012:National Committee-Committee for Social and Legal Affairs
+Feng Tiyun	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Feng Tiyun	1993-1998	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001011:National Committee-Subcommittee of Law
+Feng Tiyun	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Feng Tiyun	1988-1993	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Feng Tiyun	1988-1998	Vice-President	6770.164:China United Front Theory Research Association
+Feng Tiyun		Vice-President	6770.163:China Vocational Education Society
+Feng Tiyun	1987-	Vice-Chairman	1500.301:China Democratic National Construction Association	1500.301001:China Democratic National Construction Association-Central Committee	1500.301001003:Central Committee-Executive Bureau
+Feng Tiyun		Deputy Director	1500.301:China Democratic National Construction Association	1500.301001:China Democratic National Construction Association-Central Committee	1500.301001003:Central Committee-Executive Bureau
+Feng Tiyun		Advisor	6750.126:All-China Federation of Industry and Commerce	6750.126001:All-China Federation of Industry and Commerce-Executive Committee
+Feng Tiyun	1983-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Feng Tiyun	1983-1988	Deputy Secretary-General	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Feng Tiyun		Vice-Chairman	6750.159:Zhejiang Provincial Federation of Industry and Commerce	9560.037:Zhejiang Province
+Feng Tiyun		Vice-Chairman	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.037:Zhejiang Province
+Feng Tiyun	1960-1981	Vice-Chairman	1500.301:China Democratic National Construction Association	1500.301021:China Democratic National Construction Association-Provincial Committee	9560.037:Zhejiang Province
+Feng Tiyun	1951-????	Vice-Chairman	6750.158:Ningbo City Federation of Industry and Commerce	9560.037:Zhejiang Province	9560.037002:Zhejiang Province, Ningbo City
+Feng Tiyun	1951-????	Vice-Chairman	1500.301:China Democratic National Construction Association	1500.301041:China Democratic National Construction Association-City Committee	9560.037:Zhejiang Province	9560.037002:Zhejiang Province, Ningbo City
+Feng Tiyun	1951	Joined	1500.301:China Democratic National Construction Association
+Feng Tiyun	1946-1949	Director	8010.296:Zhengda Match Factory
+Feng Tiyun	1946	Graduate	6280.101:Soochow University	9560.032:Taiwan
+Feng Wei	2014-	Deputy Director	3400.201:Hong Kong and Macao Affairs Office of the State Council
+Feng Xinde		Guest Professor	6490.125:Kyoto University	6490.125009:Kyoto University-Japan Research Center of Medical High Polymer Materials	9410.:Japan	9410.103:Japan, Kyoto
+Feng Xinde	2000	 (Winner
+Feng Xinde	1998	 (Winner
+Feng Xinde	1997	 (Winner
+Feng Xinde	1989	 (Winner
+Feng Xinde	1984	 (Winner
+Feng Xinde		Advisor	8010.101:Sinopec Corp.
+Feng Xinde		Guest Professor	6490.585:University of Washington	6490.585021:University of Washington-Biological Engineering Center	9210.:USA	9210.731:USA, Washington	9210.731001:Washington, Seattle
+Feng Xinde	1980-	Academician	6410.107:Chinese Academy of Sciences
+Feng Xinde	1952-2003	Professor	6020.101:Beijing University	9560.002:Beijing Municipality
+Feng Xinde	1948-1952	Professor	6020.102:Tsinghua University	9560.002:Beijing Municipality
+Feng Xinde	1947	 (Winner
+Feng Xinde	1946	 (Winner
+Feng Xinde	1945	 (Winner
+Feng Xinde	1945-1948	Student	6490.584:University of Notre Dame	6490.584009:University of Notre Dame-Chemistry Department	9210.:USA	9210.485:USA, Indiana	9210.485008:Indiana, Notre Dame
+Feng Xinde	1937	Graduate	6020.102:Tsinghua University	9560.002:Beijing Municipality
+Feng Xinsheng		Deputy Director	3800.401:State Post Bureau
+Feng Xinsheng	1996-1998	Postgraduate Student	6410.108:Chinese Academy of Social Sciences	6410.108001:Chinese Academy of Social Sciences-Graduate School	6410.108001018:Graduate School-Industrial Economy Department
+Feng Xinsheng	1972-1975	Student	6020.109:Beijing Institute of Posts and Telecommunications	6020.109008:Beijing Institute of Posts and Telecommunications-Microwave Communications Department	9560.002:Beijing Municipality
+Feng Xinsheng	1970	Joined	1010.101:CPC
+Feng Xinzhu	2015-	Vice-Governor	2050.101:People's Government	9560.027:Shaanxi Province
+Feng Xiong	2001-	Executive Director	8010.104:China Telecom Corporation
+Feng Xiong	2000-	Chairman	8010.983:Guangdong Telecom Company	9560.006:Guangdong Province
+Feng Xiong	2000-	General Manager	8010.983:Guangdong Telecom Company	9560.006:Guangdong Province
+Feng Xiong	1986-1992	Deputy Chief Engineer	2190.135:Telecommunications Bureau	9560.018:Jiangsu Province	9560.018001:Jiangsu Province, Nanjing City
+Feng Xiong	1986-1992	Chief Engineer	2190.135:Telecommunications Bureau	9560.018:Jiangsu Province	9560.018001:Jiangsu Province, Nanjing City
+Feng Xuan	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Feng Xuan	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Feng Yuanwei	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Feng Yuanwei	1996-	Vice-Chairman	6750.133:China Federation of Literary and Art Circles (CFLAC)
+Feng Yuanwei	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Feng Yuanwei	1988-1993	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Feng Yuanwei	1987-1992	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Feng Yuanwei	1982-1987	Delegate	1010.101:CPC	1010.101003:CPC-National Congress
+Feng Yuanwei	1982-????	Secretary	2210.171:Ethnic Affairs Committee	9560.031:Sichuan Province
+Feng Yuanwei	1982-????	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.031:Sichuan Province
+Feng Yuanwei		Chairman	1810.101:CPPCC	1810.101031:CPPCC-Provincial Committee	9560.031:Sichuan Province
+Feng Yuanwei		Vice-President	6270.123:Southwest China Institute for Ethnic Minorities	9560.031:Sichuan Province
+Feng Yuanwei		Associate Professor	6270.123:Southwest China Institute for Ethnic Minorities	9560.031:Sichuan Province
+Feng Yuanwei	1954	Joined	1010.101:CPC
+Feng Yuanwei	1952	Graduate	6270.123:Southwest China Institute for Ethnic Minorities	9560.031:Sichuan Province
+Feng Zhanwu	1977-1982	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Feng Zhanwu	1973-1977	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Feng Zhanwu	1969-1973	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Feng Zhenglin	2016-	Director	3200.251:Civil Aviation Administration of China
+Feng Zhenglin	2003-2016	Member	3100.401:Ministry of Communications	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Feng Zhenglin	2003-2016	Vice-Minister	3100.401:Ministry of Communications
+Feng Zhenglin	1997	Joined	1010.101:CPC
+Feng Zhenglin	1995-1998	Deputy Director	2410.104:Communications Department	9560.034:Tibet Autonomous Region
+Feng Zhenglin		Director	3100.401:Ministry of Communications
+Feng Zhenglin		Deputy Department Director	3100.401:Ministry of Communications
+Feng Zhenglin		Assistant Inspector	3100.401:Ministry of Communications
+Feng Zhenglin		Division Chief	3100.401:Ministry of Communications
+Feng Zhenglin		Deputy Division Chief	3100.401:Ministry of Communications
+Feng Zhenglin	1982-????	Assistant Engineer	3100.401:Ministry of Communications
+Feng Zhenglin	1978-1982	Student	6230.135:Xi'an Highway Institute	6230.135001:Xi'an Highway Institute-Highway Department	9560.027:Shaanxi Province	9560.027001:Shaanxi Province, Xi'an City
+Feng Zhijun	1998-2003	Vice-Chairman	1610.201:Ethnic Affairs Committee of the NPC
+Feng Zhijun	1998-2003	Member	1610.101:Standing Committee of the NPC
+Feng Zhijun	1994-????	President	6770.164:China United Front Theory Research Association
+Feng Zhijun	1994-????	President	6750.161:China Population Welfare Foundation
+Feng Zhijun	1993-1998	Member	1610.201:Ethnic Affairs Committee of the NPC
+Feng Zhijun	1993-1998	Member	1610.101:Standing Committee of the NPC
+Feng Zhijun	1988-1993	Member	1610.101:Standing Committee of the NPC
+Feng Zhijun	1983-1988	Deputy	1610.001:NPC
+Feng Zhijun	1983-1988	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Feng Zhijun	1982-	Vice-Chairman	1500.201:China Democratic League	1500.201001:China Democratic League-Central Committee
+Feng Zhijun		Vice-Chairman	1500.201:China Democratic League	1500.201031:China Democratic League-Municipal Committee	9560.029:Shanghai Municipality
+Feng Zhijun	1981	Joined	1500.201:China Democratic League
+Feng Zhijun		Vice-President	6770.601:China Research Society for Science and Scientific and Technical Policy
+Feng Zhijun		Editor-in-Chief	7010.804:Modern Leadership
+Feng Zhijun		Director	6250.194:Shanghai Research Institute of Science	9560.029:Shanghai Municipality
+Feng Zhijun		Professor	6250.194:Shanghai Research Institute of Science	9560.029:Shanghai Municipality
+Feng Zhijun		Director	6250.193:Shanghai Railway Institute	6250.193009:Shanghai Railway Institute-Building Engineering Department	9560.029:Shanghai Municipality
+Feng Zhijun		Associate Professor	6250.193:Shanghai Railway Institute	6250.193009:Shanghai Railway Institute-Building Engineering Department	9560.029:Shanghai Municipality
+Feng Zhijun	1962	Graduate	6250.193:Shanghai Railway Institute	6250.193009:Shanghai Railway Institute-Building Engineering Department	9560.029:Shanghai Municipality
+Fian Jianmeng	2016-	Deputy Director	3800.301:State Oceanic Administration
+Francis Tam Pak Yuen	2004-	Secretary of Economy and Finance	2050.201:Central People's Government	9560.038:Macao SAR
+Francis Tam Pak Yuen	2003-	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Francis Tam Pak Yuen	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Francis Tam Pak Yuen	1996-1997	Director	3200.806:Macao SAR Preparatory Committee	3200.806009:Macao SAR Preparatory Committee-Government Delegation, Macao Hand-Over Ceremony
+Francis Tam Pak Yuen	1994-1996	Deputy Secretary for Constitutional Affairs	2050.201:Central People's Government	9560.038:Macao SAR
+Francis Tam Pak Yuen	1991-1994	Director	7210.101:Chinese Embassy	7210.101071:Chinese Embassy-Hong Kong Economic and Trade Office	9560.014:Hong Kong SAR
+Francis Tam Pak Yuen	1989-1991	Administrative Assistant to Chief Secretary	2050.201:Central People's Government	9560.038:Macao SAR
+Francis Tam Pak Yuen	1987-1989	Principal Assistant Economic Secretary	2410.915:Aviation, Airport and Tourism Policy Department	9560.038:Macao SAR
+Francis Tam Pak Yuen	1983	Graduate	6490.702:University of London	9470.:United Kingdom	9470.113:United Kingdom, London
+Francis Tam Pak Yuen	1978	Graduate	6130.101:University of Hong Kong	9560.014:Hong Kong SAR
+Frederick Ma Si-Hang	2002-	Secretary for Financial Services	2050.201:Central People's Government	9560.014:Hong Kong SAR
+Frederick Ma Si-Hang	1998-2002	Banker	8190.207:J.P. Morgan	8190.207009:J.P. Morgan-Hong Kong	9560.014:Hong Kong SAR
+Frederick Ma Si-Hang	1998-2002	Banker	8190.208:Chase Manhattan Bank	8190.208009:Chase Manhattan Bank-Hong Kong	9560.014:Hong Kong SAR
+Frederick Ma Si-Hang	1996-1998	Executive Director	8190.206:PCCW Limited	9560.014:Hong Kong SAR
+Frederick Ma Si-Hang	1989-1996	Group Chief Financial Officer	8190.206:PCCW Limited	9560.014:Hong Kong SAR
+Fu Chengyu	2011-	Chairman	8010.101:Sinopec Corp.	8010.101001:Sinopec Corp.-Board of the Directors
+Fu Chengyu	2011-	Secretary	8010.101:Sinopec Corp.	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Fu Chengyu	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001039:Central Committee-Central Commission for Discipline Inspection
+Fu Chengyu	2003-2011	Chief Executive Officer	8010.115:China National Offshore Oil Corporation (CNOOC)
+Fu Chengyu	2003-2011	Chairman	8010.115:China National Offshore Oil Corporation	8010.115003:China National Offshore Oil Corporation-Board of Directors
+Fu Chengyu	2003-2011	General Manager	8010.115:China National Offshore Oil Corporation (CNOOC)
+Fu Chengyu	2002-2011	Chief Executive Officer	8010.014:China Oilfield Services Limited (COSL)
+Fu Chengyu	2002-2011	Chairman	8010.014:China Oilfield Services Limited (COSL)	8010.014001:China Oilfield Services Limited (COSL)-Board of Directors
+Fu Chengyu	2000-2002	Vice-President	8010.115:China National Offshore Oil Corporation (CNOOC)
+Fu Chengyu	1999-2000	Chief Operating Officer	8010.115:China National Offshore Oil Corporation (CNOOC)
+Fu Chengyu	1999-2000	Executive Vice-President	8010.115:China National Offshore Oil Corporation (CNOOC)
+Fu Chengyu	1999-2000	Executive Member	8010.115:China National Offshore Oil Corporation	8010.115003:China National Offshore Oil Corporation-Board of Directors
+Fu Chengyu	1999-2000	President	8010.115:China National Offshore Oil Corporation	8010.115066:China National Offshore Oil Corporation-Nanhai East Corporation
+Fu Chengyu	1995-1999	General Manager
+Fu Chengyu	1995-1999	Vice-President	8190.217:Phillips China Inc.
+Fu Chengyu	1994-1995	Vice-President	8010.115:China National Offshore Oil Corporation	8010.115066:China National Offshore Oil Corporation-Nanhai East Corporation	9560.006:Guangdong Province	9560.006027:Guangdong Province, Nanhai County
+Fu Chengyu	1983-1994	Chairman	8010.115:China National Offshore Oil Corporation	8010.115022:China National Offshore Oil Corporation-Joint Management Committee
+Fu Chuanzuo	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fu Chuanzuo	1969-1973	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fu Guihua	2002-2007	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fu Guihua	2002-	Vice-Governor	2050.101:People's Government	9560.009:Hainan Province
+Fu Guihua	1998-2002	Vice-Chairman	1810.101:CPPCC	1810.101039:CPPCC-City Committee	9560.009:Hainan Province	9560.009002:Hainan Province, Sanya City
+Fu Guihua	1998-2002	Member	1010.101:CPC	1010.101015:CPC-City Committee	1010.101015026:City Committee-Standing Committee	9560.009:Hainan Province	9560.009002:Hainan Province, Sanya City
+Fu Guihua	1988-1998	Director	6750.235:Hainan Provincial Women's Federation	9560.009:Hainan Province	9560.009002:Hainan Province, Sanya City
+Fu Guihua	1988-1989	Secretary	6750.235:Hainan Provincial Women's Federation	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.009:Hainan Province	9560.009002:Hainan Province, Sanya City
+Fu Guihua	1987-1988	Deputy Director	6750.235:Hainan Provincial Women's Federation	9560.009:Hainan Province	9560.009002:Hainan Province, Sanya City
+Fu Jiamo	1991-	Academician	6410.107:Chinese Academy of Sciences
+Fu Jiamo		Researcher	6900.719:Guangzhou Geochemical Institute
+Fu Jiamo	1961	Graduate	6410.107:Chinese Academy of Sciences	6410.107057:Chinese Academy of Sciences-Geological Research Institute
+Fu Jiamo	1956	Graduate	6020.224:Beijing College of Geosciences	9560.002:Beijing Municipality
+Fu Jianhua	2016-	Deputy Secretary	3200.604:State Administration of Work Safety	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Fu Jianhua	2016-	Deputy Director	3200.604:State Administration of Work Safety
+Fu Jianhua	2012-2017	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001039:Central Committee-Central Commission for Discipline Inspection
+Fu Jianhua	2012-2014	Director	3800.355:State Administration of Coal Mine Safety
+Fu Jianhua	2011-2012	Deputy Director	3200.604:State Administration of Work Safety
+Fu Jianhua	2005-2011	Deputy Director	3800.355:State Administration of Coal Mine Safety
+Fu Jianhua	2001-2005	Director	3800.355:State Administration of Coal Mine Safety	3800.355009:State Administration of Coal Mine Safety-Coal Mine Supervision Department
+Fu Jianhua	1999-2001	Deputy Team Leader	3800.355:State Administration of Coal Mine Safety
+Fu Jianhua	1998-1999	Staff Member	3100.171:State Economic and Trade Commission
+Fu Jianhua	1996-1998	Director	3100.332:Ministry of Coal Industry	3100.332022:Ministry of Coal Industry-Safety Department	3100.332022002:Safety Department-Ventilation Division
+Fu Jianhua	1993-1996	Deputy Director	3100.332:Ministry of Coal Industry	3100.332022:Ministry of Coal Industry-Safety Department	3100.332022002:Safety Department-Ventilation Division
+Fu Jianhua	1982-1985	Student	6020.234:China University of Mining and Technology	6020.234022:China University of Mining and Technology-Graduate Department	9560.002:Beijing Municipality
+Fu Jianhua	1978-1982	Student	6190.176:Fuxin Mining College	9560.023:Liaoning Province	9560.023041:Liaoning Province, Fuxin City
+Fu Jianhua	1976-1978	Cultural Revolution	1020.101:Cultural Revolution	1020.101106:Cultural Revolution-Rusticated Youth	9560.023:Liaoning Province	9560.023023:Liaoning Province, Dawa County
+Fu Kui	2014-	Deputy Director	3800.704:National Bureau of Corruption Prevention
+Fu Kuiqing	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fu Mingzhong	2001-	Chairman	8010.888:China National Corporation of Medicines
+Fu Mingzhong	2001-	Secretary	8010.888:China National Corporation of Medicines	1010.101:CPC	1010.101025:CPC-Party Committee
+Fu Mingzhong	1997-2001	Deputy Manager	8010.888:China National Corporation of Medicines
+Fu Mingzhong	1994-1997	Director of the Board	8010.523:Harbin Pharmaceutical Group Company, Ltd.	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Fu Mingzhong	1994-1995	General Manager	8010.187:Harbin Medical Group Co., Ltd.	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Fu Mingzhong	1994-1995	Secretary	8010.187:Harbin Medical Group Co., Ltd.	1010.101:CPC	1010.101025:CPC-Party Committee	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Fu Mingzhong	1992-1994	Deputy Director	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Fu Quanyou	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001037:Central Committee-Central Military Commission
+Fu Quanyou	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fu Quanyou	1995-2002	Chief-of-Staff	5110.101:PLA
+Fu Quanyou	1994-1998	Deputy Director	6770.147:National Committee for the Patriotic Public Health Campaign
+Fu Quanyou	1993-	Member	5010.101:Central Military Commission of the PRC
+Fu Quanyou	1993-	General	5110.101:PLA
+Fu Quanyou		Vice-Chairman	3200.702:National Afforestation Committee
+Fu Quanyou	1992-1997	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001037:Central Committee-Central Military Commission
+Fu Quanyou	1992-1995	Director	5110.101:PLA	5110.101005:PLA-General Logistics Department
+Fu Quanyou	1990-1992	Commander	5110.101:PLA	5110.101009:PLA-Regions	5110.101009051:Regions-Lanzhou Military Region
+Fu Quanyou	1988-1993	Lieutenant General	5110.101:PLA	5110.101009:PLA-Regions	5110.101009021:Regions-Chengdu Military Region
+Fu Quanyou	1987-1992	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fu Quanyou	1985-1988	Commander	5110.101:PLA	5110.101009:PLA-Regions	5110.101009021:Regions-Chengdu Military Region
+Fu Quanyou	1983-1985	Army Commander	5110.101:PLA	5110.101009:PLA-Regions	5110.101009021:Regions-Chengdu Military Region
+Fu Quanyou	1981-1983	Army Chief-of-Staff	5110.101:PLA	5110.101009:PLA-Regions	5110.101009021:Regions-Chengdu Military Region
+Fu Quanyou	1978-1980	Division Commander	5110.101:PLA	5110.101009:PLA-Regions	5110.101009021:Regions-Chengdu Military Region
+Fu Quanyou	1968-1969	Division Chief-of-Staff	5110.101:PLA	5110.101009:PLA-Regions	5110.101009021:Regions-Chengdu Military Region
+Fu Quanyou	1961-1964	Regiment Chief-of-Staff	5110.101:PLA	5110.101009:PLA-Regions	5110.101009021:Regions-Chengdu Military Region
+Fu Quanyou	1961	Graduate	6400.112:Military Academy of the Chinese PLA
+Fu Quanyou	1953-????	Soldier	5610.109:Korean War
+Fu Quanyou	1953-1958	Battalion Commander	5410.101:Chinese People's Volunteers	5610.109:Korean War
+Fu Quanyou	1950-1952	Battalion Chief-of-Staff	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022082:Services and Arms-Northwest Field Army
+Fu Quanyou	1950-1952	Company Commander	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022082:Services and Arms-Northwest Field Army
+Fu Quanyou	1948-1950	Deputy Company Commander	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022082:Services and Arms-Northwest Field Army
+Fu Quanyou		Participant	5610.117:Yanqing Campaign
+Fu Quanyou	1947	Joined	1010.101:CPC
+Fu Quanyou	1946	Joined	5110.101:PLA
+Fu Shouzheng	2003-	Vice-Chairman	1810.101:CPPCC	1810.101033:CPPCC-Autonomous Regional Committee	9560.017:Inner Mongolia Autonomous Region
+Fu Shouzheng	1999	Student	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School	1010.101001031015:Central Party School-Training Course for Provincial and Ministerial Officials
+Fu Shouzheng	1998-2003	Secretary	2050.106:Autonomous Region People's Government	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.017:Inner Mongolia Autonomous Region
+Fu Shouzheng	1998-2003	Vice-Governor	2050.101:People's Government	9560.017:Inner Mongolia Autonomous Region
+Fu Shouzheng	1994-1998	Director	2410.135:Agricultural Department	9560.017:Inner Mongolia Autonomous Region
+Fu Shouzheng	1994-1998	Secretary	2410.135:Agricultural Department	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.017:Inner Mongolia Autonomous Region
+Fu Shouzheng	1992-1994	Leader	2410.135:Agricultural Department	2410.135009:Agricultural Department-Preparatory Group	9560.017:Inner Mongolia Autonomous Region
+Fu Shouzheng	1992-1994	Secretary	2210.182:Agricultural Committee	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.017:Inner Mongolia Autonomous Region
+Fu Shouzheng	1992-1994	Director	2210.182:Agricultural Committee	9560.017:Inner Mongolia Autonomous Region
+Fu Shouzheng	1989-1992	Governor	2050.101:People's Government	9560.017:Inner Mongolia Autonomous Region	9560.017011:Inner Mongolia Autonomous Region, Bayannur League
+Fu Shouzheng	1983-1985	Student	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School
+Fu Shouzheng	1982-1985	Secretary	1010.101:CPC	1010.101021:CPC-Autonomous County Committee	9560.017:Inner Mongolia Autonomous Region	9560.017058:Inner Mongolia Autonomous Region, Linhe County
+Fu Shouzheng	1980-1982	Deputy Secretary	1010.101:CPC	1010.101021:CPC-Autonomous County Committee	9560.017:Inner Mongolia Autonomous Region	9560.017058:Inner Mongolia Autonomous Region, Linhe County
+Fu Shouzheng	1979-1980	Deputy Secretary	1010.101:CPC	1010.101081:CPC-Banner Committee	9560.017:Inner Mongolia Autonomous Region	9560.017057:Inner Mongolia Autonomous Region, Hanggin Rear Banner
+Fu Shouzheng	1979-1992	Deputy Secretary	1010.101:CPC	1010.101061:CPC-League Committee	9560.017:Inner Mongolia Autonomous Region	9560.017011:Inner Mongolia Autonomous Region, Bayannur League
+Fu Shouzheng	1978-1979	Student	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School
+Fu Shouzheng	1976-1978	Deputy Secretary	1010.101:CPC	1010.101061:CPC-League Committee	9560.017:Inner Mongolia Autonomous Region	9560.017011:Inner Mongolia Autonomous Region, Bayannur League
+Fu Shouzheng	1973-1978	Deputy Secretary	1010.101:CPC	1010.101021:CPC-Autonomous County Committee	9560.017:Inner Mongolia Autonomous Region	9560.017056:Inner Mongolia Autonomous Region, Wuyuan County
+Fu Shouzheng	1971-1973	Deputy Secretary	6950.109:Shengfeng Commune	1010.101:CPC	1010.101025:CPC-Party Committee	9560.017:Inner Mongolia Autonomous Region	9560.017056:Inner Mongolia Autonomous Region, Wuyuan County
+Fu Shouzheng	1966-1971	Farmer	9560.017:Inner Mongolia Autonomous Region	9560.017056:Inner Mongolia Autonomous Region, Wuyuan County
+Fu Shouzheng	1965	Joined	1010.101:CPC
+Fu Shouzheng	1964-1966	Worker	9560.017:Inner Mongolia Autonomous Region	9560.017056:Inner Mongolia Autonomous Region, Wuyuan County
+Fu Shuangjian	2008-	Deputy Director	3200.141:State Administration of Industry and Commerce
+Fu Shuangjian	2002-2008	Vice-Governor	2050.101:People's Government	9560.011:Hebei Province
+Fu Shuangjian	2000-2002	Director	2190.447:Bureau of Land and Resources	9560.011:Hebei Province
+Fu Shuangjian	2000-2002	Director	2410.931:Oceanic Administration	9560.011:Hebei Province
+Fu Shuangjian	1998-2000	Director	2190.174:Metallurgy Bureau	9560.011:Hebei Province
+Fu Shuangjian	1995-2000	Deputy Director	2210.451:Economic and Trade Committee	9560.011:Hebei Province
+Fu Shuangjian	1991-1994	Student	6020.108:Beijing University of Science and Technology	9560.002:Beijing Municipality
+Fu Shuangjian	1983-1985	Student	6190.119:Anshan Institute of Iron and Engineering	6190.119008:Anshan Institute of Iron and Engineering-Management Department	9560.023:Liaoning Province	9560.023003:Liaoning Province, Anshan City
+Fu Shuangjian	1974	Joined	1010.101:CPC
+Fu Tieshan	2003-	Vice-Chairman	1610.101:Standing Committee of the NPC
+Fu Tieshan	2000-	Vice-President	6770.169:China Anti-Cult Association
+Fu Tieshan	1999-	Vice-President	6770.166:Chinese Association for International Understanding (CAIU)
+Fu Tieshan	1998-2003	Member	1610.101:Standing Committee of the NPC
+Fu Tieshan	1998-2003	Vice-Chairman	1810.101:CPPCC	1810.101035:CPPCC-Municipal Committee	9560.002:Beijing Municipality
+Fu Tieshan	1998-	Chairman	6770.167:Chinese Patriotic Catholic Association	9560.002:Beijing Municipality
+Fu Tieshan	1993-1998	Vice-Chairman	6770.167:Chinese Patriotic Catholic Association	9560.002:Beijing Municipality
+Fu Tieshan	1993-	Chairman	6770.168:Beijing Patriotic Catholic Association	9560.002:Beijing Municipality
+Fu Tieshan	1993-1998	Member	1610.203:Education, Science, Culture and Health Committee of the NPC
+Fu Tieshan	1993-1998	Member	1610.101:Standing Committee of the NPC
+Fu Tieshan	1988-1993	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Fu Tieshan		Member	1810.101:CPPCC	1810.101035:CPPCC-Municipal Committee	1810.101035001:Municipal Committee-Standing Committee	9560.002:Beijing Municipality
+Fu Tieshan	1983-1988	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Fu Tieshan		Council Member	6770.166:Chinese Association for International Understanding (CAIU)
+Fu Tieshan		Council Member	6770.165:China Welfare Fund for the Handicapped
+Fu Tieshan	1979	Bishop	6930.101:Catholic Diocese of Beijing	9560.002:Beijing Municipality
+Fu Tieshan	1956	Priest	6930.201:Xishiku Cathedral	9560.002:Beijing Municipality
+Fu Tieshan	1954	Graduate	6020.201:Beijing Wensheng College	6020.201009:Beijing Wensheng College-Theology and Philosophy Department	9560.002:Beijing Municipality
+Fu Tinggui	2010-2013	Deputy Director	1610.213:Agriculture and Rural Affairs Committee of the NPC
+Fu Tinggui	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fu Tinggui	2006-	General	5110.101:PLA
+Fu Tinggui	2003-2010	Political Commissar	5110.101:PLA	5110.101009:PLA-Regions	5110.101009011:Regions-Beijing Military Region	9560.002:Beijing Municipality
+Fu Tinggui	2002-2006	Lieutenant General	5110.101:PLA
+Fu Tinggui	2002-2007	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fu Tinggui	2001-2003	Member	5110.101:PLA	5110.101009:PLA-Regions	5110.101009011:Regions-Beijing Military Region	1010.101:CPC	1010.101025:CPC-Party Committee	1010.101025001:Party Committee-Standing Committee	9560.002:Beijing Municipality
+Fu Tinggui	2001-2001	Student	6400.130:University of National Defense	6400.130004:University of National Defense-Cadre Training Department
+Fu Tinggui	2001-2003	Director	5110.101:PLA	5110.101009:PLA-Regions	5110.101009011:Regions-Beijing Military Region	5110.101009011009:Beijing Military Region-Political Department	9560.002:Beijing Municipality
+Fu Tinggui	2000-2002	Student	6190.101:Liaoning University	6190.101007:Liaoning University-History Department	9560.023:Liaoning Province
+Fu Tinggui	1994-2002	Major General	5110.101:PLA
+Fu Tinggui	1994-2001	Commissar	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022035:Services and Arms-Group Army
+Fu Tinggui	1992-1994	Student	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School
+Fu Tinggui	1991-1994	Director	5110.101:PLA	5110.101009:PLA-Regions	5110.101009071:Regions-Shenyang Military Region	5110.101009071022:Shenyang Military Region-Jilin Military District
+Fu Tinggui	1988-1991	Deputy Director	5110.101:PLA	5110.101022:PLA-Services and Arms	5110.101022035:Services and Arms-Group Army	5110.101022035001:Group Army-Political Department
+Fu Tinggui	1985-1988	Student	6400.130:University of National Defense	6400.130002:University of National Defense-Basic Department
+Fu Tinggui	1979-1980	Deputy Section Chief	5110.101:PLA	5110.101009:PLA-Regions	5110.101009071:Regions-Shenyang Military Region	5110.101009071008:Shenyang Military Region-Organization Department	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Fu Tinggui	1971-1979	Secretary	5110.101:PLA	5110.101009:PLA-Regions	5110.101009071:Regions-Shenyang Military Region	5110.101009071007:Shenyang Military Region-Political Department	9560.023:Liaoning Province	9560.023001:Liaoning Province, Shenyang City
+Fu Tinggui	1966	Joined	1010.101:CPC
+Fu Tinggui	1963	Joined	5110.101:PLA
+Fu Weiyuan	1996-	Vice-President	8010.526:SINOCHEM (China National Chemicals Import & Export Company)
+Fu Weiyuan		Graduate	6020.237:Beijing Foreign Trade Institute	6020.237009:Beijing Foreign Trade Institute-Economics Department	9560.002:Beijing Municipality
+Fu Wenjuan	2008-	Vice-Minister	3200.201:Ministry of Environmental Protection
+Fu Wenjuan	2007-	Member	3200.201:Ministry of Environmental Protection	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Fu Wenjuan	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001039:Central Committee-Central Commission for Discipline Inspection
+Fu Wenjuan	2007-2008	Chief Disciplinary Officer	3200.201:Ministry of Environmental Protection
+Fu Wenjuan	2001-2007	Vice-Minister	3100.331:Ministry of Construction
+Fu Wenjuan	2001-2007	Member	3100.331:Ministry of Construction	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Fu Wenjuan	1999-2001	Director	3100.331:Ministry of Construction	3100.331002:Ministry of Construction-Human Resources Department
+Fu Wenjuan	1988-1999	Deputy Director	3100.331:Ministry of Construction	3100.331003:Ministry of Construction-Construction Supervision Department
+Fu Wenjuan	1988-1999	Deputy Director	3100.331:Ministry of Construction	3100.331002:Ministry of Construction-Human Resources Department
+Fu Wenjuan	1983-1988	Deputy Director	3100.141:Ministry of Housing and Urban-Rural Development	3100.141009:Ministry of Housing and Urban-Rural Development-Business Management Department
+Fu Wenjuan	1972	Joined	1010.101:CPC
+Fu Wenjuan		Student	6250.102:Tongji University	6250.102004:Tongji University-Construction Management Department	9560.029:Shanghai Municipality
+Fu Xingguo	2008-	Deputy Director	3200.811:State Bureau of Civil Servants
+Fu Xingguo	2008-	Member	3200.811:State Bureau of Civil Servants	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Fu Xingguo	1986-1989	Graduate	6020.111:Beijing Normal University	9560.002:Beijing Municipality
+Fu Xishou		Chairman	6750.162:Anhui Provincial Disabled Persons' Federation	9560.001:Anhui Province
+Fu Xishou	1998-2003	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Fu Xishou	1993-1998	Deputy	1610.001:NPC
+Fu Xishou	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee	1810.101001002:National Committee-Standing Committee
+Fu Xishou	1992-1997	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fu Xishou	1989-1995	Governor	2050.101:People's Government	9560.001:Anhui Province
+Fu Xishou	1988-1989	Vice-Governor	2050.101:People's Government	9560.001:Anhui Province
+Fu Xishou	1987-1992	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fu Xishou	1987-1988	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.001:Anhui Province
+Fu Xishou	1984-1987	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.001:Anhui Province	9560.001006:Anhui Province, Ma'anshan City
+Fu Xishou	1984-1987	Secretary	8010.164:Ma'anshan Iron and Steel Group Co., Ltd.	1010.101:CPC	1010.101025:CPC-Party Committee	9560.001:Anhui Province	9560.001006:Anhui Province, Ma'anshan City
+Fu Xishou	1984-1987	Manager	8010.164:Ma'anshan Iron and Steel Group Co., Ltd.	9560.001:Anhui Province	9560.001006:Anhui Province, Ma'anshan City
+Fu Xishou	1982-1984	Director	6900.117:Ma'anshan Iron and Steel Design and Research Institute	9560.001:Anhui Province	9560.001006:Anhui Province, Ma'anshan City
+Fu Xishou	1978-1982	Deputy Director	6900.116:Chongqing Iron and Steel Designing Institute	9560.003:Chongqing Municipality
+Fu Xishou	1966-1978	Deputy Chief Engineer	6900.116:Chongqing Iron and Steel Designing Institute	9560.003:Chongqing Municipality
+Fu Xishou		Chief Designer	8010.297:Panzhihua Iron and Steel Project	9560.031:Sichuan Province	9560.031006:Sichuan Province, Panzhihua City
+Fu Xishou	1959	Joined	1010.101:CPC
+Fu Xishou	1950-1953	Student	6020.102:Tsinghua University	6020.102008:Tsinghua University-Civil Engineering Department	9560.002:Beijing Municipality
+Fu Xuanyi	2013-2015	Deputy Director	3100.144:State Railway Administration
+Fu Xuanyi	1978-1982	Student	6150.127:Changsha Railway University
+Fu Ying	2013-	Director	1610.204:Foreign Affairs Committee of the NPC
+Fu Ying	2010-2013	Vice-Minister	3100.101:Ministry of Foreign Affairs
+Fu Ying	2007-2009	Ambassador	7210.101:Chinese Embassy	9470.:United Kingdom	9470.113:United Kingdom, London
+Fu Ying	2003-2007	Ambassador	7210.101:Chinese Embassy	9270.:Australia	9270.103:Australia, Canberra
+Fu Ying	2000-2003	Director	3100.101:Ministry of Foreign Affairs	3100.101001:Ministry of Foreign Affairs-Asian Affairs Department
+Fu Ying	1998-2000	Ambassador	7210.101:Chinese Embassy	9710.:Philippines	9710.101:Philippines, Manila
+Fu Ying	1997-1998	Counselor	7210.101:Chinese Embassy	9390.:Indonesia	9390.103:Indonesia, Jakarta
+Fu Ying	1993-1997	Counselor	3100.101:Ministry of Foreign Affairs	3100.101001:Ministry of Foreign Affairs-Asian Affairs Department
+Fu Ying	1992-1993	Staff Member	7250.101:United Nations	7250.101011:United Nations-Transitional Authority	9290.:Cambodia	9290.101:Cambodia, Phnom Penh
+Fu Ying	1985-1986	Postgraduate	6490.722:University of Kent	9470.:United Kingdom	9470.128:United Kingdom, Kent
+Fu Ying	1982-1992	Deputy Head	3100.101:Ministry of Foreign Affairs	3100.101021:Ministry of Foreign Affairs-Translation and Interpretation Department
+Fu Ying	1978-1982	Attache	7210.101:Chinese Embassy	9730.:Romania	9730.101:Romania, Bucharest
+Fu Yuelan	2007-2012	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fu Yuelan	2007-	Vice-Governor	2050.101:People's Government	9560.009:Hainan Province
+Fu Yuelan	2007-2007	Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005005:Provincial Committee-United Front Work Department	9560.009:Hainan Province
+Fu Yuelan	2002-2006	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.009:Hainan Province
+Fu Yuelan	1997-2002	Deputy Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.009:Hainan Province	9560.009007:Hainan Province, Qiongzhong
+Fu Yuelan	1974	Joined	1010.101:CPC
+Fu Zhenghua	2013-	Vice-Minister	3100.241:Ministry of Public Security
+Fu Zhenghua	2010-2013	Director	2410.116:Public Security Department	9560.002:Beijing Municipality
+Fu Zhenghua	2010-2013	Secretary	2410.116:Public Security Department	1010.101:CPC	1010.101025:CPC-Party Committee	9560.002:Beijing Municipality
+Fu Zhenghua	2010-2013	Deputy Secretary	1010.101:CPC	1010.101009:CPC-Municipal Committee	1010.101009017:Municipal Committee-Political Science and Law Committee	9560.002:Beijing Municipality
+Fu Zhengyi		 (State Invention Patent) 
+Fu Zhengyi		 (1st-class Provincial Natural Science Award) 
+Fu Zhengyi		 (1st-class Provincial Invention Award) 
+Fu Zhengyi		 (1st-class Ministerial Science and Technology Advancement Award) 
+Fu Zhengyi		 (1st-class National Science and Technology Advancement Award) 
+Fu Zhengyi		 (May 4th Medal
+Fu Zhengyi		 (Granted Title
+Fu Zhengyi		 (Granted Title
+Fu Zhengyi		 (2nd-Level Candidate
+Fu Zhengyi		 (1st-Level Candidate
+Fu Zhengyi	1991	Completed Dissertation Work	6490.588:University of California
+Fu Zhifang	2010-	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.011:Hebei Province
+Fu Zhifang	2007-2012	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fu Zhifang	2006-2010	Vice-Governor	2050.101:People's Government	9560.011:Hebei Province
+Fu Zhifang	2006-2010	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.011:Hebei Province
+Fu Zhifang	2006-2010	Deputy Secretary	2050.101:People's Government	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.011:Hebei Province
+Fu Zhifang	2001-2006	Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005016:Provincial Committee-Organization Department	9560.011:Hebei Province
+Fu Zhifang	2001-	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.011:Hebei Province
+Fu Zhifang	2000-2001	Student	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001031:Central Committee-Central Party School	1010.101001031017:Central Party School-Cadre Training Class
+Fu Zhifang	1998-2001	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.011:Hebei Province	9560.011003:Hebei Province, Baoding City
+Fu Zhifang	1998-2001	Mayor	2050.101:People's Government	9560.011:Hebei Province	9560.011003:Hebei Province, Baoding City
+Fu Zhifang	1997-1998	Deputy Secretary	1010.101:CPC	1010.101015:CPC-City Committee	9560.013:Henan Province	9560.013006:Henan Province, Kaifeng City
+Fu Zhifang	1997-1998	Mayor	2050.101:People's Government	9560.013:Henan Province	9560.013006:Henan Province, Kaifeng City
+Fu Zhifang	1996-1997	Acting Mayor	2050.101:People's Government	9560.013:Henan Province	9560.013006:Henan Province, Kaifeng City
+Fu Zhifang	1993-1996	Student	6290.102:Tianjin University	9560.033:Tianjin Municipality
+Fu Zhifang	1991-1994	Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.013:Henan Province	9560.013037:Henan Province, Lingbao County
+Fu Zhifang	1987-1991	Head	2050.101:People's Government	9560.013:Henan Province	9560.013076:Henan Province, Lushi County
+Fu Zhifang	1987-1991	Deputy Secretary	1010.101:CPC	1010.101019:CPC-County Committee	9560.013:Henan Province	9560.013076:Henan Province, Lushi County
+Fu Zhifang	1985-1987	Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005016:Provincial Committee-Organization Department	9560.013:Henan Province
+Fu Zhifang	1985-1986	Student	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005022:Provincial Committee-Party School	9560.013:Henan Province
+Fu Zhifang	1985-1987	Deputy Director	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005016:Provincial Committee-Organization Department	9560.013:Henan Province
+Fu Zhifang	1985-1987	Member	1010.101:CPC	1010.101005:CPC-Provincial Committee	1010.101005001:Provincial Committee-Standing Committee	9560.013:Henan Province
+Fu Zhifang	1982-1985	Secretary	6777.101:CYLC	6777.101201:CYLC-Provincial-Level	9560.013:Henan Province
+Fu Zhifang	1978-1982	Student	6120.102:Henan University	6120.102009:Henan University-History Department	9560.013:Henan Province	9560.013006:Henan Province, Kaifeng City
+Fu Zhihuan	2003-	Chairman	1610.207:Financial and Economic Affairs Committee of the NPC
+Fu Zhihuan	2002-2003	Minister	3100.351:Ministry of Railways
+Fu Zhihuan	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Fu Zhihuan	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001039:Central Committee-Central Commission for Discipline Inspection
+Fu Zhihuan	1990-1997	Vice-Minister	3100.351:Ministry of Railways
+Fu Zhihuan	1989-1990	Director	2190.148:Railway Bureau	9560.012:Heilongjiang Province	9560.012001:Heilongjiang Province, Harbin City
+Fu Zhihuan	1985-1989	Director	3100.351:Ministry of Railways	3100.351008:Ministry of Railways-Science and Technology Bureau
+Fu Zhihuan	1984-1985	Chief Engineer	3100.351:Ministry of Railways	3100.351008:Ministry of Railways-Science and Technology Bureau
+Fu Zhihuan	1975-1984	Deputy Director	3100.351:Ministry of Railways	3100.351031:Ministry of Railways-Zhuzhou Electric Engineering Research Institute	9560.016:Hunan Province	9560.016005:Hunan Province, Zhuzhou City
+Fu Zhihuan	1966	Joined	1010.101:CPC
+Fu Zhihuan	1965-1971	Chief	3100.351:Ministry of Railways	3100.351031:Ministry of Railways-Zhuzhou Electric Engineering Research Institute	3100.351031009:Zhuzhou Electric Engineering Research Institute-Research Office	9560.016:Hunan Province	9560.016005:Hunan Province, Zhuzhou City
+Fu Zhihuan	1965-1971	Deputy Chief	3100.351:Ministry of Railways	3100.351031:Ministry of Railways-Zhuzhou Electric Engineering Research Institute	9560.016:Hunan Province	9560.016005:Hunan Province, Zhuzhou City
+Fu Zhihuan	1961-1965	Technician	3100.351:Ministry of Railways	3100.351031:Ministry of Railways-Zhuzhou Electric Engineering Research Institute	9560.016:Hunan Province	9560.016005:Hunan Province, Zhuzhou City
+Fu Zhihuan	1961	Graduate	6490.267:Moscow Railway Institute	6490.267009:Moscow Railway Institute-Railway Electrification Department	9760.:Russia	9760.101:Russia, Moscow
+Fu Ziying	2017-	China International Trade Representative	3100.276:Ministry of Commerce
+Fu Ziying	2017-	Vice-Minister	3100.276:Ministry of Commerce
+Fu Ziying	2011-2017	Vice-Governor	2050.101:People's Government	9560.018:Jiangsu Province
+Fu Ziying	2011-2017	Member	2050.101:People's Government	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.018:Jiangsu Province
+Fu Ziying	2008-2011	Vice-Minister	3100.276:Ministry of Commerce
+Fu Ziying	2003-2008	Director	3100.276:Ministry of Commerce	3100.276012:Ministry of Commerce-Planning and Finance Affairs Department
+Fu Ziying	2003-2003	Director	3100.276:Ministry of Commerce	3100.276008:Ministry of Commerce-Finance Department
+Fu Ziying	2003-2008	Assistant Minister	3100.276:Ministry of Commerce
+Fu Ziying	2003-2011	Member	3100.276:Ministry of Commerce	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Fu Ziying	1997-2003	Director	3100.721:Ministry of Foreign Trade and Economic Cooperation	3100.721003:Ministry of Foreign Trade and Economic Cooperation-Finance Department
+Fu Ziying	1974-1976	Cultural Revolution	1020.101:Cultural Revolution	1020.101106:Cultural Revolution-Rusticated Youth	9560.016:Hunan Province	9560.016002:Hunan Province, Yueyang County
+Fu Zuoyi	1964-1978	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee

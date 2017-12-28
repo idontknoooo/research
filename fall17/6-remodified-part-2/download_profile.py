@@ -22,6 +22,7 @@ def extract(i, career_href, letter):
     wb = xlwt.workbook()
     ws = wb.add_sheet(i)
     '''
+    delimiter = '@'
     wb = open('cv-'+str(letter)+'.txt', mode='a', encoding='utf-8', newline="\n")
     headers = {
         'User-Agent': "Mozilla/5.0  (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"}
@@ -38,8 +39,9 @@ def extract(i, career_href, letter):
     # name is the last tr content
     cur_name = all_tr[num_tr-1].get_text() # name without url
     cur_name = cur_name.replace('\n','')
+    cur_name = cur_name.replace(' ', delimiter)
     index = 0
-    delimiter = '\t'
+
     try:
         for td in all_tr[0:num_tr-5]:
             # print(td)
@@ -52,6 +54,16 @@ def extract(i, career_href, letter):
             '''
             year = all_td[0].get_text().split(',')[0] # Year
             year = year.replace('—', '-')
+            year = year.split('-')
+            start_year = end_year = ''
+            try:
+                start_year = year[0]
+            except:
+                pass
+            try:
+                end_year = year[1]
+            except:
+                pass
             #print(all_td)
             title = all_td[1].get_text().split(',')[0] # Title
             # print(all_td[1].get_text() + '\n')
@@ -71,30 +83,52 @@ def extract(i, career_href, letter):
                         experience.append(tmp_experience)
                     # experience[a['href'].split('/')[-1]] = a.text
 
-            result = cur_name + delimiter + year + delimiter + title + delimiter
+            result = cur_name + delimiter + start_year + delimiter + end_year + delimiter + title + delimiter
 
+            # prev_key = '$'
+            # prev_val = ''
+            # for item in experience:
+            #     if item[0].find(prev_key) >= 0:
+            #         result += item[0] + ':' + prev_val + '-' + item[1] + delimiter
+            #     else:
+            #         result += item[0] + ':' + item[1] + delimiter
+            #     prev_key = item[0]
+            #     prev_val = item[1]
+                
+            # prev_loc_key = '$'
+            # prev_loc_val = ''
+            # if locations:
+            #     for location in locations:
+            #         if location[0].find(prev_loc_key) >= 0:
+            #             result += location[0] + ':' + prev_loc_val + ', ' + location[1] + delimiter
+            #         else:
+            #             result += location[0] + ':' + location[1] + delimiter
+            #         prev_loc_key = location[0]
+            #         prev_loc_val = location[1]
+            # delimiter = '@'
             prev_key = '$'
             prev_val = ''
             for item in experience:
                 if item[0].find(prev_key) >= 0:
-                    result += item[0] + ':' + prev_val + '-' + item[1] + delimiter
+                    result += item[0] + delimiter + prev_val + '-' + item[1] + delimiter
                 else:
-                    result += item[0] + ':' + item[1] + delimiter
+                    result += item[0] + delimiter + item[1] + delimiter
                 prev_key = item[0]
                 prev_val = item[1]
-                
+
+            # result += delimiter
+
             prev_loc_key = '$'
             prev_loc_val = ''
             if locations:
                 for location in locations:
                     if location[0].find(prev_loc_key) >= 0:
-                        result += location[0] + ':' + prev_loc_val + ', ' + location[1] + delimiter
+                        result += str(location[0]) + delimiter + prev_loc_val + ', ' + location[1] + delimiter
                     else:
-                        result += location[0] + ':' + location[1] + delimiter
+                        result += str(location[0]) + delimiter + location[1] + delimiter
                     prev_loc_key = location[0]
                     prev_loc_val = location[1]
-            
-            result = result[:-len(delimiter)]
+            # result = result[:-len(delimiter)]
                 # pass
                 
             result += '\n'

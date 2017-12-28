@@ -1,0 +1,152 @@
+Kan Ke	2011-	Deputy Director	1610.216:Legislative Affairs Committee of the NPC
+Kan Zhidong	1999-	General Manager	8530.117:Shenzhen Technology Venture Capital Co.	9560.006:Guangdong Province	9560.006002:Guangdong Province, Shenzhen City
+Kan Zhidong	1999-	Vice-President	8530.117:Shenzhen Technology Venture Capital Co.	9560.006:Guangdong Province	9560.006002:Guangdong Province, Shenzhen City
+Kan Zhidong	1990-1997	Director	8530.116:Shenzhen Stock Exchange	9560.006:Guangdong Province	9560.006002:Guangdong Province, Shenzhen City
+Kan Zhidong	1990-1997	President	6770.341:Securities Association of Shanghai	9560.029:Shanghai Municipality
+Kan Zhidong	1990-1997	President	8530.113:Shanghai Shenyin Securities Co.	9560.029:Shanghai Municipality
+Kan Zhidong	1990-1997	Corporate Representative	8530.114:Shenyin & Wanguo Securities Co.
+Kan Zhidong	1990-1997	Deputy Director-General	8530.115:Shanghai Stock Exchange	9560.029:Shanghai Municipality
+Kan Zhidong	1988-1990	Deputy General Manager	8510.105:Industrial and Commercial Banks of China	8510.105021:Industrial and Commercial Banks of China-Shanghai Trust Investment Branch	9560.029:Shanghai Municipality
+Kan Zhidong	1987-1988	Student	6777.101:CYLC	6777.101101:CYLC-Central Committee	6777.101101018:Central Committee-Party School
+Kan Zhidong	1979-????	Worker	8510.101:People's Bank of China	8510.101003:People's Bank of China-Municipal Branch	9560.029:Shanghai Municipality
+Kang Dian		Chairman	8010.637:Guangnan Group Company
+Kang Dian		Graduate	6020.108:Beijing University of Science and Technology	9560.002:Beijing Municipality
+Kang Jianmin	1973-1977	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kang Jianmin	1969-1973	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kang Keqing	1988-1993	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Kang Keqing	1983-1988	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Kang Keqing	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kang Keqing	1978-1983	Vice-Chairman	1810.101:CPPCC	1810.101001:CPPCC-National Committee
+Kang Keqing	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kang Lin	1977-1982	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kang Lin	1973-1977	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kang Lin	1969-1973	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kang Rixin	2007-2012	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kang Rixin	1999-2010	Secretary	8010.163:China National Nuclear Corporation (CNNC)	1010.101:CPC	1010.101025:CPC-Party Committee
+Kang Rixin	1999-2010	Deputy General Manager	8010.163:China National Nuclear Corporation (CNNC)
+Kang Rixin	1996-1999	General Manager
+Kang Rixin	1996-1999	Chairman	8010.503:3rd Qinshan Nuclear Power Company
+Kang Rixin	1996-1999	Senior Engineer	8010.503:3rd Qinshan Nuclear Power Company
+Kang Rixin	1996-1999	Assistant General Manager	8010.163:China National Nuclear Corporation (CNNC)
+Kang Rixin	1982	Joined	1010.101:CPC
+Kang Rixin	1978-1996	Deputy Institute Director	6410.135:China Atomic Energy Scientific Research Institute
+Kang Rixin	1978-1996	Secretary	6410.135:China Atomic Energy Scientific Research Institute	1010.101:CPC	1010.101041:CPC-Party Branch
+Kang Rixin	1978-1996	Deputy Chairman	6410.135:China Atomic Energy Scientific Research Institute
+Kang Rixin	1978-1996	Senior Engineer	6410.135:China Atomic Energy Scientific Research Institute
+Kang Rixin	1978-1996	Engineer	6410.135:China Atomic Energy Scientific Research Institute
+Kang Rixin	1978-1996	Assistant Engineer	6410.135:China Atomic Energy Scientific Research Institute
+Kang Rixin	1978	Graduate	6250.104:Jiaotong University	9560.029:Shanghai Municipality
+Kang Rixin	1975-1978	Student	6250.104:Jiaotong University	9560.029:Shanghai Municipality
+Kang Rixin	1972-1975	Worker	2190.259:Bureau for Water Resources and Meteorology	9560.025:Qinghai Province	9560.025005:Qinghai Province, Datong County
+Kang Shien	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kang Shien	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Ke Hanmin	2009-	Deputy Procurator-General	4100.101:Supreme People's Procuratorate
+Ke Hanmin	2009-	Member	4100.101:Supreme People's Procuratorate	4100.101008:Supreme People's Procuratorate-Procuratorial Committee
+Ke Hanmin	2008-2009	Procurator-General	4150.101:Provincial People's Procuratorate	9560.026:Shanxi Province
+Ke Hanmin	2007-2009	Secretary	4150.101:Provincial People's Procuratorate	1010.101:CPC	1010.101025:CPC-Party Committee	9560.026:Shanxi Province
+Ke Hanmin	2007-2008	Deputy Procurator-General	4150.101:Provincial People's Procuratorate	9560.026:Shanxi Province
+Ke Hanmin	2007-2008	Acting Procurator-General	4150.101:Provincial People's Procuratorate	9560.026:Shanxi Province
+Ke Hanmin	2003-2007	Procurator-General	4150.101:Provincial People's Procuratorate	9560.001:Anhui Province
+Ke Hanmin	1998-2003	Deputy Procurator-General	4150.101:Provincial People's Procuratorate	9560.001:Anhui Province
+Ke Hanmin	1998-2003	Deputy Secretary	4150.101:Provincial People's Procuratorate	1010.101:CPC	1010.101025:CPC-Party Committee	9560.001:Anhui Province
+Ke Hanmin	1996-1998	Deputy Procurator-General	4150.101:Provincial People's Procuratorate	1010.101:CPC	1010.101031:CPC-Leading Party Group	9560.001:Anhui Province
+Ke Hanmin	1992-1993	Vice-Mayor	2050.101:People's Government	9560.004:Fujian Province	9560.004002:Fujian Province, Quanzhou City
+Ke Hanmin	1985-1990	Assistant Procurator	4100.101:Supreme People's Procuratorate
+Ke Hanmin	1978-1982	Student	6030.106:Southwest University of Political Science and Law	9560.003:Chongqing Municipality
+Ke Hanmin	1974	Joined	1010.101:CPC
+Ke Jun		Professor	6020.202:Beijing Science and Technology University	9560.002:Beijing Municipality
+Ke Jun	1988	Graduate	6490.705:University of Surrey	9470.:United Kingdom	9470.116:United Kingdom, Surrey
+Ke Jun	1984	Graduate	6490.402:McMaster University	9310.:Canada	9310.301:Canada, Hamilton
+Ke Jun	1980-	Academician	6410.107:Chinese Academy of Sciences
+Ke Jun	1948	Graduate	6490.165:The University of Birmingham	9470.:United Kingdom	9470.111:United Kingdom, Birmingham
+Ke Jun	1938	Graduate	6140.101:Wuhan University	9560.015:Hubei Province	9560.015001:Hubei Province, Wuhan City
+Ke Qingshi	1956-1969	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Ke Zunping	2013-	Deputy Secretary	1010.101:CPC	1010.101005:CPC-Provincial Committee	9560.031:Sichuan Province
+Ke Zunping	2012-2017	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Ke Zunping	2001-	Vice-Governor	2050.101:People's Government	9560.031:Sichuan Province
+Ke Zunping	2000-2001	Assistant to Governor	2050.101:People's Government	9560.031:Sichuan Province
+Ke Zunping	1999-2000	Secretary	6270.125:Southwest China Communications University	1010.101:CPC	1010.101025:CPC-Party Committee	9560.031:Sichuan Province
+Ke Zunping	1995-1999	Vice-President	6270.125:Southwest China Communications University	9560.031:Sichuan Province
+Ke Zunping	1993-1995	Secretary	6270.125:Southwest China Communications University	6270.125006:Southwest China Communications University-Computer and Communications Department	1010.101:CPC	1010.101071:CPC-General Branch	9560.031:Sichuan Province
+Ke Zunping	1987-1993	Director	6270.125:Southwest China Communications University	1010.101:CPC	1010.101025:CPC-Party Committee	9560.031:Sichuan Province
+Ke Zunping	1987-1993	Secretary	6270.125:Southwest China Communications University	1010.101:CPC	1010.101025:CPC-Party Committee	9560.031:Sichuan Province
+Ke Zunping	1982-1987	Secretary	6270.125:Southwest China Communications University	6270.125009:Southwest China Communications University-Physics Department	1010.101:CPC	1010.101041:CPC-Party Branch	9560.031:Sichuan Province
+Ke Zunping	1982-1987	Secretary	6270.125:Southwest China Communications University	6270.125007:Southwest China Communications University-Mathematics Mechanics Department	1010.101:CPC	1010.101071:CPC-General Branch	9560.031:Sichuan Province
+Ke Zunping	1982-1987	Assistant	6270.125:Southwest China Communications University	6270.125008:Southwest China Communications University-Basic Department	9560.031:Sichuan Province
+Ke Zunping	1978-1982	Student	6270.125:Southwest China Communications University	6270.125009:Southwest China Communications University-Physics Department	9560.031:Sichuan Province
+Ke Zunping	1977-1978	Cadre	2190.148:Railway Bureau	9560.027:Shaanxi Province	9560.027001:Shaanxi Province, Xi'an City
+Ke Zunping	1975	Joined	1010.101:CPC
+Ke Zunping	1974-1977	Educated Youth	6950.779:Kang County People's Commune	9560.027:Shaanxi Province	9560.027041:Shaanxi Province, Kang County
+Keyoumu Bawudong	1987-1992	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Keyum Bawudun	1997-2002	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Keyum Bawudun	1992-1997	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kong Changsheng	2014-	Vice-Minister	3100.291:Ministry of Human Resources and Social Security
+Kong Changsheng	2014-	Member	3100.291:Ministry of Human Resources and Social Security	1010.101:CPC	1010.101031:CPC-Leading Party Group
+Kong Changsheng		Director	3100.291:Ministry of Human Resources and Social Security	3100.291022:Ministry of Human Resources and Social Security-Law and Regulation Department
+Kong Changsheng		Vice-Mayor	2050.101:People's Government	9560.008:Guizhou Province	9560.008044:Guizhou Province, Bijie City
+Kong Changsheng	1985-1988	Student	6410.108:Chinese Academy of Social Sciences	6410.108001:Chinese Academy of Social Sciences-Graduate School
+Kong Changsheng	1985-1988	Student	6230.146:Northwest University of Politics and Law	9560.027:Shaanxi Province	9560.027001:Shaanxi Province, Xi'an City
+Kong Fanfeng	1997-	Vice-President	6290.101:Nankai University	6290.101005:Nankai University-History Department
+Kong Fanfeng	1990-	Deputy Secretary	6290.101:Nankai University	1010.101:CPC	1010.101025:CPC-Party Committee
+Kong Fanfeng	1970	Graduate	6290.101:Nankai University	6290.101005:Nankai University-History Department
+Kong Fanfeng	1970	Joined	1010.101:CPC
+Kong Ping	2001	Graduate	6490.971:Nanyang Technological University	9780.:Singapore
+Kong Ping		Winner
+Kong Ping	1998-	Deputy General Manager	8010.504:Hangang Steel Group
+Kong Ping	1995-????	Secretary	8010.504:Hangang Steel Group	1010.101:CPC	1010.101025:CPC-Party Committee	1010.101025006:Party Committee-Commission for Discipline Inspection
+Kong Ping	1995-????	Assistant Secretary	8010.504:Hangang Steel Group	1010.101:CPC	1010.101025:CPC-Party Committee
+Kong Ping		Director	8010.504:Hangang Steel Group	8010.504009:Hangang Steel Group-Motor Transport Department
+Kong Ping		Secretary	8010.504:Hangang Steel Group	8010.504009:Hangang Steel Group-Motor Transport Department	1010.101:CPC	1010.101025:CPC-Party Committee
+Kong Ping		Secretary	8010.504:Hangang Steel Group	8010.504011:Hangang Steel Group-Main Plant
+Kong Ping		Secretary	8010.504:Hangang Steel Group	6777.101:CYLC	6777.101801:CYLC-Institutional Level
+Kong Ping	1982	Graduate	6100.102:Hebei University of Technology	9560.011:Hebei Province
+Kong Ping		Joined	1010.101:CPC
+Kong Quan	2013-	Deputy Director	1010.101:CPC	1010.101001:CPC-Central Committee	1010.101001008:Central Committee-Central Foreign Affairs Office
+Kong Quan	2001-2013	Director	3100.101:Ministry of Foreign Affairs	3100.101002:Ministry of Foreign Affairs-Information Department
+Kong Quan	1999-2000	Deputy Director	3100.101:Ministry of Foreign Affairs	3100.101015:Ministry of Foreign Affairs-West Asian and North African Affairs Department
+Kong Quan	1996-1999	Counselor	7210.101:Chinese Embassy	9350.:France	9350.001:France, Paris
+Kong Quan	1995-1996	Counselor	3100.101:Ministry of Foreign Affairs	3100.101015:Ministry of Foreign Affairs-West Asian and North African Affairs Department
+Kong Quan	1985-1995	Secretary	3100.101:Ministry of Foreign Affairs	3100.101015:Ministry of Foreign Affairs-West Asian and North African Affairs Department
+Kong Quan	1984-1985	Student	6490.133:French National School of Public Administration	9350.:France	9350.001:France, Paris
+Kong Quan	1982-1984	Officer	3100.101:Ministry of Foreign Affairs	3100.101015:Ministry of Foreign Affairs-West Asian and North African Affairs Department
+Kong Quan	1977-1982	Officer	7210.101:Chinese Embassy	9280.:Belgium	9280.101:Belgium, Brussels
+Kong Shiquan	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kong Shiquan	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kong Shiquan	1969-1973	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kong Xiangfu	1999-	Academician	6410.107:Chinese Academy of Sciences
+Kong Xiangfu		Visiting Professor	6130.101:University of Hong Kong	6130.101011:University of Hong Kong-Molecular Biology Research Institute	9560.014:Hong Kong SAR
+Kong Xiangfu	1969	Graduate	6490.586:Vanderbilt University	6490.586011:Vanderbilt University-Pharmacy College	9210.:USA	9210.725:USA, Tennessee	9210.725001:Tennessee, Nashville
+Kong Xiangfu	1963	Graduate	6490.586:Vanderbilt University	9210.:USA	9210.725:USA, Tennessee	9210.725001:Tennessee, Nashville
+Kong Yuan	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kong Zhaonian	1977-1982	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kong Zhaonian	1973-1977	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kuang Dingbo	1991-	Academician	6410.107:Chinese Academy of Sciences
+Kuang Dingbo		Researcher	6410.107:Chinese Academy of Sciences	6410.107021:Chinese Academy of Sciences-Shanghai Technical Physics Research Institute	9560.029:Shanghai Municipality
+Kuang Dingbo	1952	Graduate	6250.104:Jiaotong University	6250.104006:Jiaotong University-Physics Department	9560.029:Shanghai Municipality
+Kuang Jingming	1999-????	Dean	6020.171:Beijing Institute of Technology	6020.171021:Beijing Institute of Technology-Graduate School	9560.002:Beijing Municipality
+Kuang Jingming	1999-	President	6020.171:Beijing Institute of Technology	9560.002:Beijing Municipality
+Kuang Jingming	1966	Graduate	6020.171:Beijing Institute of Technology	6020.171001:Beijing Institute of Technology-Electronic Engineering Department	9560.002:Beijing Municipality
+Kuang Rennong	1969-1973	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kuang Tingyun	1995-	Academician	6410.107:Chinese Academy of Sciences
+Kuang Tingyun		Researcher	6410.107:Chinese Academy of Sciences	6410.107051:Chinese Academy of Sciences-Botanical Research Institute
+Kuang Tingyun	1962	Graduate	6490.254:Moscow University	6490.254008:Moscow University-Biology Department	9760.:Russia	9760.101:Russia, Moscow
+Kuang Tingyun	1956	Graduate	6020.209:Beijing Agricultural University	6020.209009:Beijing Agricultural University-Soil Agrochemistry Department	9560.002:Beijing Municipality
+Kui Bi	1956-1969	Alternate Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kui Fulin	1997-2002	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kui Zhifu	1982-1987	Member	1010.101:CPC	1010.101001:CPC-Central Committee
+Kurax Mahesut	2003-	Vice-Chairman	2050.106:Autonomous Region People's Government	9560.035:Xinjiang Uygur Autonomous Region
+Kurax Mahesut	1998-2003	Deputy Secretary	1010.101:CPC	1010.101013:CPC-Autonomous Prefectural Committee	9560.035:Xinjiang Uygur Autonomous Region	9560.035044:Xinjiang Uygur Autonomous Region, Hami Prefecture
+Kurax Mahesut	1998-2003	Vice-Commissioner	9560.035:Xinjiang Uygur Autonomous Region	9560.035044:Xinjiang Uygur Autonomous Region, Hami Prefecture
+Kurax Mahesut	1998-2003	Commissioner	9560.035:Xinjiang Uygur Autonomous Region	9560.035044:Xinjiang Uygur Autonomous Region, Hami Prefecture
+Kurax Mahesut	1993-1998	Member	1010.101:CPC	1010.101007:CPC-Autonomous Regional Committee	1010.101007012:Autonomous Regional Committee-Commission for Discipline Inspection	9560.035:Xinjiang Uygur Autonomous Region
+Kurax Mahesut	1988-1993	Member	2410.141:Provincial Supervision Department	9560.035:Xinjiang Uygur Autonomous Region
+Kurax Mahesut	1986-1988	Worker	2410.923:Regional Administration School	9560.035:Xinjiang Uygur Autonomous Region
+Kurax Mahesut	1984	Joined	1010.101:CPC
+Kurax Mahesut	1977-1986	Soldier	5110.101:PLA
+Kurexi Maihesuti	2014-	Director	3100.882:National Administration of Surveying, Mapping and Geoinformation
+Kurexi Maihesuti	2014-	Vice-Minister	3100.311:Ministry of Land and Resources
+Kwok Ping-Sheung (Walter)	1997-	Vice-Chairman	6750.126:All-China Federation of Industry and Commerce
+Kwok Ping-Sheung (Walter)	1996	Member	3200.808:1st Hong Kong SAR Government	3200.808001:1st Hong Kong SAR Government-Selection Committee
+Kwok Ping-Sheung (Walter)	1995	Member	3200.804:Hong Kong SAR Preparatory Committee
+Kwok Ping-Sheung (Walter)	1993	Member	3400.201:Hong Kong and Macao Affairs Office of the State Council	3400.201002:Hong Kong and Macao Affairs Office of the State Council-2nd Group of Advisors
+Kwok Ping-Sheung (Walter)	1993-1998	Member	1810.101:CPPCC	1810.101001:CPPCC-National Committee
