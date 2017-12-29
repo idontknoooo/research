@@ -1,5 +1,5 @@
-Ulagan@@2009@@Director@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007015@Autonomous Regional Committee-Propaganda Department@9560.017@Inner Mongolia Autonomous Region@
-Ulagan@@2009@@Member@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007011@Autonomous Regional Committee-Standing Committee@9560.017@Inner Mongolia Autonomous Region@
+Ulagan@@2009@ @Director@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007015@Autonomous Regional Committee-Propaganda Department@9560.017@Inner Mongolia Autonomous Region@
+Ulagan@@2009@ @Member@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007011@Autonomous Regional Committee-Standing Committee@9560.017@Inner Mongolia Autonomous Region@
 Ulagan@@2007@2012@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ulagan@@2003@2009@Vice-Chairman@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
 Ulagan@@2003@2003@Deputy Secretary@1010.101@CPC@1010.101021@CPC-Autonomous County Committee@9560.017@Inner Mongolia Autonomous Region@9560.017084@Inner Mongolia Autonomous Region, Bayannaoer County@
@@ -25,11 +25,11 @@ Uyunqimg@@2008@2013@Vice-Chairman@1610.101@Standing Committee of the NPC@
 Uyunqimg@@2007@2012@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Uyunqimg@@2003@2008@Vice-Chairman@1610.101@Standing Committee of the NPC@
 Uyunqimg@@2002@2007@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Uyunqimg@@2001@@Chairman@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
+Uyunqimg@@2001@ @Chairman@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
 Uyunqimg@@2000@2001@Vice-Chairman@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
 Uyunqimg@@1997@2002@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Uyunqimg@@1994@@Deputy Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.017@Inner Mongolia Autonomous Region@
-Uyunqimg@@1993@????@Deputy Director@2210.353@Committee for Comprehensive Management of Public Security@9560.017@Inner Mongolia Autonomous Region@
+Uyunqimg@@1994@ @Deputy Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.017@Inner Mongolia Autonomous Region@
+Uyunqimg@@1993@ @Deputy Director@2210.353@Committee for Comprehensive Management of Public Security@9560.017@Inner Mongolia Autonomous Region@
 Uyunqimg@@1992@1997@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Uyunqimg@@1989@1994@Member@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007011@Autonomous Regional Committee-Standing Committee@9560.017@Inner Mongolia Autonomous Region@
 Uyunqimg@@1988@1994@Head@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007066@Autonomous Regional Committee-Publicity Department@9560.017@Inner Mongolia Autonomous Region@

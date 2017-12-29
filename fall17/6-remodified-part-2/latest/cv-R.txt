@@ -1,7 +1,7 @@
-Raidi@@2003@@Vice-Chairman@1610.101@Standing Committee of the NPC@
+Raidi@@2003@ @Vice-Chairman@1610.101@Standing Committee of the NPC@
 Raidi@@2002@2007@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Raidi@@1997@2002@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Raidi@@1993@@Chairman@1610.901@Autonomous Regional People's Congress@1610.901001@Autonomous Regional People's Congress-Standing Committee@9560.034@Tibet Autonomous Region@
+Raidi@@1993@ @Chairman@1610.901@Autonomous Regional People's Congress@1610.901001@Autonomous Regional People's Congress-Standing Committee@9560.034@Tibet Autonomous Region@
 Raidi@@1992@1997@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Raidi@@1987@1992@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Raidi@@1987@1992@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
@@ -23,13 +23,13 @@ Raidi@@1962@1966@Secretary@2410.111@Prefectural Administrative Office@2410.11100
 Raidi@@1961@@Joined@1010.101@CPC@
 Raidi@@1959@1962@Student@6020.198@Central Political Science and Law Cadre School@9560.002@Beijing Municipality@
 Ran@Guiying@1977@1982@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Ran@Wanxiang@2015@@Deputy Director@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001009@Central Committee-United Front Work Department@
-Rao@Fangquan@@@ (Winner@
-Rao@Fangquan@1995@@Academician@3600.251@Chinese Academy of Engineering@
-Rao@Fangquan@@@Professor@6250.104@Jiaotong University@6250.104016@Jiaotong University-Electric Power Engineering Department@9560.029@Shanghai Municipality@
+Ran@Wanxiang@2015@ @Deputy Director@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001009@Central Committee-United Front Work Department@
+Rao@Fangquan@ @@ (Winner@
+Rao@Fangquan@1995@ @Academician@3600.251@Chinese Academy of Engineering@
+Rao@Fangquan@ @@Professor@6250.104@Jiaotong University@6250.104016@Jiaotong University-Electric Power Engineering Department@9560.029@Shanghai Municipality@
 Rao@Fangquan@1966@1978@Worker@
-Rao@Fangquan@@@Worker@8010.464@Harbin Electrical Machinery Plant@9560.012@Heilongjiang Province@9560.012001@Heilongjiang Province, Harbin City@
-Rao@Fangquan@@@Worker@6900.207@Harbin Electro-Mechanic Research Institute@9560.012@Heilongjiang Province@9560.012001@Heilongjiang Province, Harbin City@
+Rao@Fangquan@ @@Worker@8010.464@Harbin Electrical Machinery Plant@9560.012@Heilongjiang Province@9560.012001@Heilongjiang Province, Harbin City@
+Rao@Fangquan@ @@Worker@6900.207@Harbin Electro-Mechanic Research Institute@9560.012@Heilongjiang Province@9560.012001@Heilongjiang Province, Harbin City@
 Rao@Fangquan@1958@@Graduate@6110.151@Harbin Institute of Technology@6110.151019@Harbin Institute of Technology-Electric Machinery Department@9560.012@Heilongjiang Province@9560.012001@Heilongjiang Province, Harbin City@
 Rao@Xingli@1982@1987@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Rao@Xingli@1977@1982@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
@@ -37,35 +37,35 @@ Rao@Xingli@1973@1977@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Rao@Xingli@1969@1973@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ren@Baodong@1998@2000@Graduate Student@6020.222@Renmin University of China@9560.002@Beijing Municipality@
 Ren@Baodong@1994@1998@Student@6020.102@Tsinghua University@6020.102003@Tsinghua University-Chemical Engineering Department@9560.002@Beijing Municipality@
-Ren@Baodong@1994@@Vice-President@8010.984@Beijing Zehua Chemical Engineering Company Limited@9560.002@Beijing Municipality@
+Ren@Baodong@1994@ @Vice-President@8010.984@Beijing Zehua Chemical Engineering Company Limited@9560.002@Beijing Municipality@
 Ren@Bishi@1945@1956@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Ren@Chuanjun@2002@@Vice-Chairman of the Board@8010.447@PetroChina Company Ltd.@
+Ren@Chuanjun@2002@ @Vice-Chairman of the Board@8010.447@PetroChina Company Ltd.@
 Ren@Chuanjun@1999@2002@Senior Vice-President@8010.447@PetroChina Company Ltd.@
-Ren@Chuanjun@1999@@Director@8010.447@PetroChina Company Ltd.@
+Ren@Chuanjun@1999@ @Director@8010.447@PetroChina Company Ltd.@
 Ren@Chuanjun@1998@1999@Vice-President@8010.103@China National Petroleum Corporation (CNPC)@
 Ren@Chuanjun@1994@1998@Vice-President@6850.106@China National Textile and Apparel Council@
 Ren@Chuanjun@1983@1994@Deputy General Manager@8010.909@Yizheng Fiber Industrial United Corporation@9560.018@Jiangsu Province@9560.018008@Jiangsu Province, Yizheng City@
 Ren@Chuanjun@1983@1994@General Manager@8010.909@Yizheng Fiber Industrial United Corporation@9560.018@Jiangsu Province@9560.018008@Jiangsu Province, Yizheng City@
-Ren@Deqi@2014@@Vice-Governor@8510.107@Bank of China@
+Ren@Deqi@2014@ @Vice-Governor@8510.107@Bank of China@
 Ren@Deqi@2013@2014@General Manager@8510.108@China Construction Bank@8510.108015@China Construction Bank-Risk Management Department@
 Ren@Deqi@2003@2010@Governor@8510.108@China Construction Bank@8510.108002@China Construction Bank-Provincial Branch@9560.015@Hubei Province@
 Ren@Deqi@2003@2010@General Manager@8510.108@China Construction Bank@8510.108011@China Construction Bank-Credit Management Department@
 Ren@Deqi@1988@@Graduate@6020.102@Tsinghua University@9560.002@Beijing Municipality@
 Ren@Hai@1998@2003@Deputy@1610.001@NPC@
-Ren@Hai@@@Board Chairman@8010.579@Seastar Group@
-Ren@Hai@@@Executive Director@6770.312@China Industrialists Association of Individual Technology@
-Ren@Hai@@@Vice Director-General@6770.311@China Association for Promoting Individual Technology@
-Ren@Hai@@@Executive Member@6750.126@All-China Federation of Industry and Commerce@
-Ren@Hai@1991@????@Manager@
-Ren@Hai@@@Associate Professor@6230.101@Xi'an Jiaotong University@9560.027@Shaanxi Province@9560.027001@Shaanxi Province, Xi'an City@
-Ren@Hai@@@Graduate@6250.101@Fudan University@9560.029@Shanghai Municipality@
-Ren@Hai@@@Graduate@6230.101@Xi'an Jiaotong University@6230.101007@Xi'an Jiaotong University-Computer Science Department@9560.027@Shaanxi Province@9560.027001@Shaanxi Province, Xi'an City@
-Ren@Haishen@2003@@Member@1010.101@CPC@1010.101005@CPC-Provincial Committee@1010.101005001@Provincial Committee-Standing Committee@9560.001@Anhui Province@
-Ren@Haishen@@@Vice-Governor@2050.101@People's Government@9560.001@Anhui Province@
-Ren@Haishen@@@Mayor@2050.101@People's Government@9560.028@Shandong Province@9560.028041@Shandong Province, Yantai City@
-Ren@Haishen@@@Graduate@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001031@Central Committee-Central Party School@
+Ren@Hai@ @@Board Chairman@8010.579@Seastar Group@
+Ren@Hai@ @@Executive Director@6770.312@China Industrialists Association of Individual Technology@
+Ren@Hai@ @@Vice Director-General@6770.311@China Association for Promoting Individual Technology@
+Ren@Hai@ @@Executive Member@6750.126@All-China Federation of Industry and Commerce@
+Ren@Hai@1991@ @Manager@
+Ren@Hai@ @@Associate Professor@6230.101@Xi'an Jiaotong University@9560.027@Shaanxi Province@9560.027001@Shaanxi Province, Xi'an City@
+Ren@Hai@ @@Graduate@6250.101@Fudan University@9560.029@Shanghai Municipality@
+Ren@Hai@ @@Graduate@6230.101@Xi'an Jiaotong University@6230.101007@Xi'an Jiaotong University-Computer Science Department@9560.027@Shaanxi Province@9560.027001@Shaanxi Province, Xi'an City@
+Ren@Haishen@2003@ @Member@1010.101@CPC@1010.101005@CPC-Provincial Committee@1010.101005001@Provincial Committee-Standing Committee@9560.001@Anhui Province@
+Ren@Haishen@ @@Vice-Governor@2050.101@People's Government@9560.001@Anhui Province@
+Ren@Haishen@ @@Mayor@2050.101@People's Government@9560.028@Shandong Province@9560.028041@Shandong Province, Yantai City@
+Ren@Haishen@ @@Graduate@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001031@Central Committee-Central Party School@
 Ren@Haishen@1971@@Joined@1010.101@CPC@
-Ren@Hongbin@2013@@President@8010.037@China National Machinery Industry Corporation@
+Ren@Hongbin@2013@ @President@8010.037@China National Machinery Industry Corporation@
 Ren@Hongbin@2012@2017@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ren@Jianxin@1998@2003@Vice-Chairman@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
 Ren@Jianxin@1997@2002@Delegate@1010.101@CPC@1010.101003@CPC-National Congress@
@@ -76,61 +76,61 @@ Ren@Jianxin@1992@1997@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ren@Jianxin@1992@1997@Member@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001001@Central Committee-Politburo@1010.101001001002@Politburo-Secretariat@
 Ren@Jianxin@1988@1992@President@4010.101@Supreme People's Court@
 Ren@Jianxin@1987@1992@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Ren@Jianxin@1985@????@Member@6770.218@World Peace Through Law Center@6770.218001@World Peace Through Law Center-Executive Committee@
+Ren@Jianxin@1985@ @Member@6770.218@World Peace Through Law Center@6770.218001@World Peace Through Law Center-Executive Committee@
 Ren@Jianxin@1983@1988@Vice-President@4010.101@Supreme People's Court@
 Ren@Jianxin@1983@1988@Vice-President@6750.148@China Council for the Promotion of International Trade@
 Ren@Jianxin@1971@1981@Director@6750.148@China Council for the Promotion of International Trade@6750.148009@China Council for the Promotion of International Trade-Legal Affairs Department@
-Ren@Jianxin@@@Secretary-General@3100.807@Maritime Arbitration Commission@
+Ren@Jianxin@ @@Secretary-General@3100.807@Maritime Arbitration Commission@
 Ren@Jianxin@1959@1966@Secretary-General@3100.806@Foreign Economic and Trade Arbitration Commission@
 Ren@Jianxin@1949@1959@Clerk@3800.802@State Council Bureau of Legislative Affairs@
 Ren@Jianxin@1949@1959@Clerk@3400.301@Legislative Affairs Office of the State Council@
 Ren@Jianxin@1949@1959@Clerk@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001034@Central Committee-Political Science and Law Committee@
 Ren@Jianxin@1946@1948@Student@6020.101@Beijing University@9560.002@Beijing Municipality@
 Ren@Keli@1998@2003@Deputy@1610.001@NPC@
-Ren@Keli@1998@@Chairman@1610.401@Provincial People's Congress@1610.401001@Provincial People's Congress-Standing Committee@9560.013@Henan Province@
+Ren@Keli@1998@ @Chairman@1610.401@Provincial People's Congress@1610.401001@Provincial People's Congress-Standing Committee@9560.013@Henan Province@
 Ren@Keli@1997@2002@Delegate@1010.101@CPC@1010.101003@CPC-National Congress@
-Ren@Keli@1995@@Deputy Secretary@1010.101@CPC@1010.101005@CPC-Provincial Committee@9560.013@Henan Province@
+Ren@Keli@1995@ @Deputy Secretary@1010.101@CPC@1010.101005@CPC-Provincial Committee@9560.013@Henan Province@
 Ren@Keli@1992@1997@Delegate@1010.101@CPC@1010.101003@CPC-National Congress@
 Ren@Keli@1992@1995@Deputy Secretary@1010.101@CPC@1010.101005@CPC-Provincial Committee@9560.036@Yunnan Province@
 Ren@Keli@1988@1993@Deputy@1610.001@NPC@
-Ren@Keli@@@Head@1010.101@CPC@1010.101005@CPC-Provincial Committee@1010.101005016@Provincial Committee-Organization Department@9560.036@Yunnan Province@
-Ren@Keli@@@Member@1010.101@CPC@1010.101005@CPC-Provincial Committee@1010.101005001@Provincial Committee-Standing Committee@9560.036@Yunnan Province@
-Ren@Keli@@@Secretary@8010.286@Tongling Non-Ferrous Metals Company@9560.001@Anhui Province@9560.001019@Anhui Province, Tongling City@
-Ren@Keli@@@Deputy Secretary@1010.101@CPC@1010.101015@CPC-City Committee@9560.001@Anhui Province@9560.001019@Anhui Province, Tongling City@
-Ren@Keli@@@Secretary-General@1010.101@CPC@1010.101015@CPC-City Committee@9560.001@Anhui Province@9560.001019@Anhui Province, Tongling City@
-Ren@Keli@@@Member@1010.101@CPC@1010.101015@CPC-City Committee@1010.101015026@City Committee-Standing Committee@9560.001@Anhui Province@9560.001019@Anhui Province, Tongling City@
-Ren@Keli@@@Deputy Head@1010.101@CPC@1010.101015@CPC-City Committee@1010.101015036@City Committee-Organization Department@9560.001@Anhui Province@9560.001019@Anhui Province, Tongling City@
-Ren@Keli@@@Secretary@8010.285@Shizishan Mine@1010.101@CPC@1010.101025@CPC-Party Committee@9560.001@Anhui Province@9560.001019@Anhui Province, Tongling City@
-Ren@Keli@@@Chief@8010.284@Guanshan Copper Mine@8010.284009@Guanshan Copper Mine-Political Division@9560.001@Anhui Province@9560.001019@Anhui Province, Tongling City@
+Ren@Keli@ @@Head@1010.101@CPC@1010.101005@CPC-Provincial Committee@1010.101005016@Provincial Committee-Organization Department@9560.036@Yunnan Province@
+Ren@Keli@ @@Member@1010.101@CPC@1010.101005@CPC-Provincial Committee@1010.101005001@Provincial Committee-Standing Committee@9560.036@Yunnan Province@
+Ren@Keli@ @@Secretary@8010.286@Tongling Non-Ferrous Metals Company@9560.001@Anhui Province@9560.001019@Anhui Province, Tongling City@
+Ren@Keli@ @@Deputy Secretary@1010.101@CPC@1010.101015@CPC-City Committee@9560.001@Anhui Province@9560.001019@Anhui Province, Tongling City@
+Ren@Keli@ @@Secretary-General@1010.101@CPC@1010.101015@CPC-City Committee@9560.001@Anhui Province@9560.001019@Anhui Province, Tongling City@
+Ren@Keli@ @@Member@1010.101@CPC@1010.101015@CPC-City Committee@1010.101015026@City Committee-Standing Committee@9560.001@Anhui Province@9560.001019@Anhui Province, Tongling City@
+Ren@Keli@ @@Deputy Head@1010.101@CPC@1010.101015@CPC-City Committee@1010.101015036@City Committee-Organization Department@9560.001@Anhui Province@9560.001019@Anhui Province, Tongling City@
+Ren@Keli@ @@Secretary@8010.285@Shizishan Mine@1010.101@CPC@1010.101025@CPC-Party Committee@9560.001@Anhui Province@9560.001019@Anhui Province, Tongling City@
+Ren@Keli@ @@Chief@8010.284@Guanshan Copper Mine@8010.284009@Guanshan Copper Mine-Political Division@9560.001@Anhui Province@9560.001019@Anhui Province, Tongling City@
 Ren@Keli@1955@@Joined@1010.101@CPC@
-Ren@Luquan@@@President@6180.108@Jilin University of Technology@9560.022@Jilin Province@
+Ren@Luquan@ @@President@6180.108@Jilin University of Technology@9560.022@Jilin Province@
 Ren@Luquan@1995@@Secretary@6180.108@Jilin University of Technology@1010.101@CPC@1010.101025@CPC-Party Committee@9560.022@Jilin Province@
-Ren@Luquan@@@Vice-President@6180.108@Jilin University of Technology@9560.022@Jilin Province@
-Ren@Luquan@@@Dean@6180.108@Jilin University of Technology@6180.108009@Jilin University of Technology-Farming Machine Department@9560.022@Jilin Province@
+Ren@Luquan@ @@Vice-President@6180.108@Jilin University of Technology@9560.022@Jilin Province@
+Ren@Luquan@ @@Dean@6180.108@Jilin University of Technology@6180.108009@Jilin University of Technology-Farming Machine Department@9560.022@Jilin Province@
 Ren@Luquan@1981@@Graduate@6180.108@Jilin University of Technology@9560.022@Jilin Province@
 Ren@Luquan@1967@@Graduate@6180.108@Jilin University of Technology@9560.022@Jilin Province@
-Ren@Luquan@@@Joined@1010.101@CPC@
-Ren@Meie@1980@@Academician@6410.107@Chinese Academy of Sciences@
-Ren@Meie@@@Honorary Chairman@6900.158@China Society for Oceanography@
-Ren@Meie@@@Honorary Chairman@6900.151@Chinese Geographical Society@
-Ren@Meie@@@Professor@6250.179@Nanjing University@9560.018@Jiangsu Province@9560.018001@Jiangsu Province, Nanjing City@
+Ren@Luquan@ @@Joined@1010.101@CPC@
+Ren@Meie@1980@ @Academician@6410.107@Chinese Academy of Sciences@
+Ren@Meie@ @@Honorary Chairman@6900.158@China Society for Oceanography@
+Ren@Meie@ @@Honorary Chairman@6900.151@Chinese Geographical Society@
+Ren@Meie@ @@Professor@6250.179@Nanjing University@9560.018@Jiangsu Province@9560.018001@Jiangsu Province, Nanjing City@
 Ren@Meie@1939@@Graduate@6490.761@University of Glasgow@9820.@Scotland@9820.102@Scotland, Glasgow@
 Ren@Meie@1934@@Graduate@6020.196@Central University for Nationalities@6020.196005@Central University for Nationalities-Geography Department@9560.002@Beijing Municipality@
-Ren@Qixing@2001@@Chairman@1810.101@CPPCC@1810.101033@CPPCC-Autonomous Regional Committee@9560.024@Ningxia Hui Autonomous Region@
-Ren@Qixing@1998@@Deputy Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.024@Ningxia Hui Autonomous Region@
-Ren@Qixing@1998@@Chairman@2050.106@Autonomous Region People's Government@9560.024@Ningxia Hui Autonomous Region@
+Ren@Qixing@2001@ @Chairman@1810.101@CPPCC@1810.101033@CPPCC-Autonomous Regional Committee@9560.024@Ningxia Hui Autonomous Region@
+Ren@Qixing@1998@ @Deputy Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.024@Ningxia Hui Autonomous Region@
+Ren@Qixing@1998@ @Chairman@2050.106@Autonomous Region People's Government@9560.024@Ningxia Hui Autonomous Region@
 Ren@Qixing@1997@2002@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Ren@Qixing@1993@@Member@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007011@Autonomous Regional Committee-Standing Committee@9560.024@Ningxia Hui Autonomous Region@
+Ren@Qixing@1993@ @Member@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007011@Autonomous Regional Committee-Standing Committee@9560.024@Ningxia Hui Autonomous Region@
 Ren@Qixing@1988@1998@Vice-Chairman@2050.106@Autonomous Region People's Government@9560.024@Ningxia Hui Autonomous Region@
-Ren@Qixing@@@Mayor@2050.101@People's Government@9560.024@Ningxia Hui Autonomous Region@9560.024002@Ningxia Hui Autonomous Region, Shizuishan City@
-Ren@Qixing@@@Vice-Mayor@2050.101@People's Government@9560.024@Ningxia Hui Autonomous Region@9560.024002@Ningxia Hui Autonomous Region, Shizuishan City@
-Ren@Qixing@@@Deputy Division Chief@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007001@Autonomous Regional Committee-General Office@9560.024@Ningxia Hui Autonomous Region@
+Ren@Qixing@ @@Mayor@2050.101@People's Government@9560.024@Ningxia Hui Autonomous Region@9560.024002@Ningxia Hui Autonomous Region, Shizuishan City@
+Ren@Qixing@ @@Vice-Mayor@2050.101@People's Government@9560.024@Ningxia Hui Autonomous Region@9560.024002@Ningxia Hui Autonomous Region, Shizuishan City@
+Ren@Qixing@ @@Deputy Division Chief@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007001@Autonomous Regional Committee-General Office@9560.024@Ningxia Hui Autonomous Region@
 Ren@Qixing@1966@@Graduate@6240.122@Shandong Mining Institute@6240.122009@Shandong Mining Institute-Department of Coal Mining@9560.028@Shandong Province@
 Ren@Qixing@1965@@Joined@1010.101@CPC@
 Ren@Rong@1982@1987@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ren@Rong@1977@1982@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ren@Rong@1973@1977@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Ren@Runhou@2011@@Vice-Governor@2050.101@People's Government@9560.026@Shanxi Province@
+Ren@Runhou@2011@ @Vice-Governor@2050.101@People's Government@9560.026@Shanxi Province@
 Ren@Runhou@2001@2011@Chairman@8010.021@Lu'An Group@8010.021001@Lu'An Group-Board of Directors@
 Ren@Runhou@2000@2000@Deputy General Manager@8010.021@Lu'An Group@
 Ren@Runhou@2000@2008@General Manager@8010.021@Lu'An Group@
@@ -140,29 +140,29 @@ Ren@Sizhong@1973@1977@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ren@Sizhong@1969@1973@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ren@Tie@1987@1992@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ren@Wenyan@1998@2003@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
-Ren@Wenyan@1998@@Vice-Chairman@1610.401@Provincial People's Congress@1610.401001@Provincial People's Congress-Standing Committee@9560.029@Shanghai Municipality@
-Ren@Wenyan@1997@@President@6750.175@Shanghai Federation of Industry and Commerce@9560.029@Shanghai Municipality@
-Ren@Xianliang@2013@@Deputy Director@3400.233@Cyberspace Administration of China@
+Ren@Wenyan@1998@ @Vice-Chairman@1610.401@Provincial People's Congress@1610.401001@Provincial People's Congress-Standing Committee@9560.029@Shanghai Municipality@
+Ren@Wenyan@1997@ @President@6750.175@Shanghai Federation of Industry and Commerce@9560.029@Shanghai Municipality@
+Ren@Xianliang@2013@ @Deputy Director@3400.233@Cyberspace Administration of China@
 Ren@Xinmin@1999@@ (Awarded Two Bombs and One Star Meritorious Medal) @
-Ren@Xinmin@1980@@Academician@6410.107@Chinese Academy of Sciences@
-Ren@Xinmin@@@Senior Technical Advisor@8010.121@China Aviation Industry Corporation@
-Ren@Xinmin@@@Researcher@8010.121@China Aviation Industry Corporation@
-Ren@Xinmin@@@Graduate@6490.573@University of Michigan@9210.@USA@9210.503@USA, Michigan@9210.503001@Michigan, Dearborn@
+Ren@Xinmin@1980@ @Academician@6410.107@Chinese Academy of Sciences@
+Ren@Xinmin@ @@Senior Technical Advisor@8010.121@China Aviation Industry Corporation@
+Ren@Xinmin@ @@Researcher@8010.121@China Aviation Industry Corporation@
+Ren@Xinmin@ @@Graduate@6490.573@University of Michigan@9210.@USA@9210.503@USA, Michigan@9210.503001@Michigan, Dearborn@
 Ren@Xinmin@1945@@Graduate@6490.573@University of Michigan@9210.@USA@9210.503@USA, Michigan@9210.503001@Michigan, Dearborn@
 Ren@Xuefeng@2012@2017@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Ren@Xuefeng@@@Vice-Mayor@2050.101@People's Government@9560.033@Tianjin Municipality@
-Ren@Xuefeng@2007@@Chairman@8010.005@Hong Kong Jinlian Group Co. Ltd.@
-Ren@Xuefeng@2004@@Secretary@8010.005@Hong Kong Jinlian Group Co. Ltd.@1010.101@CPC@1010.101025@CPC-Party Committee@
+Ren@Xuefeng@ @@Vice-Mayor@2050.101@People's Government@9560.033@Tianjin Municipality@
+Ren@Xuefeng@2007@ @Chairman@8010.005@Hong Kong Jinlian Group Co. Ltd.@
+Ren@Xuefeng@2004@ @Secretary@8010.005@Hong Kong Jinlian Group Co. Ltd.@1010.101@CPC@1010.101025@CPC-Party Committee@
 Ren@Xuefeng@2004@2007@Vice-Chairman@8010.005@Hong Kong Jinlian Group Co. Ltd.@
 Ren@Xuefeng@2002@2004@Deputy Director@2210.803@Municipal Administrative Committee@9560.033@Tianjin@9560.033016@Tianjin, New Technology Industry District@
 Ren@Xuefeng@1995@2002@General Manager@8010.006@New Technology Industry District Development Corporation@9560.033@Tianjin@9560.033016@Tianjin, New Technology Industry District@
 Ren@Xuefeng@1988@1995@Deputy General Manager@8010.006@New Technology Industry District Development Corporation@9560.033@Tianjin@9560.033016@Tianjin, New Technology Industry District@
 Ren@Xuefeng@1988@1995@Engineer@2210.803@Municipal Administrative Committee@9560.033@Tianjin@9560.033016@Tianjin, New Technology Industry District@
 Ren@Xuefeng@1985@@Joined@1010.101@CPC@
-Ren@Yaping@2011@@Chairman@1810.101@CPPCC@1810.101033@CPPCC-Autonomous Regional Committee@9560.017@Inner Mongolia Autonomous Region@
-Ren@Yaping@2009@@Deputy Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.017@Inner Mongolia Autonomous Region@
+Ren@Yaping@2011@ @Chairman@1810.101@CPPCC@1810.101033@CPPCC-Autonomous Regional Committee@9560.017@Inner Mongolia Autonomous Region@
+Ren@Yaping@2009@ @Deputy Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.017@Inner Mongolia Autonomous Region@
 Ren@Yaping@2007@2012@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Ren@Yaping@2006@@Vice-Chairman@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
+Ren@Yaping@2006@ @Vice-Chairman@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
 Ren@Yaping@1998@2008@Member@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007011@Autonomous Regional Committee-Standing Committee@9560.017@Inner Mongolia Autonomous Region@
 Ren@Yaping@1997@1998@Secretary-General@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.017@Inner Mongolia Autonomous Region@
 Ren@Yaping@1995@1998@Student@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001031@Central Committee-Central Party School@
@@ -172,45 +172,45 @@ Ren@Yaping@1987@1991@Deputy Secretary@1010.101@CPC@1010.101016@CPC-Autonomous Ci
 Ren@Yaping@1986@1987@Student@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001031@Central Committee-Central Party School@9560.002@Beijing Municipality@
 Ren@Yaping@1970@@Joined@1010.101@CPC@
 Ren@Yuling@1998@2003@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
-Ren@Yuling@1997@@Vice-Chairman@1500.301@China Democratic National Construction Association@1500.301051@China Democratic National Construction Association-Autonomous Regional Committee@9560.007@Guangxi Zhuang Autonomous Region@
+Ren@Yuling@1997@ @Vice-Chairman@1500.301@China Democratic National Construction Association@1500.301051@China Democratic National Construction Association-Autonomous Regional Committee@9560.007@Guangxi Zhuang Autonomous Region@
 Ren@Yuling@1993@1998@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
 Ren@Zemin@2012@2017@Member@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001039@Central Committee-Central Commission for Discipline Inspection@
 Ren@Zhengfei@2000@@ (Named 3rd of China's 50 Richest Business People@
-Ren@Zhengfei@@@President@8010.578@Huawai Technology Co., Ltd.@9560.006@Guangdong Province@9560.006002@Guangdong Province, Shenzhen City@
+Ren@Zhengfei@ @@President@8010.578@Huawai Technology Co., Ltd.@9560.006@Guangdong Province@9560.006002@Guangdong Province, Shenzhen City@
 Ren@Zhengfei@1987@@Established@8010.578@Huawai Technology Co., Ltd.@9560.006@Guangdong Province@9560.006002@Guangdong Province, Shenzhen City@
 Ren@Zhengfei@1978@@Transferred to civilian work@
-Ren@Zhengxiao@2001@@Member@3800.101@State Administration of Grain@1010.101@CPC@1010.101031@CPC-Leading Party Group@
-Ren@Zhengxiao@2001@@Deputy Director@3800.101@State Administration of Grain@
-Ren@Zhengxiao@@@Director@6410.161@China Grain Research and Training Center@
-Ren@Zhengxiao@@@Secretary@2190.281@Provincial Grain Administration@1010.101@CPC@1010.101031@CPC-Leading Party Group@9560.016@Hunan Province@
-Ren@Zhengxiao@@@Deputy Secretary@2190.281@Provincial Grain Administration@1010.101@CPC@1010.101031@CPC-Leading Party Group@9560.016@Hunan Province@
-Ren@Zhengxiao@@@Director@2190.281@Provincial Grain Administration@9560.016@Hunan Province@
-Ren@Zhengxiao@@@Deputy Director@2190.281@Provincial Grain Administration@9560.016@Hunan Province@
-Ren@Zhengxiao@@@Deputy Magistrate@4020.103@County (District) People's Court@9560.016@Hunan Province@9560.016051@Hunan Province, Hengnan County@
-Ren@Zhengxiao@@@Deputy Division Head@2190.281@Provincial Grain Administration@2190.281001@Provincial Grain Administration-General Office@9560.016@Hunan Province@
-Ren@Zhengxiao@@@Deputy Manager@8010.746@Hunan Provincial Grain and Edible Oil Corporation@9560.016@Hunan Province@
+Ren@Zhengxiao@2001@ @Member@3800.101@State Administration of Grain@1010.101@CPC@1010.101031@CPC-Leading Party Group@
+Ren@Zhengxiao@2001@ @Deputy Director@3800.101@State Administration of Grain@
+Ren@Zhengxiao@ @@Director@6410.161@China Grain Research and Training Center@
+Ren@Zhengxiao@ @@Secretary@2190.281@Provincial Grain Administration@1010.101@CPC@1010.101031@CPC-Leading Party Group@9560.016@Hunan Province@
+Ren@Zhengxiao@ @@Deputy Secretary@2190.281@Provincial Grain Administration@1010.101@CPC@1010.101031@CPC-Leading Party Group@9560.016@Hunan Province@
+Ren@Zhengxiao@ @@Director@2190.281@Provincial Grain Administration@9560.016@Hunan Province@
+Ren@Zhengxiao@ @@Deputy Director@2190.281@Provincial Grain Administration@9560.016@Hunan Province@
+Ren@Zhengxiao@ @@Deputy Magistrate@4020.103@County (District) People's Court@9560.016@Hunan Province@9560.016051@Hunan Province, Hengnan County@
+Ren@Zhengxiao@ @@Deputy Division Head@2190.281@Provincial Grain Administration@2190.281001@Provincial Grain Administration-General Office@9560.016@Hunan Province@
+Ren@Zhengxiao@ @@Deputy Manager@8010.746@Hunan Provincial Grain and Edible Oil Corporation@9560.016@Hunan Province@
 Ren@Zhibin@1977@1982@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ren@Zhongyi@1982@1987@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ren@Zhongyi@1977@1982@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Renzeng@Wangjie@1977@1982@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Rexiati@Yinatula@@@Director@1610.902@Autonomous City People's Congress@1610.902001@Autonomous City People's Congress-Standing Committee@9560.035@Xinjiang Uygur Autonomous Region@9560.035001@Xinjiang Uygur Autonomous Region, Urumqi City@
-Rexiati@Yinatula@1995@????@Vice-Director@1010.101@CPC@1010.101016@CPC-Autonomous City Committee@9560.035@Xinjiang Uygur Autonomous Region@9560.035001@Xinjiang Uygur Autonomous Region, Urumqi City@
-Rexiati@Yinatula@1993@????@Vice-President@6310.123@Urumqi Adult Education College@9560.035@Xinjiang Uygur Autonomous Region@9560.035001@Xinjiang Uygur Autonomous Region, Urumqi City@
-Rexiati@Yinatula@1993@????@Secretary@6310.123@Urumqi Adult Education College@1010.101@CPC@1010.101025@CPC-Party Committee@9560.035@Xinjiang Uygur Autonomous Region@9560.035001@Xinjiang Uygur Autonomous Region, Urumqi City@
-Rexiati@Yinatula@1989@????@Secretary@2210.103@Municipal Education Committee@1010.101@CPC@1010.101025@CPC-Party Committee@9560.035@Xinjiang Uygur Autonomous Region@9560.035001@Xinjiang Uygur Autonomous Region, Urumqi City@
-Rexiati@Yinatula@1989@????@Deputy Head@2210.103@Municipal Education Committee@9560.035@Xinjiang Uygur Autonomous Region@9560.035001@Xinjiang Uygur Autonomous Region, Urumqi City@
-Rexiati@Yinatula@1986@????@Deputy Head@1010.101@CPC@1010.101013@CPC-Autonomous Prefectural Committee@1010.101013011@Autonomous Prefectural Committee-Agricultural and Workers' Department@9560.017@Inner Mongolia Autonomous Region@9560.017012@Inner Mongolia Autonomous Region, Bayinguoleng Prefecture@
+Rexiati@Yinatula@ @@Director@1610.902@Autonomous City People's Congress@1610.902001@Autonomous City People's Congress-Standing Committee@9560.035@Xinjiang Uygur Autonomous Region@9560.035001@Xinjiang Uygur Autonomous Region, Urumqi City@
+Rexiati@Yinatula@1995@ @Vice-Director@1010.101@CPC@1010.101016@CPC-Autonomous City Committee@9560.035@Xinjiang Uygur Autonomous Region@9560.035001@Xinjiang Uygur Autonomous Region, Urumqi City@
+Rexiati@Yinatula@1993@ @Vice-President@6310.123@Urumqi Adult Education College@9560.035@Xinjiang Uygur Autonomous Region@9560.035001@Xinjiang Uygur Autonomous Region, Urumqi City@
+Rexiati@Yinatula@1993@ @Secretary@6310.123@Urumqi Adult Education College@1010.101@CPC@1010.101025@CPC-Party Committee@9560.035@Xinjiang Uygur Autonomous Region@9560.035001@Xinjiang Uygur Autonomous Region, Urumqi City@
+Rexiati@Yinatula@1989@ @Secretary@2210.103@Municipal Education Committee@1010.101@CPC@1010.101025@CPC-Party Committee@9560.035@Xinjiang Uygur Autonomous Region@9560.035001@Xinjiang Uygur Autonomous Region, Urumqi City@
+Rexiati@Yinatula@1989@ @Deputy Head@2210.103@Municipal Education Committee@9560.035@Xinjiang Uygur Autonomous Region@9560.035001@Xinjiang Uygur Autonomous Region, Urumqi City@
+Rexiati@Yinatula@1986@ @Deputy Head@1010.101@CPC@1010.101013@CPC-Autonomous Prefectural Committee@1010.101013011@Autonomous Prefectural Committee-Agricultural and Workers' Department@9560.017@Inner Mongolia Autonomous Region@9560.017012@Inner Mongolia Autonomous Region, Bayinguoleng Prefecture@
 Rexiati@Yinatula@1983@1985@Student@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001031@Central Committee-Central Party School@
 Rexiati@Yinatula@1982@@Joined@1010.101@CPC@
-Rexiati@Yinatula@@@Dean@6160.123@Bayinguoleng Agricultural School@9560.017@Inner Mongolia Autonomous Region@9560.017012@Inner Mongolia Autonomous Region, Bayinguoleng Prefecture@
-Rexiati@Yinatula@1973@????@Teacher@6160.123@Bayinguoleng Agricultural School@9560.017@Inner Mongolia Autonomous Region@9560.017012@Inner Mongolia Autonomous Region, Bayinguoleng Prefecture@
-Rexiati@Yinatula@1963@????@Worker@6160.122@Bayinguoleng Agricultural Science Institute@9560.017@Inner Mongolia Autonomous Region@9560.017012@Inner Mongolia Autonomous Region, Bayinguoleng Prefecture@
+Rexiati@Yinatula@ @@Dean@6160.123@Bayinguoleng Agricultural School@9560.017@Inner Mongolia Autonomous Region@9560.017012@Inner Mongolia Autonomous Region, Bayinguoleng Prefecture@
+Rexiati@Yinatula@1973@ @Teacher@6160.123@Bayinguoleng Agricultural School@9560.017@Inner Mongolia Autonomous Region@9560.017012@Inner Mongolia Autonomous Region, Bayinguoleng Prefecture@
+Rexiati@Yinatula@1963@ @Worker@6160.122@Bayinguoleng Agricultural Science Institute@9560.017@Inner Mongolia Autonomous Region@9560.017012@Inner Mongolia Autonomous Region, Bayinguoleng Prefecture@
 Rexiati@Yinatula@1959@@Graduate@6160.121@Bayi Agricultural College@9560.017@Inner Mongolia Autonomous Region@
 Rizi@Tuerdi@1973@1977@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Rong@Shixing@2003@@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
-Rong@Shixing@2000@@President@6020.196@Central University for Nationalities@9560.002@Beijing Municipality@
+Rong@Shixing@2003@ @Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
+Rong@Shixing@2000@ @President@6020.196@Central University for Nationalities@9560.002@Beijing Municipality@
 Rong@Shixing@1996@1999@President@6070.113@Guangxi University for Nationalities@9560.007@Guangxi Zhuang Autonomous Region@
-Rong@Shixing@@@Graduate@6070.113@Guangxi University for Nationalities@9560.007@Guangxi Zhuang Autonomous Region@
+Rong@Shixing@ @@Graduate@6070.113@Guangxi University for Nationalities@9560.007@Guangxi Zhuang Autonomous Region@
 Rong@Yiren@1988@1993@Vice-Chairman@1610.101@Standing Committee of the NPC@
 Rong@Yiren@1983@1988@Vice-Chairman@1610.101@Standing Committee of the NPC@
 Rong@Yiren@1978@1983@Vice-Chairman@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
@@ -220,7 +220,7 @@ Ru@Xin@1992@1997@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee
 Ruan@Bosheng@1977@1982@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ruan@Bosheng@1973@1977@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ruan@Bosheng@1969@1973@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Ruan@Chengfa@2017@@Governor@2050.101@People's Government@9560.036@Yunnan Province@
+Ruan@Chengfa@2017@ @Governor@2050.101@People's Government@9560.036@Yunnan Province@
 Ruan@Chengfa@2016@2017@Acting Governor@2050.101@People's Government@9560.036@Yunnan Province@
 Ruan@Chengfa@2012@2017@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ruan@Chengfa@2008@2016@Mayor@2050.101@People's Government@9560.015@Hubei Province@9560.015001@Hubei Province, Wuhan City@
@@ -244,10 +244,10 @@ Ruan@Chongwu@1985@1987@Minister@3100.241@Ministry of Public Security@
 Ruan@Chongwu@1983@1985@Vice-Mayor@2050.101@People's Government@9560.029@Shanghai Municipality@
 Ruan@Chongwu@1982@1987@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ruan@Chongwu@1952@@Joined@1010.101@CPC@
-Ruan@Keqiang@1995@@Academician@3600.251@Chinese Academy of Engineering@
-Ruan@Keqiang@1995@@Academician@6410.107@Chinese Academy of Sciences@
-Ruan@Keqiang@@@Researcher@8010.163@China National Nuclear Industry Corporation@8010.163022@China National Nuclear Industry Corporation-China Nuclear Energy Science Research Institute@
+Ruan@Keqiang@1995@ @Academician@3600.251@Chinese Academy of Engineering@
+Ruan@Keqiang@1995@ @Academician@6410.107@Chinese Academy of Sciences@
+Ruan@Keqiang@ @@Researcher@8010.163@China National Nuclear Industry Corporation@8010.163022@China National Nuclear Industry Corporation-China Nuclear Energy Science Research Institute@
 Ruan@Keqiang@1950@1951@Student@6020.102@Tsinghua University@9560.002@Beijing Municipality@
-Ruan@Xueyu@@@Academician@3600.251@Chinese Academy of Engineering@
+Ruan@Xueyu@ @@Academician@3600.251@Chinese Academy of Engineering@
 Ruan@Xueyu@1953@@Graduate@6250.104@Jiaotong University@6250.104005@Jiaotong University-Mechanics Department@9560.029@Shanghai Municipality@
 Rui@Xinwen@1987@1992@Member@1010.101@CPC@1010.101001@CPC-Central Committee@

@@ -1,5 +1,5 @@
-Nan@Cewen@2000@@Professor@6020.102@Tsinghua University@6020.102028@Tsinghua University-Materials Department@9560.002@Beijing Municipality@
-Nan@Cewen@@@ (Yangtze Scholar) @
+Nan@Cewen@2000@ @Professor@6020.102@Tsinghua University@6020.102028@Tsinghua University-Materials Department@9560.002@Beijing Municipality@
+Nan@Cewen@ @@ (Yangtze Scholar) @
 Nan@Cewen@1999@2000@Visiting Professor@6490.512@Rutgers, The State University of New Jersey@9210.@USA@9210.611@USA, New Jersey@9210.611007@New Jersey, Camden@
 Nan@Cewen@1994@1995@Visiting Professor@6490.588@University of California@9210.@USA@9210.201@USA, California@9210.201015@California, Santa Barbara@
 Nan@Cewen@1992@2000@Professor@6140.149@Wuhan University of Technology@9560.015@Hubei Province@9560.015001@Hubei Province, Wuhan City@
@@ -17,18 +17,18 @@ Nan@Changming@1989@1990@Special Commissioner@3100.721@Ministry of Foreign Trade 
 Nan@Changming@1983@1989@President@8010.915@China National Packaging Corporation@
 Nan@Cunhui@2008@2013@Deputy@1610.001@NPC@
 Nan@Cunhui@2004@@Presenter@7250.702@Boao Forum For Asia@9560.009@Hainan Province@
-Nan@Cunhui@2003@@Deputy@1610.001@NPC@
-Nan@Cunhui@2003@@Vice-Chairman@6750.159@Zhejiang Provincial Federation of Industry and Commerce@9560.037@Zhejiang Province@
+Nan@Cunhui@2003@ @Deputy@1610.001@NPC@
+Nan@Cunhui@2003@ @Vice-Chairman@6750.159@Zhejiang Provincial Federation of Industry and Commerce@9560.037@Zhejiang Province@
 Nan@Cunhui@2003@@Presenter@7250.701@Davos World Economy Forum@9790.@Switzerland@9790.104@Switzerland, Davos@
 Nan@Cunhui@2001@@Awardee@
 Nan@Cunhui@2000@@Awardee@
 Nan@Cunhui@1998@2003@Deputy@1610.001@NPC@
 Nan@Cunhui@1997@2002@Board Member@6750.126@All-China Federation of Industry and Commerce@6750.126002@All-China Federation of Industry and Commerce-Standing Committee@
-Nan@Cunhui@1994@@Chairman of the Board@8050.107@CHINT Group Corporation@
+Nan@Cunhui@1994@ @Chairman of the Board@8050.107@CHINT Group Corporation@
 Nan@Cunhui@1984@@Founder@8010.883@Qiujing Switch Factory@9560.037@Zhejiang Province@9560.037033@Zhejiang Province, Leqing@
 Nan@Ping@1969@1973@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Nan@Ping@1937@@Joined@1010.101@CPC@
-Nan@Ying@2009@@Vice-President@4010.101@Supreme People's Court@
+Nan@Ying@2009@ @Vice-President@4010.101@Supreme People's Court@
 Nan@Ying@2005@2009@Secretary@4020.101@Higher People's Court (at provincial level)@1010.101@CPC@1010.101025@CPC-Party Committee@9560.012@Heilongjiang Province@
 Nan@Ying@2005@2009@President@4020.101@Higher People's Court (at provincial level)@9560.012@Heilongjiang Province@
 Nan@Ying@2004@2005@Acting President@4020.101@Higher People's Court (at provincial level)@9560.012@Heilongjiang Province@
@@ -55,47 +55,47 @@ Nan@Zhenzhong@1997@2002@Delegate@1010.101@CPC@1010.101003@CPC-National Congress@
 Nan@Zhenzhong@1996@2003@Vice-President@6770.729@Chinese Journalists Association@
 Nan@Zhenzhong@1992@1997@Delegate@1010.101@CPC@1010.101003@CPC-National Congress@
 Nan@Zhenzhong@1987@1992@Delegate@1010.101@CPC@1010.101003@CPC-National Congress@
-Nan@Zhenzhong@1986@@Editor-in-Chief@7050.001@Xinhua News Agency@7050.001081@Xinhua News Agency-Office of General Editing@
+Nan@Zhenzhong@1986@ @Editor-in-Chief@7050.001@Xinhua News Agency@7050.001081@Xinhua News Agency-Office of General Editing@
 Nan@Zhenzhong@1978@@Joined@1010.101@CPC@
 Nan@Zhenzhong@1964@@Joined@7050.001@Xinhua News Agency@
 Nan@Zhenzhong@1964@@Graduate@6120.101@Zhengzhou University@9560.013@Henan Province@9560.013001@Henan Province, Zhengzhou City@
-Ngapoi@Ngawang@Jigme@2008@2013@Vice-Chairman@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
-Ngapoi@Ngawang@Jigme@2003@2008@Vice-Chairman@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
-Ngapoi@Ngawang@Jigme@1999@@Member@3200.806@Macao SAR Preparatory Committee@3200.806009@Macao SAR Preparatory Committee-Government Delegation, Macao Hand-Over Ceremony@
-Ngapoi@Ngawang@Jigme@1998@2003@Vice-Chairman@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
-Ngapoi@Ngawang@Jigme@1993@1998@Vice-Chairman@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
-Ngapoi@Ngawang@Jigme@1988@1993@Vice-Chairman@1610.101@Standing Committee of the NPC@
-Ngapoi@Ngawang@Jigme@1983@1988@Vice-Chairman@1610.101@Standing Committee of the NPC@
-Ngapoi@Ngawang@Jigme@1981@1983@Chairman@1610.901@Autonomous Regional People's Congress@1610.901001@Autonomous Regional People's Congress-Standing Committee@9560.034@Tibet Autonomous Region@
-Ngapoi@Ngawang@Jigme@1981@1983@Chairman@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@
-Ngapoi@Ngawang@Jigme@1978@1993@Chairman@1610.201@Ethnic Affairs Committee of the NPC@
-Ngapoi@Ngawang@Jigme@1978@1983@Vice-Chairman@1610.101@Standing Committee of the NPC@
-Ngapoi@Ngawang@Jigme@1975@1978@Vice-Chairman@1610.101@Standing Committee of the NPC@
-Ngapoi@Ngawang@Jigme@1965@1979@Chairman@1610.901@Autonomous Regional People's Congress@9560.034@Tibet Autonomous Region@
-Ngapoi@Ngawang@Jigme@1964@1975@Vice-Chairman@1610.101@Standing Committee of the NPC@
-Ngapoi@Ngawang@Jigme@1959@1964@Deputy@1610.001@NPC@
-Ngapoi@Ngawang@Jigme@1959@1964@Vice-Chairman@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
-Ngapoi@Ngawang@Jigme@1955@????@Lieutenant General@5110.101@PLA@
-Ngapoi@Ngawang@Jigme@1954@1959@Deputy@1610.001@NPC@
-Ngapoi@Ngawang@Jigme@1952@1959@1st Deputy Commander@5110.101@PLA@5110.101009@PLA-Regions@5110.101009091@Regions-Tibet Military District@
-Ngapoi@Ngawang@Jigme@@@Member@5010.121@National Defense Council@
-Ngapoi@Ngawang@Jigme@1952@1959@Secretary-General@3200.807@Tibet Autonomous Region Preparatory Committee@
-Ngapoi@Ngawang@Jigme@1952@1964@Deputy Director@3200.807@Tibet Autonomous Region Preparatory Committee@
-Ngapoi@Ngawang@Jigme@1952@1959@Secretary-General@5110.101@PLA@5110.101009@PLA-Regions@5110.101009091@Regions-Tibet Military District@
-Ngapoi@Ngawang@Jigme@1936@????@Civil Magistrate@4020.102@Intermediate People's Court@9560.034@Tibet Autonomous Region@9560.034003@Tibet Autonomous Region, Qamdo Prefecture@
-Ngapoi@Ngawang@Jigme@1936@????@Official@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@9560.034003@Tibet Autonomous Region, Qamdo Prefecture@
-Ni@Hong@2015@@Vice-Minister@3100.141@Ministry of Housing and Urban-Rural Development@
-Ni@Runfeng@@@Honored@
+Ngawang@Jigme@2008@2013@Vice-Chairman@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
+Ngawang@Jigme@2003@2008@Vice-Chairman@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
+Ngawang@Jigme@1999@@Member@3200.806@Macao SAR Preparatory Committee@3200.806009@Macao SAR Preparatory Committee-Government Delegation, Macao Hand-Over Ceremony@
+Ngawang@Jigme@1998@2003@Vice-Chairman@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
+Ngawang@Jigme@1993@1998@Vice-Chairman@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
+Ngawang@Jigme@1988@1993@Vice-Chairman@1610.101@Standing Committee of the NPC@
+Ngawang@Jigme@1983@1988@Vice-Chairman@1610.101@Standing Committee of the NPC@
+Ngawang@Jigme@1981@1983@Chairman@1610.901@Autonomous Regional People's Congress@1610.901001@Autonomous Regional People's Congress-Standing Committee@9560.034@Tibet Autonomous Region@
+Ngawang@Jigme@1981@1983@Chairman@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@
+Ngawang@Jigme@1978@1993@Chairman@1610.201@Ethnic Affairs Committee of the NPC@
+Ngawang@Jigme@1978@1983@Vice-Chairman@1610.101@Standing Committee of the NPC@
+Ngawang@Jigme@1975@1978@Vice-Chairman@1610.101@Standing Committee of the NPC@
+Ngawang@Jigme@1965@1979@Chairman@1610.901@Autonomous Regional People's Congress@9560.034@Tibet Autonomous Region@
+Ngawang@Jigme@1964@1975@Vice-Chairman@1610.101@Standing Committee of the NPC@
+Ngawang@Jigme@1959@1964@Deputy@1610.001@NPC@
+Ngawang@Jigme@1959@1964@Vice-Chairman@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
+Ngawang@Jigme@1955@ @Lieutenant General@5110.101@PLA@
+Ngawang@Jigme@1954@1959@Deputy@1610.001@NPC@
+Ngawang@Jigme@1952@1959@1st Deputy Commander@5110.101@PLA@5110.101009@PLA-Regions@5110.101009091@Regions-Tibet Military District@
+Ngawang@Jigme@ @@Member@5010.121@National Defense Council@
+Ngawang@Jigme@1952@1959@Secretary-General@3200.807@Tibet Autonomous Region Preparatory Committee@
+Ngawang@Jigme@1952@1964@Deputy Director@3200.807@Tibet Autonomous Region Preparatory Committee@
+Ngawang@Jigme@1952@1959@Secretary-General@5110.101@PLA@5110.101009@PLA-Regions@5110.101009091@Regions-Tibet Military District@
+Ngawang@Jigme@1936@ @Civil Magistrate@4020.102@Intermediate People's Court@9560.034@Tibet Autonomous Region@9560.034003@Tibet Autonomous Region, Qamdo Prefecture@
+Ngawang@Jigme@1936@ @Official@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@9560.034003@Tibet Autonomous Region, Qamdo Prefecture@
+Ni@Hong@2015@ @Vice-Minister@3100.141@Ministry of Housing and Urban-Rural Development@
+Ni@Runfeng@ @@Honored@
 Ni@Runfeng@1999@@Honored@
-Ni@Runfeng@@@Honored@
-Ni@Runfeng@@@Awardee@
+Ni@Runfeng@ @@Honored@
+Ni@Runfeng@ @@Awardee@
 Ni@Runfeng@1998@@Awardee@
 Ni@Runfeng@1998@@Honored@
 Ni@Runfeng@1998@@Honored@
 Ni@Runfeng@1997@2002@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Ni@Runfeng@@@Chairman of the Board@8010.148@Changhong Electronics Corporation@9560.031@Sichuan Province@
+Ni@Runfeng@ @@Chairman of the Board@8010.148@Changhong Electronics Corporation@9560.031@Sichuan Province@
 Ni@Runfeng@1996@@Honored@
-Ni@Runfeng@@@General Manager@8010.148@Changhong Electronics Corporation@9560.031@Sichuan Province@
+Ni@Runfeng@ @@General Manager@8010.148@Changhong Electronics Corporation@9560.031@Sichuan Province@
 Ni@Runfeng@1995@@Honored as "National Model Worker@
 Ni@Runfeng@1994@@Honored@
 Ni@Runfeng@1993@@Honored as "Ten Most Outstanding Persons of Sichuan"@
@@ -104,19 +104,19 @@ Ni@Runfeng@1992@1997@Delegate@1010.101@CPC@1010.101003@CPC-National Congress@
 Ni@Runfeng@1991@@Awarded Special Governmental Subsidy@
 Ni@Runfeng@1990@@Awardee@
 Ni@Runfeng@1990@@Named@
-Ni@Runfeng@@@Named Profesor-grade Senior Engineer@
-Ni@Runfeng@@@Joined@1010.101@CPC@
-Ni@Runfeng@@@Chairman of the Board@8010.567@Changhong Machinery Factory@9560.031@Sichuan Province@
-Ni@Runfeng@@@General Manager@8010.567@Changhong Machinery Factory@9560.031@Sichuan Province@
+Ni@Runfeng@ @@Named Profesor-grade Senior Engineer@
+Ni@Runfeng@ @@Joined@1010.101@CPC@
+Ni@Runfeng@ @@Chairman of the Board@8010.567@Changhong Machinery Factory@9560.031@Sichuan Province@
+Ni@Runfeng@ @@General Manager@8010.567@Changhong Machinery Factory@9560.031@Sichuan Province@
 Ni@Runfeng@1985@1993@Director@8010.567@Changhong Machinery Factory@9560.031@Sichuan Province@
 Ni@Runfeng@1984@1985@Deputy Director@8010.567@Changhong Machinery Factory@9560.031@Sichuan Province@
 Ni@Runfeng@1982@@Joined@1010.101@CPC@
 Ni@Runfeng@1968@1970@Cultural Revolution@1020.101@Cultural Revolution@1020.101103@Cultural Revolution-Sent to the countryside@
 Ni@Runfeng@1962@1967@Student@6190.179@Dalian Engineering College@6190.179008@Dalian Engineering College-Machine Manufacturing Department@9560.023@Liaoning Province@9560.023002@Liaoning Province, Dalian City@
-Ni@Xiaoling@1993@@Researcher@2410.502@Beijing Trademark and Patent Agency@
+Ni@Xiaoling@1993@ @Researcher@2410.502@Beijing Trademark and Patent Agency@
 Ni@Xiaoling@1984@1985@Patent Examiner@3400.705@State Patent Office@
 Ni@Xiaoling@1984@1996@Director@3400.705@State Patent Office@3400.705005@State Patent Office-No. 5 Examination Department@
-Ni@Yuefeng@2017@@Deputy Director@3200.101@General Administration of Customs@
+Ni@Yuefeng@2017@ @Deputy Director@3200.101@General Administration of Customs@
 Ni@Yuefeng@2012@2017@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ni@Yuefeng@2011@2017@Vice-Governor@2050.101@People's Government@9560.004@Fujian Province@
 Ni@Yuefeng@2008@2011@Member@1610.101@Standing Committee of the NPC@
@@ -137,7 +137,7 @@ Ni@Zhifu@1988@1993@Vice-Chairman@1610.101@Standing Committee of the NPC@
 Ni@Zhifu@1987@1992@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ni@Zhifu@1982@1987@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ni@Zhifu@1982@1987@Member@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001001@Central Committee-Politburo@
-Ni@Zhifu@1979@????@Vice-Minister@3100.881@State Machine-Building Industry Commission@
+Ni@Zhifu@1979@ @Vice-Minister@3100.881@State Machine-Building Industry Commission@
 Ni@Zhifu@1977@1982@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ni@Zhifu@1977@1993@Secretary@6750.104@All-China Federation of Trade Unions@1010.101@CPC@1010.101031@CPC-Leading Party Group@
 Ni@Zhifu@1977@1993@President@6750.104@All-China Federation of Trade Unions@
@@ -167,7 +167,7 @@ Nie@Bichu@1959@@Graduate@6290.139@Beiyang University@6290.139009@Beiyang Univers
 Nie@Bichu@1951@1955@Head@1010.101@CPC@1010.101009@CPC-Municipal Committee@1010.101009007@Municipal Committee-Organization Department@9560.033@Tianjin Municipality@
 Nie@Bichu@1949@1951@Secretary@6290.139@Beiyang University@1010.101@CPC@1010.101041@CPC-Party Branch@9560.033@Tianjin Municipality@
 Nie@Bichu@1948@@Joined@1010.101@CPC@
-Nie@Chenxi@2015@@President@7020.351@China Central Television (CCTV)@
+Nie@Chenxi@2015@ @President@7020.351@China Central Television (CCTV)@
 Nie@Chenxi@2012@2015@Deputy Director@3200.301@State Administration of Radio, Film and Television@
 Nie@Chenxi@2012@2015@Deputy Secretary@3200.301@State Administration of Radio, Film and Television@1010.101@CPC@1010.101031@CPC-Leading Party Group@
 Nie@Chenxi@2011@2012@Vice-Governor@2050.101@People's Government@9560.011@Hebei Province@
@@ -186,11 +186,11 @@ Nie@Chenxi@1977@1980@Student@6250.101@Fudan University@9560.029@Shanghai Municip
 Nie@Dajiang@1998@2003@Member@1610.101@Standing Committee of the NPC@
 Nie@Dajiang@1993@1998@Vice-Chairman@1610.203@Education, Science, Culture and Health Committee of the NPC@
 Nie@Dajiang@1993@1998@Member@1610.101@Standing Committee of the NPC@
-Nie@Dajiang@@@Deputy Head@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001004@Central Committee-Propaganda Department@
+Nie@Dajiang@ @@Deputy Head@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001004@Central Committee-Propaganda Department@
 Nie@Dajiang@1987@1992@Delegate@1010.101@CPC@1010.101003@CPC-National Congress@
 Nie@Dajiang@1986@1990@Vice-Minister@3100.352@Ministry of Radio, Film and Television@
-Nie@Dajiang@@@Member@1010.101@CPC@1010.101005@CPC-Provincial Committee@1010.101005001@Provincial Committee-Standing Committee@9560.005@Gansu Province@
-Nie@Dajiang@@@Head@1010.101@CPC@1010.101005@CPC-Provincial Committee@1010.101005006@Provincial Committee-Propaganda Department@9560.005@Gansu Province@
+Nie@Dajiang@ @@Member@1010.101@CPC@1010.101005@CPC-Provincial Committee@1010.101005001@Provincial Committee-Standing Committee@9560.005@Gansu Province@
+Nie@Dajiang@ @@Head@1010.101@CPC@1010.101005@CPC-Provincial Committee@1010.101005006@Provincial Committee-Propaganda Department@9560.005@Gansu Province@
 Nie@Dajiang@1982@1984@Secretary@6050.101@Lanzhou University@1010.101@CPC@1010.101025@CPC-Party Committee@9560.005@Gansu Province@9560.005001@Gansu Province, Lanzhou City@
 Nie@Dajiang@1982@1986@Deputy Secretary@1010.101@CPC@1010.101005@CPC-Provincial Committee@9560.005@Gansu Province@
 Nie@Dajiang@1982@1984@President@6050.101@Lanzhou University@9560.005@Gansu Province@9560.005001@Gansu Province, Lanzhou City@
@@ -210,7 +210,7 @@ Nie@Kuiju@1982@1987@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Commit
 Nie@Kuiju@1945@@Joined@1010.101@CPC@
 Nie@Kuiju@1944@@Joined@5110.101@PLA@
 Nie@Li@1998@2003@Member@1610.101@Standing Committee of the NPC@
-Nie@Li@1993@@Lieutenant General@5110.101@PLA@
+Nie@Li@1993@ @Lieutenant General@5110.101@PLA@
 Nie@Li@1993@1998@Member@1610.202@Internal and Judicial Affairs Committee of the NPC@
 Nie@Li@1993@1998@Vice-Chairman@6750.125@All-China Women's Federation@
 Nie@Li@1993@1998@Member@1610.101@Standing Committee of the NPC@
@@ -233,10 +233,10 @@ Nie@Ronggui@1978@1983@Deputy@1610.001@NPC@
 Nie@Ronggui@1947@@Joined@1010.101@CPC@
 Nie@Weiguo@2012@2017@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Nie@Weiguo@2007@2012@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Nie@Weiguo@2005@@Chairman@8010.013@China Xinjiang Group Corporation@8010.013001@China Xinjiang Group Corporation-Board of the Directors@
-Nie@Weiguo@2005@@Secretary@8010.244@Xinjiang Production and Construction Corps@1010.101@CPC@1010.101025@CPC-Party Committee@
-Nie@Weiguo@2005@@Political Commissar@8010.244@Xinjiang Production and Construction Corps@
-Nie@Weiguo@2005@@Deputy Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.035@Xinjiang Uygur Autonomous Region@
+Nie@Weiguo@2005@ @Chairman@8010.013@China Xinjiang Group Corporation@8010.013001@China Xinjiang Group Corporation-Board of the Directors@
+Nie@Weiguo@2005@ @Secretary@8010.244@Xinjiang Production and Construction Corps@1010.101@CPC@1010.101025@CPC-Party Committee@
+Nie@Weiguo@2005@ @Political Commissar@8010.244@Xinjiang Production and Construction Corps@
+Nie@Weiguo@2005@ @Deputy Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.035@Xinjiang Uygur Autonomous Region@
 Nie@Weiguo@2002@2005@Deputy Secretary@1010.101@CPC@1010.101009@CPC-Municipal Committee@9560.003@Chongqing Municipality@
 Nie@Weiguo@2002@2007@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Nie@Weiguo@2000@2002@Secretary@1010.101@CPC@1010.101017@CPC-District Committee@9560.003@Chongqing Municipality@9560.003012@Chongqing Municipality, Wanzhou District@
@@ -267,27 +267,27 @@ Nie@Yuanzi@1967@1969@Vice-Chairman@1020.101@Cultural Revolution@1020.101033@Cult
 Nie@Yuanzi@1964@1965@Secretary@6020.101@Beijing University@6020.101009@Beijing University-Philosophy Department@1010.101@CPC@1010.101025@CPC-Party Committee@9560.002@Beijing Municipality@
 Nie@Yuanzi@1963@1964@Vice-Dean@6020.101@Beijing University@6020.101002@Beijing University-Economics Department@9560.002@Beijing Municipality@
 Nie@Yuanzi@1938@@Joined@1010.101@CPC@
-Nie@Zhenbang@2000@@Director@3800.101@State Administration of Grain@
-Nie@Zhenbang@2000@@Secretary@3800.101@State Administration of Grain@1010.101@CPC@1010.101031@CPC-Leading Party Group@
+Nie@Zhenbang@2000@ @Director@3800.101@State Administration of Grain@
+Nie@Zhenbang@2000@ @Secretary@3800.101@State Administration of Grain@1010.101@CPC@1010.101031@CPC-Leading Party Group@
 Nie@Zhenbang@1998@2000@Deputy Director@3800.102@State Grain Reserve Administration@
 Nie@Zhenbang@1998@2000@Deputy Secretary@3800.102@State Grain Reserve Administration@1010.101@CPC@1010.101031@CPC-Leading Party Group@
-Ning@Bin@2008@@President@6020.107@Northern Jiaotong University@9560.002@Beijing Municipality@
+Ning@Bin@2008@ @President@6020.107@Northern Jiaotong University@9560.002@Beijing Municipality@
 Ning@Bin@2004@2008@Senior Vice-President@6020.107@Northern Jiaotong University@9560.002@Beijing Municipality@
 Ning@Bin@1997@2004@Vice-President@6020.107@Northern Jiaotong University@9560.002@Beijing Municipality@
 Ning@Bin@1982@@Graduate@6020.107@Northern Jiaotong University@9560.002@Beijing Municipality@
 Ning@Gaoning@2012@2017@Member@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001039@Central Committee-Central Commission for Discipline Inspection@
-Ning@Gaoning@2004@@Chairman of the Board@8010.106@China National Cereals, Oil and Foodstuffs Import and Export Corporation@
+Ning@Gaoning@2004@ @Chairman of the Board@8010.106@China National Cereals, Oil and Foodstuffs Import and Export Corporation@
 Ning@Gaoning@1999@2004@Chairman of the Board@8010.818@China Resources Enterprises Limited@
 Ning@Gaoning@1999@2004@General Manager@8010.819@Huarun Group Company Limited@
 Ning@Gaoning@1990@1990@Director@8010.818@China Resources Enterprises Limited@
 Ning@Gaoning@1990@1999@General Manager@8010.818@China Resources Enterprises Limited@
 Ning@Gaoning@1987@@Graduate@6490.555@University of Pittsburgh@9210.@USA@9210.711@USA, Pennsylvania@9210.711002@Pennsylvania, Pittsburgh@
 Ning@Gaoning@1983@@Graduate@6240.101@Shandong University@9560.028@Shandong Province@9560.028002@Shandong Province, Jinan City@
-Ning@Jizhe@2015@@Deputy Director@3100.151@National Development and Reform Commission@
+Ning@Jizhe@2015@ @Deputy Director@3100.151@National Development and Reform Commission@
 Ning@Jizhe@2013@2015@Director@3400.501@Research Office of the State Council@
 Ning@Jizhe@2007@2013@Deputy Director@3400.501@Research Office of the State Council@
 Ning@Jizhe@2006@2007@Assistant Director@3400.501@Research Office of the State Council@
-Ning@Jizhe@2005@@Member@3400.501@Research Office of the State Council@1010.101@CPC@1010.101031@CPC-Leading Party Group@
+Ning@Jizhe@2005@ @Member@3400.501@Research Office of the State Council@1010.101@CPC@1010.101031@CPC-Leading Party Group@
 Ning@Jizhe@2003@2006@Staff Member@3400.501@Research Office of the State Council@
 Ning@Jizhe@1998@2003@Staff Member@3100.151@National Development and Reform Commission@3100.151009@National Development and Reform Commission-Economic Research Center@3100.151009001@Economic Research Center-State Planning Commission@
 Ning@Jizhe@1988@2003@Team Leader@3400.804@Western Region Development Office@3400.804009@Western Region Development Office-Comprehensive Team@
@@ -299,9 +299,9 @@ Ning@Jun@2004@2005@Chairman of the Board@8010.798@China Finance Online Company L
 Ning@Jun@1997@2004@Chief Executive Officer@8010.797@Dalian Yaqi Computer Company@9560.023@Liaoning Province@9560.023002@Liaoning Province, Dalian City@
 Ning@Jun@1996@1997@President@8010.796@Eastern Software Company@
 Ning@Jun@1976@@Joined@5110.101@PLA@
-Niu@Gang@@@Chairman@8010.918@Dashang Group Company@
+Niu@Gang@ @@Chairman@8010.918@Dashang Group Company@
 Niu@Hongguang@2012@2017@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Niu@Hongguang@2009@@Deputy Director@5110.101@PLA@5110.101007@PLA-General Armaments Department@
+Niu@Hongguang@2009@ @Deputy Director@5110.101@PLA@5110.101007@PLA-General Armaments Department@
 Niu@Hongguang@2008@2013@Deputy@1610.001@NPC@
 Niu@Hongguang@1967@2008@Chief of Staff@5110.101@PLA@5110.101007@PLA-General Armaments Department@
 Niu@Maosheng@2003@2008@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
@@ -335,7 +335,7 @@ Niu@Maosheng@1963@1965@Worker@1020.101@Cultural Revolution@1020.101106@Cultural 
 Niu@Maosheng@1963@1965@Cultural Revolution@1020.101@Cultural Revolution@1020.101103@Cultural Revolution-Sent to the countryside@9560.002@Beijing Municipality@
 Niu@Maosheng@1961@@Joined@1010.101@CPC@
 Niu@Maosheng@1958@1963@Student@6020.197@Beijing Institute of Agricultural Mechanization@6020.197009@Beijing Institute of Agricultural Mechanization-Water Conservancy and Irrigation Department@9560.002@Beijing Municipality@
-Niu@Renliang@2002@@Vice-Governor@2050.101@People's Government@9560.026@Shanxi Province@
+Niu@Renliang@2002@ @Vice-Governor@2050.101@People's Government@9560.026@Shanxi Province@
 Niu@Renliang@2000@2002@Secretary@2210.603@Development and Planning Committee@1010.101@CPC@1010.101031@CPC-Leading Party Group@9560.026@Shanxi Province@
 Niu@Renliang@2000@2002@Director@2210.603@Development and Planning Committee@9560.026@Shanxi Province@
 Niu@Renliang@1999@2000@Deputy Secretary-General@1010.101@CPC@1010.101005@CPC-Provincial Committee@9560.026@Shanxi Province@
@@ -353,13 +353,13 @@ Niu@Shaoyao@1989@1992@Director@2210.897@Committee of Science, Technology and Ind
 Niu@Shaoyao@1989@1992@Secretary@2210.897@Committee of Science, Technology and Industry for National Defense@1010.101@CPC@1010.101025@CPC-Party Committee@9560.036@Yunnan Province@
 Niu@Shaoyao@1985@1989@Deputy Director@2190.145@Bureau of Electronics Industry@9560.036@Yunnan Province@
 Niu@Shaoyao@1973@@Joined@1010.101@CPC@
-Niu@Shouzhang@1997@@Chairman@6750.159@Zhejiang Provincial Federation of Industry and Commerce@9560.037@Zhejiang Province@
-Niu@Shouzhang@1993@@Member@6750.126@All-China Federation of Industry and Commerce@6750.126001@All-China Federation of Industry and Commerce-Executive Committee@
+Niu@Shouzhang@1997@ @Chairman@6750.159@Zhejiang Provincial Federation of Industry and Commerce@9560.037@Zhejiang Province@
+Niu@Shouzhang@1993@ @Member@6750.126@All-China Federation of Industry and Commerce@6750.126001@All-China Federation of Industry and Commerce-Executive Committee@
 Niu@Shouzhang@1993@1998@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
 Niu@Shouzhang@1988@1993@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
 Niu@Xiaoming@2002@2008@Vice-Chairman@1500.101@Revolutionary Committee of Chinese Kuomintang (RCCK)@1500.101001@Revolutionary Committee of Chinese Kuomintang (RCCK)-Central Committee@
 Niu@Xiaoming@1998@2003@Member@1610.001@NPC@
-Niu@Xiaoming@1998@@Vice-Chairman@1610.401@Provincial People's Congress@1610.401001@Provincial People's Congress-Standing Committee@9560.031@Sichuan Province@
+Niu@Xiaoming@1998@ @Vice-Chairman@1610.401@Provincial People's Congress@1610.401001@Provincial People's Congress-Standing Committee@9560.031@Sichuan Province@
 Niu@Xiaoming@1997@2002@Vice-Chairman@1500.101@Revolutionary Committee of Chinese Kuomintang (RCCK)@1500.101001@Revolutionary Committee of Chinese Kuomintang (RCCK)-Central Committee@
 Niu@Xiaoming@1997@2002@Member@1500.101@Revolutionary Committee of Chinese Kuomintang (RCCK)@1500.101001@Revolutionary Committee of Chinese Kuomintang (RCCK)-Central Committee@
 Niu@Xiaoming@1995@1998@Deputy Director@2210.134@Provincial Education Commission@9560.031@Sichuan Province@
@@ -369,13 +369,13 @@ Niu@Xiaoming@1994@2002@Vice-President@6270.102@Southwest Jiaotong University@956
 Niu@Xiaoming@1993@1994@Assistant to the President@6270.102@Southwest Jiaotong University@9560.031@Sichuan Province@9560.031001@Sichuan Province, Chengdu City@
 Niu@Xiaoming@1988@1993@Vice-Dean@6270.102@Southwest Jiaotong University@6270.102016@Southwest Jiaotong University-Electronic Engineering Department@9560.031@Sichuan Province@9560.031001@Sichuan Province, Chengdu City@
 Niu@Xiaoming@1987@1993@Assistant Professor@6270.102@Southwest Jiaotong University@9560.031@Sichuan Province@9560.031001@Sichuan Province, Chengdu City@
-Niu@Youcheng@2008@@Vice-Mayor@2050.101@People's Government@9560.002@Beijing Municipality@
-Niu@Youcheng@@@Secretary@1010.101@CPC@1010.101017@CPC-District Committee@9560.002@Beijing@9560.002011@Beijing, Daxing County@
-Niu@Youcheng@@@Secretary@1010.101@CPC@1010.101017@CPC-District Committee@9560.002@Beijing@9560.002013@Beijing, Shunyi District@
-Niu@Youcheng@@@Deputy Head@1010.101@CPC@1010.101017@CPC-District Committee@1010.101017008@District Committee-Publicity Department@9560.002@Beijing@9560.002013@Beijing, Shunyi District@
-Niu@Youcheng@@@Deputy Secretary@6777.101@CYLC@6777.101531@CYLC-District-Level@9560.002@Beijing@9560.002013@Beijing, Shunyi District@
-Nuer@Bekri@2015@@Director@3100.812@National Energy Administration@
-Nuer@Bekri@2015@@Deputy Director@3100.151@National Development and Reform Commission@
+Niu@Youcheng@2008@ @Vice-Mayor@2050.101@People's Government@9560.002@Beijing Municipality@
+Niu@Youcheng@ @@Secretary@1010.101@CPC@1010.101017@CPC-District Committee@9560.002@Beijing@9560.002011@Beijing, Daxing County@
+Niu@Youcheng@ @@Secretary@1010.101@CPC@1010.101017@CPC-District Committee@9560.002@Beijing@9560.002013@Beijing, Shunyi District@
+Niu@Youcheng@ @@Deputy Head@1010.101@CPC@1010.101017@CPC-District Committee@1010.101017008@District Committee-Publicity Department@9560.002@Beijing@9560.002013@Beijing, Shunyi District@
+Niu@Youcheng@ @@Deputy Secretary@6777.101@CYLC@6777.101531@CYLC-District-Level@9560.002@Beijing@9560.002013@Beijing, Shunyi District@
+Nuer@Bekri@2015@ @Director@3100.812@National Energy Administration@
+Nuer@Bekri@2015@ @Deputy Director@3100.151@National Development and Reform Commission@
 Nuer@Bekri@2012@2017@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Nuer@Bekri@2008@2014@Chairman@2050.106@Autonomous Region People's Government@9560.035@Xinjiang Uygur Autonomous Region@
 Nuer@Bekri@2007@2012@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
@@ -395,7 +395,7 @@ Nuer@Bekri@1989@1992@Secretary@6310.101@Xinjiang University@6777.101@CYLC@6777.1
 Nuer@Bekri@1986@1989@Student@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001031@Central Committee-Central Party School@1010.101001031023@Central Party School-Political Theory Department@
 Nuer@Bekri@1984@1989@Deputy Secretary@6310.101@Xinjiang University@6777.101@CYLC@6777.101801@CYLC-Institutional Level@9560.035@Xinjiang Uygur Autonomous Region@9560.035001@Xinjiang Uygur Autonomous Region, Urumqi City@
 Nuer@Bekri@1983@1984@Teacher@6310.101@Xinjiang University@6310.101014@Xinjiang University-Political Science Department@9560.035@Xinjiang Uygur Autonomous Region@9560.035001@Xinjiang Uygur Autonomous Region, Urumqi City@
-Nuerlan@Abudumanjin@2008@@Member@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.035@Xinjiang Uygur Autonomous Region@
+Nuerlan@Abudumanjin@2008@ @Member@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.035@Xinjiang Uygur Autonomous Region@
 Nuerlan@Abudumanjin@2003@2008@Vice-Chairman@2050.106@Autonomous Region People's Government@9560.035@Xinjiang Uygur Autonomous Region@
 Nuerlan@Abudumanjin@2001@2003@Chief@9560.035@Xinjiang Uygur Autonomous Region@9560.035048@Xinjiang Uygur Autonomous Region, Ili Prefecture@
 Nuerlan@Abudumanjin@2001@2003@Secretary@1010.101@CPC@1010.101013@CPC-Autonomous Prefectural Committee@9560.035@Xinjiang Uygur Autonomous Region@9560.035048@Xinjiang Uygur Autonomous Region, Ili Prefecture@

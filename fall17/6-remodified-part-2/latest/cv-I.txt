@@ -1,7 +1,7 @@
-Ismail@Amat@2003@@Vice-Chairman@1610.101@Standing Committee of the NPC@
+Ismail@Amat@2003@ @Vice-Chairman@1610.101@Standing Committee of the NPC@
 Ismail@Amat@2002@2007@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Ismail@Amat@2000@@Vice-Chairman@3200.781@China International Committee for Natural Disaster@
-Ismail@Amat@1998@????@Director@3200.805@State Council Coordination Committee for the Work of Disabled Persons@
+Ismail@Amat@2000@ @Vice-Chairman@3200.781@China International Committee for Natural Disaster@
+Ismail@Amat@1998@ @Director@3200.805@State Council Coordination Committee for the Work of Disabled Persons@
 Ismail@Amat@1997@2002@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ismail@Amat@1993@2003@State Councilor@3000.@State Council@
 Ismail@Amat@1992@1997@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
@@ -30,8 +30,8 @@ Ismail@Tiliwaldi@2008@2013@Vice-Chairman@1610.101@Standing Committee of the NPC@
 Ismail@Tiliwaldi@2007@2012@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Ismail@Tiliwaldi@2003@2007@Chairman@2050.106@Autonomous Region People's Government@9560.035@Xinjiang Uygur Autonomous Region@
 Ismail@Tiliwaldi@2002@2007@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Ismail@Tiliwaldi@1998@@Deputy Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007013@Autonomous Regional Committee-Politics and Law Committee@9560.035@Xinjiang Uygur Autonomous Region@
-Ismail@Tiliwaldi@@@Member@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007011@Autonomous Regional Committee-Standing Committee@9560.035@Xinjiang Uygur Autonomous Region@
+Ismail@Tiliwaldi@1998@ @Deputy Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007013@Autonomous Regional Committee-Politics and Law Committee@9560.035@Xinjiang Uygur Autonomous Region@
+Ismail@Tiliwaldi@ @@Member@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007011@Autonomous Regional Committee-Standing Committee@9560.035@Xinjiang Uygur Autonomous Region@
 Ismail@Tiliwaldi@1998@2000@Member@2050.106@Autonomous Region People's Government@1010.101@CPC@1010.101031@CPC-Leading Party Group@9560.035@Xinjiang Uygur Autonomous Region@
 Ismail@Tiliwaldi@1995@1998@Deputy Political Commissar@8010.244@Xinjiang Production and Construction Corps@9560.035@Xinjiang Uygur Autonomous Region@
 Ismail@Tiliwaldi@1995@1998@Member@8010.244@Xinjiang Production and Construction Corps@1010.101@CPC@1010.101025@CPC-Party Committee@1010.101025001@Party Committee-Standing Committee@9560.035@Xinjiang Uygur Autonomous Region@
@@ -43,6 +43,6 @@ Ismail@Tiliwaldi@1980@1983@Deputy Chief@2410.164@Personnel Department@9560.035@X
 Ismail@Tiliwaldi@1976@1980@Staff Official@1010.101@CPC@1010.101013@CPC-Autonomous Prefectural Committee@1010.101013006@Autonomous Prefectural Committee-Organization Department@9560.035@Xinjiang Uygur Autonomous Region@9560.035006@Xinjiang Uygur Autonomous Region, Kashi Prefecture@
 Ismail@Tiliwaldi@1973@1976@Staff Official@1010.101@CPC@1010.101021@CPC-Autonomous County Committee@1010.101021005@Autonomous County Committee-Organization Department@9560.035@Xinjiang Uygur Autonomous Region@9560.035028@Xinjiang Uygur Autonomous Region, Shufu County@
 Ismail@Tiliwaldi@1973@@Joined@1010.101@CPC@
-Ismail@Tiliwaldi@@@Translator@
+Ismail@Tiliwaldi@ @@Translator@
 Ismail@Tiliwaldi@1967@1973@Worker@9560.035@Xinjiang Uygur Autonomous Region@9560.035028@Xinjiang Uygur Autonomous Region, Shufu County@
 Ismail@Tiliwaldi@1967@@Graduate@6310.101@Xinjiang University@6310.101012@Xinjiang University-Mathematics Department@9560.035@Xinjiang Uygur Autonomous Region@
