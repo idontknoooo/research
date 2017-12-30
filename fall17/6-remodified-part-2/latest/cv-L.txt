@@ -158,14 +158,14 @@ Leng@Rongquan@1999@2000@Deputy Director-General@3100.701@Ministry of Posts and T
 Leng@Rongquan@1994@1999@Deputy Chief Engineer@3100.701@Ministry of Posts and Telecommunications@3100.701031@Ministry of Posts and Telecommunications-Telecommunications Bureau@
 Leng@Rongquan@1989@1994@Chief Engineer@2190.311@Long Distance Telephone Bureau@9560.002@Beijing Municipality@
 Leng@Rongquan@ @@Graduate@6020.109@Beijing Institute of Posts and Telecommunications@9560.002@Beijing Municipality@
-Chun-ying@(CY@2017@ @Vice-Chairman@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
-Chun-ying@(CY@2012@ @Chief Executive@2050.201@Central People's Government@9560.014@Hong Kong SAR@
-Chun-ying@(CY@2008@2013@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
-Chun-ying@(CY@2003@2008@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
-Chun-ying@(CY@1995@1996@Deputy Director@3200.804@Hong Kong SAR Preparatory Committee@
-Chun-ying@(CY@1993@1995@Hong Kong Affairs Consultant@7050.001@Xinhua News Agency@7050.001015@Xinhua News Agency-Hong Kong Branch@9560.014@Hong Kong SAR@
-Chun-ying@(CY@1977@ @Graduate@6490.774@Bristol Institute of Technology@9470.@United Kingdom@9470.115@United Kingdom, Bristol@
-Chun-ying@(CY@1974@@Graduate@6130.106@The Hong Kong University of Science and Technology@9560.014@Hong Kong SAR@
+Leung@Chun-ying@2017@ @Vice-Chairman@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
+Leung@Chun-ying@2012@ @Chief Executive@2050.201@Central People's Government@9560.014@Hong Kong SAR@
+Leung@Chun-ying@2008@2013@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
+Leung@Chun-ying@2003@2008@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
+Leung@Chun-ying@1995@1996@Deputy Director@3200.804@Hong Kong SAR Preparatory Committee@
+Leung@Chun-ying@1993@1995@Hong Kong Affairs Consultant@7050.001@Xinhua News Agency@7050.001015@Xinhua News Agency-Hong Kong Branch@9560.014@Hong Kong SAR@
+Leung@Chun-ying@1977@ @Graduate@6490.774@Bristol Institute of Technology@9470.@United Kingdom@9470.115@United Kingdom, Bristol@
+Leung@Chun-ying@1974@@Graduate@6130.106@The Hong Kong University of Science and Technology@9560.014@Hong Kong SAR@
 Li@Andong@2007@2012@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Li@Andong@2002@ @Lieutenant General@5110.101@PLA@
 Li@Andong@2002@2007@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
@@ -5763,28 +5763,28 @@ Long@Zhuangwei@1986@1991@Lecturer@6100.171@Hebei Normal University@6100.171001@H
 Long@Zhuangwei@1983@1986@Student@6100.171@Hebei Normal University@6100.171001@Hebei Normal University-Chinese Literature Department@9560.011@Hebei Province@9560.011001@Hebei Province, Shijiazhuang City@
 Long@Zhuangwei@1981@1983@Cadre@2190.124@Education Bureau@9560.015@Hubei Province@9560.015053@Hubei Province, Enshi City@
 Long@Zhuangwei@1971@1974@Cultural Revolution@1020.101@Cultural Revolution@1020.101106@Cultural Revolution-Rusticated Youth@9560.015@Hubei Province@9560.015062@Hubei Province, Enshi County@
-Jamcan@(Gyaltsen)@2017@ @Director@1610.902@Autonomous City People's Congress@1610.902001@Autonomous City People's Congress-Standing Committee@9560.034@Tibet Autonomous Region@
-Jamcan@(Gyaltsen)@2016@ @Deputy Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.034@Tibet Autonomous Region@
-Jamcan@(Gyaltsen)@2012@2017@Chairman@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@
-Jamcan@(Gyaltsen)@2012@2017@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Jamcan@(Gyaltsen)@2010@2012@Vice-Chairman@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@
-Jamcan@(Gyaltsen)@2008@2013@Deputy@1610.001@NPC@
-Jamcan@(Gyaltsen)@2007@ @Deputy Secretary@2050.106@Autonomous Region People's Government@1010.101@CPC@1010.101031@CPC-Leading Party Group@9560.034@Tibet Autonomous Region@
-Jamcan@(Gyaltsen)@2007@ @Director@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007003@Autonomous Regional Committee-United Front Work Department@9560.034@Tibet Autonomous Region@
-Jamcan@(Gyaltsen)@2006@ @Member@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007011@Autonomous Regional Committee-Standing Committee@9560.034@Tibet Autonomous Region@
-Jamcan@(Gyaltsen)@2003@2010@Vice-Chairman@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@
-Jamcan@(Gyaltsen)@2001@2004@Student@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001031@Central Committee-Central Party School@
-Jamcan@(Gyaltsen)@1996@2003@Mayor@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@9560.034001@Tibet Autonomous Region, Lhasa@
-Jamcan@(Gyaltsen)@1995@1996@Vice-Mayor@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@9560.034001@Tibet Autonomous Region, Lhasa@
-Jamcan@(Gyaltsen)@1995@1996@Acting Mayor@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@9560.034001@Tibet Autonomous Region, Lhasa@
-Jamcan@(Gyaltsen)@1995@2003@Deputy Secretary@1010.101@CPC@1010.101016@CPC-Autonomous City Committee@9560.034@Tibet Autonomous Region@9560.034001@Tibet Autonomous Region, Lhasa@
-Jamcan@(Gyaltsen)@1992@1995@Secretary@1010.101@CPC@1010.101013@CPC-Autonomous Prefectural Committee@9560.034@Tibet Autonomous Region@9560.034027@Tibet Autonomous Region, Nagchu Prefecture@
-Jamcan@(Gyaltsen)@1992@1995@Commissioner@2410.111@Prefectural Administrative Office@9560.034@Tibet Autonomous Region@9560.034027@Tibet Autonomous Region, Nagchu Prefecture@
-Jamcan@(Gyaltsen)@1990@1991@Student@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001031@Central Committee-Central Party School@
-Jamcan@(Gyaltsen)@1986@1992@Secretary@6777.101@CYLC@6777.101611@CYLC-Autonomous Regional-Level@9560.034@Tibet Autonomous Region@
-Jamcan@(Gyaltsen)@1984@1986@Secretary@6300.103@Tibet Institute of Nationalities@6777.101@CYLC@6777.101801@CYLC-Institutional Level@6777.101801024@Institutional Level-Student Department@9560.034@Tibet Autonomous Region@
-Jamcan@(Gyaltsen)@1979@1984@Teacher@6300.103@Tibet Institute of Nationalities@9560.034@Tibet Autonomous Region@
-Jamcan@(Gyaltsen)@1971@1976@Student@6300.103@Tibet Institute of Nationalities@6300.103009@Tibet Institute of Nationalities-Literature Department@9560.034@Tibet Autonomous Region@
+Losang@Jamcan@2017@ @Director@1610.902@Autonomous City People's Congress@1610.902001@Autonomous City People's Congress-Standing Committee@9560.034@Tibet Autonomous Region@
+Losang@Jamcan@2016@ @Deputy Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.034@Tibet Autonomous Region@
+Losang@Jamcan@2012@2017@Chairman@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@
+Losang@Jamcan@2012@2017@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
+Losang@Jamcan@2010@2012@Vice-Chairman@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@
+Losang@Jamcan@2008@2013@Deputy@1610.001@NPC@
+Losang@Jamcan@2007@ @Deputy Secretary@2050.106@Autonomous Region People's Government@1010.101@CPC@1010.101031@CPC-Leading Party Group@9560.034@Tibet Autonomous Region@
+Losang@Jamcan@2007@ @Director@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007003@Autonomous Regional Committee-United Front Work Department@9560.034@Tibet Autonomous Region@
+Losang@Jamcan@2006@ @Member@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007011@Autonomous Regional Committee-Standing Committee@9560.034@Tibet Autonomous Region@
+Losang@Jamcan@2003@2010@Vice-Chairman@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@
+Losang@Jamcan@2001@2004@Student@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001031@Central Committee-Central Party School@
+Losang@Jamcan@1996@2003@Mayor@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@9560.034001@Tibet Autonomous Region, Lhasa@
+Losang@Jamcan@1995@1996@Vice-Mayor@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@9560.034001@Tibet Autonomous Region, Lhasa@
+Losang@Jamcan@1995@1996@Acting Mayor@2050.106@Autonomous Region People's Government@9560.034@Tibet Autonomous Region@9560.034001@Tibet Autonomous Region, Lhasa@
+Losang@Jamcan@1995@2003@Deputy Secretary@1010.101@CPC@1010.101016@CPC-Autonomous City Committee@9560.034@Tibet Autonomous Region@9560.034001@Tibet Autonomous Region, Lhasa@
+Losang@Jamcan@1992@1995@Secretary@1010.101@CPC@1010.101013@CPC-Autonomous Prefectural Committee@9560.034@Tibet Autonomous Region@9560.034027@Tibet Autonomous Region, Nagchu Prefecture@
+Losang@Jamcan@1992@1995@Commissioner@2410.111@Prefectural Administrative Office@9560.034@Tibet Autonomous Region@9560.034027@Tibet Autonomous Region, Nagchu Prefecture@
+Losang@Jamcan@1990@1991@Student@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001031@Central Committee-Central Party School@
+Losang@Jamcan@1986@1992@Secretary@6777.101@CYLC@6777.101611@CYLC-Autonomous Regional-Level@9560.034@Tibet Autonomous Region@
+Losang@Jamcan@1984@1986@Secretary@6300.103@Tibet Institute of Nationalities@6777.101@CYLC@6777.101801@CYLC-Institutional Level@6777.101801024@Institutional Level-Student Department@9560.034@Tibet Autonomous Region@
+Losang@Jamcan@1979@1984@Teacher@6300.103@Tibet Institute of Nationalities@9560.034@Tibet Autonomous Region@
+Losang@Jamcan@1971@1976@Student@6300.103@Tibet Institute of Nationalities@6300.103009@Tibet Institute of Nationalities-Literature Department@9560.034@Tibet Autonomous Region@
 Lou@Chenghou@1980@ @Academician@6410.107@Chinese Academy of Sciences@
 Lou@Chenghou@ @@Researcher@6900.704@Shanghai Phytophysiology Research Institute@9560.029@Shanghai Municipality@
 Lou@Chenghou@ @@Professor@6020.114@China Agricultural University@9560.002@Beijing Municipality@

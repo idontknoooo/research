@@ -950,11 +950,11 @@ He@Yehui@2003@2008@Deputy Secretary-General@1610.101@Standing Committee of the N
 He@Yehui@2003@2008@Assistant to the Chairman@1610.202@Internal and Judicial Affairs Committee of the NPC@
 He@Yehui@1999@2003@Public Procurator@4100.101@Supreme People's Procuratorate@
 He@Yehui@1999@2003@Member@4100.101@Supreme People's Procuratorate@4100.101008@Supreme People's Procuratorate-Procuratorial Committee@
-Yicheng@(Ho@2009@ @Vice-Chairman@2050.201@Central People's Government@2050.201052@Central People's Government-Legislative Council@9560.038@Macao SAR@
-Yicheng@(Ho@2008@2013@Member@1610.101@Standing Committee of the NPC@
-Yicheng@(Ho@ @@Member@6870.114@Macao Chinese General Chamber of Commerce@6870.114001@Macao Chinese General Chamber of Commerce-Executive Council@
-Yicheng@(Ho@2003@2008@Deputy@1610.001@NPC@
-Yicheng@(Ho@1998@2003@Deputy@1610.001@NPC@
+He@Yicheng@2009@ @Vice-Chairman@2050.201@Central People's Government@2050.201052@Central People's Government-Legislative Council@9560.038@Macao SAR@
+He@Yicheng@2008@2013@Member@1610.101@Standing Committee of the NPC@
+He@Yicheng@ @@Member@6870.114@Macao Chinese General Chamber of Commerce@6870.114001@Macao Chinese General Chamber of Commerce-Executive Council@
+He@Yicheng@2003@2008@Deputy@1610.001@NPC@
+He@Yicheng@1998@2003@Deputy@1610.001@NPC@
 He@Yiting@2013@ @Executive Vice-President@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001031@Central Committee-Central Party School@
 He@Yiting@2012@2017@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 He@Yong@2007@2012@Member@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001001@Central Committee-Politburo@1010.101001001002@Politburo-Secretariat@

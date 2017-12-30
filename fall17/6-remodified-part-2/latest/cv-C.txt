@@ -506,15 +506,15 @@ Cao@Zhi@1949@1951@Deputy Head@1010.101@CPC@1010.101019@CPC-County Committee@1010
 Cao@Zhi@1948@1949@Secretary@1010.101@CPC@1010.101019@CPC-County Committee@9560.012@Heilongjiang Province@9560.012016@Heilongjiang Province, Acheng County@
 Cao@Zhi@1947@1948@Director@7010.155@Acheng News Report@9560.012@Heilongjiang Province@9560.012016@Heilongjiang Province, Acheng County@
 Cao@Zhi@1947@@Joined@1010.101@CPC@
-Lam@(Lam@2017@ @Chief Executive@2050.201@Central People's Government@9560.014@Hong Kong SAR@
-Lam@(Lam@2016@@ (Won Great Bauhinia Medal) @
-Lam@(Lam@2012@2017@Chief Secretary for Administration@2050.201@Central People's Government@9560.014@Hong Kong SAR@
-Lam@(Lam@2007@2012@Director@2050.201@Central People's Government@2050.201011@Central People's Government-Development Bureau@9560.014@Hong Kong SAR@
-Lam@(Lam@2006@ @Executive Secretary-General@2050.201@Central People's Government@2050.201012@Central People's Government-Civil Affairs Bureau@9560.014@Hong Kong SAR@
-Lam@(Lam@2004@2006@Director@7210.101@Chinese Embassy@7210.101071@Chinese Embassy-Hong Kong Economic and Trade Office@9470.@United Kingdom@9470.113@United Kingdom, London@
-Lam@(Lam@2003@2004@Executive Secretary-General@2050.201@Central People's Government@2050.201013@Central People's Government-House and Planning, Land Resources Affairs Bureau@9560.014@Hong Kong SAR@
-Lam@(Lam@2000@2003@Director@2050.201@Central People's Government@2050.201014@Central People's Government-Social Welfare Department@9560.014@Hong Kong SAR@
-Lam@(Lam@1996@2000@Deputy Director@2050.201@Central People's Government@2050.201015@Central People's Government-Treasury Bureau@9560.014@Hong Kong SAR@
+Carrie@Lam@2017@ @Chief Executive@2050.201@Central People's Government@9560.014@Hong Kong SAR@
+Carrie@Lam@2016@@ (Won Great Bauhinia Medal) @
+Carrie@Lam@2012@2017@Chief Secretary for Administration@2050.201@Central People's Government@9560.014@Hong Kong SAR@
+Carrie@Lam@2007@2012@Director@2050.201@Central People's Government@2050.201011@Central People's Government-Development Bureau@9560.014@Hong Kong SAR@
+Carrie@Lam@2006@ @Executive Secretary-General@2050.201@Central People's Government@2050.201012@Central People's Government-Civil Affairs Bureau@9560.014@Hong Kong SAR@
+Carrie@Lam@2004@2006@Director@7210.101@Chinese Embassy@7210.101071@Chinese Embassy-Hong Kong Economic and Trade Office@9470.@United Kingdom@9470.113@United Kingdom, London@
+Carrie@Lam@2003@2004@Executive Secretary-General@2050.201@Central People's Government@2050.201013@Central People's Government-House and Planning, Land Resources Affairs Bureau@9560.014@Hong Kong SAR@
+Carrie@Lam@2000@2003@Director@2050.201@Central People's Government@2050.201014@Central People's Government-Social Welfare Department@9560.014@Hong Kong SAR@
+Carrie@Lam@1996@2000@Deputy Director@2050.201@Central People's Government@2050.201015@Central People's Government-Treasury Bureau@9560.014@Hong Kong SAR@
 Cen@Guorong@1977@1982@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Cen@Guorong@1973@1977@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Cen@Guorong@1969@1973@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
@@ -1789,29 +1789,29 @@ Chen@Ruiqing@1965@1983@Director@9560.017@Inner Mongolia Autonomous Region@9560.0
 Chen@Ruiqing@1965@1983@Deputy Director@9560.017@Inner Mongolia Autonomous Region@9560.017068@Inner Mongolia Autonomous Region, Alxa Right Banner@
 Chen@Ruiqing@1965@1983@Teacher@9560.017@Inner Mongolia Autonomous Region@9560.017068@Inner Mongolia Autonomous Region, Alxa Right Banner@
 Chen@Ruiqing@1960@1965@Student@6020.196@Central University for Nationalities@6020.196007@Central University for Nationalities-History Department@9560.002@Beijing Municipality@
-Runer@(Chen@2016@ @Governor@2050.101@People's Government@9560.013@Henan Province@
-Runer@(Chen@2016@ @Deputy Secretary@1010.101@CPC@1010.101005@CPC-Provincial Committee@9560.013@Henan Province@
-Runer@(Chen@2013@2016@Deputy Secretary@1010.101@CPC@1010.101005@CPC-Provincial Committee@9560.012@Heilongjiang Province@
-Runer@(Chen@2012@2017@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Runer@(Chen@2007@2012@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-Runer@(Chen@2006@2013@Secretary@1010.101@CPC@1010.101015@CPC-City Committee@9560.016@Hunan Province@9560.016001@Hunan Province, Changsha City@
-Runer@(Chen@2006@2013@Member@1010.101@CPC@1010.101005@CPC-Provincial Committee@1010.101005001@Provincial Committee-Standing Committee@9560.016@Hunan Province@
-Runer@(Chen@2003@2003@Mayor@2050.101@People's Government@9560.016@Hunan Province@9560.016006@Hunan Province, Xiangtan City@
-Runer@(Chen@2003@2006@Secretary@1010.101@CPC@1010.101015@CPC-City Committee@9560.016@Hunan Province@9560.016006@Hunan Province, Xiangtan City@
-Runer@(Chen@2000@2003@Deputy Secretary@1010.101@CPC@1010.101015@CPC-City Committee@9560.016@Hunan Province@9560.016006@Hunan Province, Xiangtan City@
-Runer@(Chen@1998@2000@Deputy Director@2410.137@Provincial Geology and Mining Department@9560.016@Hunan Province@
-Runer@(Chen@1998@2000@Deputy Secretary@2410.137@Provincial Geology and Mining Department@1010.101@CPC@1010.101025@CPC-Party Committee@9560.016@Hunan Province@
-Runer@(Chen@1997@1998@Deputy Commissioner@2050.101@People's Government@9560.016@Hunan Province@9560.016057@Hunan Province, Loudi Prefecture@
-Runer@(Chen@1997@1998@Deputy Secretary@1010.101@CPC@1010.101011@CPC-Prefectural Committee@9560.016@Hunan Province@9560.016057@Hunan Province, Loudi Prefecture@
-Runer@(Chen@1994@1997@Deputy Secretary@1010.101@CPC@1010.101011@CPC-Prefectural Committee@9560.016@Hunan Province@9560.016048@Hunan Province, Chenzhou Prefecture@
-Runer@(Chen@1994@1997@Member@1010.101@CPC@1010.101011@CPC-Prefectural Committee@1010.101011026@Prefectural Committee-Standing Committee@9560.016@Hunan Province@9560.016048@Hunan Province, Chenzhou Prefecture@
-Runer@(Chen@1992@1994@Secretary@1010.101@CPC@1010.101015@CPC-City Committee@9560.016@Hunan Province@9560.016076@Hunan Province, Chenzhou City@
-Runer@(Chen@1990@1992@Secretary@1010.101@CPC@1010.101019@CPC-County Committee@9560.016@Hunan Province@9560.016074@Hunan Province, Chaling County@
-Runer@(Chen@1987@1990@Magistrate@4020.103@County (District) People's Court@9560.016@Hunan Province@9560.016074@Hunan Province, Chaling County@
-Runer@(Chen@1985@1987@Deputy Secretary@1010.101@CPC@1010.101019@CPC-County Committee@9560.016@Hunan Province@9560.016074@Hunan Province, Chaling County@
-Runer@(Chen@1985@1987@Deputy Magistrate@4020.103@County (District) People's Court@9560.016@Hunan Province@9560.016074@Hunan Province, Chaling County@
-Runer@(Chen@1985@1990@Member@1010.101@CPC@1010.101019@CPC-County Committee@1010.101019001@County Committee-Standing Committee@9560.016@Hunan Province@9560.016074@Hunan Province, Chaling County@
-Runer@(Chen@1983@1985@Student@6150.105@Hunan Agricultural University@6150.105017@Hunan Agricultural University-Agricultural Cadre Training Class@9560.016@Hunan Province@9560.016001@Hunan Province, Changsha City@
+Chen@Runer@2016@ @Governor@2050.101@People's Government@9560.013@Henan Province@
+Chen@Runer@2016@ @Deputy Secretary@1010.101@CPC@1010.101005@CPC-Provincial Committee@9560.013@Henan Province@
+Chen@Runer@2013@2016@Deputy Secretary@1010.101@CPC@1010.101005@CPC-Provincial Committee@9560.012@Heilongjiang Province@
+Chen@Runer@2012@2017@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
+Chen@Runer@2007@2012@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
+Chen@Runer@2006@2013@Secretary@1010.101@CPC@1010.101015@CPC-City Committee@9560.016@Hunan Province@9560.016001@Hunan Province, Changsha City@
+Chen@Runer@2006@2013@Member@1010.101@CPC@1010.101005@CPC-Provincial Committee@1010.101005001@Provincial Committee-Standing Committee@9560.016@Hunan Province@
+Chen@Runer@2003@2003@Mayor@2050.101@People's Government@9560.016@Hunan Province@9560.016006@Hunan Province, Xiangtan City@
+Chen@Runer@2003@2006@Secretary@1010.101@CPC@1010.101015@CPC-City Committee@9560.016@Hunan Province@9560.016006@Hunan Province, Xiangtan City@
+Chen@Runer@2000@2003@Deputy Secretary@1010.101@CPC@1010.101015@CPC-City Committee@9560.016@Hunan Province@9560.016006@Hunan Province, Xiangtan City@
+Chen@Runer@1998@2000@Deputy Director@2410.137@Provincial Geology and Mining Department@9560.016@Hunan Province@
+Chen@Runer@1998@2000@Deputy Secretary@2410.137@Provincial Geology and Mining Department@1010.101@CPC@1010.101025@CPC-Party Committee@9560.016@Hunan Province@
+Chen@Runer@1997@1998@Deputy Commissioner@2050.101@People's Government@9560.016@Hunan Province@9560.016057@Hunan Province, Loudi Prefecture@
+Chen@Runer@1997@1998@Deputy Secretary@1010.101@CPC@1010.101011@CPC-Prefectural Committee@9560.016@Hunan Province@9560.016057@Hunan Province, Loudi Prefecture@
+Chen@Runer@1994@1997@Deputy Secretary@1010.101@CPC@1010.101011@CPC-Prefectural Committee@9560.016@Hunan Province@9560.016048@Hunan Province, Chenzhou Prefecture@
+Chen@Runer@1994@1997@Member@1010.101@CPC@1010.101011@CPC-Prefectural Committee@1010.101011026@Prefectural Committee-Standing Committee@9560.016@Hunan Province@9560.016048@Hunan Province, Chenzhou Prefecture@
+Chen@Runer@1992@1994@Secretary@1010.101@CPC@1010.101015@CPC-City Committee@9560.016@Hunan Province@9560.016076@Hunan Province, Chenzhou City@
+Chen@Runer@1990@1992@Secretary@1010.101@CPC@1010.101019@CPC-County Committee@9560.016@Hunan Province@9560.016074@Hunan Province, Chaling County@
+Chen@Runer@1987@1990@Magistrate@4020.103@County (District) People's Court@9560.016@Hunan Province@9560.016074@Hunan Province, Chaling County@
+Chen@Runer@1985@1987@Deputy Secretary@1010.101@CPC@1010.101019@CPC-County Committee@9560.016@Hunan Province@9560.016074@Hunan Province, Chaling County@
+Chen@Runer@1985@1987@Deputy Magistrate@4020.103@County (District) People's Court@9560.016@Hunan Province@9560.016074@Hunan Province, Chaling County@
+Chen@Runer@1985@1990@Member@1010.101@CPC@1010.101019@CPC-County Committee@1010.101019001@County Committee-Standing Committee@9560.016@Hunan Province@9560.016074@Hunan Province, Chaling County@
+Chen@Runer@1983@1985@Student@6150.105@Hunan Agricultural University@6150.105017@Hunan Agricultural University-Agricultural Cadre Training Class@9560.016@Hunan Province@9560.016001@Hunan Province, Changsha City@
 Chen@Rutuan@1993@ @Board Chairman@8010.308@Shenzhen Yuepeng Construction Limited Company@9560.006@Guangdong Province@9560.006002@Guangdong Province, Shenzhen City@
 Chen@Rutuan@1993@ @General Manager@8010.308@Shenzhen Yuepeng Construction Limited Company@9560.006@Guangdong Province@9560.006002@Guangdong Province, Shenzhen City@
 Chen@Rutuan@1979@1992@Secretary@6777.101@CYLC@6777.101201@CYLC-Provincial-Level@6777.101201013@Provincial-Level-Organization Department@9560.006@Guangdong Province@
@@ -3050,13 +3050,13 @@ Chu@Zhuang@ @@Teacher@9560.011@Hebei Province@9560.011001@Hebei Province, Shijia
 Chu@Zhuang@1947@@Graduate@6100.173@North China Associated University@6100.173021@North China Associated University-School of Politics@
 Chu@Zhuang@1946@ @Student@6020.101@Beijing University@9560.002@Beijing Municipality@
 Chu@Zhuang@ @@Director@7010.214@Democracy Magazine@
-Sai@On@2009@ @Chief Executive@2050.201@Central People's Government@9560.038@Macao SAR@
-Sai@On@1999@2009@Secretary@2050.201@Central People's Government@2050.201935@Central People's Government-Social Affairs and Culture Department@9560.038@Macao SAR@
-Sai@On@ @@Member@2050.201@Central People's Government@2050.201002@Central People's Government-Executive Council@9560.038@Macao SAR@
-Sai@On@ @@Member@3200.806@Macao SAR Preparatory Committee@
-Sai@On@ @@Member@2050.201@Central People's Government@2050.201052@Central People's Government-Legislative Council@9560.038@Macao SAR@
-Sai@On@ @@Graduate@6490.696@University of Oklahoma@9210.@United States of America@9210.672@United States of America, Oklahoma@9210.672001@Oklahoma, Norman@
-Sai@On@ @@Graduate@6490.578@California State University@9210.@USA@9210.201@USA, California@9210.201007@California, Sacramento@
+Chui@Sai@2009@ @Chief Executive@2050.201@Central People's Government@9560.038@Macao SAR@
+Chui@Sai@1999@2009@Secretary@2050.201@Central People's Government@2050.201935@Central People's Government-Social Affairs and Culture Department@9560.038@Macao SAR@
+Chui@Sai@ @@Member@2050.201@Central People's Government@2050.201002@Central People's Government-Executive Council@9560.038@Macao SAR@
+Chui@Sai@ @@Member@3200.806@Macao SAR Preparatory Committee@
+Chui@Sai@ @@Member@2050.201@Central People's Government@2050.201052@Central People's Government-Legislative Council@9560.038@Macao SAR@
+Chui@Sai@ @@Graduate@6490.696@University of Oklahoma@9210.@United States of America@9210.672@United States of America, Oklahoma@9210.672001@Oklahoma, Norman@
+Chui@Sai@ @@Graduate@6490.578@California State University@9210.@USA@9210.201@USA, California@9210.201007@California, Sacramento@
 Cong@Bin@2002@ @Chairman@1710.101@Jiusan Society@1710.101021@Jiusan Society-Provincial Committee@9560.011@Hebei Province@
 Cong@Bin@2000@2002@Vice-Chairman@1710.101@Jiusan Society@1710.101021@Jiusan Society-Provincial Committee@9560.011@Hebei Province@
 Cong@Bin@1989@1995@Adjunct Professor@6100.169@Hebei Medical University@9560.011@Hebei Province@9560.011001@Hebei Province, Shijiazhuang City@

@@ -416,32 +416,32 @@ Baoyindeliger@@1972@@Joined@1010.101@CPC@
 Baoyindeliger@@1971@1973@Clerk@9560.017@Inner Mongolia Autonomous Region@9560.017025@Inner Mongolia Autonomous Region, Urad Front Banner@
 Baoyindeliger@@1970@1971@Cultural Revolution@1020.101@Cultural Revolution@1020.101104@Cultural Revolution-Sent to do manual labor@9560.033@Tianjin Municipality@
 Baoyindeliger@@1965@1970@Student@6160.125@Inner Mongolia Agriculture and Animal Husbandry College@6160.125009@Inner Mongolia Agriculture and Animal Husbandry College-Machine and Water Conservancy Department@9560.017@Inner Mongolia Autonomous Region@
-@(Bagatur,@2012@2017@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-@(Bagatur,@2008@2009@Acting Chairman@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
-@(Bagatur,@2008@2009@Vice-Chairman@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
-@(Bagatur,@2007@2012@Member@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001039@Central Committee-Central Commission for Discipline Inspection@
-@(Bagatur,@2002@2007@Member@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001039@Central Committee-Central Commission for Discipline Inspection@
-@(Bagatur,@2001@ @Deputy Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.017@Inner Mongolia Autonomous Region@
-@(Bagatur,@1999@1999@Chairman@1610.902@Autonomous City People's Congress@9560.017@Inner Mongolia Autonomous Region@9560.017021@Inner Mongolia Autonomous Region, Wuhai City@
-@(Bagatur,@1999@ @Member@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007011@Autonomous Regional Committee-Standing Committee@9560.017@Inner Mongolia Autonomous Region@
-@(Bagatur,@1999@2001@Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007012@Autonomous Regional Committee-Commission for Discipline Inspection@9560.017@Inner Mongolia Autonomous Region@
-@(Bagatur,@1997@2002@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-@(Bagatur,@1997@2002@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
-@(Bagatur,@1994@1998@Mayor@2050.101@People's Government@9560.017@Inner Mongolia Autonomous Region@9560.017021@Inner Mongolia Autonomous Region, Wuhai City@
-@(Bagatur,@1994@1999@Secretary@1010.101@CPC@1010.101016@CPC-Autonomous City Committee@9560.017@Inner Mongolia Autonomous Region@9560.017021@Inner Mongolia Autonomous Region, Wuhai City@
-@(Bagatur,@1992@1994@Deputy Secretary@1010.101@CPC@1010.101016@CPC-Autonomous City Committee@9560.017@Inner Mongolia Autonomous Region@9560.017021@Inner Mongolia Autonomous Region, Wuhai City@
-@(Bagatur,@1991@1992@Director Assistant@2050.101@People's Government@9560.002@Beijing@9560.002015@Beijing, Chaoyang District@
-@(Bagatur,@1989@1990@Student@6490.117@Tokyo Training Center of Japan@9410.@Japan@9410.101@Japan, Tokyo@
-@(Bagatur,@1988@1989@Student@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001031@Central Committee-Central Party School@
-@(Bagatur,@1986@1992@Secretary@6777.101@CYLC@6777.101611@CYLC-Autonomous Regional-Level@9560.017@Inner Mongolia Autonomous Region@
-@(Bagatur,@1984@1986@Deputy Secretary@6777.101@CYLC@6777.101611@CYLC-Autonomous Regional-Level@9560.017@Inner Mongolia Autonomous Region@
-@(Bagatur,@1983@1984@Chairman@6777.101@CYLC@6777.101629@CYLC-Autonomous League-Level@9560.017@Inner Mongolia Autonomous Region@9560.017009@Inner Mongolia Autonomous Region, Hulun Buir League@
-@(Bagatur,@1982@1983@Student@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007009@Autonomous Regional Committee-Party School@9560.017@Inner Mongolia Autonomous Region@
-@(Bagatur,@1981@@Joined@1010.101@CPC@
-@(Bagatur,@1980@1983@Clerk@1010.101@CPC@1010.101061@CPC-League Committee@1010.101061005@League Committee-Organization Department@9560.017@Inner Mongolia Autonomous Region@9560.017009@Inner Mongolia Autonomous Region, Hulun Buir League@
-@(Bagatur,@1980@1983@Teacher@1010.101@CPC@1010.101061@CPC-League Committee@1010.101061006@League Committee-Party School@9560.017@Inner Mongolia Autonomous Region@9560.017009@Inner Mongolia Autonomous Region, Hulun Buir League@
-@(Bagatur,@1978@1980@Student@6160.126@Hailar Mongolian Teachers' School@6160.126009@Hailar Mongolian Teachers' School-Mongolian Language Department@9560.017@Inner Mongolia Autonomous Region@
-@(Bagatur,@1973@1978@Worker@9560.017@Inner Mongolia Autonomous Region@9560.017009@Inner Mongolia Autonomous Region, Hulun Buir League@9560.017009001@Hulun Buir League, Ewenke Banner@
+Bater@@2012@2017@Member@1010.101@CPC@1010.101001@CPC-Central Committee@
+Bater@@2008@2009@Acting Chairman@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
+Bater@@2008@2009@Vice-Chairman@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
+Bater@@2007@2012@Member@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001039@Central Committee-Central Commission for Discipline Inspection@
+Bater@@2002@2007@Member@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001039@Central Committee-Central Commission for Discipline Inspection@
+Bater@@2001@ @Deputy Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@9560.017@Inner Mongolia Autonomous Region@
+Bater@@1999@1999@Chairman@1610.902@Autonomous City People's Congress@9560.017@Inner Mongolia Autonomous Region@9560.017021@Inner Mongolia Autonomous Region, Wuhai City@
+Bater@@1999@ @Member@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007011@Autonomous Regional Committee-Standing Committee@9560.017@Inner Mongolia Autonomous Region@
+Bater@@1999@2001@Secretary@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007012@Autonomous Regional Committee-Commission for Discipline Inspection@9560.017@Inner Mongolia Autonomous Region@
+Bater@@1997@2002@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
+Bater@@1997@2002@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
+Bater@@1994@1998@Mayor@2050.101@People's Government@9560.017@Inner Mongolia Autonomous Region@9560.017021@Inner Mongolia Autonomous Region, Wuhai City@
+Bater@@1994@1999@Secretary@1010.101@CPC@1010.101016@CPC-Autonomous City Committee@9560.017@Inner Mongolia Autonomous Region@9560.017021@Inner Mongolia Autonomous Region, Wuhai City@
+Bater@@1992@1994@Deputy Secretary@1010.101@CPC@1010.101016@CPC-Autonomous City Committee@9560.017@Inner Mongolia Autonomous Region@9560.017021@Inner Mongolia Autonomous Region, Wuhai City@
+Bater@@1991@1992@Director Assistant@2050.101@People's Government@9560.002@Beijing@9560.002015@Beijing, Chaoyang District@
+Bater@@1989@1990@Student@6490.117@Tokyo Training Center of Japan@9410.@Japan@9410.101@Japan, Tokyo@
+Bater@@1988@1989@Student@1010.101@CPC@1010.101001@CPC-Central Committee@1010.101001031@Central Committee-Central Party School@
+Bater@@1986@1992@Secretary@6777.101@CYLC@6777.101611@CYLC-Autonomous Regional-Level@9560.017@Inner Mongolia Autonomous Region@
+Bater@@1984@1986@Deputy Secretary@6777.101@CYLC@6777.101611@CYLC-Autonomous Regional-Level@9560.017@Inner Mongolia Autonomous Region@
+Bater@@1983@1984@Chairman@6777.101@CYLC@6777.101629@CYLC-Autonomous League-Level@9560.017@Inner Mongolia Autonomous Region@9560.017009@Inner Mongolia Autonomous Region, Hulun Buir League@
+Bater@@1982@1983@Student@1010.101@CPC@1010.101007@CPC-Autonomous Regional Committee@1010.101007009@Autonomous Regional Committee-Party School@9560.017@Inner Mongolia Autonomous Region@
+Bater@@1981@@Joined@1010.101@CPC@
+Bater@@1980@1983@Clerk@1010.101@CPC@1010.101061@CPC-League Committee@1010.101061005@League Committee-Organization Department@9560.017@Inner Mongolia Autonomous Region@9560.017009@Inner Mongolia Autonomous Region, Hulun Buir League@
+Bater@@1980@1983@Teacher@1010.101@CPC@1010.101061@CPC-League Committee@1010.101061006@League Committee-Party School@9560.017@Inner Mongolia Autonomous Region@9560.017009@Inner Mongolia Autonomous Region, Hulun Buir League@
+Bater@@1978@1980@Student@6160.126@Hailar Mongolian Teachers' School@6160.126009@Hailar Mongolian Teachers' School-Mongolian Language Department@9560.017@Inner Mongolia Autonomous Region@
+Bater@@1973@1978@Worker@9560.017@Inner Mongolia Autonomous Region@9560.017009@Inner Mongolia Autonomous Region, Hulun Buir League@9560.017009001@Hulun Buir League, Ewenke Banner@
 Batubagen@@1987@1992@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Batubagen@@1982@1987@Alternate Member@1010.101@CPC@1010.101001@CPC-Central Committee@
 Bayanqolu@@2014@ @Director@1610.401@Provincial People's Congress@9560.022@Jilin Province@
@@ -601,17 +601,17 @@ Buhe@@1946@1954@Secretary@2410.801@Inner Mongolia Cultural Troupe@1010.101@CPC@1
 Buhe@@1942@@Joined@1010.101@CPC@
 Buhe@@1939@1946@Student@6230.131@Yan'an Nationalities College@9560.027@Shaanxi Province@9560.027006@Shaanxi Province, Yan'an City@
 Buhe@@1939@1946@Student@6230.129@Northern Shaanxi College@9560.027@Shaanxi Province@9560.027006@Shaanxi Province, Yan'an City@
-@(Bu@2016@ @Chairman@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
-@(Bu@2008@2016@Vice-Chairman@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
-@(Bu@2007@ @Delegate@1010.101@CPC@1010.101003@CPC-National Congress@
-@(Bu@2006@2008@Secretary@1010.101@CPC@1010.101061@CPC-League Committee@9560.017@Inner Mongolia Autonomous Region@9560.017069@Inner Mongolia Autonomous Region, Alxa League@
-@(Bu@2006@2007@Director@1610.901@Autonomous Regional People's Congress@1610.901009@Autonomous Regional People's Congress-Work Committee@9560.017@Inner Mongolia Autonomous Region@9560.017069@Inner Mongolia Autonomous Region, Alxa League@
-@(Bu@2004@2006@Deputy Secretary@1010.101@CPC@1010.101061@CPC-League Committee@9560.017@Inner Mongolia Autonomous Region@9560.017069@Inner Mongolia Autonomous Region, Alxa League@
-@(Bu@2004@2006@Administrative Chief@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@9560.017069@Inner Mongolia Autonomous Region, Alxa League@
-@(Bu@2003@2004@Deputy Secretary-General@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
-@(Bu@2003@2004@Director@2050.106@Autonomous Region People's Government@2050.106024@Autonomous Region People's Government-Research Office@9560.017@Inner Mongolia Autonomous Region@
-@(Bu@2003@2008@Deputy@1610.001@NPC@
-@(Bu@2000@2003@Director@2050.106@Autonomous Region People's Government@2050.106025@Autonomous Region People's Government-Legal Affairs Office@9560.017@Inner Mongolia Autonomous Region@
-@(Bu@2000@2003@Secretary@2050.106@Autonomous Region People's Government@2050.106025@Autonomous Region People's Government-Legal Affairs Office@1010.101@CPC@1010.101031@CPC-Leading Party Group@9560.017@Inner Mongolia Autonomous Region@
-@(Bu@1984@1985@Teacher@6160.101@Inner Mongolia University@6160.101006@Inner Mongolia University-Law Department@9560.017@Inner Mongolia Autonomous Region@9560.017004@Inner Mongolia Autonomous Region, Hohhot City@
-@(Bu@1980@1984@Student@6020.101@Beijing University@9560.002@Beijing Municipality@
+Buxiaolin@@2016@ @Chairman@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
+Buxiaolin@@2008@2016@Vice-Chairman@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
+Buxiaolin@@2007@ @Delegate@1010.101@CPC@1010.101003@CPC-National Congress@
+Buxiaolin@@2006@2008@Secretary@1010.101@CPC@1010.101061@CPC-League Committee@9560.017@Inner Mongolia Autonomous Region@9560.017069@Inner Mongolia Autonomous Region, Alxa League@
+Buxiaolin@@2006@2007@Director@1610.901@Autonomous Regional People's Congress@1610.901009@Autonomous Regional People's Congress-Work Committee@9560.017@Inner Mongolia Autonomous Region@9560.017069@Inner Mongolia Autonomous Region, Alxa League@
+Buxiaolin@@2004@2006@Deputy Secretary@1010.101@CPC@1010.101061@CPC-League Committee@9560.017@Inner Mongolia Autonomous Region@9560.017069@Inner Mongolia Autonomous Region, Alxa League@
+Buxiaolin@@2004@2006@Administrative Chief@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@9560.017069@Inner Mongolia Autonomous Region, Alxa League@
+Buxiaolin@@2003@2004@Deputy Secretary-General@2050.106@Autonomous Region People's Government@9560.017@Inner Mongolia Autonomous Region@
+Buxiaolin@@2003@2004@Director@2050.106@Autonomous Region People's Government@2050.106024@Autonomous Region People's Government-Research Office@9560.017@Inner Mongolia Autonomous Region@
+Buxiaolin@@2003@2008@Deputy@1610.001@NPC@
+Buxiaolin@@2000@2003@Director@2050.106@Autonomous Region People's Government@2050.106025@Autonomous Region People's Government-Legal Affairs Office@9560.017@Inner Mongolia Autonomous Region@
+Buxiaolin@@2000@2003@Secretary@2050.106@Autonomous Region People's Government@2050.106025@Autonomous Region People's Government-Legal Affairs Office@1010.101@CPC@1010.101031@CPC-Leading Party Group@9560.017@Inner Mongolia Autonomous Region@
+Buxiaolin@@1984@1985@Teacher@6160.101@Inner Mongolia University@6160.101006@Inner Mongolia University-Law Department@9560.017@Inner Mongolia Autonomous Region@9560.017004@Inner Mongolia Autonomous Region, Hohhot City@
+Buxiaolin@@1980@1984@Student@6020.101@Beijing University@9560.002@Beijing Municipality@

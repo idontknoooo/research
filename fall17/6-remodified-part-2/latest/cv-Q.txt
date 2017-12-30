@@ -11,13 +11,13 @@ Qi@Faren@1968@1983@Deputy Chief@3100.131@Ministry of National Defense@3100.13105
 Qi@Faren@1957@1968@Worker@3100.131@Ministry of National Defense@3100.131051@Ministry of National Defense-No. 5 Research Academy@
 Qi@Faren@1957@@Graduate@6020.235@Beijing Aviation Institute@6020.235009@Beijing Aviation Institute-Radio Department@9560.002@Beijing Municipality@
 Qi@Faren@1956@@Joined@1010.101@CPC@
-Gong@(Aisin@1998@2003@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
-Gong@(Aisin@1993@1998@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
-Gong@(Aisin@1989@2005@Vice-Chairman@1710.101@Jiusan Society@1710.101001@Jiusan Society-Central Committee@
-Gong@(Aisin@1988@1993@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
-Gong@(Aisin@1983@1988@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
-Gong@(Aisin@1978@1983@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
-Gong@(Aisin@1956@@Joined@1710.101@Jiusan Society@
+Qi@Gong@1998@2003@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
+Qi@Gong@1993@1998@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
+Qi@Gong@1989@2005@Vice-Chairman@1710.101@Jiusan Society@1710.101001@Jiusan Society-Central Committee@
+Qi@Gong@1988@1993@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
+Qi@Gong@1983@1988@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
+Qi@Gong@1978@1983@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@
+Qi@Gong@1956@@Joined@1710.101@Jiusan Society@
 Qi@Huaiyuan@1998@2003@Member@1810.101@CPPCC@1810.101019@CPPCC-Subcommittee of Foreign Affairs@
 Qi@Huaiyuan@1998@2003@Member@1810.101@CPPCC@1810.101001@CPPCC-National Committee@1810.101001002@National Committee-Standing Committee@
 Qi@Huaiyuan@1997@2002@Delegate@1010.101@CPC@1010.101003@CPC-National Congress@

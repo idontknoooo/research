@@ -39,9 +39,13 @@ def extract(i, career_href, letter):
     # name is the last tr content
     cur_name = all_tr[num_tr-1].get_text() # name without url
     cur_name = cur_name.replace('\n','')
+    cur_name_tf = (False if cur_name.find('(') < 0 else True) # Some people have name like "Zhang Changer (Zhang Chang'er)"
     cur_name_list = cur_name.split(' ')
     if len(cur_name_list) > 2:
-        cur_name = cur_name_list[1] + delimiter + cur_name_list[2]
+        if cur_name_tf:
+            cur_name = cur_name_list[0] + delimiter + cur_name_list[1]
+        else:
+            cur_name = cur_name_list[1] + delimiter + cur_name_list[2]
     else:
         cur_name = cur_name_list[0] + delimiter + cur_name_list[1]
     index = 0
